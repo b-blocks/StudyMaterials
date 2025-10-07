@@ -3,10 +3,6 @@
 ## How To Make $30K/month With Cooking
 **URL:** https://www.youtube.com/watch?v=hCvy-Rt7Naw
 
-### Summary
-
-다음은 제공된 텍스트를 읽기 쉽게 정리한 내용입니다.
-
 ### 스타트업 창업가가 사용하는 필수 도구와 습관
 
 #### 1. 룸 (Loom)
@@ -53,10 +49,6 @@
 ## He Built A $600,000 One Person Business (with video editing)
 **URL:** https://www.youtube.com/watch?v=BskeAo66er0
 
-### Summary
-
-다음은 인터넷에서 가장 높은 연봉을 받는 솔로프레너(solopreneur)인 브렛 윌리엄스(Brett Williams)의 성공 비결 5단계 요약입니다. 그는 직원이나 계약자 없이 하루 6시간만 일하며 연간 200만 달러 이상을 벌고 있습니다.
-
 ### 브렛 윌리엄스의 180만 달러 솔로프레너 성공 전략 5단계
 
 1.  **수요 기반 가격 책정 (Demand-Based Pricing)**
@@ -87,10 +79,6 @@
 
 ## He Makes $125,000/year As A Niche YouTuber
 **URL:** https://www.youtube.com/watch?v=DZTApvWzMuY
-
-### Summary
-
-다음은 영상의 주요 내용을 요약 및 정리한 것입니다.
 
 **OV niche: 15개월 만에 월 매출 25,000달러 비즈니스를 구축한 창업가**
 
@@ -154,10 +142,6 @@
 ## He Turned $500 Into $10M
 **URL:** https://www.youtube.com/watch?v=CnE_fLDqa7M
 
-### Summary
-
-다음은 제공된 텍스트를 읽기 쉽게 정리한 내용입니다.
-
 ### **기욤 무베슈: 1,000달러에서 1억 5천만 달러 기업 가치까지**
 
 이 이야기는 가진 돈이 거의 없던 기욤 무베슈(Guillaume Moubeche)가 온라인에서 수백만 달러를 버는 기업가가 되기까지의 여정을 다룹니다. 약 10년간의 경험을 통해 그는 수많은 실패와 역경을 딛고 일어섰습니다.
@@ -200,10 +184,6 @@
 
 ## Zero to $1.1B from Flipping Websites
 **URL:** https://www.youtube.com/watch?v=Km0FNcBI9CM
-
-### Summary
-
-다음은 공유해주신 내용을 읽기 좋게 정리한 것입니다.
 
 ### **폴의 이야기: '정해진 길'을 벗어나 '나만의 길'을 찾다**
 
@@ -266,10 +246,6 @@
 
 ## The Solopreneur: He Makes $1.7M With 0 Employees
 **URL:** https://www.youtube.com/watch?v=v6IF-lVuvbs
-
-### Summary
-
-다음은 전달해주신 내용을 읽기 좋게 정리한 것입니다.
 
 ### **마이크로 SASS(Micro SASS)로 월 1만 달러 수익을 내는 전략**
 
@@ -345,10 +321,6 @@ Abhishek은 완전히 새로운 아이디어를 내는 대신, 이미 검증된 
 ## I Make $1.3M/Year With One Skill
 **URL:** https://www.youtube.com/watch?v=dXKzST0FE-A
 
-### Summary
-
-다음은 공유해주신 영상 스크립트를 읽기 쉽게 정리한 내용입니다.
-
 ### 6년 만에 스타벅스에서 100만 달러 비즈니스를 일군 이야기
 
 **주요 인물:** 팻 월스 (Pat Walls)
@@ -412,10 +384,6 @@ Abhishek은 완전히 새로운 아이디어를 내는 대신, 이미 검증된 
 ## I Make $11M/Year Selling One Product
 **URL:** https://www.youtube.com/watch?v=5C3YCTL-36c
 
-### Summary
-
-다음은 David Park의 창업 여정에 대한 요약입니다.
-
 ### David Park의 이야기: 절망에서 2,500만 달러의 AI 앱을 만들기까지
 
 **David Park**은 10년간의 실패 끝에 2년 만에 2,500만 달러 가치의 AI 앱 **Jenni**를 만든 창업가입니다. 그의 이야기는 끈기와 믿음, 그리고 위기 속에서 찾은 기회에 대한 것입니다.
@@ -457,10 +425,6 @@ Abhishek은 완전히 새로운 아이디어를 내는 대신, 이미 검증된 
 
 ## How To Build A $100M Podcast Empire
 **URL:** https://www.youtube.com/watch?v=Fk2J2U7669o
-
-### Summary
-
-다음은 공유해주신 내용을 읽기 쉽게 정리한 것입니다.
 
 ### **인생의 전환점: "그냥 한번 해보면 어떨까?"**
 
@@ -528,10 +492,6 @@ Abhishek은 완전히 새로운 아이디어를 내는 대신, 이미 검증된 
 
 ## I Make $845,601 Writing This Online...
 **URL:** https://www.youtube.com/watch?v=5MaPEK-yVVY
-
-### Summary
-
-다음은 제공된 텍스트를 읽기 쉽게 정리한 내용입니다.
 
 ### **핵심: 챗GPT로 코딩을 배워 1,000만 달러 이상을 번 개발자 이야기**
 
@@ -607,10 +567,6 @@ Abhishek은 완전히 새로운 아이디어를 내는 대신, 이미 검증된 
 ## I Made $2.3M Writing Like a 5th Grader
 **URL:** https://www.youtube.com/watch?v=9pP4qSrt5GU
 
-### Summary
-
-다음은 Andy Cloak의 인터뷰 내용을 정리한 것입니다.
-
 ### **Andy Cloak와 Data Fetcher**
 
 *   **창업가:** Andy Cloak (런던 거주 솔로 창업가)
@@ -681,10 +637,6 @@ Abhishek은 완전히 새로운 아이디어를 내는 대신, 이미 검증된 
 ## Meet The Kid Who Made $1M with ChatGPT
 **URL:** https://www.youtube.com/watch?v=irEi7DVBHdA
 
-### Summary
-
-다음은 공유해주신 내용을 정리한 것입니다.
-
 ### **Ben의 사이드 프로젝트 성공기: Tech Lockdown**
 
 **요약**
@@ -743,10 +695,6 @@ Abhishek은 완전히 새로운 아이디어를 내는 대신, 이미 검증된 
 
 ## He's Launching A New $1M Business Every Month
 **URL:** https://www.youtube.com/watch?v=wqN-gjnpns8
-
-### Summary
-
-다음은 제공된 텍스트를 읽기 쉽게 정리한 내용입니다.
 
 ### **소개: 스크린샷 자동화로 월 12,000달러를 버는 남자**
 
@@ -816,10 +764,6 @@ Abhishek은 완전히 새로운 아이디어를 내는 대신, 이미 검증된 
 ## The Underdog: He Turned His Last $4,000 Into $48M
 **URL:** https://www.youtube.com/watch?v=IuoscQiQQLg
 
-### Summary
-
-다음은 인터뷰 내용을 읽기 쉽게 정리한 것입니다.
-
 ### 요약
 
 물리학자였던 니코(Nico)는 AI의 가능성을 보고 자신의 경력을 포기한 후, AI 뮤직 비디오 제작 플랫폼인 **뉴럴프레임(Neuralframes)**을 창업했습니다. 창업 1년 만에 5명으로 구성된 팀을 이끌며 월 10만 달러의 수익을 달성했습니다. 이 이야기는 평범한 개인이 어떻게 기회를 포착하고 성공적인 AI 비즈니스를 구축했는지 보여줍니다.
@@ -877,10 +821,6 @@ Abhishek은 완전히 새로운 아이디어를 내는 대신, 이미 검증된 
 
 ## He Built A $2.5M/Year Business In 2 Years
 **URL:** https://www.youtube.com/watch?v=i6kCkGmJc9M
-
-### Summary
-
-다음은 페르난도와의 인터뷰 내용을 정리한 것입니다. 그는 두 개의 SaaS(서비스형 소프트웨어) 제품을 성공적으로 만들어 월 15,000달러의 수익을 올리고 있는 1인 기업가입니다.
 
 ### 페르난도의 여정
 
@@ -946,10 +886,6 @@ Abhishek은 완전히 새로운 아이디어를 내는 대신, 이미 검증된 
 ## They Built A $2M Business To Fund Their Dreams
 **URL:** https://www.youtube.com/watch?v=e6COsh5wfNA
 
-### Summary
-
-다음은 제공된 내용을 읽기 쉽게 정리한 것입니다.
-
 ### **단돈 1,000달러로 800억 투자 펀드를 만든 남자의 비밀**
 
 알렉스 파티스(Alex Pattis)는 본업을 유지하면서 '사이드 허슬'로 270개 이상의 스타트업에 총 6,000만 달러(약 800억 원)를 투자했습니다. 그의 비결은 바로 '신디케이트(Syndicate)'라는 투자 방식입니다.
@@ -1011,10 +947,6 @@ Abhishek은 완전히 새로운 아이디어를 내는 대신, 이미 검증된 
 ## The Multipreneur: He’s Building A $10M Portfolio of Income Streams
 **URL:** https://www.youtube.com/watch?v=nzVcbrLl9VU
 
-### Summary
-
-다음은 전달해주신 내용을 읽기 좋게 정리한 것입니다.
-
 ### **백만 달러 가치의 AI 앱을 만든 '노코드' 개발자, 데이비드 이야기**
 
 데이비드는 코딩 경험 없이 'For Real Bot'이라는 AI 앱을 만들어 백만 달러 이상의 가치를 창출했습니다. 그는 풀타임 직장과 가정을 돌보면서 하루 몇 시간만 투자하여 이 모든 것을 이뤄냈습니다.
@@ -1047,10 +979,6 @@ Abhishek은 완전히 새로운 아이디어를 내는 대신, 이미 검증된 
 
 ## I Became A Venture Capitalist With Only $1,000
 **URL:** https://www.youtube.com/watch?v=p3xa6mpxvOY
-
-### Summary
-
-다음은 영상의 주요 내용을 요약 및 정리한 내용입니다.
 
 ### 줄리안의 성공 스토리 요약
 
@@ -1096,10 +1024,6 @@ Abhishek은 완전히 새로운 아이디어를 내는 대신, 이미 검증된 
 ## I Quit My $250K Job To Become an Author
 **URL:** https://www.youtube.com/watch?v=lWwZ-fsD8gM
 
-### Summary
-
-알렉스 리버먼: 기숙사에서 백만 달러 비즈니스를 시작한 남자
-
 ### 요약
 알렉스 리버먼은 대학교 기숙사에서 뉴스레터로 시작해 수백만 달러에 매각한 인물입니다. 그는 현재 여러 개의 소규모 비즈니스를 시작하고 각 비즈니스를 운영할 CEO를 고용하는 '멀티프레너'가 되는 것을 목표로 하고 있습니다. 그의 첫 번째 성공적인 프로젝트는 연간 100만 달러의 수익을 내는 고스트라이팅 에이전시 '스토리 아르브(Story Arb)'입니다.
 
@@ -1141,10 +1065,6 @@ Abhishek은 완전히 새로운 아이디어를 내는 대신, 이미 검증된 
 
 ## How I Built A $1M Business From This Starbucks
 **URL:** https://www.youtube.com/watch?v=T_wEmB5MapE
-
-### Summary
-
-다음은 Samuel의 앱 개발 및 비즈니스 성장 전략에 대한 요약입니다.
 
 ### **Samuel Rondo: Optician에서 월 35,000달러 수익의 앱 개발자로**
 
@@ -1204,10 +1124,6 @@ Samuel은 코딩 경험이 전혀 없는 안경사였지만, 유튜브를 통해
 
 ## The $1.8M Solopreneur Playbook
 **URL:** https://www.youtube.com/watch?v=vedkm3ZmHIE
-
-### Summary
-
-다음은 제공된 텍스트를 읽기 쉽게 정리한 내용입니다.
 
 ### **찰리, 6개 유튜브 채널로 월 2억 버는 내성적인 유튜버**
 
@@ -1285,10 +1201,6 @@ Samuel은 코딩 경험이 전혀 없는 안경사였지만, 유튜브를 통해
 ## The Underdog: From His Parent’s Basement to $25M
 **URL:** https://www.youtube.com/watch?v=Gv2fzC96Z40
 
-### Summary
-
-다음은 Papermark 공동 창업자인 Ule와 Mark의 인터뷰 요약입니다.
-
 ### Papermark: 오픈소스 프로젝트에서 1년 반 만에 월간 반복 매출(MRR) 7만 5천 달러 달성
 
 **창업자:** Ule와 Mark (부부)
@@ -1345,10 +1257,6 @@ Samuel은 코딩 경험이 전혀 없는 안경사였지만, 유튜브를 통해
 ## I Built a $1M AI App [No Code]
 **URL:** https://www.youtube.com/watch?v=IZsQqarWXtY
 
-### Summary
-
-다음은 제공된 텍스트를 읽기 쉽게 정리한 내용입니다.
-
 ### 핵심: 주목을 돈으로 바꾸는 방법
 
 이 이야기는 '주목'(관심)을 어떻게 백만 달러짜리 비즈니스로 바꿨는지에 대한 것입니다. 온라인에서 수백만 명의 주목을 끄는 것은 가능하지만, 그 주목을 돈으로 바꾸려면 올바른 방법을 알아야 합니다.
@@ -1385,10 +1293,6 @@ Samuel은 코딩 경험이 전혀 없는 안경사였지만, 유튜브를 통해
 
 ## I Make $2.4M/Year With 6 YouTube Channels
 **URL:** https://www.youtube.com/watch?v=G5cbMnFXcj0
-
-### Summary
-
-Of course. Here is a summary of the provided text:
 
 ### The Story of Ryan Chen: From Paralysis to a $100 Million Company
 
@@ -1435,10 +1339,6 @@ Ryan's story is a powerful reminder that entrepreneurship is accessible to anyon
 ## The Underdog: From Dead Broke to $30,000,000
 **URL:** https://www.youtube.com/watch?v=GGxUH6EXF9I
 
-### Summary
-
-다음은 제공된 텍스트를 읽기 쉽게 정리한 내용입니다.
-
 ### 에픽 가드닝 창업자, 케빈 에스피리투 이야기
 
 **케빈 에스피리투(Kavin Espiritu)**는 세계에서 가장 많은 팔로워를 보유한 원예 브랜드인 **에픽 가드닝(Epic Gardening)**의 창업자입니다. 그는 연간 730만 달러의 매출을 올리는 사업을 부트스트랩으로 시작했으며, 현재는 수천만 달러의 수익을 창출하고 있습니다.
@@ -1478,10 +1378,6 @@ Ryan's story is a powerful reminder that entrepreneurship is accessible to anyon
 
 ## I Made $30M With My Side Project
 **URL:** https://www.youtube.com/watch?v=uBGbvKScavk
-
-### Summary
-
-다음은 제공된 내용을 읽기 쉽게 정리한 것입니다.
 
 ### **평범한 식당 종업원에서 1억 달러 규모의 실리콘 반지 사업가로, 케이시 홀리데이 이야기**
 
@@ -1552,10 +1448,6 @@ Ryan's story is a powerful reminder that entrepreneurship is accessible to anyon
 ## I Built This $5M/Year Business From A Van
 **URL:** https://www.youtube.com/watch?v=6iqo7lNR_m0
 
-### Summary
-
-다음은 인터뷰 내용을 정리한 것입니다.
-
 ### **Anna와 Rooted 앱 이야기**
 
 **소개**
@@ -1618,10 +1510,6 @@ Ryan's story is a powerful reminder that entrepreneurship is accessible to anyon
 ## I Make $1M/Year With One Website
 **URL:** https://www.youtube.com/watch?v=7LZ0MTkNr34
 
-### Summary
-
-다음은 제공된 텍스트를 읽기 쉽게 정리한 내용입니다.
-
 ### Adam Lidel 이야기: 20만 달러 빚에서 월 5만 달러 수익을 내는 앱 개발자가 되기까지
 
 #### 모든 것을 잃다
@@ -1655,10 +1543,6 @@ Adam은 자신의 경험을 통해 다음과 같은 교훈을 얻었다고 말�
 
 ## I Built A $1M App In 5 Hours
 **URL:** https://www.youtube.com/watch?v=u8sW-NhGfXw
-
-### Summary
-
-다음은 해당 내용을 읽기 좋게 정리한 것입니다.
 
 ### **AI 앱으로 3개월 만에 1억 원 수익을 올린 방법**
 
@@ -1728,10 +1612,6 @@ Adam은 자신의 경험을 통해 다음과 같은 교훈을 얻었다고 말�
 ## I Made $2.5M Selling A Digital Product
 **URL:** https://www.youtube.com/watch?v=OKl0C3zg0LU
 
-### Summary
-
-다음은 영상의 주요 내용을 요약 및 정리한 것입니다.
-
 ### **핵심 요약: 0달러에서 400만 달러 ARR 달성 비결**
 
 SaaS 툴 **Alia**의 공동창업자이자 CEO인 션(Sean)은 **단 한 권의 책을 읽고 비즈니스 포지셔닝을 변경**하여, 매출 0달러에서 1년 만에 400만 달러의 연간 반복 수익(ARR)을 달성했습니다.
@@ -1791,10 +1671,6 @@ SaaS 툴 **Alia**의 공동창업자이자 CEO인 션(Sean)은 **단 한 권의 
 ## I Make $5M/Year With 3 Businesses
 **URL:** https://www.youtube.com/watch?v=zTKYJWAEl78
 
-### Summary
-
-다음은 공유해주신 인터뷰 내용의 핵심을 정리한 것입니다.
-
 ### **주제: AI 이력서 빌더 사이드 프로젝트, 두 달 만에 월 매출 2만 달러 달성**
 
 Pat Walls가 운영하는 'Starter Story' 채널이 `sheetsres.com`의 창업자 Colin Macintosh를 인터뷰한 내용입니다. 이 AI 이력서 빌더는 사이드 프로젝트로 시작하여 두 번째 달에 월 매출 2만 달러(약 2,600만 원)를 기록했으며, 순이익률은 90%에 달합니다.
@@ -1842,16 +1718,8 @@ Pat Walls가 운영하는 'Starter Story' 채널이 `sheetsres.com`의 창업자
 ## I Turned One Website Into $1M/Year
 **URL:** https://www.youtube.com/watch?v=7pCgbhUWW54
 
-### Summary
-
-
-
 ## I Make $1M/Month From Bed
 **URL:** https://www.youtube.com/watch?v=dphK9rh2F5U
-
-### Summary
-
-다음은 공유주신 내용을 정리한 것입니다.
 
 ### **핵심 인물: 제레미 (온라인 별명: Van Man)**
 
@@ -1892,10 +1760,6 @@ Pat Walls가 운영하는 'Starter Story' 채널이 `sheetsres.com`의 창업자
 
 ## I Hacked Reddit To Build A $1M Business
 **URL:** https://www.youtube.com/watch?v=ptT0tfzeu8I
-
-### Summary
-
-다음은 전달해주신 내용을 읽기 쉽게 정리한 것입니다.
 
 ### **크리스의 월 3만 달러 푸드 비즈니스**
 
@@ -1939,10 +1803,6 @@ Pat Walls가 운영하는 'Starter Story' 채널이 `sheetsres.com`의 창업자
 
 ## The Multipreneur: He Makes $10M/Year With 6 Businesses
 **URL:** https://www.youtube.com/watch?v=akM6P97_0B8
-
-### Summary
-
-다음은 영상의 주요 내용을 요약 및 정리한 것입니다.
 
 ### **30번 실패하고 월 1만 달러 버는 창업가, Thomas 이야기**
 
@@ -2010,10 +1870,6 @@ Thomas는 자신의 수많은 실패 경험을 바탕으로 프로젝트가 실�
 ## I Make $1M/Year As An Introvert
 **URL:** https://www.youtube.com/watch?v=trNGj1BN1GU
 
-### Summary
-
-다음은 제공된 텍스트를 읽기 쉽게 정리한 내용입니다.
-
 ### 알렉스의 성공 스토리: 제휴 마케팅으로 연간 100만 달러 수익 창출
 
 **소개**
@@ -2061,10 +1917,6 @@ Thomas는 자신의 수많은 실패 경험을 바탕으로 프로젝트가 실�
 
 ## They Make $1.4M/Year With AI
 **URL:** https://www.youtube.com/watch?v=b5JhfGHafZA
-
-### Summary
-
-다음은 전달된 내용을 읽기 좋게 정리한 것입니다.
 
 ### **채널 소개**
 
@@ -2183,10 +2035,6 @@ Pat Walls는 수많은 출연 요청 DM을 받지만, 90%는 성사되지 않는
 ## He Quit His Job And Makes $10M/Year Writing Online
 **URL:** https://www.youtube.com/watch?v=OoFqTMPW_3E
 
-### Summary
-
-다음은 제공된 텍스트를 읽기 쉽게 정리한 내용입니다.
-
 ### **우연히 1,000만 달러 비즈니스를 구축한 Ian 이야기**
 
 Ian은 직장을 그만두고 우연히 1,000만 달러 규모의 비즈니스를 구축했습니다. 놀라운 점은 비용이 전혀 들지 않는 마케팅 방법을 사용했다는 것입니다.
@@ -2275,10 +2123,6 @@ Ian은 직장을 그만두고 우연히 1,000만 달러 규모의 비즈니스�
 ## I Built A $1M SaaS In 87 Days
 **URL:** https://www.youtube.com/watch?v=WctFUP4w0sc
 
-### Summary
-
-다음은 공유해주신 내용을 읽기 쉽게 정리한 것입니다.
-
 ### **Jack Ficks: 지하실에서 월 1만 달러 앱을 만든 개발자 이야기**
 
 Jack Ficks는 코딩을 독학하여 두 개의 앱을 만들었고, 현재 어머니의 지하실에서 월 1만 달러(약 1,300만 원)의 수익을 올리고 있습니다. 그의 성공 비결은 '자신만의 문제를 해결하는 것'과 '하루 1시간 마케팅' 전략에 있습니다.
@@ -2351,10 +2195,6 @@ Jack Ficks는 코딩을 독학하여 두 개의 앱을 만들었고, 현재 어�
 ## I Turned $150 into $2M/Year
 **URL:** https://www.youtube.com/watch?v=8yCXyCN_NR0
 
-### Summary
-
-다음은 전달해주신 내용을 읽기 쉽게 정리한 것입니다.
-
 ### **유명 유튜버에서 성공적인 사업가로, 세바스찬 조르디우 이야기**
 
 100만 구독자를 보유했던 유튜버 세바스찬 조르디우는 어느 날 돌연 활동을 중단했습니다. 화려한 인플루언서의 삶 대신, 그는 자신의 얼굴과 개인 브랜드 없이 성공적인 소프트웨어(SaaS) 사업을 구축하는 길을 택했습니다. 현재 그의 사업은 10명 이상의 팀과 함께 월 수십만 달러의 수익을 창출하고 있습니다.
@@ -2390,10 +2230,6 @@ Jack Ficks는 코딩을 독학하여 두 개의 앱을 만들었고, 현재 어�
 
 ## The Underdog: From $10/hr to $1.5M/Year
 **URL:** https://www.youtube.com/watch?v=WGVxAmmJUmY
-
-### Summary
-
-다음은 공유해주신 내용을 읽기 좋게 정리한 것입니다.
 
 ### **2개월 만에 코딩을 배워 265,000달러에 두 개의 앱을 판매한 Nico의 이야기**
 
@@ -2487,10 +2323,6 @@ Nico는 호텔 방에 틀어박혀 코딩을 독학하고 앱을 만들기 시�
 ## How I Built It: $20K/Month Chrome Extension
 **URL:** https://www.youtube.com/watch?v=ty9ZcimL6VE
 
-### Summary
-
-다음은 제공된 텍스트를 읽기 쉽게 정리한 내용입니다.
-
 ### **87일 만에 100만 달러짜리 SaaS를 만든 남자, 안드레 헥클 주니어**
 
 안드레 헥클 주니어(Andre Heckle Jr.)는 단 87일 만에 연간 반복 수익(ARR) 100만 달러에 달하는 SaaS(서비스형 소프트웨어) '리스트킷(List Kit)'을 만들어냈습니다. 그의 성공 비결은 아무도 이야기하지 않는 독특한 '제품화된 서비스(Productized Service)' 전략에 있었습니다.
@@ -2562,10 +2394,6 @@ Nico는 호텔 방에 틀어박혀 코딩을 독학하고 앱을 만들기 시�
 ## Faceless: From Immigrant to $1M/Year
 **URL:** https://www.youtube.com/watch?v=TNZmNIYv050
 
-### Summary
-
-다음은 Devon의 Supergrow 앱 성공 스토리를 요약한 내용입니다.
-
 ### **Devon의 Supergrow 앱 성공 스토리: 3일 만에 65,000달러를 번 Lifetime Deal 전략**
 
 #### **주요 내용**
@@ -2616,10 +2444,6 @@ Nico는 호텔 방에 틀어박혀 코딩을 독학하고 앱을 만들기 시�
 
 ## How I Built It: $40K/Month iPhone App
 **URL:** https://www.youtube.com/watch?v=loXc0Tyi4R4
-
-### Summary
-
-다음은 영상의 주요 내용을 정리한 것입니다.
 
 ### **Tim Stoddard: 3개 비즈니스로 연 5백만 달러 이상 수익**
 
@@ -2685,10 +2509,6 @@ Tim의 목표는 자신을 위해 일하는 자산 포트폴리오를 구축하�
 ## How I Built It: $10K/Month AI Image Generator
 **URL:** https://www.youtube.com/watch?v=mjCa8IFjM2E
 
-### Summary
-
-다음은 공유해주신 내용을 정리한 것입니다.
-
 ### Shopify 앱으로 연 450만 달러 버는 법 (마케팅 비용 거의 없이)
 
 **핵심 요약:**
@@ -2737,10 +2557,6 @@ Tim의 목표는 자신을 위해 일하는 자산 포트폴리오를 구축하�
 
 ## 9 Things That Make Me $1.8M/Year
 **URL:** https://www.youtube.com/watch?v=GFnBp8lMIf4
-
-### Summary
-
-Of course, here is a summary of the provided text, organized for readability.
 
 ### The Million-Dollar App Playbook: Marketing Over Coding
 
@@ -2811,10 +2627,6 @@ Once you have validated content formats, it's time to scale beyond your personal
 ## The day I hit reset on my life
 **URL:** https://www.youtube.com/watch?v=xZDofUHbZHA
 
-### Summary
-
-다음은 제공된 텍스트를 읽기 쉽게 정리한 내용입니다.
-
 ### 뉴스레터로 연 80만 달러를 버는 법: Alex Garcia의 성공 비결
 
 Alex Garcia는 5개의 이메일 뉴스레터를 운영하여 연간 80만 달러의 수익을 올리는 오스틴 출신의 청년입니다. 그는 뉴스레터 비즈니스 구축에 대한 자신의 모든 노하우를 공개했습니다.
@@ -2883,10 +2695,6 @@ Alex Garcia는 5개의 이메일 뉴스레터를 운영하여 연간 80만 달�
 
 ## How I Built It: $37K/Month Notion App
 **URL:** https://www.youtube.com/watch?v=WuzxmeUP6ro
-
-### Summary
-
-다음은 제공된 내용을 정리한 것입니다.
 
 ### Cedari: 1만 달러 MRR 달성기
 
@@ -2973,10 +2781,6 @@ Joseph과 Teimmo는 코워킹 스페이스에서 만나 파트너가 되었지�
 ## How I Built It: $12K/Month Micro SaaS
 **URL:** https://www.youtube.com/watch?v=TCGXT7ySco8
 
-### Summary
-
-다음은 영상의 주요 내용을 정리한 것입니다.
-
 ### **핵심 인물 및 서비스**
 
 *   **인물:** 도슨(Dawson), 1인 소프트웨어 엔지니어
@@ -3031,10 +2835,6 @@ Joseph과 Teimmo는 코워킹 스페이스에서 만나 파트너가 되었지�
 ## I Make $15K/Month With 2 AI Apps
 **URL:** https://www.youtube.com/watch?v=G4nsGvL4Fo0
 
-### Summary
-
-다음은 인터뷰 내용을 읽기 쉽게 정리한 것입니다.
-
 ### **월 6만 달러(약 8,000만 원)를 버는 4개의 온라인 비즈니스**
 
 인터뷰에 응한 26세 개발자 유레이(Uray)는 현재 4개의 온라인 비즈니스를 통해 월 6만 달러의 수익을 올리고 있습니다.
@@ -3084,10 +2884,6 @@ Joseph과 Teimmo는 코워킹 스페이스에서 만나 파트너가 되었지�
 ## The Underdog: He Turned His Last $1,000 Into $150M
 **URL:** https://www.youtube.com/watch?v=ZEIPj7QbZeI
 
-### Summary
-
-다음은 제공된 텍스트를 읽기 쉽게 정리한 내용입니다.
-
 ### Boot.dev: 사이드 프로젝트에서 월 매출 100만 달러까지
 
 *   **창업자:** 소프트웨어 엔지니어인 레인 와그너(Lane Wagner).
@@ -3128,10 +2924,6 @@ Joseph과 Teimmo는 코워킹 스페이스에서 만나 파트너가 되었지�
 
 ## He Made $10M with 3 iPhone Apps
 **URL:** https://www.youtube.com/watch?v=5u9u8yzPEpA
-
-### Summary
-
-다음은 크리스의 성공 스토리를 요약한 내용입니다.
 
 **크리스의 성공 스토리: 사이드 프로젝트에서 연 15만 달러 비즈니스로**
 
@@ -3213,10 +3005,6 @@ Joseph과 Teimmo는 코워킹 스페이스에서 만나 파트너가 되었지�
 ## How I Built It: $20K/Month AI App as a Non-Technical Founder
 **URL:** https://www.youtube.com/watch?v=yue9in5oh64
 
-### Summary
-
-다음은 전달주신 내용의 핵심을 정리한 것입니다.
-
 ### **억만장자 비즈니스 브로커, 토마스의 성공 스토리**
 
 토마스는 대학 기숙사에서 100달러짜리 웹사이트를 되팔며 시작해, 총 10억 달러 이상의 온라인 비즈니스를 판매한 인물입니다. 그는 자신의 경험을 바탕으로 누구나 비즈니스 인수합병(M&A)을 통해 부자가 될 수 있는 방법을 공유합니다.
@@ -3270,10 +3058,6 @@ Joseph과 Teimmo는 코워킹 스페이스에서 만나 파트너가 되었지�
 
 ## The Underdog: From Life Changing Accident to $100M/Year
 **URL:** https://www.youtube.com/watch?v=BeRKQkU5Ceo
-
-### Summary
-
-다음은 영상의 주요 내용을 요약한 것입니다.
 
 ### **요약**
 
@@ -3336,10 +3120,6 @@ Joseph과 Teimmo는 코워킹 스페이스에서 만나 파트너가 되었지�
 ## The Underdog: From $200K in Debt to $1M App Maker
 **URL:** https://www.youtube.com/watch?v=h9R6ZeNruuI
 
-### Summary
-
-다음은 전달해주신 내용을 읽기 쉽게 정리한 것입니다.
-
 ### **Saba의 성공 스토리: 무(無)에서 백만장자가 된 창업가**
 
 Saba는 아무것도 없는 상태에서 시작하여 수백만 달러 규모의 비즈니스를 성공시킨 자수성가형 창업가입니다. 그의 이야기는 순수한 노력과 끈기가 어떻게 성공으로 이어질 수 있는지를 보여줍니다.
@@ -3376,10 +3156,6 @@ Saba는 자신의 성공이 자신을 믿어주지 않았던 투자자들과 YC�
 
 ## I Quit My Job & Accidentally Built A $10M Business
 **URL:** https://www.youtube.com/watch?v=gU9FtZIfb_M
-
-### Summary
-
-다음은 제공된 내용을 읽기 쉽게 정리한 것입니다.
 
 ### **소개: 성공적인 비즈니스를 복제하여 3천만 달러 이상의 매출을 올린 Will Cannon**
 
@@ -3443,10 +3219,6 @@ Will은 자신의 프레임워크를 적용할 수 있는 잠재적인 시장으
 ## The $10M AI SaaS Playbook
 **URL:** https://www.youtube.com/watch?v=KcCnqLBhvXY
 
-### Summary
-
-다음은 셔먼(Sherman)이라는 유튜버에 대한 이야기입니다. 그는 고액 연봉의 소프트웨어 엔지니어 직업을 그만두고 뉴욕에서 전업 유튜버로 활동하고 있습니다.
-
 ### 주요 내용 요약
 
 #### 1. 유튜버가 된 계기
@@ -3488,10 +3260,6 @@ Will은 자신의 프레임워크를 적용할 수 있는 잠재적인 시장으
 
 ## I Built a $10K/Month App from My Mom’s Basement
 **URL:** https://www.youtube.com/watch?v=qeY283nBhIA
-
-### Summary
-
-다음은 전달된 내용을 읽기 좋게 정리한 것입니다.
 
 ### **소개: 롭록스(Roblox)로 수백만 달러를 버는 청년들**
 
@@ -3587,10 +3355,6 @@ Will은 자신의 프레임워크를 적용할 수 있는 잠재적인 시장으
 ## I Locked Myself In A Room, Made 17 Apps, & Sold 2 for $265,000
 **URL:** https://www.youtube.com/watch?v=zPijWd9uk-I
 
-### Summary
-
-다음은 공유해주신 영상의 내용을 정리한 것입니다.
-
 ### Vasco의 AI 앱 성공 스토리: YouTube로 월 7만 달러 수익 달성
 
 **요약:**
@@ -3663,8 +3427,6 @@ Vasco는 세 가지 유형의 장편 동영상을 지속적으로 제작했습�
 ## I Make $60K/Month Running 4 Products
 **URL:** https://www.youtube.com/watch?v=KpVPST_P4W8
 
-### Summary
-
 ## 백만장자 침대 시트 사업가, 콜린의 성공 스토리
 
 콜린은 온라인으로 침대 시트를 판매하여 한 달에 100만 달러를 버는 사업가입니다. 그는 "Sheets and Giggles"라는 회사를 설립하여 창업 25개월 만에 월 매출 120만 달러를 달성했습니다.
@@ -3723,10 +3485,6 @@ Vasco는 세 가지 유형의 장편 동영상을 지속적으로 제작했습�
 
 ## My Apps Make $4.5M/Year With $0 Marketing
 **URL:** https://www.youtube.com/watch?v=vLLBzUZr6-s
-
-### Summary
-
-Of course, here is the text formatted for better readability:
 
 ### The Story of Mark Lou: From Waiter to $1.5M Solopreneur
 
@@ -3849,10 +3607,6 @@ With the help of marketing and a growing YouTube presence, ShipFast's revenue ex
 ## I Spent 24 Hours With Roblox Millionaires
 **URL:** https://www.youtube.com/watch?v=8xgnm6SynH4
 
-### Summary
-
-다음은 공유해주신 내용을 정리한 것입니다.
-
 ### 카틱(Karthik)은 누구인가?
 * 500달러를 1,000만 달러로 만든 연쇄 창업가입니다.
 * 4개의 다른 이커머스 회사를 설립했습니다.
@@ -3889,10 +3643,6 @@ With the help of marketing and a growing YouTube presence, ShipFast's revenue ex
 
 ## My Coding Game Makes $1M Per Month
 **URL:** https://www.youtube.com/watch?v=tMkpiFIW8Xg
-
-### Summary
-
-다음은 제공된 텍스트를 읽기 쉽게 정리한 내용입니다.
 
 ### **연 1000만 달러 이상 수익을 내는 6개 사업가 그렉의 성공 비결**
 
@@ -3946,10 +3696,6 @@ ACP 퍼널은 그렉이 지난 15년간 사용해 온 사업 전략으로, 다�
 
 ## I Got Rejected From YC, Then Built a $200M Startup
 **URL:** https://www.youtube.com/watch?v=PSx0vcUY-sk
-
-### Summary
-
-다음은 제공된 내용을 읽기 쉽게 정리한 것입니다.
 
 ### **Notion 템플릿 판매로 250만 달러 이상 수익을 올린 Thomas Frank 이야기**
 
@@ -4006,10 +3752,6 @@ Thomas Frank는 Notion이라는 무료 플랫폼을 사용해 만든 디지털 �
 
 ## From Zero to $42K/Month in 90 Days with AI
 **URL:** https://www.youtube.com/watch?v=0T55DRYqeeA
-
-### Summary
-
-다음은 제공된 내용을 읽기 쉽게 정리한 것입니다.
 
 ### **코딩 없이 AI로 30일 만에 3만 달러 수익 창출하기**
 
@@ -4077,10 +3819,6 @@ Thomas Frank는 Notion이라는 무료 플랫폼을 사용해 만든 디지털 �
 ## I used Cursor to build an app on the train, made $30K, and quit my job.
 **URL:** https://www.youtube.com/watch?v=jpSY4MlWX50
 
-### Summary
-
-Of course, here is a summary of the provided text:
-
 ### Key Takeaways from an Interview with Scott, a Video Entrepreneur
 
 Scott earns an average of **$50,000 a month** by creating short, animated videos for B2B SaaS companies. Here’s a breakdown of his business model, background, and advice.
@@ -4124,10 +3862,6 @@ Scott earns an average of **$50,000 a month** by creating short, animated videos
 ## I Make $250K/Month From 20 Apps
 **URL:** https://www.youtube.com/watch?v=En34iY-rQc0
 
-### Summary
-
-다음은 요청하신 내용의 핵심을 정리한 것입니다.
-
 ### **연봉 17억 1인 기업가의 성공 비결: 디자인 구독 서비스**
 
 **핵심 요약:**
@@ -4164,10 +3898,6 @@ Scott earns an average of **$50,000 a month** by creating short, animated videos
 
 ## How to Use AI to Find a $1M Idea [Reddit, Claude]
 **URL:** https://www.youtube.com/watch?v=L_FY6aW9cJ4
-
-### Summary
-
-다음은 AI를 활용하여 코딩 없이 30만 달러의 수익을 올린 앱을 만든 Alex Finn의 성공 사례를 요약한 내용입니다.
 
 ### **핵심 요약**
 
@@ -4222,10 +3952,6 @@ Scott earns an average of **$50,000 a month** by creating short, animated videos
 
 ## I Built an App with Cursor and Made $100K in 15 Minutes
 **URL:** https://www.youtube.com/watch?v=4hMg_CZauJs
-
-### Summary
-
-다음은 공유해주신 인터뷰 내용의 핵심을 요약하고 읽기 쉽게 정리한 것입니다.
 
 ### **AI 스타트업 Code Guide, 90일 만에 월 매출 4만 2천 달러 달성 스토리**
 
@@ -4283,10 +4009,6 @@ CJ(Sajila Mazafir)는 **Code Guide**라는 AI 스타트업을 단 14일 만에 �
 
 ## How I Built It: $9,000 Per Month Micro SaaS
 **URL:** https://www.youtube.com/watch?v=npcL7oRZQlI
-
-### Summary
-
-다음은 공유해주신 내용을 정리한 것입니다.
 
 ### **Cast Magic: AI 앱으로 10개월 만에 월 수익 12만 달러 달성**
 
@@ -4362,10 +4084,6 @@ CJ(Sajila Mazafir)는 **Code Guide**라는 AI 스타트업을 단 14일 만에 �
 ## I built a $1M saas 100% with no code
 **URL:** https://www.youtube.com/watch?v=x9TUDb4sLE0
 
-### Summary
-
-다음은 공유해주신 내용을 읽기 좋게 정리한 것입니다.
-
 ### **AI를 활용한 비즈니스 아이디어 발굴: 골드 마이닝 프레임워크**
 
 인간의 뇌는 자아, 편견, 과도한 생각 때문에 좋은 사업 아이디어를 내는 데 적합하지 않을 수 있습니다. 이 글에서는 AI를 활용하여 45분 만에 100만 달러 가치의 사업 아이디어를 발굴하고 랜딩 페이지까지 제작하는 **'골드 마이닝 프레임워크'**를 소개합니다.
@@ -4417,10 +4135,6 @@ CJ(Sajila Mazafir)는 **Code Guide**라는 AI 스타트업을 단 14일 만에 �
 
 ## I Make $100K/Year From 2 AI Side Projects
 **URL:** https://www.youtube.com/watch?v=CoqAxV6b6j4
-
-### Summary
-
-다음은 해당 내용을 읽기 좋게 정리한 것입니다.
 
 ### **월 9,000달러 버는 단일 기능 앱 이야기**
 
@@ -4488,10 +4202,6 @@ Leandro의 이야기는 단순한 아이디어라도 사용자의 명확한 요�
 ## How I Built It: $15K/month Mobile App
 **URL:** https://www.youtube.com/watch?v=gpn1jEoWT4A
 
-### Summary
-
-다음은 영상의 주요 내용을 정리한 것입니다.
-
 ### **1. 창업가와 제품: 올리버 브로카토와 "탭스 초콜릿"**
 
 *   **창업가:** 올리버 브로카토 (Oliver Brocato)
@@ -4542,10 +4252,6 @@ Leandro의 이야기는 단순한 아이디어라도 사용자의 명확한 요�
 
 ## This App Makes $25,000/Month
 **URL:** https://www.youtube.com/watch?v=HBCwzfFbopE
-
-### Summary
-
-다음은 전달해주신 내용을 읽기 쉽게 정리한 것입니다.
 
 ### **100만 달러 규모의 '고스트 라이팅' 비즈니스 모델**
 
@@ -4617,10 +4323,6 @@ Leandro의 이야기는 단순한 아이디어라도 사용자의 명확한 요�
 ## How I Built A $1M Business in 117 Days
 **URL:** https://www.youtube.com/watch?v=E_sPvPHwpuk
 
-### Summary
-
-다음은 John Rush에 대한 인터뷰 요약입니다.
-
 ### John Rush: 26개의 스타트업을 운영하는 부트스트래퍼
 
 John Rush는 VC(벤처 캐피탈) 업계를 떠나 26개의 앱 포트폴리오를 구축하여 연간 3백만 달러의 수익을 올리고 있는 솔로 창업가입니다.
@@ -4689,10 +4391,6 @@ John은 비즈니스 전반에 AI를 적극적으로 활용합니다.
 ## How I Used Reddit to Hit $17K MRR (With ZERO Audience)
 **URL:** https://www.youtube.com/watch?v=BaWUPamqWlA
 
-### Summary
-
-다음은 Justin의 인터뷰 내용을 핵심만 요약하여 정리한 것입니다.
-
 ### **Justin의 1인 기업: 연 매출 170만 달러, 하루 5시간 근무**
 
 Justin은 연간 170만 달러(약 23억 원)의 매출을 올리는 온라인 비즈니스를 직원 없이 혼자, 하루 5시간만 일하며 운영합니다. 올해 매출은 250만 달러로 예상됩니다.
@@ -4731,10 +4429,6 @@ Justin의 가장 중요한 조언은 **"일단 시작하라"**는 것입니다. 
 
 ## I make $40K/month with this one website
 **URL:** https://www.youtube.com/watch?v=EF3uyvHHBfM
-
-### Summary
-
-다음은 영상의 주요 내용을 요약한 것입니다.
 
 ### **Jacob, 코딩 없이 백만 달러짜리 SAS를 만들다**
 
@@ -4780,10 +4474,6 @@ Justin의 가장 중요한 조언은 **"일단 시작하라"**는 것입니다. 
 
 ## I built a $15K/month app to quit my 9-5 (you can too)
 **URL:** https://www.youtube.com/watch?v=ZGwQoRw7mh8
-
-### Summary
-
-다음은 제공된 텍스트를 읽기 쉽게 정리한 내용입니다.
 
 ### **서론: 대니 미란다와 팟캐스트의 부상**
 
@@ -4862,10 +4552,6 @@ Zoom과 사람들에게 연락하려는 의지만 있으면 충분합니다. 처
 ## I cloned 3 apps and now make $35K/month
 **URL:** https://www.youtube.com/watch?v=8BtHk-oNlN0
 
-### Summary
-
-다음은 제공된 텍스트를 요약 및 정리한 내용입니다.
-
 ### **Stealth GPT: $150에서 월 20만 달러의 AI 앱으로**
 
 Joseph이라는 개발자는 코딩 지식이 거의 없는 상태에서 시작하여, 15개월 만에 월 20만 달러의 반복 매출(MRR)을 올리는 AI 앱 "Stealth GPT"를 만들었습니다.
@@ -4931,10 +4617,6 @@ Joseph이라는 개발자는 코딩 지식이 거의 없는 상태에서 시작�
 ## I dropped my PhD to build a $100K/month AI app
 **URL:** https://www.youtube.com/watch?v=miEUhwSR2-0
 
-### Summary
-
-다음은 제공된 내용을 읽기 쉽게 정리한 것입니다.
-
 ### **핵심 인물: 디키 부시 (Dicky Bush)**
 
 -   과거 월스트리트 헤지펀드 트레이더였으나, 현재는 글쓰기를 통해 연간 1,000만 달러의 비즈니스를 구축한 인물입니다.
@@ -4981,10 +4663,6 @@ Joseph이라는 개발자는 코딩 지식이 거의 없는 상태에서 시작�
 
 ## I copied a $100M SaaS, undercut their prices, and made $10K (beginner strategy)
 **URL:** https://www.youtube.com/watch?v=_KaFS4Dxs5k
-
-### Summary
-
-다음은 영상의 주요 내용을 정리한 것입니다.
 
 ### **핵심 요약**
 
@@ -5062,10 +4740,6 @@ Joseph이라는 개발자는 코딩 지식이 거의 없는 상태에서 시작�
 ## How I used Reddit & Facebook to build a $25K/month business
 **URL:** https://www.youtube.com/watch?v=3X4VneEHvig
 
-### Summary
-
-다음은 제공된 내용을 읽기 좋게 정리한 것입니다.
-
 ### **단순한 습관 추적 앱으로 월 1,500만 원의 수익을 올린 이야기**
 
 **소개**
@@ -5111,10 +4785,6 @@ Sebastian Ro는 항상 자신만의 앱을 만들고 싶어 했습니다. 그래
 
 ## How I Built It: $23K/month micro-saas
 **URL:** https://www.youtube.com/watch?v=NvtsM8Nk72c
-
-### Summary
-
-다음은 제공된 내용을 읽기 쉽게 정리한 것입니다.
 
 ### **풀타임 직장과 AI 부업으로 연 10만 달러 버는 Ramsri 이야기**
 
@@ -5180,10 +4850,6 @@ Sebastian Ro는 항상 자신만의 앱을 만들고 싶어 했습니다. 그래
 
 ## How We Built It: $900K Open Source SaaS
 **URL:** https://www.youtube.com/watch?v=F8i0kkrQ8_o
-
-### Summary
-
-다음은 공유해주신 내용을 읽기 쉽게 정리한 것입니다.
 
 ### 20세 대학생, AI로 1년 만에 100만 달러를 번 비결
 
@@ -5251,10 +4917,6 @@ Sebastian Ro는 항상 자신만의 앱을 만들고 싶어 했습니다. 그래
 ## I built a $10K/month app after failing 30 projects
 **URL:** https://www.youtube.com/watch?v=rPguT9z6kRQ
 
-### Summary
-
-다음은 Hunter Hammett의 비즈니스 전략과 여정을 요약한 내용입니다.
-
 ### **Hunter Hammett의 100만 달러 비즈니스 전략**
 
 *   **목표:** 12개월 안에 12개의 100만 달러 규모 비즈니스 구축.
@@ -5320,10 +4982,6 @@ Sebastian Ro는 항상 자신만의 앱을 만들고 싶어 했습니다. 그래
 
 ## I built a $4M business with this ONE strategy
 **URL:** https://www.youtube.com/watch?v=MLAH5OZ5FO8
-
-### Summary
-
-다음은 제공된 텍스트를 읽기 쉽게 정리한 내용입니다.
 
 ### 한 줄 요약
 
@@ -5397,10 +5055,6 @@ S의 이야기는 거창한 계획보다 **빠른 실행**과 **사용자와의 
 
 ## This app made over $1M
 **URL:** https://www.youtube.com/watch?v=VfNRd5Rk0cM
-
-### Summary
-
-다음은 해당 내용을 요약 및 정리한 내용입니다.
 
 ### **Pauline과 그녀의 AI 앱 "AI Crea"**
 
@@ -5481,10 +5135,6 @@ Pauline은 IBM에서 정규직으로 근무하면서 월 8,000달러의 수익�
 ## Our simple app made $100K in 90 days
 **URL:** https://www.youtube.com/watch?v=1nfPvJKrYYQ
 
-### Summary
-
-다음은 전달해주신 내용을 정리한 것입니다.
-
 ### **요약**
 
 독일의 1인 기업가 루카스 허먼(Lucas Herman)은 간단한 카운트다운 타이머 앱을 만들어 월 25,000달러의 수익을 올리는 사업으로 성장시켰습니다. 그는 틈새시장을 공략하고, 기존에 잘 알고 있던 기술을 활용해 빠르게 MVP(최소기능제품)를 만들었으며, Reddit을 통해 초기 고객을 확보했습니다. 현재는 아내와 함께 사업을 운영하며 높은 수익률을 기록하고 있습니다.
@@ -5544,10 +5194,6 @@ Pauline은 IBM에서 정규직으로 근무하면서 월 8,000달러의 수익�
 ## I made $65K in 3 days (with ZERO audience)
 **URL:** https://www.youtube.com/watch?v=BNr1JOQdSN0
 
-### Summary
-
-다음은 영상의 주요 내용을 요약 및 정리한 내용입니다.
-
 ### **두 친구, 2년 만에 18억 매출 비즈니스를 만들다**
 
 두 룸메이트였던 헨리와 딜런은 2년 만에 연 매출 18억 원($1.8 million)의 비즈니스를 만들었습니다. 이들은 인터넷 유명 인사들과 협업하며 유튜브에서 10억 뷰 이상을 달성했지만, 아이러니하게도 그들의 사업은 수익성이 없습니다. 이들은 수익 대신 '재미'를 추구하며, 모든 수익을 자신들의 콘텐츠 제작과 꿈을 좇는 데 재투자하고 있습니다.
@@ -5605,10 +5251,6 @@ Pauline은 IBM에서 정규직으로 근무하면서 월 8,000달러의 수익�
 
 ## My app makes $41K/month
 **URL:** https://www.youtube.com/watch?v=a1EXyJlSx9g
-
-### Summary
-
-다음은 제공된 텍스트를 읽기 쉽게 정리한 내용입니다.
 
 ### **X 팔로워 100명 미만으로 월 매출 17,000달러(MRR)를 달성한 이야기**
 
@@ -5675,10 +5317,6 @@ Diego는 잠재고객 없이 제품을 성공시킨 핵심 전략으로 'Reddit 
 
 ## I Quit YouTube & Built a $1M App (Without My Audience)
 **URL:** https://www.youtube.com/watch?v=laRliIVNZgU
-
-### Summary
-
-다음은 공유해주신 내용을 가독성 좋게 정리한 것입니다.
 
 ### **익명의 디자이너, 연봉 120만 달러의 성공 신화**
 
@@ -5774,10 +5412,6 @@ Diego는 잠재고객 없이 제품을 성공시킨 핵심 전략으로 'Reddit 
 ## How to make money with mobile apps (just copy me)
 **URL:** https://www.youtube.com/watch?v=hKqLceTPLWM
 
-### Summary
-
-다음은 Angus Chang의 4만 달러 웹사이트 구축 스토리를 요약 및 정리한 내용입니다.
-
 ### **Angus Chang과 월 4만 달러 웹사이트**
 
 *   **창업가:** Angus Chang (홍콩 거주)
@@ -5857,10 +5491,6 @@ Angus는 직장을 그만둔 후 자신의 재정 상태를 파악하기 위해 
 ## This app replaced my 9-5 ($150K/year)
 **URL:** https://www.youtube.com/watch?v=w3zxMrwWrt0
 
-### Summary
-
-다음은 모바일 앱으로 월 4만 달러의 수익을 올리는 방법에 대한 영상 요약입니다.
-
 ### **핵심 요약**
 
 코딩 경험이 없는 개인이 아이디어 구상부터 앱 출시 및 수익화까지의 전 과정을 통해 월 4만 달러의 수익을 올리는 모바일 앱 "Puff Count"를 만든 성공 사례입니다. 성공의 핵심은 **기존의 통념을 깬 접근 방식**과 **수익의 95%를 차지하는 마케팅**에 있습니다.
@@ -5918,10 +5548,6 @@ Angus는 직장을 그만둔 후 자신의 재정 상태를 파악하기 위해 
 
 ## We built $10K/mo saas. Watch this before starting yours
 **URL:** https://www.youtube.com/watch?v=3eY71OS4MFw
-
-### Summary
-
-Of course, here is a summary of the story in a more structured and readable format.
 
 ### **The Story of Hush Blankets: From $4k to $48 Million in 4 Years**
 
@@ -5986,10 +5612,6 @@ The ultimate lesson is that in the modern era, storytelling, emotion, and buildi
 ## I cloned 2 apps and made $30M
 **URL:** https://www.youtube.com/watch?v=w8oUlfgvcTI
 
-### Summary
-
-다음은 Yasser의 인터뷰 내용을 읽기 쉽게 정리한 것입니다.
-
 ### **Chatbase 창업자 Yasser의 성공 스토리 요약**
 
 Yasser라는 개발자가 16명의 팔로워를 가진 상태에서 Chatbase라는 앱을 출시하여 단 117일 만에 연간 반복 수익(ARR) 100만 달러를 달성하고, 2년 반 만에 약 700만 달러(약 96억 원)에 이른 성공 스토리를 공유합니다.
@@ -6042,10 +5664,6 @@ Yasser라는 개발자가 16명의 팔로워를 가진 상태에서 Chatbase라�
 
 ## I Built a $1M SaaS Using YouTube
 **URL:** https://www.youtube.com/watch?v=VZ1XspToV1E
-
-### Summary
-
-다음은 Carl Hughes의 인터뷰 내용을 주요 주제별로 정리한 것입니다.
 
 ### **소개: 칼 휴즈(Carl Hughes)와 그의 비즈니스**
 
