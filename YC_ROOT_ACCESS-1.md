@@ -3345,7 +3345,6 @@ Volley가 '제품-시장 적합성(product market fit)'을 찾기 위해 '오랜
 ## 
 **URL:** https://www.youtube.com/watch?v=6W-cu0yp5cA
 
-
 # 딥러닝 자료: 스타트업 환경에서의 엔지니어 성장과 창업 엔지니어의 자질
 
 ## 1. 개요 (Overview)
@@ -3414,7 +3413,6 @@ YC(Y Combinator)와 같은 스타트업 액셀러레이터에서 많은 창업 �
 
 ## YC Tech Talks: Climate - Charge Robotics short
 **URL:** https://www.youtube.com/watch?v=-5I9lIYZx-A
-
 
 # YouTube 영상 자막 기반 심층 학습 자료: 태양광 산업의 로봇 자동화와 로봇 지게차
 

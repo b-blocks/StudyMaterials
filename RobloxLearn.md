@@ -543,8 +543,6 @@ Roblox 헤어 제작을 시작하기 전에 다음 준비물과 기본적인 지
 ## Minimize client memory usage on Roblox
 **URL:** https://www.youtube.com/watch?v=OCUZKJJR-TE
 
-
-
 ## 1. 개요 (Overview)
 
 이 문서는 Roblox 경험(Experience) 개발 시 클라이언트 메모리 사용량을 최적화하는 방법에 대한 심층 학습 자료입니다. 특히, 사용자 기기의 제한된 RAM 용량을 고려하여 광범위한 사용자층에게 원활한 경험을 제공하기 위한 다양한 기법과 모범 사례를 다룹니다. 주요 목표는 시각적 품질이나 게임 플레이를 크게 저해하지 않으면서 메모리 효율성을 극대화하는 것입니다.
@@ -659,8 +657,6 @@ Roblox 헤어 제작을 시작하기 전에 다음 준비물과 기본적인 지
 
 ## Code organization on Roblox
 **URL:** https://www.youtube.com/watch?v=jLNgutvbALY
-
-
 
 The user wants to create a detailed learning material based on the provided YouTube transcript.
 I need to follow a specific document structure and adhere to given writing guidelines.
@@ -1380,8 +1376,6 @@ Roblox는 크리에이터의 광고 수익을 지속적으로 증대시키기 �
 
 ## 
 **URL:** https://www.youtube.com/watch?v=7AtvvUxvCaU
-
-
 
 # 보상형 비디오 광고를 통한 수익화 전략 심층 분석
 
@@ -2716,8 +2710,6 @@ Roblox 경험에서 메모리 누수가 반복적으로 발생하는 두 가지 
 ## How to use SmoothDamp for smooth UX on Roblox
 **URL:** https://www.youtube.com/watch?v=RYzj4TjiMyE
 
-
-
 ## 1. 개요 (Overview)
 
 이 학습 자료는 사용자 경험(UX)을 향상시키는 데 필수적인 부드러운 움직임과 전환 효과를 구현하는 `Smooth Damp` 메서드에 대해 깊이 있게 다룹니다. 특히, 동적으로 변화하는 목표값을 부드럽게 추적하거나, 물리적인 스프링 효과를 시뮬레이션하여 자연스러운 움직임을 만들어내는 방법을 중점적으로 설명합니다. 이 자료는 게임 개발, UI/UX 디자인, 애니메이션 구현 등 동적인 시각 효과를 필요로 하는 모든 개발자를 대상으로 하며, 기본적인 프로그래밍 지식과 UI/애니메이션 개념에 대한 이해가 있다면 더욱 효과적으로 학습할 수 있습니다.
@@ -3358,8 +3350,6 @@ new_current_value, new_velocity = smooth_damp(
 ## UGC Expert Feedback 2: feat. Reverse_Polarity and Madison_Hatter2
 **URL:** https://www.youtube.com/watch?v=D64IOXAb6SM
 
-
-
 ## 1. 개요 (Overview)
 
 이 문서는 YouTube 영상 "Vogue Bernett gets mentored by Reverse Polarity and Madison Hatter 2"의 내용을 바탕으로, Blender를 활용하여 Roblox UGC(User Generated Content) 카탈로그 아이템을 제작하는 초보자를 위한 심층 학습 자료입니다. 영상은 초보 제작자 Vogue Bernett가 직접 만든 Blender 모델을 전문가 Reverse Polarity와 Madison Hatter 2에게 검토받고 피드백을 받는 과정을 담고 있습니다. 이 자료는 모델링, 워크플로우 최적화, Roblox 내보내기 및 텍스처링 등 UGC 제작의 핵심 단계를 다루며, 실제 멘토링 세션의 생생한 경험을 통해 초보자들이 겪을 수 있는 어려움과 해결책을 제시합니다.
@@ -3536,8 +3526,6 @@ Roblox에서 모델의 시각적 품질을 결정하는 중요한 단계입니�
 
 ## 
 **URL:** https://www.youtube.com/watch?v=D64IOXAb6SM
-
-
 
 # YouTube 영상 상세 학습 자료: 3D 모델 텍스처링 및 Roblox 에셋 통합 가이드
 
@@ -6858,8 +6846,6 @@ Roblox는 실제와 같은 3D 구름을 하늘에 추가할 수 있는 기능을
 ## What are objects?
 **URL:** https://www.youtube.com/watch?v=FzmFAm00A8g
 
-
-
 ## 1. 개요 (Overview)
 
 이 문서는 Roblox Studio에서 게임 및 경험을 개발하는 데 필수적인 '오브젝트(Objects)'와 '에셋(Assets)'의 개념을 심층적으로 다룹니다. 영상의 주요 목적은 Roblox 환경을 구성하고 상호작용을 구현하는 핵심 요소들을 이해하고, 이를 효과적으로 활용하는 방법을 학습하는 것입니다. 우리는 "Roblox 오브젝트는 무엇이며 어떻게 작동하는가?", "오브젝트를 에셋으로 전환하여 재사용하는 방법은 무엇인가?"와 같은 핵심 질문에 답하며, Roblox 개발의 기초를 다지는 데 중점을 둡니다. 이 자료는 Roblox Studio를 처음 접하거나 기본적인 사용법은 알지만 오브젝트와 에셋의 심화된 이해를 원하는 개발자 및 학습자를 대상으로 합니다. 프로그래밍에 대한 기본적인 이해가 있다면 학습에 더욱 도움이 될 것입니다.
@@ -7583,8 +7569,6 @@ Roblox에는 다양한 용도의 많은 객체 유형이 있지만, 개발자는
 
 ## Learn how to create a custom experience banner
 **URL:** https://www.youtube.com/watch?v=rVFmc8gxu4s
-
-
 
 # YouTube 영상 상세 학습 자료: Roblox 친구 초대 보상 시스템 배너 생성 및 게시
 
@@ -9743,8 +9727,6 @@ Roblox 마이크로 프로파일러는 개발 머신뿐만 아니라 실제 모�
 ## Thumbnail Personalization on Roblox
 **URL:** https://www.youtube.com/watch?v=I65eJ_uUsY8
 
-
-
 ## 1. 개요 (Overview)
 
 이 문서는 Roblox 플랫폼에서 제공하는 '썸네일 개인화(Thumbnail Personalization)' 기능에 대한 심층 학습 자료입니다. 사용자 개개인의 선호도에 맞춰 게임 썸네일을 동적으로 최적화하여 노출함으로써, 게임의 발견율과 참여율을 극대화하는 방법을 다룹니다. 이 기능의 도입 배경, 작동 원리, 기존 A/B 테스트와의 차별점, 그리고 효과적인 활용 전략을 상세히 설명합니다.
@@ -9886,8 +9868,6 @@ Roblox 썸네일 개인화 기능은 두 가지 핵심적인 동기에서 출발
 
 ## How to create and sell your first 3D clothing item on Roblox
 **URL:** https://www.youtube.com/watch?v=C-DwGRBHvmE
-
-
 
 The user wants me to act as a CLI agent. I need to respond to their request.
 The user has provided a YouTube transcript and wants me to restructure it into a detailed learning resource following a specific Markdown structure and guidelines.
@@ -10799,8 +10779,6 @@ Roblox Analytics Service는 `AnalyticsService:LogEconomyEvent`와 `AnalyticsServ
 ## Advanced Roblox Packages Techniques on Roblox
 **URL:** https://www.youtube.com/watch?v=B2hJlre1sOk
 
-
-
 ## Roblox 패키지 시스템 고급 활용: 속성(Attributes)과 스크립트를 통한 에셋 변형
 
 ### 1. 개요 (Overview)
@@ -11403,8 +11381,6 @@ NCG를 효과적으로 활용하기 위한 몇 가지 중요한 권장 사항은
 
 ## How to get started creating on Roblox
 **URL:** https://www.youtube.com/watch?v=vIiVbFiDbBE
-
-
 
 ## Roblox 창작 시작 가이드: 깊이 있는 학습 자료
 
@@ -13383,8 +13359,6 @@ Roblox Studio에서 Skybox를 통합하는 과정은 변환 및 처리된 6개�
 ## How to use AI to generate textures on Roblox
 **URL:** https://www.youtube.com/watch?v=CS7bxH4FOzw
 
-
-
 ## AI 기반 텍스처 생성기 활용 가이드: 심층 학습 자료
 
 ### 1. 개요 (Overview)
@@ -13736,8 +13710,6 @@ Roblox 스튜디오에서 레이저 빔을 만들기 위한 첫 단계는 시각
 
 ## Building with Drag Detectors on Roblox
 **URL:** https://www.youtube.com/watch?v=D7AnUcXqDwo
-
-
 
 ## Roblox 드래그 디텍터 상세 학습 자료
 
@@ -15178,8 +15150,6 @@ Roblox 개발을 가속화하는 데 도움이 되는 다양한 리소스와 도
 ## Clip! Roblox Monetization Playbook - Module 2 (Foundations)
 **URL:** https://www.youtube.com/watch?v=rPHlMWSUgGU
 
-
-
 ## 1. 개요 (Overview)
 이 문서는 게임 수익화(Monetization)의 핵심적인 기초 개념을 심층적으로 탐구합니다. 특히, '무엇을 판매할 것인가', '어디서 판매할 것인가', '어떻게 판매할 것인가'라는 세 가지 근본적인 질문에 답하며, 게임 내 아이템 및 상점 시스템의 설계 원리를 이해하는 것을 목표로 합니다. 게임 개발자, 프로덕트 매니저, 또는 게임 비즈니스에 관심 있는 분들이 게임의 경제 시스템을 효과적으로 구축하고 최적화하는 데 필요한 통찰력을 제공합니다.
 
@@ -16359,8 +16329,6 @@ UI가 플레이어에게 정보를 제공하여 게임 내에서 행동을 취�
 ## What's a core loop on Roblox?
 **URL:** https://www.youtube.com/watch?v=gkFKF9A-snY
 
-
-
 # YouTube 영상 심층 학습 자료: 게임의 코어 루프 이해
 
 ## 1. 개요 (Overview)
@@ -16447,8 +16415,6 @@ UI가 플레이어에게 정보를 제공하여 게임 내에서 행동을 취�
 
 ## Onboarding Essentials
 **URL:** https://www.youtube.com/watch?v=XfxbdKtSbOI
-
-
 
 ## 1. 개요 (Overview)
 
@@ -17185,8 +17151,6 @@ Roblox Studio 차원에서 개발자들이 접근성을 고려하도록 돕는 �
 ## Clip! Reaching out to Brands with Eybuddys & Bodybreakerabs
 **URL:** https://www.youtube.com/watch?v=3Y4_B5-EHjY
 
-
-
 # YouTube 영상 학습 자료: Roblox 개발자를 위한 브랜드 파트너십 전략
 
 ## 1. 개요 (Overview)
@@ -17269,8 +17233,6 @@ Roblox Studio 차원에서 개발자들이 접근성을 고려하도록 돕는 �
 
 ## Clip! Mobile-First UI Design with Cindering & UndoneBuilder
 **URL:** https://www.youtube.com/watch?v=QayAH3whpyc
-
-
 
 # YouTube 영상 학습 자료: 모바일 우선 UI/게임 개발 전략
 
@@ -18815,8 +18777,6 @@ UI 제약 조건(Constraints)은 UI 요소의 배치와 크기 조절을 자동�
 ## Monetizing a Roblox Experience with Erythia, MrFergie & Shawnyg
 **URL:** https://www.youtube.com/watch?v=YdplC2WVkWc
 
-
-
 Okay, I understand the task. I need to transform the provided YouTube transcript into a detailed, structured learning resource in Markdown format, adhering to all the specified sections and guidelines.
 
 I will now proceed to generate the content based on the transcript and the given instructions.# YouTube 영상 상세 학습 자료: Roblox 경험 수익화 전략 및 윤리적 고려사항
@@ -18875,8 +18835,6 @@ I will now proceed to generate the content based on the transcript and the given
 
 ## 
 **URL:** https://www.youtube.com/watch?v=YdplC2WVkWc
-
-
 
 ## 1. 개요 (Overview)
 
@@ -21042,8 +21000,6 @@ Roblox 플랫폼 내에서 제공되는 '스폰서 타일(Sponsored Tiles)'은 �
 ## 
 **URL:** https://www.youtube.com/watch?v=14RMDByrG1U
 
-
-
 ## 1. 개요 (Overview)
 이 학습 자료는 Roblox 플랫폼에서 브랜드(IP) 파트너십을 통해 게임을 개발하고 운영하는 과정에 대한 심층적인 분석을 제공합니다. 영상은 자체 IP 개발과 브랜디드 IP 활용의 차이점, 성공적인 파트너십을 위한 핵심 요소, 그리고 개발 및 라이브 운영 과정에서 발생할 수 있는 도전 과제와 해결책을 다룹니다.
 
@@ -21683,8 +21639,6 @@ YouTube는 전 세계 수십억 명의 사용자를 보유한 거대 동영상 �
 
 ## Clip! Smart Iteration with A/B Testing with BlockfaceSteve and BlockfaceBob
 **URL:** https://www.youtube.com/watch?v=5N84f1ZuwRc
-
-
 
 # YouTube 영상 자막 기반 심층 학습 자료: 게임 기능 A/B 테스트를 통한 성공 평가
 
@@ -22604,8 +22558,6 @@ Roblox 게임 개발자, 게임 디자이너, 커뮤니티 매니저, 그리고 
 ## Prototyping Essentials
 **URL:** https://www.youtube.com/watch?v=iI2t7Yd7Byc
 
-
-
 # 프로토타이핑: 게임 개발 성공을 위한 필수 전략
 
 ## 1. 개요 (Overview)
@@ -22733,8 +22685,6 @@ Roblox 게임 개발자, 게임 디자이너, 커뮤니티 매니저, 그리고 
 ## Core Loop Essentials
 **URL:** https://www.youtube.com/watch?v=bROouMt1b3g
 
-
-
 # 제목: Core Loop Essentials: 게임의 심장을 만드는 법
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -22842,8 +22792,6 @@ Roblox 게임 개발자, 게임 디자이너, 커뮤니티 매니저, 그리고 
 
 ## LiveOps on Roblox with Ruddev_Ethan and x_o
 **URL:** https://www.youtube.com/watch?v=oV8DKuAjQQs
-
-
 
 # 제목: LiveOps on Roblox with Ruddev_Ethan and x_o
 
@@ -23007,14 +22955,8 @@ Bad Business의 성공은 체계적인 콘텐츠 전략에 기반합니다. 이�
 ## 
 **URL:** https://www.youtube.com/watch?v=oV8DKuAjQQs
 
-
-
-
-
 ## Designing Player Progression
 **URL:** https://www.youtube.com/watch?v=XTZxQvh1qkc
-
-
 
 # 제목: Designing Player Progression (플레이어 프로그레션 설계)
 
@@ -23178,8 +23120,6 @@ RPG의 코어 루프가 `몬스터 사냥 → 전리품/재화 획득 → 무기
 
 ## Designing Player Goals
 **URL:** https://www.youtube.com/watch?v=hD2Ive5RqtE
-
-
 
 # 제목: Designing Player Goals
 
@@ -23381,8 +23321,6 @@ RPG의 코어 루프가 `몬스터 사냥 → 전리품/재화 획득 → 무기
 ## The Fundamentals Of User Experience | RDC 2021
 **URL:** https://www.youtube.com/watch?v=cY1B5_x4RoU
 
-
-
 # 제목: The Fundamentals Of User Experience | RDC 2021
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -23503,8 +23441,6 @@ RPG의 코어 루프가 `몬스터 사냥 → 전리품/재화 획득 → 무기
 
 ## The Future of Avatars | RDC 2021
 **URL:** https://www.youtube.com/watch?v=uiha3tzL-oc
-
-
 
 # 제목: The Future of Avatars | RDC 2021
 
@@ -23652,8 +23588,6 @@ Roblox의 다음 목표는 이 과정을 더욱 단순화하는 것입니다. �
 
 ## Creating Stunning Visual Effects with Simple Tools | RDC 2021
 **URL:** https://www.youtube.com/watch?v=fmVKt8d_ivw
-
-
 
 # 제목: Creating Stunning Visual Effects with Simple Tools | RDC 2021
 
@@ -23830,8 +23764,6 @@ Roblox에서 VFX를 구현하기 위해 사용할 수 있는 기본적인 도구
 ## Visual Fidelity & Immersion in Roblox | RDC 2021
 **URL:** https://www.youtube.com/watch?v=NusvNCLjbgg
 
-
-
 # 제목: Visual Fidelity & Immersion in Roblox | RDC 2021
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -24003,8 +23935,6 @@ Roblox에서 VFX를 구현하기 위해 사용할 수 있는 기본적인 도구
 ## How to Manage Your Community | RDC 2021
 **URL:** https://www.youtube.com/watch?v=wrf6DRlfoO8
 
-
-
 # 제목: How to Manage Your Community | RDC 2021
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -24157,8 +24087,6 @@ Minitoon의 발표 내용을 더 깊이 이해하고 실제 업무에 적용하�
 ## Builderman Q&A | RDC 2021
 **URL:** https://www.youtube.com/watch?v=vVVQ0D94Bo4
 
-
-
 # 제목: Builderman Q&A | RDC 2021: 로블록스의 미래 비전과 개발자 생태계
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -24244,14 +24172,8 @@ Minitoon의 발표 내용을 더 깊이 이해하고 실제 업무에 적용하�
 ## 
 **URL:** https://www.youtube.com/watch?v=vVVQ0D94Bo4
 
-
-
-
-
 ## Tips For Scaling Up A Company on Roblox | RDC 2021
 **URL:** https://www.youtube.com/watch?v=TLRakuu4vd0
-
-
 
 # 제목: Tips For Scaling Up A Company on Roblox | RDC 2021
 
@@ -24400,8 +24322,6 @@ Minitoon의 발표 내용을 더 깊이 이해하고 실제 업무에 적용하�
 ## Roblox Panel | RDC 2021
 **URL:** https://www.youtube.com/watch?v=LCDJPaMylV0
 
-
-
 # 제목: Roblox Panel | RDC 2021: 플랫폼의 미래 비전과 개발자 생태계의 진화
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -24505,8 +24425,6 @@ Roblox는 더 높은 퀄리티의 경험을 안정적으로 제공하기 위해 
 
 ## Developer Panel | RDC 2021
 **URL:** https://www.youtube.com/watch?v=D8scEdjtqf0
-
-
 
 # 제목: Developer Panel | RDC 2021: Roblox 최고 개발자들의 성공 비결
 
@@ -24652,8 +24570,6 @@ Roblox는 더 높은 퀄리티의 경험을 안정적으로 제공하기 위해 
 ## Game Jam Presentations and Awards Ceremony | RDC 2021
 **URL:** https://www.youtube.com/watch?v=JtU0eYYwMOc
 
-
-
 # 제목: Game Jam Presentations and Awards Ceremony | RDC 2021
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -24752,14 +24668,8 @@ RDC 2021 게임 잼은 24시간이라는 짧은 시간에도 불구하고 높은
 ## 
 **URL:** https://www.youtube.com/watch?v=JtU0eYYwMOc
 
-
-
-
-
 ## Creating Opportunities to Connect | RDC 2021
 **URL:** https://www.youtube.com/watch?v=-LsnvpHLNhw
-
-
 
 # 제목: Creating Opportunities to Connect | RDC 2021
 
@@ -24918,8 +24828,6 @@ Roblox의 소통에 대한 비전은 "메타버스 내에서 매우 몰입감 �
 ## RDC 2021 Sizzle
 **URL:** https://www.youtube.com/watch?v=a63iradAeJE
 
-
-
 # 제목: RDC 2021 Sizzle: 커뮤니티, 창작, 그리고 메타버스의 미래
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -25012,8 +24920,6 @@ RDC 2021의 핵심 메시지 중 하나는 Roblox가 게임을 넘어 '메타버
 
 ## Live Ops with the Notorious Creators of Jailbreak | RDC 2021
 **URL:** https://www.youtube.com/watch?v=bKvOPfp3oX0
-
-
 
 # 제목: Live Ops with the Notorious Creators of Jailbreak | RDC 2021
 
@@ -25194,8 +25100,6 @@ Jailbreak의 첫 라이브 이벤트는 성공적이었지만, 여러 문제점�
 ## Unlock Your Productivity with Roblox's Open Cloud | RDC 2021
 **URL:** https://www.youtube.com/watch?v=Qkgxw6HoJ4M
 
-
-
 # 제목: Roblox의 Open Cloud로 생산성을 잠금 해제하세요 | RDC 2021
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -25340,8 +25244,6 @@ Open Cloud는 이제 시작 단계이며, 앞으로 더 많은 기능이 추가�
 
 ## Tailoring Dynamic Content: Localization and Suitability | RDC 2021
 **URL:** https://www.youtube.com/watch?v=ZhtTkuaSyVs
-
-
 
 # 제목: Tailoring Dynamic Content: Localization and Suitability | RDC 2021
 
@@ -25504,8 +25406,6 @@ Roblox는 번역 기능을 더욱 고도화할 계획입니다.
 ## Driving Discovery on Roblox | RDC 2021
 **URL:** https://www.youtube.com/watch?v=DHvfEB8myyU
 
-
-
 # 제목: Driving Discovery on Roblox | RDC 2021
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -25658,8 +25558,6 @@ Roblox는 광고 시스템을 더욱 발전시킬 계획입니다.
 
 ## Tools & Resources for Collaboration | RDC 2021
 **URL:** https://www.youtube.com/watch?v=0HlqqX29sRE
-
-
 
 # 제목: Tools & Resources for Collaboration | RDC 2021
 
@@ -25832,8 +25730,6 @@ Roblox에서 협업은 단순한 공동 작업을 넘어, 커뮤니티와 플랫
 ## Finding the Fun with Jandel and Foryxe
 **URL:** https://www.youtube.com/watch?v=rVr0IyfYkPg
 
-
-
 # 제목: Finding the Fun with Jandel and Foryxe
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -25946,14 +25842,8 @@ Roblox는 다른 플랫폼과 구별되는 독특한 플레이어 문화를 가�
 ## 
 **URL:** https://www.youtube.com/watch?v=rVr0IyfYkPg
 
-
-
-
-
 ## Writing Quests, Achievements & Dailies with BreakfastCandy
 **URL:** https://www.youtube.com/watch?v=iWSZJSE2NEc
-
-
 
 # 제목: Writing Quests, Achievements & Dailies with BreakfastCandy
 ## 1. 핵심 요약 (Executive Summary)
@@ -26075,8 +25965,6 @@ Roblox는 다른 플랫폼과 구별되는 독특한 플레이어 문화를 가�
 
 ## Designing Quests, Achievements & Dailies with BreakfastCandy
 **URL:** https://www.youtube.com/watch?v=1stxDQeHhr8
-
-
 
 # 제목: Designing Quests, Achievements & Dailies with BreakfastCandy
 ## 1. 핵심 요약 (Executive Summary)
@@ -26256,8 +26144,6 @@ Roblox는 다른 플랫폼과 구별되는 독특한 플레이어 문화를 가�
 ## Introduction to Quests, Achievements & Dailies with BreakfastCandy
 **URL:** https://www.youtube.com/watch?v=d4g30UupgKw
 
-
-
 # 제목: Introduction to Quests, Achievements & Dailies with BreakfastCandy
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -26395,8 +26281,6 @@ Roblox는 다른 플랫폼과 구별되는 독특한 플레이어 문화를 가�
 ## Roleplay Design and Worldbuilding with Myzta
 **URL:** https://www.youtube.com/watch?v=UlKAoiFLgUo
 
-
-
 # 제목: Roleplay Design and Worldbuilding with Myzta
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -26484,21 +26368,11 @@ Myzta와 그녀의 팀은 게임의 핵심 비전(예: 긍정적인 영향, 환�
 ## 
 **URL:** https://www.youtube.com/watch?v=UlKAoiFLgUo
 
-
-
-
-
 ## 
 **URL:** https://www.youtube.com/watch?v=UlKAoiFLgUo
 
-
-
-
-
 ## Designing Season Passes with Dspav and BreakfastCandy
 **URL:** https://www.youtube.com/watch?v=k2gbQI-ggB4
-
-
 
 # 제목: Designing Season Passes with Dspav and BreakfastCandy
 
@@ -26635,14 +26509,8 @@ Myzta와 그녀의 팀은 게임의 핵심 비전(예: 긍정적인 영향, 환�
 ## 
 **URL:** https://www.youtube.com/watch?v=k2gbQI-ggB4
 
-
-
-
-
 ## UI/UX Design with GodzGalaxy, theloudscream & Repotted
 **URL:** https://www.youtube.com/watch?v=AG-3o_GdqKI
-
-
 
 # 제목: UI/UX Design with GodzGalaxy, theloudscream & Repotted
 Roblox의 성공적인 게임 'Outlaster'의 개발팀, Peak Precision Studios와 함께하는 UI/UX 디자인 심층 분석. 이 자료는 Roblox Level Up 라운드테이블에서 공유된 전문가들의 인사이트를 바탕으로, 단순 요약을 넘어 실제 게임 개발에 적용할 수 있는 체계적인 학습 내용을 제공합니다.
@@ -26769,21 +26637,11 @@ UI(User Interface)와 UX(User Experience)는常常 함께 언급되지만, 명�
 ## 
 **URL:** https://www.youtube.com/watch?v=AG-3o_GdqKI
 
-
-
-
-
 ## 
 **URL:** https://www.youtube.com/watch?v=AG-3o_GdqKI
 
-
-
-
-
 ## Content Updates for Live Games
 **URL:** https://www.youtube.com/watch?v=kQIyqMdh7Os
-
-
 
 # 제목: 라이브 게임을 위한 콘텐츠 업데이트 전략 (Content Updates for Live Games)
 
@@ -26983,14 +26841,8 @@ UI(User Interface)와 UX(User Experience)는常常 함께 언급되지만, 명�
 ## 
 **URL:** https://www.youtube.com/watch?v=kQIyqMdh7Os
 
-
-
-
-
 ## Narrative and Game Design with MiniToon
 **URL:** https://www.youtube.com/watch?v=dBlP8NdJQM0
-
-
 
 # 제목: Narrative and Game Design with MiniToon
 
@@ -27146,14 +26998,8 @@ MiniToon이 공유한 통찰을 더 깊이 이해하고 자신의 프로젝트�
 ## 
 **URL:** https://www.youtube.com/watch?v=dBlP8NdJQM0
 
-
-
-
-
 ## Supporting Game Expansions with Dspav
 **URL:** https://www.youtube.com/watch?v=4-vZkSrGAxI
-
-
 
 다음은 제공해주신 자막과 가이드라인에 맞춰 작성한 학습 자료입니다.
 
@@ -27325,14 +27171,8 @@ KPI는 게임의 건강 상태를 나타내는 혈압계와 같습니다. 크게
 ## 
 **URL:** https://www.youtube.com/watch?v=4-vZkSrGAxI
 
-
-
-
-
 ## Balancing Game Expansions with Dspav
 **URL:** https://www.youtube.com/watch?v=pSjFYDEgRxs
-
-
 
 # 제목: Balancing Game Expansions with Dspav
 
@@ -27498,8 +27338,6 @@ KPI는 게임의 건강 상태를 나타내는 혈압계와 같습니다. 크게
 ## Producing Game Expansions with Dspav
 **URL:** https://www.youtube.com/watch?v=HKLRLhHHHVc
 
-
-
 # 제목: Dspav와 함께하는 게임 확장팩 제작 프로덕션 가이드
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -27612,8 +27450,6 @@ KPI는 게임의 건강 상태를 나타내는 혈압계와 같습니다. 크게
 
 ## What are Game Expansions? with Dspav
 **URL:** https://www.youtube.com/watch?v=UL4QaSbfyC4
-
-
 
 # 제목: What are Game Expansions? with Dspav
 
@@ -27733,10 +27569,6 @@ KPI는 게임의 건강 상태를 나타내는 혈압계와 같습니다. 크게
 
 ## 
 **URL:** https://www.youtube.com/watch?v=UL4QaSbfyC4
-
-
-
-
 
 ## Designing Game Expansions with AbstractAlex, Usering & ImprobableAI
 **URL:** https://www.youtube.com/watch?v=Gv5OVVyWM10
@@ -27963,13 +27795,5 @@ KPI는 게임의 건강 상태를 나타내는 혈압계와 같습니다. 크게
 ## 
 **URL:** https://www.youtube.com/watch?v=Gv5OVVyWM10
 
-
-
-
-
 ## 
 **URL:** https://www.youtube.com/watch?v=Gv5OVVyWM10
-
-
-
-
