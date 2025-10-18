@@ -1,9 +1,7 @@
 ## 한국에서 떠오르는 메타버스 스타트업의 사업 아이템
 **URL:** https://www.youtube.com/watch?v=ntzsOIy8biM
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -25,9 +23,7 @@ N/A
 ## 라면 주는 PC방 처음 만들었지만 결국 망했죠ㅣ라이트브라더스 김희수 대표
 **URL:** https://www.youtube.com/watch?v=jReS6eBTETE
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -68,9 +64,7 @@ N/A
 ## 심사위원이 알려준 생각지도 못한 성장방법 | 유니콘하우스 EP.5 1:1배틀 한달어스vs아루
 **URL:** https://www.youtube.com/watch?v=eaTKZ0ZjtlU
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -129,9 +123,7 @@ N/A
 ## 반복되는 실패경험에 또 다른 기회를 드리고자 했어요
 **URL:** https://www.youtube.com/watch?v=KqCNkH21-kI
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -148,9 +140,7 @@ N/A
 ## 네카라쿠배 목표라면 유리한 전략은 이미 정해져있다? | 개발자 특집 3편
 **URL:** https://www.youtube.com/watch?v=cryp8dAbsOQ
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -202,9 +192,7 @@ N/A
 ## 옷에 진심인 회사들의 패션대첩 | 유니콘하우스 EP.6 1:1배틀 온더룩vs블랙탠저린
 **URL:** https://www.youtube.com/watch?v=KcECfC4U9QY
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -237,9 +225,7 @@ N/A
 ## 성공하고 싶어서 3년 동안 하루 18시간씩 개발했습니다
 **URL:** https://www.youtube.com/watch?v=auV5aBLvXMU
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -264,9 +250,7 @@ N/A
 ## 3주 동안 대체 뭘 하셨나요? | 유니콘하우스 EP.7 1:1배틀 이너시아vs커버링
 **URL:** https://www.youtube.com/watch?v=iNev5EqEwKw
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -302,9 +286,7 @@ N/A
 ## 네팔 대지진에 드론을 날린 대학생
 **URL:** https://www.youtube.com/watch?v=adC53dq-VUA
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -341,9 +323,7 @@ N/A
 ## 채용 담당자가 말하는 '꼭' 뽑고 싶은 신입 개발자 특징은? | 개발자 특집 4편
 **URL:** https://www.youtube.com/watch?v=2to3IQFhZVo
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -392,9 +372,7 @@ N/A
 ## 질문마저 계산하는 기술 스타트업들의 수싸움, 그리고..? | 유니콘하우스 EP.8 잉클vs에이블랩스
 **URL:** https://www.youtube.com/watch?v=zwVlNrz7coQ
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -448,9 +426,7 @@ N/A
 ## 수백억대 사업가들이 술자리에서 푸는 투자비결 | 유니콘하우스 EP.9 데이오프
 **URL:** https://www.youtube.com/watch?v=LkOybv-WxXk
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -493,9 +469,7 @@ N/A
 ## 주니어 개발자 ‘실제’ 이력서 첨삭해 보았습니다 | 개발자 특집 5편
 **URL:** https://www.youtube.com/watch?v=1bcmmc2rTBE
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -541,9 +515,7 @@ N/A
 ## 경영학도가 지방에서 발견한 투자 기회
 **URL:** https://www.youtube.com/watch?v=-RYIR9t9cUI
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -577,9 +549,7 @@ N/A
 ## 3조 원 써본 경영인은 창업이 쉬울까?
 **URL:** https://www.youtube.com/watch?v=ZFeRRScYHVM
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -633,9 +603,7 @@ N/A
 ## 음식물쓰레기에 파묻혀 개발한 기술이 매출 80억을 넘어섰다
 **URL:** https://www.youtube.com/watch?v=RsFYHw6tMlQ
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -652,9 +620,7 @@ N/A
 ## 개발자 고민 무엇이든 물어보세요 | 개발자 특집 6편
 **URL:** https://www.youtube.com/watch?v=sSI9lKojEjc
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -706,9 +672,7 @@ IT 업계에서 개발자 채용의 어려움과 취업 준비생들의 고민�
 ## 유튜브에서 제일 잘 나가는 코미디 레이블 수장👑 | 신일류04 메타코미디 정영준
 **URL:** https://www.youtube.com/watch?v=roK_6D_HkGY
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -753,9 +717,7 @@ N/A
 ## 한때 대한민국 1000만 유저를 사로잡았던 교수님?!
 **URL:** https://www.youtube.com/watch?v=4rHkm2r711c
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -790,9 +752,7 @@ N/A
 ## 이 시국에 트래픽이 275% 증가한 오프라인 팝업공간
 **URL:** https://www.youtube.com/watch?v=PUicuHmwlvk
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -830,9 +790,7 @@ N/A
 ## 정부지원사업 ‘이거’ 하나로 종결합니다
 **URL:** https://www.youtube.com/watch?v=2j3QotNXvPk
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -870,9 +828,7 @@ N/A
 ## 크래프톤 CEO에게 직접 듣는 ‘프로듀서’의 관점
 **URL:** https://www.youtube.com/watch?v=Q2yIj-eC71Q
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -915,9 +871,7 @@ N/A
 ## 10명 중 9명이 부정해야 블루오션이죠 | 숏다큐멘터리
 **URL:** https://www.youtube.com/watch?v=qOC0VfqgPS4
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -948,9 +902,7 @@ N/A
 ## Chat GPT 만든 인공지능 회사 입사부터 퇴사까지
 **URL:** https://www.youtube.com/watch?v=mzQDuGeTZhg
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -981,9 +933,7 @@ OpenAI에서 많은 것을 배웠지만, 자신이 진정으로 원하는 일과
 ## 본인의 선택을 설명할 수 있는 삶을 살고 있나요? | 하트시그널 천인우
 **URL:** https://www.youtube.com/watch?v=wWHysB-6j4g
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1004,9 +954,7 @@ N/A
 ## 데이터로 돈을 만든 떠오르는 스타트업 3인방
 **URL:** https://www.youtube.com/watch?v=P5_7uXX_FXI
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1045,9 +993,7 @@ N/A
 ## 쿠키런 킹덤을 미국 2위로 만든 30대 임원 이야기
 **URL:** https://www.youtube.com/watch?v=4HWChI8Udeo
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1066,9 +1012,7 @@ N/A
 ## 코딩하러 들어가서 창업하고 나오는 곳(?!)
 **URL:** https://www.youtube.com/watch?v=_FjVmzdzKhI
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1113,9 +1057,7 @@ N/A
 ## 올해는 이직하고 싶은데 막상 실천하기 두렵다면? | 디자이너 특집 1편
 **URL:** https://www.youtube.com/watch?v=CVWoUFd42qo
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1185,9 +1127,7 @@ N/A
 ## 매출 없는 초기 회사에 뭘 보고 투자할까?ㅣ이택경의 스타트업 투자 전략 EP 02
 **URL:** https://www.youtube.com/watch?v=eZ3xfry0SEM
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1219,9 +1159,7 @@ N/A
 ## 같이 일하고 싶은 사람의 포트폴리오 공통점 | 디자이너 특집 2편
 **URL:** https://www.youtube.com/watch?v=c1XInGHUb-c
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1271,9 +1209,7 @@ N/A
 ## 위기가 닥쳤을 때 아버지가 선택한 것
 **URL:** https://www.youtube.com/watch?v=13nAKaP14Jg
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1292,9 +1228,7 @@ N/A
 ## 디자인 현실적인 고민 무엇이든 물어보세요 | 공부법? 포트폴리오? 좋은 커리어?
 **URL:** https://www.youtube.com/watch?v=L6MZDx02D9I
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1332,9 +1266,7 @@ N/A
 ## 효율적으로 일하고 싶다면 이 영상을 보세요 | 토스 디자이너 강수영
 **URL:** https://www.youtube.com/watch?v=HQktfrNBZV4
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1353,9 +1285,7 @@ TDS 구축 후에도 레고 블록처럼 통일성이 한 번에 맞춰지지 �
 ## 신용불량자 14년을 딛고 일어서기까지
 **URL:** https://www.youtube.com/watch?v=hqOsUOlja3o
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1370,9 +1300,7 @@ N/A
 ## [무삭제] MZ세대 지갑을 여는 3가지 키워드 | 그라인더 IR 피칭, Q&A
 **URL:** https://www.youtube.com/watch?v=ogLbAgGh0RQ
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1430,9 +1358,7 @@ N/A
 ## 전 재산 다 잃고 글로벌 3위 명품 커머스 기업을 만들기까지ｌ발란 최형록 CEO
 **URL:** https://www.youtube.com/watch?v=FvJxtHzeX1I
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1495,9 +1421,7 @@ N/A
 ## 4번의 실패로 배운 위대한 기업을 만드는 법ｌ드라마앤컴퍼니 CEO 최재호
 **URL:** https://www.youtube.com/watch?v=GoOTra0C4Xg
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1547,9 +1471,7 @@ N/A
 ## 정부지원사업 지원 전에 무조건 봐야하는 영상
 **URL:** https://www.youtube.com/watch?v=Yu29nG-38jM
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1601,9 +1523,7 @@ N/A
 ## [무삭제] 단돈 10만 원으로 예술작품의 주인이 되다 | 플리옥션 IR 피칭, Q&A
 **URL:** https://www.youtube.com/watch?v=55q_bgZHHcw
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1708,9 +1628,7 @@ N/A
 ## 그가 모두의 인정을 받기까지 걸린 시간, 단 1년
 **URL:** https://www.youtube.com/watch?v=Z4F2pSiKwes
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1751,9 +1669,7 @@ N/A
 ## 1년에 업데이트만 300번, 미친 실행력의 스타트업 이야기
 **URL:** https://www.youtube.com/watch?v=vWibGEFLdvc
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1786,9 +1702,7 @@ N/A
 ## 유럽을 사로잡은 '크레이지 코리안'이 만들어낸 축구의 미래
 **URL:** https://www.youtube.com/watch?v=dIFYZN-Ugvw
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1821,9 +1735,7 @@ AI 기술을 통해 영상 촬영 및 분석 비용을 낮춰, 리오넬 메시 
 ## 무신사 개발자들은 이렇게 일합니다
 **URL:** https://www.youtube.com/watch?v=9KTc3h-mjuU
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1871,9 +1783,7 @@ N/A
 ## 2022년 한국에서 가장 빨리 크고 있는 이커머스 회사 | 올웨이즈 강재윤
 **URL:** https://www.youtube.com/watch?v=L2sNAQYLNbA
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1914,9 +1824,7 @@ N/A
 ## 눈앞의 코인 말고, 멀리 보면 보이는 10년의 기회ｌ82 STARTUP 아이디어톤
 **URL:** https://www.youtube.com/watch?v=m3mBLXwr6lE
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1955,9 +1863,7 @@ N/A
 ## 본 적 없는 로봇, 본 적 없는 실행력으로 세상을 바꿉니다ｌH-온드림 우수사례
 **URL:** https://www.youtube.com/watch?v=hRr8IlgIfZc
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -1984,9 +1890,7 @@ H-OnDream은 단순히 자금 지원을 넘어, 임팩트 정의 및 수치화 �
 ## 원하는 일 하면서 돈도 더 벌고 싶다면 이 영상을 보세요 | 신일류05 무직타이거
 **URL:** https://www.youtube.com/watch?v=04TOQv8SMgQ
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2015,9 +1919,7 @@ N/A
 ## 재미없는 일은 배움도 없고 다음도 없어요
 **URL:** https://www.youtube.com/watch?v=BEmAZwhdpjc
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2034,9 +1936,7 @@ N/A
 ## 버려진 공간이 돈이 되는 방법 | 더몽 IR 피칭, Q&A
 **URL:** https://www.youtube.com/watch?v=YoRtQydl1vU
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2079,9 +1979,7 @@ N/A
 ## 서울에서 부산까지 맨땅에 헤딩으로 대박난 대학생 이야기
 **URL:** https://www.youtube.com/watch?v=GCOse6jBYoo
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2105,9 +2003,7 @@ N/A
 ## 창업을 망설이고 있나요? 🤔 | 정주영창업경진대회 출신 CEO 토크
 **URL:** https://www.youtube.com/watch?v=3kPlb-TWmKw
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2140,9 +2036,7 @@ N/A
 ## 지방 소멸을 막을 획기적인 기회 | 킹덤플랜트 IR 피칭, Q&A
 **URL:** https://www.youtube.com/watch?v=jV2LMXsHFxc
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2204,9 +2098,7 @@ N/A
 ## 열정이 있다면 끌릴만한 15가지 '큰 돈' 되는 기회
 **URL:** https://www.youtube.com/watch?v=6IZJPETv_w0
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2242,9 +2134,7 @@ N/A
 ## 토종 문과생이 실리콘밸리 최고 회사로 이직할 수 있었던 이유
 **URL:** https://www.youtube.com/watch?v=zprGXHtL7xY
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2278,9 +2168,7 @@ N/A
 ## 성공에 가까워졌다면 그 사실을 모를 수 없는 이유
 **URL:** https://www.youtube.com/watch?v=aIanP0KQmCQ
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2325,9 +2213,7 @@ N/A
 ## [SUB] 전세계 디자이너들의 일하는 방식을 바꿔놓은 한국 회사
 **URL:** https://www.youtube.com/watch?v=RG8LFEKg1D8
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2357,9 +2243,7 @@ N/A
 ## 성장하는 스타트업의 CTO들이 일하는 법
 **URL:** https://www.youtube.com/watch?v=0EyWBxq8z2g
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2398,9 +2282,7 @@ N/A
 ## 손정의가 처음으로 투자한 메타버스, '더 샌드박스' 성장의 비결
 **URL:** https://www.youtube.com/watch?v=qiP8pWGXCag
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2450,9 +2332,7 @@ N/A
 ## [무삭제] 산불 피해를 본 대학원생이 떠올린 기발한 아이디어 | 코드오브네이처 IR 피칭, Q&A
 **URL:** https://www.youtube.com/watch?v=JtOqvsC1xMQ
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2489,9 +2369,7 @@ B2B(실무 기업에 키트 공급)와 B2C(대기업 기부 연계) 방식으로
 ## 아나운서 퇴사하고 스타트업 꿈나무로 돌아온 김소영의 스타트업 출장을 시작합니다! | 출장! 워키토키 Ep0
 **URL:** https://www.youtube.com/watch?v=CYZoL3H5KN8
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2519,9 +2397,7 @@ N/A
 ## 인턴으로 시작해 구독자 180만 문명특급을 만들기까지! 🚀 | 신일류06 홍민지PD
 **URL:** https://www.youtube.com/watch?v=BQypdvXlPig
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2574,9 +2450,7 @@ N/A
 ## [무삭제] 요즘 배달앱 들어가면 보이는 서비스 | 잇그린 IR 피칭, Q&A
 **URL:** https://www.youtube.com/watch?v=oIpoYVfInAU
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2611,9 +2485,7 @@ N/A
 ## 이 무대가 끝나고 일주일 뒤, 이 스타트업은 26억을 투자 받았다
 **URL:** https://www.youtube.com/watch?v=sjQDaUtrVtU
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2655,9 +2527,7 @@ N/A
 ## 스타트업 200개 투자하고 얻은 B2B 비즈니스 노하우
 **URL:** https://www.youtube.com/watch?v=xkpp_ghaAds
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2686,9 +2556,7 @@ B2B 스타트업은 B2C보다 성공하기 쉽다고 합니다. 다음 세 가�
 ## 단 1년 만에 증권 시장 뒤집어놓은 토스증권 다 털었습니다 | 워키토키 x 토스증권 ep1
 **URL:** https://www.youtube.com/watch?v=Xr82quV_PZ0
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2732,9 +2600,7 @@ N/A
 ## 보여주기 전에 아무도 믿지 않았던 스타트업 아이템ㅣ해녀의부엌 CEO 김하원
 **URL:** https://www.youtube.com/watch?v=5QQ9P1itxRM
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2755,9 +2621,7 @@ N/A
 ## 스타트업 직원들이 말하는 요즘 직원 복지가 놀라운 이유 | 워키토키 x 토스증권 ep2
 **URL:** https://www.youtube.com/watch?v=M0S4EInBbEs
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2789,9 +2653,7 @@ N/A
 ## 의사가 만든 380만 명의 인생을 바꾼 서비스 | 숏다큐멘터리
 **URL:** https://www.youtube.com/watch?v=_Txq0DYnSQc
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2832,9 +2694,7 @@ N/A
 ## 저의 이야기를 통해 용기를 얻으셨으면 좋겠습니다
 **URL:** https://www.youtube.com/watch?v=hXZ2rDscCmY
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2871,9 +2731,7 @@ N/A
 ## 토스=원양어선..? 토스 직원들이 말하는 진정한 워라밸이란? | 워키토키 x 토스증권 ep3
 **URL:** https://www.youtube.com/watch?v=Io37AlAQP5g
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2905,9 +2763,7 @@ N/A
 ## 한국 쌀이 뉴욕에서 더 잘 팔리는 이유ㅣ김씨마켓 CEO 라이언킴
 **URL:** https://www.youtube.com/watch?v=QCIp5zUNDio
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2930,9 +2786,7 @@ N/A
 ## [무삭제] 기후 문제를 해결할 효율적인 소프트웨어 | 나인와트 IR 피칭, Q&A
 **URL:** https://www.youtube.com/watch?v=UF5r5IT072k
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -2955,9 +2809,7 @@ N/A
 ## 27년차 실리콘밸리 개발자의 인생 이야기 [한기용] 1부
 **URL:** https://www.youtube.com/watch?v=nLL409se8sM
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3005,9 +2857,7 @@ N/A
 ## 전문가가 2주 고생하던 문제를 2시간이면 해결하죠
 **URL:** https://www.youtube.com/watch?v=Mf30_HVttiM
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3024,9 +2874,7 @@ N/A
 ## 매년 15조가 버려지는 시장의 문제를 해결하는 스타트업
 **URL:** https://www.youtube.com/watch?v=wW3BXXbfgCI
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3043,9 +2891,7 @@ N/A
 ## 영상 하나로 외국인들을 줄세운 실시간 화질개선 서비스
 **URL:** https://www.youtube.com/watch?v=08Q2ZJutLqI
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3073,9 +2919,7 @@ DDF는 인공지능 기술을 활용해 저화질 영상을 고화질로 변환�
 ## 급증하는 젊은 사장님들 사이에서 발견한 1조원 짜리 기회
 **URL:** https://www.youtube.com/watch?v=mRhnWUzsCjo
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3102,9 +2946,7 @@ MZ 세대의 창업 열풍과 스마트 매장 운영의 필요성
 ## 17년째 한 우물만 파고 있는 대표의 부끄러운 고백
 **URL:** https://www.youtube.com/watch?v=qB6aBBa-K4I
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3121,9 +2963,7 @@ N/A
 ## 40대 중반이 돼서야 깨닫고 실천할 수 있게 된 것  [한기용] 2부
 **URL:** https://www.youtube.com/watch?v=XKqLz6WJSRA
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3144,9 +2984,7 @@ N/A
 ## 트럭커들이 '외로움'을 '안전'하게 해결하는 법
 **URL:** https://www.youtube.com/watch?v=oSBoy_vI-nw
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3184,9 +3022,7 @@ N/A
 ## 사람이 더 가치 있게 일하는 미래를 만들 겁니다
 **URL:** https://www.youtube.com/watch?v=x141f6DCM7Q
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3215,9 +3051,7 @@ CMS는 이러한 한계를 극복하기 위해 **3차원 비전 기술**을 활�
 ## 고객의 진짜 목소리를 듣고 싶다면 이 기술이 필요합니다
 **URL:** https://www.youtube.com/watch?v=pVALtGcpL_0
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3234,9 +3068,7 @@ N/A
 ## 350억 매출 내는 회사를 팔고 뛰어든 기회
 **URL:** https://www.youtube.com/watch?v=7msCgM5Codo
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3249,9 +3081,7 @@ N/A
 ## 저는 재활 전문가도 의사도 아닙니다 하지만
 **URL:** https://www.youtube.com/watch?v=oDpTki2yJQ8
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3268,9 +3098,7 @@ N/A
 ## 세계 최고의 게임 제작자가 되기까지 마인드셋
 **URL:** https://www.youtube.com/watch?v=uzMQ3NFlT5k
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3313,9 +3141,7 @@ LoL은 10년 넘게 2주마다 업데이트되고 있으며, 이는 플레이어
 ## 콘텐츠 스타트업 모두가 봐야 하는 영상ㅣ한국콘텐츠진흥원 스타트업콘
 **URL:** https://www.youtube.com/watch?v=pzRPnCV2-Q4
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3366,9 +3192,7 @@ N/A
 ## 50세 한국인의 실리콘밸리 도전기
 **URL:** https://www.youtube.com/watch?v=CcWIwaCy5dE
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3398,9 +3222,7 @@ N/A
 ## 요즘 개발자를 꿈꾸는 학생들은 어떤 사람들일까?
 **URL:** https://www.youtube.com/watch?v=ZIjoi3yp06w
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3419,9 +3241,7 @@ SSAFY는 하반기에도 모집을 진행할 예정이며, 많은 이들이 이 
 ## 실리콘밸리 인턴에서 대표까지 14년 동안 깨달은 ‘인생에서 가장 중요한 것’
 **URL:** https://www.youtube.com/watch?v=W3F8I0GNuFg
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3472,9 +3292,7 @@ N/A
 ## 타다금지법부터 토스 인수까지 모든 과정을 겪은 직원들 이야기 | 워키토키 x 타다 ep1
 **URL:** https://www.youtube.com/watch?v=VnDhn9GPiXY
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3487,9 +3305,7 @@ N/A
 ## [티저] 갓생 사는 스타트업 직장인들의 일과 삶 엿보기 | Work On the Beach Ep.0
 **URL:** https://www.youtube.com/watch?v=-fdnYORFIzo
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3500,9 +3316,7 @@ N/A
 ## 5개의 사업 중 성공한 사업과 실패한 사업의 차이 [박재욱] 1편
 **URL:** https://www.youtube.com/watch?v=3Jx6dmF-nRk
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3567,9 +3381,7 @@ N/A
 ## 이런 얘기를 하면 화내는 사람도 있죠 [한기용] 3부 최종화
 **URL:** https://www.youtube.com/watch?v=3U0cbzmwSYc
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3607,9 +3419,7 @@ N/A
 ## 피드백의 핵심은 ‘솔직함’이 아니에요 | 워키토키 x 타다 ep2
 **URL:** https://www.youtube.com/watch?v=zLJD5ycwn3U
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3641,9 +3451,7 @@ N/A
 ## 주7일 일하는 사람들은 무슨 생각으로 살까? | Work On the Beach Ep.1
 **URL:** https://www.youtube.com/watch?v=wvBIyzFploI
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3694,9 +3502,7 @@ N/A
 ## 면접관이 스펙보다 더 중요하게 보는 것? | 워키토키 x 타다 ep3
 **URL:** https://www.youtube.com/watch?v=P5eGT9liXdg
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3739,9 +3545,7 @@ N/A
 ## 사업에서 시장이 중요한 이유ㅣ82 STARTUP 액셀러레이팅 프로그램 모집
 **URL:** https://www.youtube.com/watch?v=GJ6Sw4T5gAI
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3806,9 +3610,7 @@ N/A
 ## 갓생들이 말하는 일도 잘하고 쉼도 잘하는 법 | Work On the Beach Ep.2
 **URL:** https://www.youtube.com/watch?v=eK2qqaFMOYA
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3844,9 +3646,7 @@ N/A
 ## 불황에도 채용을 늘리는 ‘일부’ 스타트업 이야기
 **URL:** https://www.youtube.com/watch?v=cKLo3oyGefc
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3877,9 +3677,7 @@ N/A
 ## 스타트업 사람들의 다소 놀라운(?) 연애&욕망 이야기 | Work On the Beach Ep.3
 **URL:** https://www.youtube.com/watch?v=hPDBvwU-GEg
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3909,9 +3707,7 @@ N/A
 ## 대기업? 스타트업? 개발자 커리어 시작 어떻게 해야 할까? | 워키토키 x 센드버드 ep1
 **URL:** https://www.youtube.com/watch?v=RD-ljQYXx_Q
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3953,9 +3749,7 @@ N/A
 ## 더 이상 기회가 없다는 시장에서 탄생한 1조 기업
 **URL:** https://www.youtube.com/watch?v=ETnROJe4OfA
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -3995,9 +3789,7 @@ N/A
 ## 10년차 개발자가 말하는 신입 시절 알았으면 좋았을 것들 | 워키토키 x 센드버드 ep2
 **URL:** https://www.youtube.com/watch?v=1t6rzoi4vfA
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4043,9 +3835,7 @@ N/A
 ## 한국의 전설적인 펀드이야기
 **URL:** https://www.youtube.com/watch?v=XVsz6JZOIEo
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4087,9 +3877,7 @@ N/A
 ## 5년 만에 다시 만난 그는 픽사에서 리드가 되어 있었다
 **URL:** https://www.youtube.com/watch?v=d5ZwJHbWk4E
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4110,9 +3898,7 @@ N/A
 ## 유병재가 만든 시트콤 속 '스타트업' 세계관 리뷰(with 현직 CEO, 투자자)
 **URL:** https://www.youtube.com/watch?v=J2U3UYJc_Xg
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4150,9 +3936,7 @@ N/A
 ## 기세가 꺾였던 조직을 다시 일으킨 리더십 이야기 [박재욱] 2편
 **URL:** https://www.youtube.com/watch?v=QqAxbxcVxUE
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4184,9 +3968,7 @@ N/A
 ## 어느 날 들어온 천재 개발자가 지분 7%를 요구했다
 **URL:** https://www.youtube.com/watch?v=FBBHIzkbkC8
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4215,9 +3997,7 @@ N/A
 ## 실패하고 싶지 않은 창업자를 위한 조언
 **URL:** https://www.youtube.com/watch?v=MLjFjtVJqVc
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4257,9 +4037,7 @@ N/A
 ## 이력서 40번 넣고 35번 탈락한 개발자의 사연 | 워키토키 x 센드버드 ep3
 **URL:** https://www.youtube.com/watch?v=i1HPaGDnocM
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4311,9 +4089,7 @@ N/A
 ## 25세 CEO에서 창업자들이 가장 만나고 싶어하는 투자자가 되기까지 | 알토스벤처스 박희은
 **URL:** https://www.youtube.com/watch?v=lZFjN3BhzO4
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4362,9 +4138,7 @@ N/A
 ## 자퇴 1번, 창업 2번, 이직 3번에서 배운 커리어 불확실성을 이겨내는 법 | 위벤처스 김소희
 **URL:** https://www.youtube.com/watch?v=mXvWBlv2ecA
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4399,9 +4173,7 @@ LG전자 투자팀에서 재무제표 공부부터 시작하며 새로운 산업
 ## 퇴사 후 되찾은 나만의 뾰족함으로 연봉 10배를 벌기까지 | 신일류 이연
 **URL:** https://www.youtube.com/watch?v=I4lYrCj6KZI
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4422,9 +4194,7 @@ N/A
 ## 18년 다닌 대기업 그만두고 스타트업 키우며 깨달은 것들 | 에이치에너지
 **URL:** https://www.youtube.com/watch?v=uSYyva1FGVY
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4458,9 +4228,7 @@ N/A
 ## 국내 최초 의사 출신 투자자가 말하는 일의 즐거움 | IMM인베스트먼트 문여정
 **URL:** https://www.youtube.com/watch?v=_aljZHnjVgI
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4492,9 +4260,7 @@ IPO를 대학 입학에 비유하며, 상장 이후에도 지속적인 성장이
 ## 지금 뒤처져 있다고 생각하는 모든 사람들에게
 **URL:** https://www.youtube.com/watch?v=g4vD2OWJlag
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4509,9 +4275,7 @@ N/A
 ## 지금 때려치고 싶다면? 현실적인 퇴사준비 체크리스트 4 | 신일류 이연
 **URL:** https://www.youtube.com/watch?v=0JqJfXuyC0A
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4538,9 +4302,7 @@ N/A
 ## 투자자 관점에서 본 콘텐츠 사업 관전 포인트
 **URL:** https://www.youtube.com/watch?v=mpKMgmZgRto
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4590,9 +4352,7 @@ N/A
 ## 중소기업 식품연구원의 네카라쿠배 개발자 입성기 🏰
 **URL:** https://www.youtube.com/watch?v=adfS2hrSPYQ
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4617,9 +4377,7 @@ IT 산업은 다른 산업의 인프라 역할을 하므로, 다양한 분야의
 ## 2억 → 300억💸 8년간 적자 없이 성장했습니다
 **URL:** https://www.youtube.com/watch?v=vc53hzDbIQQ
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4653,9 +4411,7 @@ N/A
 ## 완벽주의는 비즈니스의 가장 해로운 적입니다
 **URL:** https://www.youtube.com/watch?v=QEyJ7RJRcLg
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4689,9 +4445,7 @@ AM폴리는 천연 고분자 물질에 나노 기술을 접목하여 기존 천�
 ## 240만 노인 일자리를 혁신하는 회사 | 내이루리 IR 피칭, Q&A
 **URL:** https://www.youtube.com/watch?v=4On1sUNPrOo
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4753,9 +4507,7 @@ N/A
 ## 유튜브 조회수 세계 1위 핑크퐁 창업기
 **URL:** https://www.youtube.com/watch?v=CtgP-6EJwF0
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4772,9 +4524,7 @@ N/A
 ## 잘나가던 컨설턴트를 포기하고 실리콘밸리에서 창업하며 배운 것들 | 링글 이승훈
 **URL:** https://www.youtube.com/watch?v=79s67xl8a9M
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4821,9 +4571,7 @@ MBA 동기와 함께 '밍글(Ringle)'이라는 아이템으로 창업을 시작�
 ## 전국 어디든 사람들이 모이게 만들 수 있어요🏃‍♀️
 **URL:** https://www.youtube.com/watch?v=Dis3YUUT-to
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4844,9 +4592,7 @@ N/A
 ## 겨울이 끝난 뒤의 미래를 엿볼 수 있는 곳
 **URL:** https://www.youtube.com/watch?v=KGl5RD_lXEM
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4895,9 +4641,7 @@ N/A
 ## 32년간 한 우물만 팠던 어느 교수의 뚝심 | 페이스
 **URL:** https://www.youtube.com/watch?v=L6ynpTpKcWU
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4916,9 +4660,7 @@ N/A
 ## 벤처 투자자가 생각하는 불황이 기회인 이유 | 7%런치클럽 토크쇼 ep1
 **URL:** https://www.youtube.com/watch?v=0l32H7vankE
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -4957,9 +4699,7 @@ N/A
 ## 이제는 현실이 된 환경문제를 해결하는 두 스타트업
 **URL:** https://www.youtube.com/watch?v=Cvr7IW36sf4
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5009,9 +4749,7 @@ N/A
 ## 매주 앱 1개씩 만들다 보니 글로벌 1000만 앱이 탄생했다
 **URL:** https://www.youtube.com/watch?v=y2a-OJqCD9I
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5051,9 +4789,7 @@ N/A
 ## 투자받는 콘텐츠 스타트업과 못 받는 회사의 차이
 **URL:** https://www.youtube.com/watch?v=X6uKOeQsUkU
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5089,9 +4825,7 @@ N/A
 ## 사기꾼이라 의심하던 투자자의 마음을 10분 안에 돌릴 확률
 **URL:** https://www.youtube.com/watch?v=nNIVWugyqjQ
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5108,9 +4842,7 @@ N/A
 ## 테이블 빼고 로봇 넣겠다는 매장들, 왜일까? 🤔
 **URL:** https://www.youtube.com/watch?v=xOYZUdij0LA
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5139,9 +4871,7 @@ N/A
 ## 고인물이 장악한 시장에서 창업 1년도 안 돼 이뤄낸 성과 | 나비프라
 **URL:** https://www.youtube.com/watch?v=e6cVzJC0Yvc
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5156,9 +4886,7 @@ N/A
 ## 문맹률 90%, 배움의 기회가 없는 이들을 위해
 **URL:** https://www.youtube.com/watch?v=P2AWCp0YU9A
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5206,9 +4934,7 @@ N/A
 ## 15살에 로켓 독학한 천재 창업가의 우주업계 썰
 **URL:** https://www.youtube.com/watch?v=vOE5Bolltuo
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5262,9 +4988,7 @@ N/A
 ## 축구 덕후 공대생이 만들어낸 세계 축구의 미래
 **URL:** https://www.youtube.com/watch?v=70HVNrXkgUk
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5299,9 +5023,7 @@ N/A
 ## 혼다, 구글 출신 연구자가 작정하고 만든 한국 스타트업
 **URL:** https://www.youtube.com/watch?v=pyUCS6v0pEc
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5344,9 +5066,7 @@ N/A
 ## 여수의 소년, 뉴욕의 자수성가 신화가 되다 [눔 정세주 1편]
 **URL:** https://www.youtube.com/watch?v=kAfYEtj8XaU
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5365,9 +5085,7 @@ N/A
 ## 매출 400억💰30만 명이 사용하는 코딩교육제품을 만들기까지 | 에이럭스
 **URL:** https://www.youtube.com/watch?v=ixkotvNV1Pc
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5394,9 +5112,7 @@ N/A
 ## [무삭제] 크라우드펀딩 누적 4,729% 기록의 음료수 | 비네스트 IR 피칭, Q&A
 **URL:** https://www.youtube.com/watch?v=iU5lfF-r_zQ
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5439,9 +5155,7 @@ N/A
 ## 이걸 저희가 안 하면 변화는 한참 늦어질 거예요 | 브이터치
 **URL:** https://www.youtube.com/watch?v=fdUS2YqYMT8
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5462,9 +5176,7 @@ V-Touch의 창업자이자 공동대표인 김석중입니다. 저희는 보이�
 ## 실리콘밸리의 일하는 방식을 바꾸고 있는 한국 기업 | 스윗 Swit
 **URL:** https://www.youtube.com/watch?v=Nt_l9o7ZdfY
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5503,9 +5215,7 @@ N/A
 ## 대한민국 12만개의 건축물을 사람이 모두 점검할 수 있을까요? | 코매퍼
 **URL:** https://www.youtube.com/watch?v=RwuBpxWRxsM
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5522,9 +5232,7 @@ N/A
 ## 매출 0원에서 5000억까지, 모든 실패가 배움이었다 [눔 정세주 2편]
 **URL:** https://www.youtube.com/watch?v=O20acuFIGf8
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5557,9 +5265,7 @@ N/A
 ## 핀테크의 새로운 기준이 되겠습니다 | 윙크스톤파트너스 IR 피칭, Q&A
 **URL:** https://www.youtube.com/watch?v=SnWiV_T7Z8A
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5630,9 +5336,7 @@ N/A
 ## 한때 600만 명이 쓰는 서비스를 만들었던 젊은 사업가의 시행착오 | 더대시
 **URL:** https://www.youtube.com/watch?v=qJcUpifoyzo
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5649,9 +5353,7 @@ N/A
 ## 내가 나를 포기했다고 생각했을 때 가장 슬펐어요 | 워킹맘 특집 1부
 **URL:** https://www.youtube.com/watch?v=NlEIGG7xxQs
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5683,9 +5385,7 @@ N/A
 ## 코로나 초기엔 하루에 1명 온 날도 많았어요 | 째깍악어
 **URL:** https://www.youtube.com/watch?v=wGMz9xig38c
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5719,9 +5419,7 @@ N/A
 ## 대학원을 나와 토마토 농장으로 내려간 공대생의 5년 | 아이오크롭스
 **URL:** https://www.youtube.com/watch?v=xdIgeyVwiSc
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5743,9 +5441,7 @@ N/A
 ## 환자 식단이 이렇게 맛있을 수 있다고? | 잇마플 IR 피칭, Q&A
 **URL:** https://www.youtube.com/watch?v=3Bd7ZjARLZI
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5796,9 +5492,7 @@ N/A
 ## 10년 동안 3번 망할 뻔했던 위기 끝에서 찾아낸 희망
 **URL:** https://www.youtube.com/watch?v=xKVMeKnxU-0
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5813,9 +5507,7 @@ N/A
 ## 70점도 충분해요 대신 계속하세요 | 워킹맘 특집 2부
 **URL:** https://www.youtube.com/watch?v=kbjkK27URvk
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5857,9 +5549,7 @@ N/A
 ## 아이폰 다음으로 세상을 완전히 바꿀 기술, 10년 전부터 준비했죠
 **URL:** https://www.youtube.com/watch?v=QEosmEQrxII
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5897,9 +5587,7 @@ eH는 약 30조 원 규모의 스마트 시티, 스마트 팩토리, 스마트�
 ## 실리콘밸리에서 라이브로 전합니다, 한국에서 만나보세요 ㅣ82 STARTUP GLOBAL SUMMIT
 **URL:** https://www.youtube.com/watch?v=LI62sbcu-Oo
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5937,9 +5625,7 @@ N/A
 ## 무려 20억 목표가 눈앞이죠ㅣ어나더데이 IR 피칭, Q&A
 **URL:** https://www.youtube.com/watch?v=MsJfLhWU8b4
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -5982,9 +5668,7 @@ N/A
 ## 갓생을 꿈꾸던 대학생이 세계 170개 국가의 아침을 깨우기까지 | 알라미
 **URL:** https://www.youtube.com/watch?v=PnsSgqldfzU
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6031,9 +5715,7 @@ N/A
 ## 사업가보다는 사명가로 불리고 싶습니다ㅣ브라더스키퍼 IR 피칭, Q&A
 **URL:** https://www.youtube.com/watch?v=U3975OUB3Q8
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6103,9 +5785,7 @@ N/A
 ## 중대발표 여러분 EO를 도와주세요
 **URL:** https://www.youtube.com/watch?v=1e79ltiuvco
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6122,9 +5802,7 @@ N/A
 ## 바닥부터 시작해 아마존의 리드 자리까지 오르게 만든 성장통ㅣAmazon 방비룡
 **URL:** https://www.youtube.com/watch?v=w_JOomDg70A
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6157,9 +5835,7 @@ N/A
 ## 눈 깜빡임에서 사업 기회를 발견했죠 👀 | 비주얼캠프 IR 피칭, Q&A
 **URL:** https://www.youtube.com/watch?v=jz3nbUa_wfk
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6217,9 +5893,7 @@ N/A
 ## 우리는 왜 이제야 만났을까요 😂 투자자들의 탄식 | 인투코어테크놀로지 IR 피칭, Q&A
 **URL:** https://www.youtube.com/watch?v=fHohaxTfDwA
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6258,9 +5932,7 @@ N/A
 ## 대학 중퇴 후 창업, 11년을 버티며 빛을 본 지금에야 깨달은 것 | Allo 홍용남
 **URL:** https://www.youtube.com/watch?v=bo5Z1ugNl5U
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6279,9 +5951,7 @@ N/A
 ## 창업하는 모든 사람들이 알아야 하는 지원 사업ㅣ초기창업패키지
 **URL:** https://www.youtube.com/watch?v=ulpxSLY7HvI
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6316,9 +5986,7 @@ N/A
 ## 회사에 불만은 있지만 뭘 하고 싶은지 모르는 당신에게 I 구글 UX 리드 김은주
 **URL:** https://www.youtube.com/watch?v=iT3X2vMvqHE
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6338,9 +6006,7 @@ N/A
 ## 미세먼지 '이걸' 로 쉽게 볼 수 있죠 | 딥비전스 IR 피칭, Q&A
 **URL:** https://www.youtube.com/watch?v=uMhAYdRJ2nU
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6369,9 +6035,7 @@ N/A
 ## 쌓아왔던 것에서 벗어나 새로운 도전을 하고 싶다면 | CoDo
 **URL:** https://www.youtube.com/watch?v=RA5udnqbiIQ
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6397,9 +6061,7 @@ N/A
 ## 12년 동안 이 기술만 연구했습니다 | 씨에이랩 IR 피칭, Q&A
 **URL:** https://www.youtube.com/watch?v=6BS4YgPS3TQ
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6471,9 +6133,7 @@ A: 공기질 개선은 눈에 띄지 않아 과시화에 대한 니즈가 많습
 ## 어느날 카카오가 내게 계열사 대표가 되어달라고 했다 | 카카오브레인 김일두
 **URL:** https://www.youtube.com/watch?v=rlP110tnSLU
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6529,9 +6189,7 @@ N/A
 ## 엑셀로 2일 만에 만든 서비스, 2년 만에 매각까지 | 마이루틴 옥민송
 **URL:** https://www.youtube.com/watch?v=huqyFa7O9p0
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6577,9 +6235,7 @@ N/A
 ## 평범한 내가 실리콘밸리에서 20년간 승승장구 할 수 있는 이유 | 테슬라 김동욱
 **URL:** https://www.youtube.com/watch?v=fHS1ZOxCzDA
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6618,9 +6274,7 @@ N/A
 ## 처음 리더가 된 사람들을 위한 조언 by 전 메타(META) 수석팀장
 **URL:** https://www.youtube.com/watch?v=UADiwl9SHss
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6664,9 +6318,7 @@ N/A
 ## 저커버그도 따라야 하는 메타(META)의 피드백 원칙
 **URL:** https://www.youtube.com/watch?v=Fn3fGp9s3bY
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6699,9 +6351,7 @@ N/A
 ## 25년차고요, 제 직업은 개발자를 키우는 개발자입니다 | 오늘의집 CTO
 **URL:** https://www.youtube.com/watch?v=d14cQHBtZc4
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6733,9 +6383,7 @@ N/A
 ## 창업과 성장에 관심 있다면 이 단어를 아실 거예요
 **URL:** https://www.youtube.com/watch?v=b3A4DJ5WWh0
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6774,9 +6422,7 @@ N/A
 ## 투자자의 배신으로 한국을 떠난 청년이 미국을 매료시킨 브랜드를 만들기까지 | 도깨비어 이영원
 **URL:** https://www.youtube.com/watch?v=8l9YIw9K4u4
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6807,9 +6453,7 @@ N/A
 ## 실리콘밸리 개발자로 10년, 사업 망하고 우버를 몰다가 깨달은 인생 법칙 | Ceeya 박기상
 **URL:** https://www.youtube.com/watch?v=2OH-xcuyOFk
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6857,9 +6501,7 @@ N/A
 ## 창업가의 야망, 실패, 자기검열, 돈에 대한 가장 솔직한 이야기 | 최성운의 사고실험 [임혜민]
 **URL:** https://www.youtube.com/watch?v=DPuTKRUYkDw
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6876,9 +6518,7 @@ N/A
 ## 스타트업 환상 본격 파괴하는 현실 웹드라마 | 실리콘밸리댄스 예고편
 **URL:** https://www.youtube.com/watch?v=Fu69mxDBrX8
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6904,9 +6544,7 @@ N/A
 ## 최선을 다했지만 실패한 당신에게 들려주고픈 이야기 | 스탠포드 돌돌콩
 **URL:** https://www.youtube.com/watch?v=Cj_S9oAKU08
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6936,9 +6574,7 @@ N/A
 ## 1조 기업 창업자가 선택한 미래의 유니콘ㅣ센드버드 김동신, Yess 장지원
 **URL:** https://www.youtube.com/watch?v=P4_XCtW696U
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6971,9 +6607,7 @@ Yes.io는 다음 라운드(시리즈 A)까지 필요한 목표 달성을 위해 
 ## 인공지능이 만들어내고 있는 새로운 기회들
 **URL:** https://www.youtube.com/watch?v=GE0TM9-ZrWk
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -6990,9 +6624,7 @@ N/A
 ## 스타트업에 무조건 있는 빌런 특징 [실리콘밸리댄스 EP.01]
 **URL:** https://www.youtube.com/watch?v=A5TUTSR083M
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7023,9 +6655,7 @@ N/A
 ## 막내 사원이 최연소 대표가 되어 돌아보는 23년 커리어 | 한국P&G 이지영
 **URL:** https://www.youtube.com/watch?v=co1XxpfaG7g
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7047,9 +6677,7 @@ N/A
 ## 한국인 모두가 알지만 아무도 모르는 산업에서 이뤄낸 기록ㅣ컨텍
 **URL:** https://www.youtube.com/watch?v=_JLR22zs3WQ
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7068,9 +6696,7 @@ N/A
 ## 오늘도 개발자는 안 된다고 말했다 [실리콘밸리댄스 EP.02]
 **URL:** https://www.youtube.com/watch?v=ag1mOTiG4fE
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7083,9 +6709,7 @@ N/A
 ## 어차피 실패확률 99%, 큰 꿈이 더 유리합니다 | 라이너 김진우
 **URL:** https://www.youtube.com/watch?v=O6SZz583eN8
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7115,9 +6739,7 @@ ChatGPT 등장으로 거대 언어 모델 시대가 도래하자, 라이너는 �
 ## 입양아에서 장관, 7개 유니콘 스타트업 투자자가 되기까지ㅣ플뢰르 펠르랭
 **URL:** https://www.youtube.com/watch?v=GR5PuqbyA50
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7134,9 +6756,7 @@ N/A
 ## 우리 어제 월급 들어오는 날 아니었나? [실리콘밸리댄스 EP.03]
 **URL:** https://www.youtube.com/watch?v=fc7jBbjzFlk
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7161,9 +6781,7 @@ N/A
 ## 전세계 1300만 명의 아이들을 실패에서 구한 창업가 | 최성운의 사고실험 [이수인] 1부
 **URL:** https://www.youtube.com/watch?v=9fNM_-VhiAY
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7210,9 +6828,7 @@ N/A
 ## 투자자가 생각하는 초기창업가에게 중요한 4가지 요소들
 **URL:** https://www.youtube.com/watch?v=y0mOOiuG0K0
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7259,9 +6875,7 @@ N/A
 ## 사회생활 처음 해보는 인턴 특징 [실리콘밸리댄스 EP.04]
 **URL:** https://www.youtube.com/watch?v=e0H4BMMxljo
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7274,9 +6888,7 @@ N/A
 ## 나서는 걸 좋아하지 않는 게 장점이 될 수도 있어요ㅣGlassdome
 **URL:** https://www.youtube.com/watch?v=K1ZSQBsi148
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7293,9 +6905,7 @@ N/A
 ## 아시아 1위 수학 학습앱을 만든 대표에게 물어보았다 | 최성운의 사고실험 [이수인] 2부
 **URL:** https://www.youtube.com/watch?v=YdzgYuICj8o
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7314,9 +6924,7 @@ AI 시대의 교육자는 학생들이 많은 정보를 처리하고, 참과 거
 ## 실리콘밸리에서 받은 충격을 한국으로 가져오고 싶었어요 | 센드버드 이은창
 **URL:** https://www.youtube.com/watch?v=rFh21zGLqfw
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7359,9 +6967,7 @@ N/A
 ## 이런 식으로 회사 연명하는게 의미가 있어요? [실리콘밸리댄스 마지막화]
 **URL:** https://www.youtube.com/watch?v=wFbLliyLN9I
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7380,9 +6986,7 @@ N/A
 ## 선배 창업자들이 쉽게 말해주지 않는 창업의 현실 | 스푼라디오 최혁재
 **URL:** https://www.youtube.com/watch?v=lNWGZvQvu28
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7428,9 +7032,7 @@ N/A
 ## 1300만 명이 썼지만 다음주에 사라질 수도 있는 산업 | 최성운의 사고실험 [장지호] 1부
 **URL:** https://www.youtube.com/watch?v=jK3T_245ssY
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7445,9 +7047,7 @@ N/A
 ## YC에게 투자 받고, 루이비통모엣헤네시와 일하는 한국 회사 | Marqvision
 **URL:** https://www.youtube.com/watch?v=dJWU2vc2UJc
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7487,9 +7087,7 @@ YC 프로그램을 통해 비즈니스 운영의 단순함과 '연반복 매출(
 ## 실리콘밸리 구글 이벤트에 다녀와서 느낀 점 (feat. AI, Bard)
 **URL:** https://www.youtube.com/watch?v=cJGKrsjhxr4
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7518,9 +7116,7 @@ N/A
 ## 스물일곱 살에 90명이 다니는 회사를 만들면서 배운 것 | 최성운의 사고실험 [장지호] 2부
 **URL:** https://www.youtube.com/watch?v=fl2t6OM1owM
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7564,9 +7160,7 @@ N/A
 ## 사업계획서 '잘' 쓰는 법ㅣ이택경의 스타트업 투자 전략 EP 03
 **URL:** https://www.youtube.com/watch?v=kgnMAyQYsL8
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7621,9 +7215,7 @@ N/A
 ## 아무도 손대지 않는 비과학적인 산업에서 발견한 독점의 기회 | 천명 유현재
 **URL:** https://www.youtube.com/watch?v=J6HK3h5xoDE
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7694,9 +7286,7 @@ N/A
 ## 미국 생활 20년, 오랫동안 내 성장을 만든 원동력 | 미국변호사 존청
 **URL:** https://www.youtube.com/watch?v=iGuKqFHSFKI
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7722,9 +7312,7 @@ N/A
 ## 브랜드를 만들 때 착각하기 쉬운 한 가지 사실 | 더쎄를라잇브루잉 전동근
 **URL:** https://www.youtube.com/watch?v=1vJVZYdv9I0
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7760,9 +7348,7 @@ N/A
 ## 방황하던 시간을 나만의 무기로 바꾸는 스토리텔링 기술 | 구글 UX리서처 제니 허
 **URL:** https://www.youtube.com/watch?v=wVy2VNBWtkI
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7789,9 +7375,7 @@ N/A
 ## 타일러가 직접 고쳐보겠다는 한국 엔터산업의 문제점들 | 최성운의 사고실험 [타일러] 1부
 **URL:** https://www.youtube.com/watch?v=HGK2NTf6xOo
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7818,9 +7402,7 @@ N/A
 ## 구글 애플 출신 한국인들이 전세계 유일무이한 번역 엔진을 만들기까지
 **URL:** https://www.youtube.com/watch?v=ajPYIgXma4g
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7851,9 +7433,7 @@ N/A
 ## 시니어 개발자가 주니어에게 바라는 딱 한 가지 | 오늘의집 최진한 개발자
 **URL:** https://www.youtube.com/watch?v=p-VP3pT8GEg
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7894,9 +7474,7 @@ N/A
 ## 나한테 도움되는 조언과 쓸모없는 조언 구별하는 법 | 최성운의 사고실험 [타일러] 2부
 **URL:** https://www.youtube.com/watch?v=TEuXF0BwoOc
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7935,9 +7513,7 @@ N/A
 ## 모은 돈 500만 원뿐이던 내가 여기까지 올 수 있었던 이유 | 청춘닭꼬치 박진완
 **URL:** https://www.youtube.com/watch?v=UEG_68FePJ0
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -7963,9 +7539,7 @@ N/A
 ## 자기계발서에 휘둘리지 마세요 | 최성운의 사고실험 [타일러] 3부
 **URL:** https://www.youtube.com/watch?v=dNSLmJz_zGY
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -8011,9 +7585,7 @@ N/A
 ## 고3이 기숙사에서 만든 앱으로 1500만 원을 번 과정 | 최성운의 사고실험 [김현준] 1부
 **URL:** https://www.youtube.com/watch?v=U3BJyWSSbro
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -8037,9 +7609,7 @@ N/A
 ## 글로벌 6위 한국의 인공지능 기업들의 생존 전략ㅣ2023 Generative AI Asia 요약
 **URL:** https://www.youtube.com/watch?v=rhTwR9vdApQ
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -8063,9 +7633,7 @@ N/A
 ## 혁신 없는 레드오션에서 살아남는 방법 | 페이히어 박준기
 **URL:** https://www.youtube.com/watch?v=MLIcI2TKjrQ
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -8088,9 +7656,7 @@ N/A
 ## 대학에 갈 이유가 없다는 걸 깨달은 고3 창업가의 논리 | 최성운의 사고실험 [김현준] 2부
 **URL:** https://www.youtube.com/watch?v=uOwNhYCckLU
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -8118,9 +7684,7 @@ N/A
 ## 베트남에서 오토바이 사업으로 1등 먹은 한국인의 방식 | 오케이쎄 김우석
 **URL:** https://www.youtube.com/watch?v=jTIncrqyezI
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -8141,9 +7705,7 @@ OKAS는 스마트폰 앱 결제 시스템을 도입하며 빠르게 성장, 현�
 ## 영어 콤플렉스를 가졌던 한국인이 글로벌 조직에서 살아남는 법 | Grab 한소리
 **URL:** https://www.youtube.com/watch?v=dymHKrDVDXY
 
-### Description
 
-N/A
 
 ### Summary
 
@@ -8164,9 +7726,7 @@ N/A
 ## 240억 투자받은 놀라운 드론 기술ㅣ비거라지 김영준
 **URL:** https://www.youtube.com/watch?v=wiaQa7RjAtE
 
-### Description
 
-N/A
 
 ### Summary
 
