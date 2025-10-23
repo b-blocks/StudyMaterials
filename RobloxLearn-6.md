@@ -1,4 +1,4 @@
-# 제목: How to Manage Your Community | RDC 2021
+# How to Manage Your Community | RDC 2021
 
 **URL:** https://www.youtube.com/watch?v=wrf6DRlfoO8
 
@@ -151,7 +151,7 @@ Minitoon의 발표 내용을 더 깊이 이해하고 실제 업무에 적용하�
 -   `Dealing with Online Trolls`
 
 
-# 제목: Builderman Q&A | RDC 2021: 로블록스의 미래 비전과 개발자 생태계
+# Builderman Q&A | RDC 2021: 로블록스의 미래 비전과 개발자 생태계
 
 **URL:** https://www.youtube.com/watch?v=vVVQ0D94Bo4
 
@@ -236,7 +236,7 @@ Minitoon의 발표 내용을 더 깊이 이해하고 실제 업무에 적용하�
   - `Cross-Platform Development`: 다양한 하드웨어와 운영체제에서 일관된 경험을 제공하기 위한 개발 전략.
 
 
-# 제목: Tips For Scaling Up A Company on Roblox | RDC 2021
+# Tips For Scaling Up A Company on Roblox | RDC 2021
 
 - **URL:** https://www.youtube.com/watch?v=TLRakuu4vd0
 - **URL:** https://www.youtube.com/watch?v=vVVQ0D94Bo4
@@ -384,7 +384,7 @@ Minitoon의 발표 내용을 더 깊이 이해하고 실제 업무에 적용하�
   - `Corporate Social Responsibility (CSR) for small business`
 
 
-# 제목: Roblox Panel | RDC 2021: 플랫폼의 미래 비전과 개발자 생태계의 진화
+# Roblox Panel | RDC 2021: 플랫폼의 미래 비전과 개발자 생태계의 진화
 
 **URL:** https://www.youtube.com/watch?v=LCDJPaMylV0
 
@@ -488,7 +488,7 @@ Roblox는 더 높은 퀄리티의 경험을 안정적으로 제공하기 위해 
     -   `Roblox StreamingEnabled performance`
 
 
-# 제목: Developer Panel | RDC 2021: Roblox 최고 개발자들의 성공 비결
+# Developer Panel | RDC 2021: Roblox 최고 개발자들의 성공 비결
 
 **URL:** https://www.youtube.com/watch?v=D8scEdjtqf0
 
@@ -632,7 +632,7 @@ Roblox는 더 높은 퀄리티의 경험을 안정적으로 제공하기 위해 
     -   `Work-Life Balance for Developers`
 
 
-# 제목: Game Jam Presentations and Awards Ceremony | RDC 2021
+# Game Jam Presentations and Awards Ceremony | RDC 2021
 
 **URL:** https://www.youtube.com/watch?v=JtU0eYYwMOc
 
@@ -730,7 +730,7 @@ RDC 2021 게임 잼은 24시간이라는 짧은 시간에도 불구하고 높은
 - `Fourth Wall Breaking in Games` (게임에서의 제4의 벽 파괴)
 
 
-# 제목: Creating Opportunities to Connect | RDC 2021
+# Creating Opportunities to Connect | RDC 2021
 
 - **URL:** https://www.youtube.com/watch?v=-LsnvpHLNhw
 - **URL:** https://www.youtube.com/watch?v=JtU0eYYwMOc
@@ -887,7 +887,7 @@ Roblox의 소통에 대한 비전은 "메타버스 내에서 매우 몰입감 �
 -   `Game API Design Principles`
 -   `Digital Identity and Verification`
 
-# 제목: RDC 2021 Sizzle: 커뮤니티, 창작, 그리고 메타버스의 미래
+# RDC 2021 Sizzle: 커뮤니티, 창작, 그리고 메타버스의 미래
 
 **URL:** https://www.youtube.com/watch?v=a63iradAeJE
 
@@ -979,7 +979,7 @@ RDC 2021의 핵심 메시지 중 하나는 Roblox가 게임을 넘어 '메타버
   - `Digital Identity`
   - `Community-Driven Development`
 
-# 제목: Live Ops with the Notorious Creators of Jailbreak | RDC 2021
+# Live Ops with the Notorious Creators of Jailbreak | RDC 2021
 
 **URL:** https://www.youtube.com/watch?v=bKvOPfp3oX0
 
@@ -1157,7 +1157,7 @@ Jailbreak의 첫 라이브 이벤트는 성공적이었지만, 여러 문제점�
     -   `Roblox HttpService Proxy`
     -   `Player Retention Strategies`
 
-# 제목: Roblox의 Open Cloud로 생산성을 잠금 해제하세요 | RDC 2021
+# Roblox의 Open Cloud로 생산성을 잠금 해제하세요 | RDC 2021
 ## Unlock Your Productivity with Roblox's Open Cloud | RDC 2021
 
 **URL:** https://www.youtube.com/watch?v=Qkgxw6HoJ4M
@@ -1302,7 +1302,7 @@ Open Cloud는 이제 시작 단계이며, 앞으로 더 많은 기능이 추가�
     -   `Principle of Least Privilege`
     -   `CIDR Notation`
 
-# 제목: Tailoring Dynamic Content: Localization and Suitability | RDC 2021
+# Tailoring Dynamic Content: Localization and Suitability | RDC 2021
 ## Tailoring Dynamic Content: Localization and Suitability | RDC 2021
 **URL:** https://www.youtube.com/watch?v=ZhtTkuaSyVs
 
@@ -1462,7 +1462,7 @@ Roblox는 번역 기능을 더욱 고도화할 계획입니다.
 -   `Roblox Policy API examples`
 -   `Machine Translation for Games`
 
-# 제목: Driving Discovery on Roblox | RDC 2021
+# Driving Discovery on Roblox | RDC 2021
 
 ## Driving Discovery on Roblox | RDC 2021
 **URL:** https://www.youtube.com/watch?v=DHvfEB8myyU
@@ -1615,7 +1615,7 @@ Roblox는 광고 시스템을 더욱 발전시킬 계획입니다.
     -   `Cold start problem in recommendation systems`
     -   `A/B testing for game icons and titles`
 
-# 제목: Tools & Resources for Collaboration | RDC 2021
+# Tools & Resources for Collaboration | RDC 2021
 
 ## Tools & Resources for Collaboration | RDC 2021
 **URL:** https://www.youtube.com/watch?v=0HlqqX29sRE
@@ -1786,7 +1786,7 @@ Roblox에서 협업은 단순한 공동 작업을 넘어, 커뮤니티와 플랫
     - `Digital asset management (DAM)`
     - `Version control for game assets`
 
-# 제목: Finding the Fun with Jandel and Foryxe
+# Finding the Fun with Jandel and Foryxe
 
 ## Finding the Fun with Jandel and Foryxe
 **URL:** https://www.youtube.com/watch?v=rVr0IyfYkPg
@@ -1898,7 +1898,7 @@ Roblox는 다른 플랫폼과 구별되는 독특한 플레이어 문화를 가�
     - `Live Ops (Live Operations)`: 출시된 게임을 지속적으로 운영하고 업데이트하는 것.
     - `Soft Launch Strategy`: 게임의 소프트 론칭 전략과 장점.
 
-# 제목: Writing Quests, Achievements & Dailies with BreakfastCandy
+# Writing Quests, Achievements & Dailies with BreakfastCandy
 
 ## Writing Quests, Achievements & Dailies with BreakfastCandy
 - **URL:** https://www.youtube.com/watch?v=iWSZJSE2NEc
@@ -2022,7 +2022,7 @@ Roblox는 다른 플랫폼과 구별되는 독특한 플레이어 문화를 가�
     - `Game Localization Challenges`
 
 
-# 제목: Designing Quests, Achievements & Dailies with BreakfastCandy
+# Designing Quests, Achievements & Dailies with BreakfastCandy
 
 ## Designing Quests, Achievements & Dailies with BreakfastCandy
 **URL:** https://www.youtube.com/watch?v=1stxDQeHhr8
@@ -2337,7 +2337,7 @@ Roblox는 다른 플랫폼과 구별되는 독특한 플레이어 문화를 가�
 - `Player Retention Strategies`
 - `Narrative Design in Games`
 
-# 제목: Roleplay Design and Worldbuilding with Myzta
+# Roleplay Design and Worldbuilding with Myzta
 
 **URL:** https://www.youtube.com/watch?v=UlKAoiFLgUo
 
@@ -2423,7 +2423,7 @@ Myzta와 그녀의 팀은 게임의 핵심 비전(예: 긍정적인 영향, 환�
   - `Avoiding Over-gamification`: 과도한 게임화 피하기
   - `Role-playing Game Design Principles`: 롤플레잉 게임 디자인 원칙
 
-# 제목: Designing Season Passes with Dspav and BreakfastCandy
+# Designing Season Passes with Dspav and BreakfastCandy
 
 - **URL:** https://www.youtube.com/watch?v=k2gbQI-ggB4
 - **URL:** https://www.youtube.com/watch?v=UlKAoiFLgUo
@@ -2559,7 +2559,7 @@ Myzta와 그녀의 팀은 게임의 핵심 비전(예: 긍정적인 영향, 환�
 -   `Battle Pass Balancing` (배틀 패스 밸런싱)
 -   `Player Segmentation Analytics` (플레이어 세분화 분석)
 
-# 제목: UI/UX Design with GodzGalaxy, theloudscream & Repotted
+# UI/UX Design with GodzGalaxy, theloudscream & Repotted
 
 - **URL:** https://www.youtube.com/watch?v=AG-3o_GdqKI
 - **URL:** https://www.youtube.com/watch?v=k2gbQI-ggB4
@@ -2685,7 +2685,7 @@ UI(User Interface)와 UX(User Experience)는常常 함께 언급되지만, 명�
 - **검색해볼 키워드 제안**:
   - `Game UI/UX Principles`, `Roblox UI Design Tutorial`, `Accessibility in Games` (게임 접근성), `UI Style Guide` (UI 스타일 가이드), `Wireframing for Games` (게임 와이어프레이밍)
 
-# 제목: 라이브 게임을 위한 콘텐츠 업데이트 전략 (Content Updates for Live Games)
+# 라이브 게임을 위한 콘텐츠 업데이트 전략 (Content Updates for Live Games)
 
 ## Content Updates for Live Games
 
@@ -2886,7 +2886,7 @@ UI(User Interface)와 UX(User Experience)는常常 함께 언급되지만, 명�
 -   **검색 추천 키워드**:
     -   `Live Ops`, `Content Cadence`, `Games as a Service (GaaS)`, `Player Retention`, `Game Monetization`, `User-Generated Content (UGC)`, `Asset Pipeline`, `Game Production Roadmap`
 
-# 제목: Narrative and Game Design with MiniToon
+# Narrative and Game Design with MiniToon
 
 - **URL:** https://www.youtube.com/watch?v=kQIyqMdh7Os
 - **URL:** https://www.youtube.com/watch?v=dBlP8NdJQM0
@@ -3042,7 +3042,7 @@ MiniToon이 공유한 통찰을 더 깊이 이해하고 자신의 프로젝트�
 
 
 
-# 제목: Supporting Game Expansions with Dspav
+# Supporting Game Expansions with Dspav
 
 - **URL:** https://www.youtube.com/watch?v=4-vZkSrGAxI
 - **URL:** https://www.youtube.com/watch?v=dBlP8NdJQM0
@@ -3208,7 +3208,7 @@ KPI는 게임의 건강 상태를 나타내는 혈압계와 같습니다. 크게
 #### 검색해볼 키워드 제안
 -   `Game KPIs`, `F2P Monetization`, `LiveOps Strategy`, `Game Feature Funnel Analysis`, `Player Retention Strategies`, `Community Management in Gaming`, `Game Development Retrospective`
 
-# 제목: Balancing Game Expansions with Dspav
+# Balancing Game Expansions with Dspav
 
 - **URL:** https://www.youtube.com/watch?v=4-vZkSrGAxI
 - **URL:** https://www.youtube.com/watch?v=pSjFYDEgRxs
@@ -3372,7 +3372,7 @@ KPI는 게임의 건강 상태를 나타내는 혈압계와 같습니다. 크게
 - `Data-Informed Game Design`
 - `Live-Ops Balancing`
 
-# 제목: Dspav와 함께하는 게임 확장팩 제작 프로덕션 가이드
+# Dspav와 함께하는 게임 확장팩 제작 프로덕션 가이드
 
 **URL:** https://www.youtube.com/watch?v=HKLRLhHHHVc
 
@@ -3484,7 +3484,7 @@ KPI는 게임의 건강 상태를 나타내는 혈압계와 같습니다. 크게
   - `Game Design Documentation`
   - `Feature Creep vs. Iteration`
 
-# 제목: What are Game Expansions? with Dspav
+# What are Game Expansions? with Dspav
 
 **URL:** https://www.youtube.com/watch?v=UL4QaSbfyC4
 
@@ -3604,7 +3604,7 @@ KPI는 게임의 건강 상태를 나타내는 혈압계와 같습니다. 크게
 
 
 
-# 제목: Designing Game Expansions with AbstractAlex, Usering & ImprobableAI
+# Designing Game Expansions with AbstractAlex, Usering & ImprobableAI
 
 - **URL:** https://www.youtube.com/watch?v=Gv5OVVyWM10
 - **URL:** https://www.youtube.com/watch?v=UL4QaSbfyC4

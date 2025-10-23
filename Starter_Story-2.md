@@ -49,7 +49,7 @@ Uray는 현대적인 웹 스택을 활용하여 제품을 개발합니다. 그�
 ## My Apps Make $4.5M/Year With $0 Marketing
 **URL:** https://www.youtube.com/watch?v=vLLBzUZr6-s
 
-# YouTube 영상 심층 학습 자료: 플랫폼 기반 앱 비즈니스로 연 450만 달러 수익 달성 전략
+# 플랫폼 기반 앱 비즈니스로 연 450만 달러 수익 달성 전략
 
 ## 1. 개요 (Overview)
 이 문서는 Shopify 앱 개발을 통해 연간 450만 달러의 매출을 달성하고 90%의 높은 수익률을 유지하는 'Kaching Bundles'의 창업자 에리코스(Ericos)의 성공 사례를 심층적으로 분석합니다. 마케팅 비용을 거의 들이지 않고도 어떻게 이러한 성과를 이루었는지, 그 과정에서 얻은 통찰력과 전략을 상세히 다룹니다. 이 자료는 플랫폼 기반 비즈니스 모델의 잠재력, 아이디어 발굴 및 검증, 제품 개발, 마케팅, 수익화 전략, 그리고 팀 빌딩에 대한 핵심 질문에 답하며, 예비 창업가, 디자이너, 개발자 및 플랫폼 비즈니스에 관심 있는 모든 이들에게 실질적인 가이드를 제공하는 것을 목적으로 합니다.
@@ -225,7 +225,7 @@ monday.com에서 제공하는 시장 통계, 사용자 정보, 해결해야 할 
 ## I Spent 24 Hours With Roblox Millionaires
 **URL:** https://www.youtube.com/watch?v=8xgnm6SynH4
 
-# YouTube 영상 심층 학습 자료: Roblox 백만장자들의 성공 전략과 기업가 정신
+# Roblox 백만장자들의 성공 전략과 기업가 정신
 
 ## 1. 개요 (Overview)
 이 학습 자료는 인기 게임 플랫폼 Roblox에서 수백만 달러의 수익을 창출하는 젊은 기업가들의 실제 사례를 통해, Roblox 생태계의 잠재력과 성공적인 비즈니스 구축 전략을 탐구합니다. 영상은 Roblox 게임 개발자 Cole과 Ian, 그리고 Roblox 전문 마케팅 에이전시 Vector 3의 창업자 Jake의 이야기를 중심으로, 플랫폼의 작동 방식, 수익 모델, 그리고 성공적인 게임 및 비즈니스를 위한 핵심 원칙들을 제시합니다. 이 자료는 Roblox 개발에 관심 있는 사람, 디지털 경제에서 새로운 기회를 찾고자 하는 기업가 지망생, 또는 AI 코딩 도구의 잠재력에 대해 알고 싶은 사람들을 대상으로 하며, 특별한 사전 지식 없이도 내용을 이해할 수 있도록 구성되었습니다.
@@ -341,7 +341,7 @@ Jake는 콜드 아웃리치(cold outreach)나 콜드 콜(cold call) 없이 클�
 ## My Coding Game Makes $1M Per Month
 **URL:** https://www.youtube.com/watch?v=tMkpiFIW8Xg
 
-# YouTube 영상 심층 학습 자료: 포화 시장에서 8자리 수익을 달성한 온라인 학습 플랫폼의 비결
+# 포화 시장에서 8자리 수익을 달성한 온라인 학습 플랫폼의 비결
 
 ## 1. 개요 (Overview)
 이 문서는 소프트웨어 엔지니어를 위한 온라인 학습 플랫폼인 `boot.dev`가 어떻게 포화된 시장에서 월 100만 달러에 가까운 수익을 달성했는지에 대한 심층 분석을 제공합니다. 영상은 창업가 Lane Wagner의 경험을 통해 제품 차별화, 효과적인 마케팅 전략, 그리고 견고한 비즈니스 모델 구축의 중요성을 탐구합니다. 핵심 질문은 "수많은 경쟁자가 있는 시장에서 어떻게 독보적인 성공을 거둘 수 있었는가?"이며, 이를 통해 창업가, 개발자, 마케터, 그리고 온라인 비즈니스에 관심 있는 모든 이들에게 실질적인 통찰을 제공하는 것을 목적으로 합니다. 사전 지식으로는 기본적인 비즈니스 및 마케팅 개념에 대한 이해가 있다면 더욱 효과적으로 내용을 습득할 수 있습니다.
@@ -470,7 +470,7 @@ Jake는 콜드 아웃리치(cold outreach)나 콜드 콜(cold call) 없이 클�
 ## I Got Rejected From YC, Then Built a $200M Startup
 **URL:** https://www.youtube.com/watch?v=PSx0vcUY-sk
 
-# YouTube 영상 심층 학습 자료: 좌절을 딛고 일어선 연쇄 창업가의 성공 스토리
+# 좌절을 딛고 일어선 연쇄 창업가의 성공 스토리
 
 ## 1. 개요 (Overview)
 이 학습 자료는 무일푼에서 시작하여 수천만 달러 규모의 비디오 편집 스타트업 'V.io'를 성공시킨 창업가 사바 케네드(Saba Kenned)의 여정을 심층적으로 분석합니다. 영상은 그의 초기 창업 경험, 수많은 실패와 좌절, 그리고 이를 극복하고 폭발적인 성장을 이뤄낸 과정을 생생하게 전달합니다.
@@ -609,7 +609,7 @@ Jake는 콜드 아웃리치(cold outreach)나 콜드 콜(cold call) 없이 클�
 ## From Zero to $42K/Month in 90 Days with AI
 **URL:** https://www.youtube.com/watch?v=0T55DRYqeeA
 
-# YouTube 영상 심층 학습 자료: AI 시대의 성공적인 스타트업 빌딩 전략
+# AI 시대의 성공적인 스타트업 빌딩 전략
 
 ## 1. 개요 (Overview)
 이 학습 자료는 Starter Story 채널에 출연한 CJ(Sajila Mazafir)의 성공 사례를 통해 AI 시대에 스타트업을 구축하고 성장시키는 실질적인 전략을 탐구합니다. CJ는 단 14일 만에 MVP를 구축하고 90일 만에 월 42,000달러(MRR)를 달성한 AI 기반 문서화 도구 'Code Guide'의 창업자입니다. 이 영상은 아이디어 검증, 제품 개발, 그리고 특히 '튜토리얼 마케팅'이라는 독창적인 유기적 성장 전략에 초점을 맞춥니다.
@@ -865,7 +865,7 @@ Polus는 자신의 경험을 바탕으로 젊은 창업가들에게 다음과 �
 ## I Make $250K/Month From 20 Apps
 **URL:** https://www.youtube.com/watch?v=En34iY-rQc0
 
-# YouTube 영상 심층 학습 자료: 존 러쉬의 26개 앱 포트폴리오 구축 전략
+# 존 러쉬의 26개 앱 포트폴리오 구축 전략
 
 ## 1. 개요 (Overview)
 이 학습 자료는 벤처 캐피탈(VC) 기반 스타트업 세계를 떠나 홀로 26개 이상의 앱을 성공적으로 구축하고 운영하며 연간 3백만 달러(ARR)의 수익을 창출하고 있는 존 러쉬(John Rush)의 독특한 창업 여정을 심층적으로 분석합니다. 영상은 아이디어 발상부터 검증, 제품 개발, 마케팅, AI 활용, 그리고 VC와 부트스트랩(Bootstrapping)의 차이점에 이르기까지 그의 성공적인 전략을 상세히 다룹니다.
@@ -1204,7 +1204,7 @@ Polus는 자신의 경험을 바탕으로 젊은 창업가들에게 다음과 �
 ## How I Built It: $9,000 Per Month Micro SaaS
 **URL:** https://www.youtube.com/watch?v=npcL7oRZQlI
 
-# YouTube 영상 심층 학습 자료: 단일 기능 앱으로 월 9천 달러 수익 달성하기
+# 단일 기능 앱으로 월 9천 달러 수익 달성하기
 
 ## 1. 개요 (Overview)
 이 학습 자료는 단 하나의 기능을 수행하는 앱으로 월 9천 달러의 안정적인 수익을 창출하고 있는 'Synto Sheets'의 개발자 Leandro의 성공 사례를 심층적으로 분석합니다. 영상은 Leandro가 어떻게 프리랜서 생활을 벗어나 자신만의 제품을 만들고, 아이디어를 검증하며, 2주 만에 MVP를 구축하여 성공적인 마이크로 SaaS(Software as a Service) 비즈니스를 일궈냈는지에 대한 여정을 다룹니다. 이 자료는 특히 숨겨진 시장 기회를 포착하고, 효율적인 개발 및 성장 전략을 통해 독립적인 개발자로서 성공하고자 하는 이들에게 실질적인 통찰을 제공하는 것을 목적으로 합니다.
@@ -1309,7 +1309,7 @@ Polus는 자신의 경험을 바탕으로 젊은 창업가들에게 다음과 �
 ## I built a $1M saas 100% with no code
 **URL:** https://www.youtube.com/watch?v=x9TUDb4sLE0
 
-# YouTube 영상 상세 학습 자료: 노코드(No-Code)로 100만 달러 SaaS를 구축하는 법
+# 노코드(No-Code)로 100만 달러 SaaS를 구축하는 법
 
 ## 1. 개요 (Overview)
 
@@ -1427,7 +1427,7 @@ Polus는 자신의 경험을 바탕으로 젊은 창업가들에게 다음과 �
 ## I Make $100K/Year From 2 AI Side Projects
 **URL:** https://www.youtube.com/watch?v=CoqAxV6b6j4
 
-# YouTube 영상 심층 학습 자료: 풀타임 직업과 병행하는 AI 사이드 프로젝트 성공 전략
+# 풀타임 직업과 병행하는 AI 사이드 프로젝트 성공 전략
 
 ## 1. 개요 (Overview)
 이 학습 자료는 풀타임 직업을 유지하면서도 AI 기반 사이드 프로젝트를 성공적으로 운영하여 연 10만 달러 이상의 수익을 창출하는 람스리(Ramsri)의 사례를 심층적으로 분석합니다. 영상은 그가 어떻게 제한된 시간(주당 1-2시간)으로 두 개의 수익성 높은 AI 앱(Supermeme.ai, Question.ai)을 구축하고, 마케팅 비용 없이 수백만 명의 사용자를 확보했으며, 풀타임 직업을 그만두지 않는 이유와 그만의 독특한 철학을 다룹니다. 이 자료는 AI 시대에 창업을 꿈꾸는 개발자, 인디 메이커, 또는 효율적인 사이드 프로젝트 운영에 관심 있는 모든 이들에게 실질적인 통찰과 영감을 제공하는 것을 목적으로 합니다.
@@ -1591,7 +1591,7 @@ Polus는 자신의 경험을 바탕으로 젊은 창업가들에게 다음과 �
 ## How I Built It: $15K/month Mobile App
 **URL:** https://www.youtube.com/watch?v=gpn1jEoWT4A
 
-## YouTube 영상 상세 학습 자료: Habit Kit 성공 사례 분석
+## Habit Kit 성공 사례 분석
 
 ### 1. 개요 (Overview)
 
@@ -1695,7 +1695,7 @@ Polus는 자신의 경험을 바탕으로 젊은 창업가들에게 다음과 �
 ## This App Makes $25,000/Month
 **URL:** https://www.youtube.com/watch?v=HBCwzfFbopE
 
-# YouTube 영상 심층 학습 자료: 단순한 아이디어로 월 2만 5천 달러 수익 달성하기
+# 단순한 아이디어로 월 2만 5천 달러 수익 달성하기
 
 ## 1. 개요 (Overview)
 이 학습 자료는 독일의 솔로프러너(Solopreneur) 루카스(Lucas)가 어떻게 'Stage Timer'라는 매우 단순한 카운트다운 타이머 앱을 개발하여 월 2만 5천 달러의 반복 수익(MRR)을 달성하고 직장을 그만둘 수 있었는지에 대한 여정을 심층적으로 분석합니다. 영상은 아이디어 검증, 최소 기능 제품(MVP) 개발, 마케팅 전략, 비즈니스 운영, 그리고 성공적인 니치(Niche) 시장 발굴에 대한 실질적인 통찰을 제공합니다.
@@ -1859,7 +1859,7 @@ Stage Timer 아이디어는 우연한 관찰에서 시작되었습니다.
 ## How I Built A $1M Business in 117 Days
 **URL:** https://www.youtube.com/watch?v=E_sPvPHwpuk
 
-# YouTube 영상 심층 학습 자료: Yasser의 Chatbase 성공 스토리 분석
+# Yasser의 Chatbase 성공 스토리 분석
 
 ## 1. 개요 (Overview)
 이 학습 자료는 Yasser가 Chatbase를 통해 0에서 7일 만에 100만 달러 ARR(연간 반복 매출)을 달성하고, 3년도 채 되지 않아 680만 달러 ARR 규모의 회사로 성장시킨 놀라운 여정을 심층적으로 분석합니다. 특히, 그가 단 16명의 팔로워로 시작하여 어떻게 바이럴을 일으키고, 'Build in Public' 전략을 활용하며, AI 에이전트 시장에서 선두 주자가 되었는지 그 비결을 탐구합니다.
@@ -1990,7 +1990,7 @@ Yasser의 Chatbase 성공 스토리는 현대 스타트업 생태계에서 주�
 ## How I Used Reddit to Hit $17K MRR (With ZERO Audience)
 **URL:** https://www.youtube.com/watch?v=BaWUPamqWlA
 
-# YouTube 영상 심층 학습 자료: Reddit 마케팅 플레이북으로 17K MRR SaaS 구축하기
+# Reddit 마케팅 플레이북으로 17K MRR SaaS 구축하기
 
 ## 1. 개요 (Overview)
 이 학습 자료는 소셜 미디어 팔로워가 거의 없는 상태에서 Reddit 마케팅만으로 월 17,000달러(MRR)의 수익을 창출하는 SaaS(Software as a Service)를 성공적으로 구축한 Diego의 사례를 심층적으로 분석합니다. 영상은 아이디어 발상부터 MVP(최소 기능 제품) 구축, 그리고 Reddit을 활용한 검증 및 마케팅 전략에 이르기까지, 초기 스타트업이 제한된 자원으로 어떻게 성장할 수 있는지에 대한 실질적인 통찰을 제공합니다.
@@ -2115,7 +2115,7 @@ Reddit은 Diego가 100명 미만의 X(구 트위터) 팔로워로 17K MRR을 달
 ## I make $40K/month with this one website
 **URL:** https://www.youtube.com/watch?v=EF3uyvHHBfM
 
-# YouTube 영상 학습 자료: 월 4만 달러를 버는 초간단 웹사이트, 솔로프러너의 성공 전략
+# 월 4만 달러를 버는 초간단 웹사이트, 솔로프러너의 성공 전략
 
 ## 1. 개요 (Overview)
 이 학습 자료는 앙거스 창(Angus Chang)이라는 솔로프러너가 월 4만 달러의 수익을 창출하는 'Bank Statement Converter'라는 초간단 웹사이트를 구축하고 성장시킨 과정을 심층적으로 분석합니다. 영상은 아이디어 발상부터 제품 개발, 마케팅, 그리고 솔로프러너로서의 삶에 대한 그의 경험과 통찰을 공유하며, 단순한 아이디어도 성공적인 비즈니스가 될 수 있음을 보여줍니다. 이 자료는 특히 마이크로 SaaS(Software as a Service) 비즈니스에 관심 있는 예비 창업가, 개발자, 그리고 솔로프러너를 꿈꾸는 이들을 대상으로 하며, 비즈니스 성장에 필요한 실질적인 전략과 마음가짐에 대한 사전 지식을 제공합니다.
@@ -2244,7 +2244,7 @@ Reddit은 Diego가 100명 미만의 X(구 트위터) 팔로워로 17K MRR을 달
 ## I built a $15K/month app to quit my 9-5 (you can too)
 **URL:** https://www.youtube.com/watch?v=ZGwQoRw7mh8
 
-# YouTube 영상 심층 학습 자료: 사이드 프로젝트를 성공적인 풀타임 비즈니스로 전환하는 법
+# 사이드 프로젝트를 성공적인 풀타임 비즈니스로 전환하는 법
 
 ## 1. 개요 (Overview)
 이 학습 자료는 평범한 직장인이었던 벤(Ben)이 자신의 사이드 프로젝트인 'Tech Lockdown'을 월 15,000달러의 반복 수익(MRR)을 창출하는 성공적인 풀타임 비즈니스로 전환한 과정을 심층적으로 분석합니다. 영상은 벤의 실패 경험, 아이디어 발상, 제품 개발, 마케팅 전략, 그리고 풀타임 전환 결정에 이르기까지의 여정을 다루며, 사이드 프로젝트를 통해 경제적 자유를 얻고자 하는 이들에게 실질적인 통찰을 제공합니다.
@@ -2412,7 +2412,7 @@ Tech Lockdown은 2년 만에 200만 명 이상의 유기적 방문자, 1,300명�
 ## I cloned 3 apps and now make $35K/month
 **URL:** https://www.youtube.com/watch?v=8BtHk-oNlN0
 
-# YouTube 영상 학습 자료: 억대 수익 앱 개발자의 성공 전략 – 1% 개선과 AI 활용
+# 억대 수익 앱 개발자의 성공 전략 – 1% 개선과 AI 활용
 
 ## 1. 개요 (Overview)
 이 문서는 안경사에서 독학으로 코딩을 배워 월 35,000달러(약 4,700만원)의 수익을 창출하는 3개의 SaaS 앱을 운영하게 된 Samuel Rondo의 성공 전략을 상세히 분석합니다. 영상은 "완전히 새로운 아이디어가 필요 없다. 기존의 성공적인 앱을 1% 더 좋게 만들라"는 그의 핵심 철학을 중심으로, 아이디어 발굴, 검증, 개발, 그리고 성장에 이르는 전 과정을 실용적인 관점에서 다룹니다. 이 자료는 앱 개발을 꿈꾸는 솔로프러너, 인디 해커, 또는 기존 아이디어를 개선하여 성공을 만들고자 하는 모든 이들을 대상으로 하며, 코딩 초보자도 쉽게 접근할 수 있도록 AI 활용법까지 제시합니다.
@@ -2540,7 +2540,7 @@ Samuel이 안경사였던 과거의 자신에게 줄 5가지 조언입니다.
 ## I dropped my PhD to build a $100K/month AI app
 **URL:** https://www.youtube.com/watch?v=miEUhwSR2-0
 
-# YouTube 영상 심층 학습 자료: AI 시대, 커리어 전환과 성공적인 스타트업 빌딩 전략
+# AI 시대, 커리어 전환과 성공적인 스타트업 빌딩 전략
 
 ## 1. 개요 (Overview)
 
@@ -2835,7 +2835,7 @@ Abhishek은 Typeform의 모든 기능을 처음부터 구현하려 하지 않았
 ## How I used Reddit & Facebook to build a $25K/month business
 **URL:** https://www.youtube.com/watch?v=3X4VneEHvig
 
-# YouTube 영상 심층 학습 자료: 초기 사용자 확보를 위한 Reddit 및 Facebook 그룹 활용 전략
+# 초기 사용자 확보를 위한 Reddit 및 Facebook 그룹 활용 전략
 
 ## 1. 개요 (Overview)
 이 학습 자료는 스타트업 창업가 Anish가 자신의 제품 'Save Wise'를 성공적으로 성장시킨 경험을 바탕으로, 초기 사용자를 확보하고 제품을 시장에 안착시키는 데 필요한 실용적인 마케팅 전략을 제시합니다. 특히, Reddit과 Facebook 그룹을 활용하여 유료 마케팅 비용 없이 수천 명의 사용자를 확보하고 월 25,000달러의 매출을 달성한 구체적인 5단계 플레이북과 실제 사례를 상세히 다룹니다.
@@ -3009,7 +3009,7 @@ Anish는 초기 사용자를 온라인에서 찾는 과정을 5단계 플레이�
 ## How I Built It: $23K/month micro-saas
 **URL:** https://www.youtube.com/watch?v=NvtsM8Nk72c
 
-# YouTube 영상 학습 자료: 앤디 클록의 월 2.3만 달러 마이크로 SaaS 성공 전략
+# 앤디 클록의 월 2.3만 달러 마이크로 SaaS 성공 전략
 
 ## 1. 개요 (Overview)
 이 학습 자료는 Data Fetcher의 창업자 앤디 클록(Andy Cloak)이 월 23,000달러의 반복 수익(MRR)을 달성한 마이크로 SaaS(Software as a Service) 비즈니스 성공 사례를 분석합니다. 특히, 성장하는 플랫폼 위에서 비즈니스 기회를 발굴하고 성공적으로 구축하는 전략에 초점을 맞춥니다. 이 자료는 잠재적인 마이크로 SaaS 아이디어를 찾고, 플랫폼 기반 비즈니스의 장단점을 이해하며, 효과적인 성장 및 운영 전략을 배우고자 하는 예비 창업가, 개발자, 인디 해커(Indie Hacker)를 대상으로 합니다. 사전 지식으로는 기본적인 소프트웨어 개발 및 비즈니스 개념에 대한 이해가 있다면 더욱 도움이 될 것입니다.
@@ -3512,7 +3512,7 @@ AI 시대는 오픈소스 비즈니스에 새로운 기회를 제공하며, Pape
 ## I built a $4M business with this ONE strategy
 **URL:** https://www.youtube.com/watch?v=MLAH5OZ5FO8
 
-# YouTube 영상 학습 자료: 스타트업 성장을 위한 제품 포지셔닝 전략
+# 스타트업 성장을 위한 제품 포지셔닝 전략
 
 ## 1. 개요 (Overview)
 
@@ -3632,7 +3632,7 @@ Alia의 리포지셔닝은 한 번에 이루어진 것이 아니라, 점진적�
 ## This app made over $1M
 **URL:** https://www.youtube.com/watch?v=VfNRd5Rk0cM
 
-# YouTube 영상 심층 학습 자료: 개인적인 문제에서 시작된 100만 달러 앱, 'Rooted' 성공 스토리
+# 개인적인 문제에서 시작된 100만 달러 앱, 'Rooted' 성공 스토리
 
 ## 1. 개요 (Overview)
 이 학습 자료는 비기술 창업가인 Anya가 자신의 고통스러운 경험(공황 발작)을 바탕으로 모바일 앱 'Rooted'를 개발하고, 이를 400만 다운로드와 100만 달러 이상의 수익을 달성한 성공 사례를 심층적으로 분석합니다. 영상은 개인적인 문제를 어떻게 혁신적인 사업 아이디어로 전환하고, 기술적 배경 없이도 제품을 개발하며, 효과적인 성장 전략을 통해 시장에서 성공할 수 있는지에 대한 통찰을 제공합니다.
@@ -3783,7 +3783,7 @@ Alia의 리포지셔닝은 한 번에 이루어진 것이 아니라, 점진적�
 ## Our simple app made $100K in 90 days
 **URL:** https://www.youtube.com/watch?v=1nfPvJKrYYQ
 
-# YouTube 영상 심층 학습 자료: AI 앱으로 3개월 만에 10만 달러 수익 달성 전략
+# AI 앱으로 3개월 만에 10만 달러 수익 달성 전략
 
 ## 1. 개요 (Overview)
 이 학습 자료는 두 명의 유럽 기반 창업가(Nikita와 Yini)가 AI 글쓰기 도구인 'Natural Write'를 개발하고, 단 3개월 만에 TikTok 마케팅만으로 10만 달러의 수익과 25만 명의 사용자 확보라는 놀라운 성과를 달성한 과정을 심층적으로 분석합니다. 영상은 이들의 성공적인 TikTok 마케팅 플레이북, 바이럴 영상 전략, 그리고 최소한의 비용으로 사업을 운영한 기술 스택을 상세히 다룹니다.
@@ -3931,7 +3931,7 @@ Nikita와 Yini는 3개월 전으로 돌아가 자신들에게 조언을 한다�
 ## I made $65K in 3 days (with ZERO audience)
 **URL:** https://www.youtube.com/watch?v=BNr1JOQdSN0
 
-# YouTube 영상 심층 학습 자료: 평생 이용권(LTD) 전략으로 초기 스타트업 성공하기
+# 평생 이용권(LTD) 전략으로 초기 스타트업 성공하기
 
 ## 1. 개요 (Overview)
 

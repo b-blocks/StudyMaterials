@@ -3519,7 +3519,7 @@ Roblox에서 모델의 시각적 품질을 결정하는 중요한 단계입니�
 *   **외부 도구를 통한 근사치 표현:** 원하는 메탈릭 또는 광택 효과를 얻기 위해서는 Photoshop과
 
 
-# YouTube 영상 상세 학습 자료: 3D 모델 텍스처링 및 Roblox 에셋 통합 가이드
+# 3D 모델 텍스처링 및 Roblox 에셋 통합 가이드
 
 **URL:** https://www.youtube.com/watch?v=D64IOXAb6SM
 
@@ -3754,7 +3754,7 @@ UV 매핑은 3D 모델의 표면을 2D 평면으로 펼치는 과정으로, 텍�
     *   완성된 하트 펜던트 텍스처를 Roblox 웹사이트에 `Decal`로 업로드하고 Asset ID를 얻습니다. 이후 Roblox Studio에서 목걸이 모델의 하트 메쉬 파트를 선택하고 `Texture
 
 
-# YouTube 영상 심층 학습 자료: 블렌더로 Roblox UGC 진주 목걸이 만들기
+# 블렌더로 Roblox UGC 진주 목걸이 만들기
 
 ## Making a UGC catalogue: making a necklace
 **URL:** https://www.youtube.com/watch?v=LRV85HyN2Z4

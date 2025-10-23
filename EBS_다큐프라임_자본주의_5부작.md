@@ -114,7 +114,7 @@
 ## EBS 다큐프라임 자본주의 제2부 소비는 감정이다
 **URL:** https://www.youtube.com/watch?v=JswklI5vrBk
 
-# 제목: EBS 다큐프라임 자본주의 제2부 - 소비는 감정이다
+# EBS 다큐프라임 자본주의 제2부 - 소비는 감정이다
 
 ## 1. 핵심 요약 (Executive Summary)
 
@@ -233,7 +233,7 @@
 ## 자본주의 제3부 금융지능은 있는가
 **URL:** https://www.youtube.com/watch?v=Iu-w6STAz64
 
-# 제목: 자본주의 제3부 금융지능은 있는가
+# 자본주의 제3부 금융지능은 있는가
 
 ## 1. 핵심 요약 (Executive Summary)
 
@@ -365,7 +365,7 @@
 ## 자본주의 제4부 세상을 바꾼 위대한 철학들
 **URL:** https://www.youtube.com/watch?v=LaGYPiGXynU
 
-# 제목: 자본주의 제4부 세상을 바꾼 위대한 철학들
+# 자본주의 제4부 세상을 바꾼 위대한 철학들
 
 ## 1. 핵심 요약 (Executive Summary)
 
@@ -463,7 +463,7 @@
 ## EBS 다큐프라임 자본주의 제5부 국가는 무엇을 해야하는가
 **URL:** https://www.youtube.com/watch?v=-E9nCQbHRPM
 
-# 제목: EBS 다큐프라임 자본주의 제5부 - 국가는 무엇을 해야 하는가
+# EBS 다큐프라임 자본주의 제5부 - 국가는 무엇을 해야 하는가
 
 ## 1. 핵심 요약 (Executive Summary)
 

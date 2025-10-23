@@ -2721,7 +2721,7 @@ Roblox 게임 개발자, 게임 디자이너, 커뮤니티 매니저, 그리고 
   - `Game design core loop`, `Compulsion loop`, `Game mechanics vs. dynamics`, `Player progression systems`, `Retention mechanics`
 
 
-# 제목: LiveOps on Roblox with Ruddev_Ethan and x_o
+# LiveOps on Roblox with Ruddev_Ethan and x_o
 ## LiveOps on Roblox with Ruddev_Ethan and x_o
 **URL:** https://www.youtube.com/watch?v=oV8DKuAjQQs
 
@@ -2883,7 +2883,7 @@ Bad Business의 성공은 체계적인 콘텐츠 전략에 기반합니다. 이�
   - `LiveOps`, `Game as a Service (GaaS)`, `Content Cadence`, `Player Retention`, `Community Management`, `Game Analytics`, `Roblox Development`, `Player Engagement Loops`
 
 
-# 제목: Designing Player Progression (플레이어 프로그레션 설계)
+# Designing Player Progression (플레이어 프로그레션 설계)
 
 ## Designing Player Progression
 
@@ -3049,7 +3049,7 @@ RPG의 코어 루프가 `몬스터 사냥 → 전리품/재화 획득 → 무기
 - `End-game Content Design`
 
 
-# 제목: Designing Player Goals
+# Designing Player Goals
 
 ## Designing Player Goals
 **URL:** https://www.youtube.com/watch?v=hD2Ive5RqtE
@@ -3372,7 +3372,7 @@ RPG의 코어 루프가 `몬스터 사냥 → 전리품/재화 획득 → 무기
 - `User Flow`, `Wireframing vs. Mockup`, `Visual Hierarchy in UI`, `UI Design Consistency`, `Micro-interactions examples`, `UX Laws`
 
 
-# 제목: The Future of Avatars | RDC 2021
+# The Future of Avatars | RDC 2021
 **URL:** https://www.youtube.com/watch?v=uiha3tzL-oc
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -3518,7 +3518,7 @@ Roblox의 다음 목표는 이 과정을 더욱 단순화하는 것입니다. �
 - `Skinned Mesh Animation`
 
 
-# 제목: Creating Stunning Visual Effects with Simple Tools | RDC 2021
+# Creating Stunning Visual Effects with Simple Tools | RDC 2021
 **URL:** https://www.youtube.com/watch?v=fmVKt8d_ivw
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -3692,7 +3692,7 @@ Roblox에서 VFX를 구현하기 위해 사용할 수 있는 기본적인 도구
     - `Roblox Particle Emitter tutorial`, `Roblox TweenService animation`, `Roblox Vertex Painting`, `Game VFX optimization`, `Real-time VFX breakdown`, `Animation principles for VFX`
 
 
-# 제목: Visual Fidelity & Immersion in Roblox | RDC 2021
+# Visual Fidelity & Immersion in Roblox | RDC 2021
 **URL:** https://www.youtube.com/watch?v=NusvNCLjbgg
 
 ## 1. 핵심 요약 (Executive Summary)

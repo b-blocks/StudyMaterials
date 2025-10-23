@@ -357,7 +357,7 @@ Alex는 최근 1,700만 달러(약 230억 원) 규모의 시리즈 A 투자를 �
 ## Juicebox: AI Agents for the Hiring Process
 **URL:** https://www.youtube.com/watch?v=Tm5NbHUblkA
 
-# YouTube 영상 자막 기반 심층 학습 자료: Juicebox 성공 사례 분석
+# Juicebox 성공 사례 분석
 
 ## 1. 개요 (Overview)
 본 학습 자료는 AI 기반 채용 플랫폼 'Juicebox'의 공동 창업자인 데이비드(David)와 이샨(Ishan)의 인터뷰 내용을 바탕으로, 스타트업의 창업 여정, 제품 개발 과정, 시장 적합성(Product-Market Fit) 달성 전략, 그리고 AI 기술이 채용 시장에 미치는 영향에 대해 심층적으로 분석합니다. 특히, LLM(대규모 언어 모델) 기술을 활용하여 채용 프로세스의 비효율성을 해결하고, 소규모 팀으로 빠르게 성장한 Juicebox의 사례를 통해 현대 스타트업이 직면하는 도전과 기회를 탐구합니다. 이 자료는 창업을 꿈꾸는 예비 창업가, 스타트업 관계자, 채용 분야 전문가, 그리고 AI 기술의 비즈니스 적용에 관심 있는 모든 독자를 대상으로 하며, 스타트업 성공의 핵심 요소와 AI 시대의 채용 전략에 대한 실질적인 통찰을 제공합니다.
@@ -550,7 +550,7 @@ Juicebox의 제품 로드맵은 채용 담당자의 워크플로우를 면밀히
 ## Greptile: AI That Actually Understands Codebases
 **URL:** https://www.youtube.com/watch?v=vRt4ng9V9qA
 
-# YouTube 영상 학습 자료: Grapile - AI 기반 코드 리뷰 및 코드베이스 이해
+# Grapile - AI 기반 코드 리뷰 및 코드베이스 이해
 
 ## 1. 개요 (Overview)
 이 문서는 YC Winter 24 배치 스타트업인 Grapile의 공동 창업자 Doc과의 인터뷰 내용을 바탕으로, Grapile이 제공하는 AI 기반 코드 리뷰 및 코드베이스 이해 솔루션에 대해 깊이 있게 다룹니다. Grapile은 대규모 코드베이스를 이해하는 AI를 구축하여 소프트웨어 팀이 풀 리퀘스트(Pull Request) 검토 및 코드베이스 관련 질문에 답변하는 데 활용하도록 돕습니다. 이 자료는 Grapile의 가치 제안, 인간과 AI의 협업 모델, 기술적 배경, 그리고 창업 과정에서 얻은 교훈 등을 상세히 분석하여, AI가 소프트웨어 개발 프로세스에 어떻게 혁신을 가져오고 있는지 이해하는 데 목적이 있습니다. 대상 독자는 소프트웨어 개발자, 팀 리더, 스타트업 창업에 관심 있는 사람, 그리고 AI 기반 개발 도구에 대한 이해를 높이고자 하는 모든 이들입니다.
@@ -651,7 +651,7 @@ Juicebox의 제품 로드맵은 채용 담당자의 워크플로우를 면밀히
 ## Numeral: Building the Global Tax Platform
 **URL:** https://www.youtube.com/watch?v=5jHWBQqiylo
 
-# YouTube 영상 학습 자료: Numeral 창업 스토리와 Sales Tax Compliance
+# Numeral 창업 스토리와 Sales Tax Compliance
 
 ## 1. 개요 (Overview)
 본 학습 자료는 Numeral의 창업자 Sam Ross와의 인터뷰 내용을 바탕으로, 스타트업 창업 과정, 특히 B2B SaaS 분야에서의 문제 인식, 제품-시장 적합성, 펀드레이징, 그리고 최신 기술(LLM)의 활용에 대한 깊이 있는 통찰을 제공합니다. Sam Ross의 개인적인 경험에서 시작된 Sales Tax Compliance 문제 해결 여정은, 라이프스타일 비즈니스에서 벤처 지원 기업으로의 전환, Y Combinator 경험, 그리고 급격한 성장을 통해 글로벌 시장으로 확장하는 과정을 상세히 다룹니다. 이 자료는 예비 창업가, 이커머스 사업자, 스타트업 관계자들에게 실질적인 영감과 전략적 지식을 전달하는 것을 목표로 합니다.
@@ -994,7 +994,7 @@ Recall.ai는 30명 미만의 팀으로 높은 성과를 내는 비결로 `very s
 ## Motion: Redefining How Work Gets Done
 **URL:** https://www.youtube.com/watch?v=wbeHAVonbmw
 
-# YouTube 영상 학습 자료: Motion의 성공 스토리와 AI 에이전트 전략
+# Motion의 성공 스토리와 AI 에이전트 전략
 
 ## 1. 개요 (Overview)
 이 학습 자료는 Motion 팀의 성공적인 스타트업 여정을 다룬 인터뷰 내용을 바탕으로, 그들의 사업 모델, 성장 과정, 그리고 핵심적인 전략적 전환(피봇)에 대해 심층적으로 분석합니다. 특히, 초기 창업 동기부터 Y Combinator 경험, 그리고 AI 에이전트를 활용한 최신 사업 확장까지 Motion이 겪어온 도전과 성장을 상세히 다룹니다. 이 자료는 스타트업 창업가, 제품 관리자, AI 기술에 관심 있는 개발자, 그리고 비즈니스 전략을 학습하는 모든 이들에게 유용한 통찰을 제공하며, 성공적인 스타트업이 되기 위한 핵심 질문과 전략적 사고방식을 제시합니다.
@@ -1078,7 +1078,7 @@ Recall.ai는 30명 미만의 팀으로 높은 성과를 내는 비결로 `very s
 ## Exa: Organizing the World’s Knowledge
 **URL:** https://www.youtube.com/watch?v=9ZQP7PfHnuI
 
-# YouTube 자막 기반 심층 학습 자료: Exa.ai의 AI 네이티브 검색 엔진 혁신
+# # Exa.ai의 AI 네이티브 검색 엔진 혁신
 
 ## 1. 개요 (Overview)
 
@@ -1433,7 +1433,7 @@ LLM의 컨텍스트 창은 제한된 자원이므로, 이를 어떻게 효율적
 ## Using LongMemEval to Improve Agent Memory
 **URL:** https://www.youtube.com/watch?v=FTokJt1ioeg
 
-# YouTube 영상 학습 자료: AI 에이전트 메모리 최적화 전략
+# AI 에이전트 메모리 최적화 전략
 
 ## 1. 개요 (Overview)
 이 학습 자료는 Typescript 에이전트 프레임워크인 Mastra의 공동 창립자이자 CEO인 Sam의 강연 내용을 바탕으로, AI 에이전트의 메모리 시스템 최적화에 대한 심층적인 이해를 제공합니다. 특히, "Long Mem Eval" 벤치마크를 중심으로 에이전트 메모리의 다양한 하위 작업과 Mastra가 성능을 개선하기 위해 적용한 구체적인 전략들을 다룹니다. 이 자료의 목적은 AI 에이전트 개발자가 메모리 관리의 중요성을 인식하고, 실제 시스템에서 메모리 성능을 측정하고 최적화하는 방법을 학습하는 데 있습니다. 대상 독자는 AI 에이전트 개발에 관심 있는 중급 이상의 개발자 및 연구자이며, 기본적인 AI 및 LLM(Large Language Model) 개념에 대한 이해가 있다고 가정합니다.
@@ -1550,7 +1550,7 @@ Mastra는 `Long Mem Eval` 벤치마크에서 초기 67%의 결과에 만족하�
 ## Context Engineering for Engineers
 **URL:** https://www.youtube.com/watch?v=3jN77Aw7Utk
 
-# YouTube 영상 학습 자료: 컨텍스트 엔지니어링 (Context Engineering)
+# 컨텍스트 엔지니어링 (Context Engineering)
 
 ## 1. 개요 (Overview)
 이 문서는 Chroma의 창립자 Jeff가 엔지니어를 대상으로 발표한 "Context Engineering for Engineers" 강연 내용을 바탕으로, AI 시스템 개발에 있어 '컨텍스트 엔지니어링'의 중요성과 실제 적용 방안을 상세히 다룹니다. 강연은 AI를 단순한 "소프트웨어"로 정의하며, 신뢰할 수 있는 AI 시스템 구축을 위한 핵심 요소로 컨텍스트 윈도우 내 정보의 효율적인 관리 및 최적화를 강조합니다. 특히, 최근 주목받는 긴 컨텍스트 윈도우 모델의 한계와 '건초 더미 속 바늘 찾기'와 같은 단순한 작업에 대한 오해를 지적하며, 실제 복잡한 AI 작업에서 컨텍스트 큐레이션의 중요성을 역설합니다. 이 자료는 AI 시스템의 신뢰성, 속도, 비용 효율성을 개선하고자 하는 엔지니어 및 개발자를 대상으로 하며, 기본적인 AI 및 LLM(대규모 언어 모델)에 대한 이해를 전제로 합니다.
@@ -1669,7 +1669,7 @@ Mastra는 `Long Mem Eval` 벤치마크에서 초기 67%의 결과에 만족하�
 ## Context Engineering: Lessons Learned from Scaling CoCounsel
 **URL:** https://www.youtube.com/watch?v=sLFv3RSj_d8
 
-# YouTube 자막 기반 심층 학습 자료: AI 제품 개발을 위한 프롬프트 엔지니어링 전략
+# # AI 제품 개발을 위한 프롬프트 엔지니어링 전략
 
 ## 1. 개요 (Overview)
 이 학습 자료는 Kstax의 창립자 Jake가 AI 기반 법률 보조 도구인 'Co-Counsel'을 개발하며 얻은 프롬프트 엔지니어링(또는 컨텍스트 엔지니어링)에 대한 실질적인 교훈을 상세히 다룹니다. 영상은 GPT-4의 등장으로 복잡한 법률 작업을 AI가 수행할 수 있게 된 배경과, 이를 실제 제품으로 구현하기 위한 구체적인 방법론을 제시합니다. 핵심 질문은 "어떻게 하면 AI가 복잡한 작업을 정확하고 효율적으로 수행하도록 만들 수 있는가?"이며, 이를 위해 이상적인 사용자 경험 설계부터 프롬프트 최적화, 평가(evals) 시스템 구축, 그리고 다양한 고급 기술 적용까지 폭넓게 탐구합니다. 이 자료는 AI 제품 개발자, 프롬프트 엔지니어, 그리고 AI 모델의 잠재력을 최대한 활용하고자 하는 모든 이들을 대상으로 하며, 기본적인 AI 및 LLM(Large Language Model)에 대한 이해를 전제로 합니다.
@@ -1794,7 +1794,7 @@ AI 애플리케이션, 특히 LLM 기반 제품을 개발할 때 Co-Counsel 팀�
 ## Salient: The Fintech Startup Processing $1B+ in Loans with AI
 **URL:** https://www.youtube.com/watch?v=LX_wvUMxVsk
 
-# YouTube 영상 자막 기반 심층 학습 자료: Salient의 AI 대출 서비스 혁신과 성장 전략
+# Salient의 AI 대출 서비스 혁신과 성장 전략
 
 ## 1. 개요 (Overview)
 
@@ -1966,7 +1966,7 @@ AI 애플리케이션, 특히 LLM 기반 제품을 개발할 때 Co-Counsel 팀�
 ## The Startup Powering Billions In Trades Every Day
 **URL:** https://www.youtube.com/watch?v=AmXE9Gsuw_Q
 
-# YouTube 영상 학습 자료: One Kronos와 조합 경매의 혁신
+# One Kronos와 조합 경매의 혁신
 
 ## 1. 개요 (Overview)
 이 학습 자료는 혁신적인 주식 거래소 'One Kronos'의 등장과 그 기반이 되는 '조합 경매(Combinatorial Auction)' 이론을 심층적으로 탐구합니다. 영상은 One Kronos가 어떻게 기존 금융 시장의 비효율성을 해결하고, 기관 투자자들에게 이전에 불가능했던 정교한 거래를 가능하게 하는지 설명합니다. 또한, 창업자들의 비전, 회사 설립 과정에서의 도전, 그리고 금융 시장의 미래에 대한 통찰을 제공합니다. 이 자료는 금융 시장의 작동 방식, 경매 이론, 그리고 기술 혁신이 전통 산업에 미치는 영향에 관심 있는 독자를 대상으로 하며, 기본적인 금융 및 기술 개념에 대한 이해가 있다면 더욱 효과적으로 학습할 수 있습니다.
@@ -2267,7 +2267,7 @@ Infisical은 빠르게 성장하는 회사로서 다양한 분야에서 인재�
 ## David AI: Powering the Voice Era of AI
 **URL:** https://www.youtube.com/watch?v=q8TOaXBzcJw
 
-# YouTube 영상 자막 기반 심층 학습 자료: David AI 사례 분석
+# David AI 사례 분석
 
 ## 1. 개요 (Overview)
 본 학습 자료는 오디오 데이터 연구 기업인 David AI의 성공 사례를 분석하여, 음성 AI 분야의 핵심 과제와 혁신적인 비즈니스 모델을 탐구합니다. 영상은 David AI가 Series A 펀딩으로 2,500만 달러를 유치한 시점에서 공동 창업자인 Ben과 Tor가 회사의 비전, 창업 과정, 그리고 오디오 데이터 시장에서의 독특한 접근 방식을 설명하는 내용을 담고 있습니다. 이 자료는 고품질 대화형 오디오 데이터의 중요성, 기존 데이터의 한계, 그리고 AI 모델 발전을 위한 데이터 계층의 역할을 심층적으로 이해하는 데 목적이 있습니다.
@@ -2349,7 +2349,7 @@ Infisical은 빠르게 성장하는 회사로서 다양한 분야에서 인재�
 ## How Onebrief Is Fixing Military Planning With Software
 **URL:** https://www.youtube.com/watch?v=_-ARm9FTFAM
 
-# YouTube 영상 학습 자료: One Brief - 국방 기술 혁신의 최전선
+# One Brief - 국방 기술 혁신의 최전선
 
 ## 1. 개요 (Overview)
 이 학습 자료는 YC Summer 21 배치 출신 스타트업 One Brief의 공동 창립자 그랜트 데모리(Grant Demory)와의 인터뷰 내용을 바탕으로, 국방 분야 소프트웨어 판매 및 개발 과정에서 얻은 통찰력을 심층적으로 분석합니다. 영상은 One Brief가 어떻게 미군을 포함한 전 세계 군사 조직의 작전 계획 수립 과정을 혁신하고 있는지, 그리고 이 과정에서 겪었던 도전과 극복 전략을 다룹니다. 세계에서 가장 복잡하고 진입 장벽이 높은 고객 중 하나인 미군에 소프트웨어를 판매하고 성공적으로 안착시킨 One Brief의 경험을 통해, 국방 기술(Defense Tech) 스타트업이 직면하는 현실적인 문제와 해결 방안, 그리고 미래 비전을 제시합니다. 이 자료는 국방 기술 분야에 관심 있는 개발자, 스타트업 창업가, 투자자 및 군사 작전 계획 프로세스 개선에 관심 있는 모든 독자를 대상으로 하며, 관련 분야에 대한 기본적인 이해를 돕는 것을 목표로 합니다.
@@ -2432,7 +2432,7 @@ Infisical은 빠르게 성장하는 회사로서 다양한 분야에서 인재�
 ## Hightouch: Revolutionizing Personalized Marketing With The First Agentic Marketer
 **URL:** https://www.youtube.com/watch?v=Y4FUaVvBmzg
 
-# YouTube 영상 자막 기반 심층 학습 자료: Hightouch의 성공 스토리와 혁신 전략
+# Hightouch의 성공 스토리와 혁신 전략
 
 ## 1. 개요 (Overview)
 본 학습 자료는 Hightouch의 공동 창업자 Kashish, Josh, Tedas와의 인터뷰 내용을 바탕으로, Hightouch가 어떻게 AI 기반의 '성과 중심 마케팅(Outcome-Driven Marketing)'을 통해 10억 달러 규모의 기업으로 성장했는지 심층적으로 분석합니다. 영상은 Hightouch의 창업 과정, '리버스 ETL(Reverse ETL)'이라는 새로운 카테고리 개척, 끊임없는 혁신 전략, 독특한 팀 빌딩 철학, 그리고 공동 창업의 중요성에 대한 통찰을 제공합니다. 이 자료는 Hightouch의 성공 요인을 다각도로 조명하며, 특히 AI 에이전트를 활용한 개인화된 마케팅의 미래와 스타트업이 겪는 성장통 및 극복 과정을 상세히 다룹니다.
@@ -2622,7 +2622,7 @@ Reducto는 최근 Series A 투자를 유치하며 빠르게 성장하고 있으�
 ## Fireside with Abigail Slater, Assistant Attorney General for the Antitrust Division, US DOJ
 **URL:** https://www.youtube.com/watch?v=Hk6A1WcJtPs
 
-# YouTube 영상 학습 자료: 현대 반독점법 집행의 변화와 방향성
+# 현대 반독점법 집행의 변화와 방향성
 
 ## 1. 개요 (Overview)
 본 학습 자료는 미국 연방거래위원회(FTC)의 게일(Gail) 위원장이 리틀 테크 컨퍼런스(Little Tech Conference)에서 나눈 대화를 기반으로, 현대 반독점법 집행의 변화된 양상과 미래 방향성을 심층적으로 탐구합니다. 특히 2012년과 현재의 반독점법 집행 환경 변화, 'MAGA 반독점법'의 개념, 국가 안보와 기술 기업의 독점 문제, 그리고 언론의 자유와 반독점법의 관계 등 다양한 쟁점을 다룹니다. 이 자료는 기술 산업 종사자, 법률 전문가, 정책 입안자, 그리고 현대 경제에서 독점 규제의 중요성에 관심 있는 모든 독자를 대상으로 하며, 기본적인 경제 및 법률 지식이 있다면 내용을 더욱 깊이 이해할 수 있습니다.
@@ -2723,7 +2723,7 @@ Reducto는 최근 Series A 투자를 유치하며 빠르게 성장하고 있으�
 ## Founder Demo: David Gobaud, Founder & CEO of Freedom
 **URL:** https://www.youtube.com/watch?v=Nt6mWetw0ak
 
-# YouTube 영상 자막 기반 심층 학습 자료: 오픈소스 AI의 중요성
+# 오픈소스 AI의 중요성
 
 ## 1. 개요 (Overview)
 
@@ -2805,7 +2805,7 @@ AI는 이미 우리 삶의 모든 영역에 깊숙이 침투하고 있으며, �
 ## How Should Little Tech Approach D.C. and Brussels?
 **URL:** https://www.youtube.com/watch?v=Aw_qfill_fo
 
-# YouTube 영상 학습 자료: 'Little Tech'과 정책 입안자 간의 소통 전략
+# 'Little Tech'과 정책 입안자 간의 소통 전략
 
 ## 1. 개요 (Overview)
 본 학습 자료는 Y Combinator 주최 행사에서 논의된 '리틀 테크(Little Tech)' 기업들이 정책 입안자들과 효과적으로 소통하고, 거대 기술 기업(Big Tech)의 독점적 영향력에 맞서 공정한 경쟁 환경을 조성하는 방안에 대한 내용을 심층적으로 다룹니다. 영상은 기술 혁신과 재산업화의 중요성을 강조하며, 특히 스타트업 및 소규모 기술 기업들이 직면하는 정책 참여의 어려움과 이를 극복하기 위한 실질적인 전략을 제시합니다. 이 자료는 창업가, 개발자, 정책 입안자, 그리고 기술 정책 및 경쟁법에 관심 있는 모든 독자를 대상으로 하며, 관련 분야에 대한 기본적인 이해를 전제로 합니다.
@@ -2964,7 +2964,7 @@ AI는 이미 우리 삶의 모든 영역에 깊숙이 침투하고 있으며, �
 ## Founder Demo: David Molot, Co-founder of hotglue
 **URL:** https://www.youtube.com/watch?v=UrdN6k1CZBc
 
-# YouTube 영상 학습 자료: 데이터 운용성(Data Operability)이 혁신과 경쟁에 미치는 영향
+# 데이터 운용성(Data Operability)이 혁신과 경쟁에 미치는 영향
 
 ## 1. 개요 (Overview)
 
@@ -3067,7 +3067,7 @@ AI는 이미 우리 삶의 모든 영역에 깊숙이 침투하고 있으며, �
 ## Fireside with United States Senator Josh Hawley
 **URL:** https://www.youtube.com/watch?v=QcCPQSd36vQ
 
-# YouTube 영상 자막 기반 심층 학습 자료: AI 정책, 경쟁, 그리고 미국의 미래
+# AI 정책, 경쟁, 그리고 미국의 미래
 
 ## 1. 개요 (Overview)
 본 문서는 조쉬 홀리(Josh Hawley) 상원의원의 AI 정책에 대한 연설 자막을 바탕으로, AI 기술이 미국 사회와 경제에 미치는 영향, 그리고 이에 대한 적절한 정책 방향을 심층적으로 분석한 학습 자료입니다. 홀리 상원의원은 AI의 잠재적 위험과 기회를 동시에 조명하며, 기술 발전이 소수의 거대 기업이 아닌 모든 미국인의 자유와 번영을 증진하는 방향으로 나아가야 한다고 주장합니다. 이 자료는 AI 정책, 기술 규제, 독점 문제, 그리고 노동 시장 변화에 관심 있는 정책 입안자, 기술 개발자, 학생 및 일반 대중을 대상으로 하며, AI 시대의 중요한 사회적, 경제적 질문에 대한 이해를 돕는 것을 목적으로 합니다.
@@ -3432,7 +3432,7 @@ Google의 높은 시장 점유율은 단일 요인이 아닌 여러 복합적인
 ## Fireside with Epic Games Founder & CEO Tim Sweeney
 **URL:** https://www.youtube.com/watch?v=MhsjuJaGLK4
 
-# YouTube 영상 자막 기반 심층 학습 자료: 에픽게임즈와 빅테크 독점의 싸움
+# 에픽게임즈와 빅테크 독점의 싸움
 
 ## 1. 개요 (Overview)
 본 학습 자료는 에픽게임즈의 CEO가 구글 및 애플과 벌이고 있는 반독점 소송의 배경, 진행 상황, 그리고 그들이 주장하는 빅테크 기업의 시장 독점 행위의 문제점을 심층적으로 다룹니다. 영상은 특히 앱 생태계 내에서의 공정한 경쟁 환경 조성의 중요성과 현재의 독점적 구조가 개발자 및 소비자에게 미치는 부정적 영향에 초점을 맞춥니다. 핵심 질문은 "왜 에픽게임즈는 거대 기술 기업과의 싸움을 시작했으며, 이 싸움이 디지털 경제에 어떤 의미를 가지는가?"입니다. 이 자료는 디지털 플랫폼 경제, 반독점법, 소프트웨어 개발 생태계에 관심 있는 개발자, 정책 입안자, 법률 전문가 및 일반 대중을 대상으로 하며, 관련 분야에 대한 기본적인 이해를 가진 독자에게 가장 유용할 것입니다.
@@ -3567,7 +3567,7 @@ Google의 높은 시장 점유율은 단일 요인이 아닌 여러 복합적인
 ## Fireside with Teresa Ribiera, EVP, European Commission for Clean, Just & Competitive Transition
 **URL:** https://www.youtube.com/watch?v=p3L5zATA_HY
 
-# YouTube 영상 자막 기반 심층 학습 자료: 디지털 시장법(DMA)과 미래 경쟁 정책
+# 디지털 시장법(DMA)과 미래 경쟁 정책
 
 ## 1. 개요 (Overview)
 본 학습 자료는 유럽연합(EU) 집행위원회 부위원장과의 인터뷰 내용을 바탕으로, 디지털 시장법(DMA)의 중요성, 집행 방식, 그리고 미래 디지털 경쟁 정책의 방향성을 심층적으로 탐구합니다. 특히, 혁신과 규제 사이의 균형, 스타트업 생태계 조성, 그리고 환경 정의와 경쟁 정책의 연계라는 새로운 접근 방식에 초점을 맞춥니다. 이 자료는 디지털 경제의 규제 환경, 경쟁법, 기술 정책에 관심 있는 정책 입안자, 기업가, 법률 전문가 및 일반 대중을 대상으로 하며, 디지털 시장의 복잡한 역학 관계에 대한 이해를 높이는 것을 목표로 합니다.
@@ -3649,7 +3649,7 @@ DMA와 같은 새로운 규제의 성공을 측정하고, 필요에 따라 정�
 ## Founder Demo: Matt Bolous, Head of Policy & Safety of Imbue
 **URL:** https://www.youtube.com/watch?v=JgFE5wrUL6A
 
-# YouTube 영상 자막 기반 심층 학습 자료: AI 에이전트와 디지털 미래
+# AI 에이전트와 디지털 미래
 
 ## 1. 개요 (Overview)
 이 학습 자료는 YouTube 영상 자막을 바탕으로 AI 에이전트의 현재와 미래, 그리고 우리가 직면한 디지털 생태계의 문제점을 심층적으로 탐구합니다. 영상은 AI 에이전트의 엄청난 잠재력에도 불구하고, 현재의 '닫힌 생태계(Walled Gardens)'로 인해 그 힘이 제대로 발휘되지 못하고 있음을 지적합니다. 핵심 질문은 "어떻게 하면 AI 에이전트가 개인의 삶에 진정으로 유의미하게 통합되어 디지털 세계를 재구성할 수 있을까?"입니다. 이 자료는 AI 기술에 관심 있는 일반인, 개발자, 정책 입안자 등에게 AI 에이전트의 본질, 현재의 한계, 그리고 더 나은 미래를 위한 방향성에 대한 깊이 있는 이해를 제공하는 것을 목표로 합니다.
@@ -3747,7 +3747,7 @@ AI 에이전트는 특정 목표를 달성하기 위해 자율적으로 행동�
 ## Founder Demo: Trevor Mckendrick, Co-founder & CEO of Seis
 **URL:** https://www.youtube.com/watch?v=EJbhzlqgoYs
 
-# YouTube 자막 기반 심층 학습 자료: Zelle 카르텔과 미국의 즉시 결제 시스템
+# # Zelle 카르텔과 미국의 즉시 결제 시스템
 
 ## 1. 개요 (Overview)
 본 문서는 YouTube 영상의 자막 내용을 바탕으로, 미국의 즉시 결제 시스템인 Zelle이 가진 독점적 지위와 그로 인한 반경쟁적 행위를 심층적으로 분석합니다. 특히 Zelle의 소유 구조가 핀테크 기업 및 소규모 은행의 시장 진입을 어떻게 방해하고 경쟁을 저해하는지, 그리고 미국 내 개방형 즉시 결제 네트워크의 필요성을 다룹니다. 이 자료는 금융 기술(FinTech), 은행 산업, 경쟁법, 그리고 미국의 결제 시스템에 관심 있는 독자를 대상으로 하며, 관련 분야에 대한 기본적인 이해를 전제로 합니다.
@@ -3812,7 +3812,7 @@ Zelle은 미국 내에서 가장 널리 사용되는 P2P 결제 인프라로서,
 ## Are Techno Optimism and Populism Incompatible?
 **URL:** https://www.youtube.com/watch?v=dpHBSGS6W5c
 
-# YouTube 영상 자막 기반 심층 학습 자료: 미국 기술 정책, 반독점, 포퓰리즘의 교차점
+# 미국 기술 정책, 반독점, 포퓰리즘의 교차점
 
 ## 1. 개요 (Overview)
 이 학습 자료는 미국 정치 및 경제 분야의 주요 인사들이 참여한 YouTube 영상의 자막 내용을 바탕으로, 다가오는 트럼프 시대의 기술 정책, 반독점 규제, 그리고 포퓰리즘의 부상에 대한 심층적인 분석을 제공합니다. 영상은 특히 거대 기술 기업(Big Tech)의 영향력, 이들을 둘러싼 정치적 연합, 그리고 규제 당국의 역할에 대한 논쟁을 다룹니다. 핵심 질문은 "MAGA(Make America Great Again) 포퓰리스트들이 거대 기술 기업에 종속되어 있는가?"와 "트럼프 행정부가 거대 기술 기업에 대한 진정한 규제 의지를 가지고 있는가?"입니다. 이 자료는 미국 정치, 경제, 기술 정책에 관심 있는 독자들을 대상으로 하며, 기본적인 정치 및 경제 용어에 대한 이해를 전제로 합니다.
@@ -3887,7 +3887,7 @@ Zelle은 미국 내에서 가장 널리 사용되는 P2P 결제 인프라로서,
 ## Founder Demo: AJ Forsythe & Jordan Barnes of Coop
 **URL:** https://www.youtube.com/watch?v=ToTAnPW70Us
 
-# YouTube 영상 자막 기반 심층 학습 자료: AI 기반 분산형 식품 생산 시스템 'Coupe'
+# AI 기반 분산형 식품 생산 시스템 'Coupe'
 
 ## 1. 개요 (Overview)
 본 학습 자료는 AI와 스마트 홈 기술을 활용하여 뒷마당 농업, 특히 닭 사육을 혁신하는 'Coupe' 프로젝트에 대한 YouTube 영상 자막을 기반으로 합니다. 영상은 'Coupe'가 어떻게 개인의 뒷마당을 활용하여 계란 생산을 자동화하고 최적화하며, 궁극적으로는 전 세계적인 분산형 식품 생산 네트워크를 구축하려는 비전을 제시하는지 설명합니다. 최근 '에그플레이션(eggflation)'과 같은 식품 시장의 불안정성 속에서, 개인에게 식량 자율성을 부여하고 기존의 중앙 집중식 산업 농업 시스템의 문제점을 해결하려는 'Coupe'의 접근 방식과 기술적 해법을 깊이 있게 탐구합니다. 이 자료는 식품 시스템의 미래, AI와 IoT 기술의 융합, 그리고 지속 가능한 개인 농업에 관심 있는 모든 독자를 대상으로 하며, 관련 분야에 대한 기본적인 이해를 돕는 것을 목표로 합니다.

@@ -1464,7 +1464,7 @@ EOS는 강력한 시스템이지만, 모든 비즈니스에 획일적으로 적�
 *   **예시/사례**: "카타나를 보면 '아름답다'고 말하듯이, 당신은 그 결과에 대해 매우 자랑스러워할 것이다." "이 담금질 과정을 거치면 상상할 수 없을 정도로 더 아름답고 강한 사람이 될 것이다."
 *   **주의사항**: 이러한 성장은 고통과 희생 없이는 불가능하며, '
 
-# 제목: How I built my dream life step by step (just copy me)
+# How I built my dream life step by step (just copy me)
 
 ## How I built my dream life step by step (just copy me)
 **URL:** https://www.youtube.com/watch?v=MBijvtK-rmc
@@ -1634,7 +1634,7 @@ EOS는 강력한 시스템이지만, 모든 비즈니스에 획일적으로 적�
   - `Venture Capital Funding Stages` (벤처캐피탈 투자 단계)
   - `Founder Psychology` (창업가 심리학)
 
-# 제목: How to Become the First Millionaire in Your Family
+# How to Become the First Millionaire in Your Family
 
 ## How to Become the First Millionaire in Your Family
 **URL:** https://www.youtube.com/watch?v=2lEVLFFiTbI

@@ -500,7 +500,7 @@
     *   너무 저비용에만 집중하여 프로토타입이 핵심 기능을 제대로 전달하지 못하거나, 사용자에게 오해를 불러일으킬 수 있는 수준이 되어서는 안 됩니다. '저비용'과 '충분한 정보 전달' 사이의 균형을 찾는 것이 중요합니다.
 
 
-# YouTube 영상 심층 학습 자료: 게임의 코어 루프 이해
+# 게임의 코어 루프 이해
 ## What's a core loop on Roblox?
 **URL:** https://www.youtube.com/watch?v=gkFKF9A-snY
 
@@ -725,7 +725,7 @@
 *   **주의사항:** 즐거움의 순간은 플레이어의 노력과 진행 상황이 인정받고 축하받는다는 느낌을 주어야 합니다. 온보딩의 마지막에 이러한 순간을 배치하는 것은 플레이어의 마음에 긍정적인 인
 
 
-# YouTube 영상 심층 학습 자료: 게임 커뮤니티 활성화 및 창작자 참여 유도 전략
+# 게임 커뮤니티 활성화 및 창작자 참여 유도 전략
 ## Clip! Empowering Community Creativity with Bluay
 **URL:** https://www.youtube.com/watch?v=MW-QvpIxO4I
 
@@ -1855,7 +1855,7 @@ UI/UX 디자이너, 게임 개발자, 웹 개발자, 접근성 개선에 관심 
 *   **주의사항:** 접근성 표준(예: WCAG - Web Content Accessibility Guidelines)은 복잡할 수 있으므로, 전문가의 도움을 받거나 관련 교육을 이수하는 것이 중요합니다.
 
 
-# YouTube 영상 상세 학습 자료: 게임 업데이트 커뮤니케이션 전략과 커뮤니티 관리
+# 게임 업데이트 커뮤니케이션 전략과 커뮤니티 관리
 ## Clip! The Importance of Social Media with Ruddev_Ethan and x_o
 **URL:** https://www.youtube.com/watch?v=M6qQtpjQkXs
 
@@ -2004,7 +2004,7 @@ UI/UX 디자이너, 게임 개발자, 웹 개발자, 접근성 개선에 관심 
 *   **주의사항:** 과도하거나 부적절한 조명 및 시각 효과는 오히려 플레이어의 시야를 방해하거나 혼란을 줄 수 있습니다. 게임의 전반적인 아트 스타일과 일관성을 유지하며
 
 
-# YouTube 영상 상세 학습 자료: 게임 전환율 극대화 전략
+# 게임 전환율 극대화 전략
 ## Clip! Increasing Conversion Rates with Erythia
 **URL:** https://www.youtube.com/watch?v=Cli3ogW-azk
 
@@ -2906,7 +2906,7 @@ UI 제약 조건(Constraints)은 UI 요소의 배치와 크기 조절을 자동�
 
 Okay, I understand the task. I need to transform the provided YouTube transcript into a detailed, structured learning resource in Markdown format, adhering to all the specified sections and guidelines.
 
-I will now proceed to generate the content based on the transcript and the given instructions.# YouTube 영상 상세 학습 자료: Roblox 경험 수익화 전략 및 윤리적 고려사항
+I will now proceed to generate the content based on the transcript and the given instructions.# Roblox 경험 수익화 전략 및 윤리적 고려사항
 
 ## 1. 개요 (Overview)
 이 문서는 Roblox 플랫폼에서 게임 경험을 수익화하는 다양한 전략과 그 과정에서 고려해야 할 윤리적 문제, 그리고 수익화와 플레이어 경험 간의 균형을 다룹니다. Roblox 개발자 라운드 테이블에서 논의된 내용을 바탕으로, 게임 개발의 지속 가능성을 확보하고 플레이어 만족도를 유지하면서 효과적으로 수익을 창출하는 방법에 대한 깊이 있는 통찰을 제공합니다. 주요 질문은 '개발자는 왜 수익화를 추구하는가?', '플레이어는 왜 돈을 지불하는가?', '수익화 전략은 언제 수립해야 하는가?', '윤리적 수익화란 무엇이며, 어떻게 균형을 맞추는가?' 등입니다. 이 자료는 Roblox 게임 개발자, 예비 게임 창작자, 게임 디자이너 및 게임 개발의 비즈니스 측면에 관심 있는 모든 사람을 대상으로 하며, Roblox 플랫폼 및 게임 개발의 기본 개념에 대한 이해를 전제로 합니다.
@@ -3176,7 +3176,7 @@ I will now proceed to generate the content based on the transcript and the given
 *   **주의사항:** 이러한 가치 제안은 투명하고 정직해야 합니다. 과장되거나 오해의 소지가 있는 정보는 플레이어의 신뢰
 
 
-# YouTube 영상 심층 학습 자료: 게임 개발의 윤리적 수익화 전략
+# 게임 개발의 윤리적 수익화 전략
 ## Clip! Designing Fair Loot Boxes with Erythia and Dspav
 **URL:** https://www.youtube.com/watch?v=OEmFocfE0Xs
 
@@ -3347,7 +3347,7 @@ I will now proceed to generate the content based on the transcript and the given
 *   **주의사항:** 단순히 콘텐츠의 양만 늘리는 것이 아니라, 각 콘텐츠의 품질과 고유한 가치를 유지하는 것이 중요합니다.
 
 
-# YouTube 영상 상세 학습 자료: 게임 내 콘텐츠 크리에이터 도구의 중요성
+# 게임 내 콘텐츠 크리에이터 도구의 중요성
 ## Clip! Making Streamer Friendly Games
 **URL:** https://www.youtube.com/watch?v=oMyAQ67is0U
 
@@ -3805,7 +3805,7 @@ P2W은 명확한 형태 외에도 `Pay-to-Progress` (진행 가속), `Pay-for-Co
 'Shadow Mechanics'가 너무 숨겨져 있거나 불투명하면 플레이어가 이를 발견하지 못하고 게임의 깊이를 경험하지 못할 수 있습니다. 따라서 게임은 플레이어가 이러한 메커니즘을 탐구하도록 유도하는 미묘한 힌트, 피드백, 그리고 실험의 기회를 제공해야 합니다. 예를 들어, 특정 행동에 대한 예상치 못한 보상이나, 다른 플레이어의 고급 플레이를 관찰할 수 있는 기회 등이 될 수 있습니다.
 
 
-# YouTube 영상 심층 학습 자료: 성인 대상 게임 디자인 전략 - Roblox 사례를 중심으로
+# 성인 대상 게임 디자인 전략 - Roblox 사례를 중심으로
 ## Clip! Thinking Like an Older Player with Looty_Haga
 **URL:** https://www.youtube.com/watch?v=foQjWE0MN3M
 

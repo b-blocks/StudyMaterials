@@ -572,7 +572,7 @@ Roblox 경험에서 시간은 애니메이션, 이벤트 스케줄링, 사용자
 *   **주의사항:** `Workspace.GetServerTimeNow()`는 호출 비용이 있으므로, 주기적으로 호출하여 동기화하고, 그 사이에는 `time()`을 사용하여 부드러운 카운트다운을 구현하는 것이 효율적입니다.
 
 
-# YouTube 영상 심층 학습 자료: Blender 초보자의 UGC 꽃 왕관 제작 여정
+# Blender 초보자의 UGC 꽃 왕관 제작 여정
 ## Making a UGC catalogue: making a flower crown
 **URL:** https://www.youtube.com/watch?v=hLh5BfrhNgg
 
@@ -3558,7 +3558,7 @@ Roblox에는 다양한 용도의 많은 객체 유형이 있지만, 개발자는
 ## 4. 용어 해설 (Glossary)
 
 
-# YouTube 영상 상세 학습 자료: Roblox 친구 초대 보상 시스템 배너 생성 및 게시
+# Roblox 친구 초대 보상 시스템 배너 생성 및 게시
 ## Learn how to create a custom experience banner
 **URL:** https://www.youtube.com/watch?v=rVFmc8gxu4s
 
