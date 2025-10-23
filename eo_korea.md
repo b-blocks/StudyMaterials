@@ -1,4 +1,4 @@
-# Summary for eo_korea
+# eo_korea
 
 ## 스물 여덟, 청년 창업 실패 후 실리콘밸리에서 느낀 점 | EO 태용 [리얼밸리 인터뷰 해설 01]
 **URL:** https://www.youtube.com/watch?v=YhdAEReWHk0

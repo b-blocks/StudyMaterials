@@ -1953,7 +1953,7 @@ Here's a breakdown of the task and my plan:
 *   **Document Structure (Mandatory):**
     1.  개요 (Overview)
     2.  핵심 요약 (Executive Summary)
-    3.  상세 내용 (Detailed Content) - with logical sections, ##/### headings, concept -> example -> application flow, emphasized data, quotes. Each section must include: 핵심 개념, 왜 중요한가, 심화 설명, 예시/사례, 주의사항.
+    3.  상세 내용 (Detailed Content) - with logical sections,/### headings, concept -> example -> application flow, emphasized data, quotes. Each section must include: 핵심 개념, 왜 중요한가, 심화 설명, 예시/사례, 주의사항.
     4.  용어 해설 (Glossary) - table format, Korean explanation, English original.
     5.  핵심 학습 포인트 (Key Takeaways) - 3-5 points, detailed explanation, practical/exam emphasis.
     6.  실용적 적용 (Practical Applications) - 실무 적용, 학습 방법, 연관 주제.

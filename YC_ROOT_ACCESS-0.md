@@ -1,4 +1,4 @@
-# Summary for ycrootaccess
+# ycrootaccess
 
 ## RevenueCat: Powering Subscriptions for the App Economy
 **URL:** https://www.youtube.com/watch?v=gz4AKzSBwTk

@@ -1,4 +1,4 @@
-# Summary for B_ZCF
+# B_ZCF
 
 ## 테슬라 CEO 일론머스크와 엔비디아 CEO 젠슨황의 대화 | 거인들의 통찰 | Tesla CEO Elon Musk with NVIDIA CEO Jen Hsun Huang
 **URL:** https://www.youtube.com/watch?v=FdkTL-fJ65k

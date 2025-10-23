@@ -1,4 +1,4 @@
-# Summary for RobloxLearn
+# RobloxLearn
 
 
 # Roblox 애셋 저장소(Asset Repository) 구축 가이드
@@ -660,7 +660,7 @@ I need to follow a specific document structure and adhere to given writing guide
 1.  **개요 (Overview)**
 2.  **핵심 요약 (Executive Summary)**
 3.  **상세 내용 (Detailed Content)**
-    *   논리적 흐름에 따라 섹션 나누기 (##, ###)
+    *   논리적 흐름에 따라 섹션 나누기 (##,)
     *   개념 설명 → 예시 → 실제 적용
     *   중요 수치, 데이터, 통계 강조
     *   인용 형식 사용 (>)
