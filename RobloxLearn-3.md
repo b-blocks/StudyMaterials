@@ -1195,7 +1195,7 @@ Roblox 액세서리 제작은 일반적으로 다음의 체계적인 단계를 �
     *   **PBR (Physically Based Rendering) 이론 및 실제 적용:** PBR 텍스처링의 심층적인 이론을 학습하여 더욱 사실적이고 고품질의 재질 표현 기술을 습득할 수 있습니다.
     *   **3D 모델 최적화 기법 (Optimization Techniques for 3D Models):** 게임 성능을 저하시키지 않으면서도 시각적 품질을 유지하는 메시 및 텍스처 최적화 방법에 대해 학습합니다.
 
-## 7. 참고 자료 (References & Further Reading)
+## 7. 참고 자료
 *   **추천 도서/논문:**
     *   **"The Blender Manual"**: Blender 공식 웹사이트에서 제공하는 상세 매뉴얼로, 3D 모델링의 모든 측면을 다룹니다.
     *   **"Physically Based Rendering: From Theory To Implementation"**: PBR 렌더링의 이론적 배경과 실제 구현에 대한 심도 있는 내용을 다루는 전문 서적입니다.

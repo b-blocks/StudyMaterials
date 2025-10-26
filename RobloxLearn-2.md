@@ -1957,7 +1957,7 @@ Here's a breakdown of the task and my plan:
     4.  용어 해설 (Glossary) - table format, Korean explanation, English original.
     5.  핵심 학습 포인트 (Key Takeaways) - 3-5 points, detailed explanation, practical/exam emphasis.
     6.  실용적 적용 (Practical Applications) - 실무 적용, 학습 방법, 연관 주제.
-    7.  참고 자료 (References & Further Reading) - books, papers, websites, tutorials, keywords.
+    7.  참고 자료 - books, papers, websites, tutorials, keywords.
     8.  자가 점검 (Self-Check Questions) - 3-5 questions, answer guide.
     9.  실습/액션 아이템 (Action Items) - additional content, next steps.
 *   **Writing Guidelines:**

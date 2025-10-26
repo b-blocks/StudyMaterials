@@ -2689,7 +2689,7 @@ Draft.dev의 성공 이후, 칼 휴즈는 '인수를 통한 기업가 정신(ETA
     *   가치 제안 캔버스 (Value Proposition Canvas)
     *   디지털 노마드 및 1인 기업 운영 전략
 
-## 7. 참고 자료 (References & Further Reading)
+## 7. 참고 자료
 더 깊이 있는 학습을 위한 추천 자료입니다.
 
 *   **추천 도서:**

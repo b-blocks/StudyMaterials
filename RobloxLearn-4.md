@@ -2520,7 +2520,7 @@ UI 제약 조건(Constraints)은 UI 요소의 배치와 크기 조절을 자동�
     *   **모바일 퍼스트 디자인 (Mobile-First Design):** 모바일 환경을 우선적으로 고려하여 디자인하고 개발하는 접근 방식.
     *   **접근성 (Accessibility) 디자인:** 장애를 가진 사용자도 웹사이트나 앱을 쉽게 이용할 수 있도록 설계하는 것.
 
-## 7. 참고 자료 (References & Further Reading)
+## 7. 참고 자료
 
 *   **추천 도서:**
     *   "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability" by Steve Krug (사용성 및 UI/UX 디자인의 고전)

@@ -668,7 +668,7 @@ I need to follow a specific document structure and adhere to given writing guide
 4.  **용어 해설 (Glossary)**
 5.  **핵심 학습 포인트 (Key Takeaways)**
 6.  **실용적 적용 (Practical Applications)**
-7.  **참고 자료 (References & Further Reading)**
+7.  **참고 자료**
 8.  **자가 점검 (Self-Check Questions)**
 9.  **실습/액션 아이템 (Action Items)**
 
@@ -3297,7 +3297,7 @@ new_current_value, new_velocity = smooth_damp(
 *   **환경 디자인 원리:** 색상 이론, 구성, 공간감, 시각적 계층 구조 등 환경 디자인의 기본 원리를 학습하면 더욱 효과적이고 미학적인 월드 빌딩이 가능합니다.
 *   **최적화 기법:** 복잡한 지형과 조명 설정은 게임 성능에 영향을 미칠 수 있습니다. LOD (Level of Detail), 컬링(Culling) 등 게임 최적화 기법을 학습하여 고품질 환경에서도 원활한 성능을 유지하는 방법을 익힙니다.
 
-## 7. 참고 자료 (References & Further Reading)
+## 7. 참고 자료
 
 **추천 도서/논문:**
 *   "Roblox Studio: The Comprehensive Guide" (Roblox 공식 문서): Roblox 스튜디오의 모든 기능에 대한 가장 정확하고 상세한 정보를 제공합니다.

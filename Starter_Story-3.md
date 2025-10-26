@@ -898,7 +898,7 @@
         *   **제목:** "Hi, [First Name]" (예: "Hi, James") - 실제 사람이 보낸 것처럼 느껴지게 합니다.
         *   **첫 줄:** "I was checking out your LinkedIn profile and thought this could be of value to you." - 중립적이고 직접적이며, 과장 없이 프로필을 확인했음을 알립니다.
         *   **가치 제안:** "We built a tool called Uplead, which is like Zoom Info but with real-time email verification, and we're really affordable." - 시장의 주요 경쟁자(Zoom Info)와 비교하여 명확한 가치(실시간 검증, 저렴한 가격)와 차별점(twist)을 제시합니다.
-        *   **요청 (Call to Action):** "Are you open to trying it out at no cost?" - 거절하기 어려운 매우 쉬운 요청을 합니다.
+        *   **요청:** "Are you open to trying it out at no cost?" - 거절하기 어려운 매우 쉬운 요청을 합니다.
     *   **주의사항:** 이메일은 길 필요가 없습니다. 인간적이고 간결하며 핵심을 전달하는 것이 중요합니다.
 
 #### 3.5.2. Signaturely: 간편한 전자 서명 솔루션
