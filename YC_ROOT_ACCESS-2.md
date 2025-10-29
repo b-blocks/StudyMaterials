@@ -584,7 +584,6 @@ Noya는 현재 첫 번째 빌드를 완료했으며, 기술 개발 및 상용화
     *   상대방의 시간을 존중하고, 짧고 명확하게 요점을 전달합니다.
     *   거절당하더라도 낙담하지 않고, 긍정적인 태도를 유지합니다.
 
-# 4. 용어 해
 
 ## AMA with YC: Job Searching During an Economic Downturn (Event Summary)
 **URL:** https://www.youtube.com/watch?v=Ir62zhDol9c
@@ -693,12 +692,9 @@ YC 스타트업은 설립 시기에 따라 초기 단계(Seed Stage)와 성장 �
 *   **안정성만을 추구:** 스타트업은 본질적으로 대기업보다 불확실성이 높습니다. '안정성'만을 최우선으로 한다면 스타트업보다는 대기업이 더 적합할 수 있습니다.
 *   **정보 부족:** 각 단계별 스타트업의 특징과 자신의 선호도를 명확히 파악하지 않고 지원하는 것은 시간 낭비로 이어질 수 있습니다. 충분한 정보 탐색과 자기 성찰이 필요합니다.
 
-## 4. 용
 
-## YC's Summer 2022 Startup Job Expo - Pitches from 30 YC founders & find your next startup
+# YC's Summer 2022 Startup Job Expo - Pitches from 30 YC founders & find your next startup
 **URL:** https://www.youtube.com/watch?v=JS_2EQsXkgY
-
-# YC Summer 22 Jobs Expo: 스타트업 채용 및 기술 트렌드 분석
 
 ## 1. 개요
 본 문서는 Y Combinator(YC) Summer 2022 Jobs Expo에서 발표된 30개 스타트업의 피칭 내용을 분석하여, 최신 기술 트렌드, 스타트업 생태계, 그리고 유망 직무에 대한 심층적인 학습 자료를 제공합니다. 이 행사는 YC가 투자한 유망 스타트업들이 잠재적 인재들에게 자신들의 비전, 기술, 비즈니스 기회, 그리고 채용 포지션을 소개하는 자리였습니다.
