@@ -1,6 +1,8 @@
 #!/bin/sh
 
-# 현재 디렉토리 및 하위 디렉토리에서 .md 파일을 찾아 처리합니다.
+##########################
+# Markdown 후처리 스크립트 
+##########################
 find . -type f -name "*.md" | while read -r file; do
   echo "Processing $file..."
   # macOS/BSD sed를 위한 스크립트. 다음 세 가지 작업을 순차적으로 수행합니다.
