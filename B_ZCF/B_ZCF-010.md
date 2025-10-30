@@ -44,7 +44,6 @@
 ## 247. 버크셔헤서웨이 2023 주주총회 | 2023년에 남기는 삶의 조언들
 **URL:** https://www.youtube.com/watch?v=gSSzeMPpU3c    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 *   **장기적 관점과 지속 가능성**: 벤저민 그레이엄의 책처럼 시대를 초월하는 가치를 추구하며, 버크셔 해서웨이 또한 100년 이상 지속 가능한 기업을 목표로 합니다.
@@ -253,7 +252,6 @@
 ## 248. 찰리 멍거 | 인생을 살아가는 데 도움이 되는 몇 가지 조언들
 **URL:** https://www.youtube.com/watch?v=efgIt8MxZ4c    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 *   **가장 안전한 성공 전략**: 원하는 것을 얻는 가장 확실한 방법은 그것을 **'받을 자격이 있도록'** 노력하는 것입니다. 이는 타인에게 가치를 제공하고 신뢰를 얻는 황금률입니다.
@@ -405,7 +403,6 @@
 
 ## 249. 테슬라 CEO 일론머스크와 엔비디아 CEO 젠슨황의 대화 | 거인들의 통찰 | Tesla CEO Elon Musk with NVIDIA CEO Jen Hsun Huang
 **URL:** https://www.youtube.com/watch?v=FdkTL-fJ65k    (
-
 
 ## 1. 핵심 요약 (Hook)
 

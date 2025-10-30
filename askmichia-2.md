@@ -85,7 +85,6 @@
 ## 69. Why Successful People Fail More Than Others (My Experience)
 **URL:** https://www.youtube.com/watch?v=eUHThTx1-8E    (
 
-
 # YouTube 영상 자막 기반 심층 학습 자료: 성공의 역설과 성장의 기술
 
 ## 1. 개요 (Overview)
@@ -139,7 +138,6 @@
 
 ## 70. I Wish I Knew These 5 Things Before I Quit My job (Startup Founder)
 **URL:** https://www.youtube.com/watch?v=iXc1zzhWHTE    (
-
 
 ## 1. 개요 (Overview)
 

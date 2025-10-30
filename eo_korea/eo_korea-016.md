@@ -80,7 +80,6 @@
 ## 510. 사회 문제 해결하면 돈 잘 버는 세상이 오고 있다
 **URL:** https://www.youtube.com/watch?v=ZZl2LGt9Dmc    (
 
-
 # 제목: 사회 문제 해결하면 돈 잘 버는 세상이 오고 있다
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -155,7 +154,6 @@
 
 ## 511. 커다란 성공은 반드시 이 모양으로 찾아옵니다, 그러니까... [비즈니스 퀘스트 | J커브]
 **URL:** https://www.youtube.com/watch?v=bpvfgLliTAw    (
-
 
 # 제목: 커다란 성공은 반드시 이 모양으로 찾아옵니다, 그러니까... [비즈니스 퀘스트 | J커브]
 
@@ -281,7 +279,6 @@
 ## 512. 멈추지 않고 성장해온 기업가의 인사이트 l 지미의 원스텝 with 버즈빌 이관우
 **URL:** https://www.youtube.com/watch?v=eps5q_my2bc    (
 
-
 # 제목: 멈추지 않고 성장해온 기업가의 인사이트 l 지미의 원스텝 with 버즈빌 이관우
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -403,7 +400,6 @@
 
 ## 513. 구성원 99%가 문과생인데 고속성장하는 스타트업 [하이퍼 그로스Hyper Growth 3화]
 **URL:** https://www.youtube.com/watch?v=tSGfOwTgNzw    (
-
 
 # 제목: 구성원 99%가 문과생인데 고속성장하는 스타트업 [하이퍼 그로스Hyper Growth 3화]
 
@@ -556,7 +552,6 @@
 ## 514. 첨단 기술, ESG 전부 '이 산업'에 해당합니다
 **URL:** https://www.youtube.com/watch?v=To78WsUhyK8    (
 
-
 # 제목: 첨단 기술, ESG 전부 '이 산업'에 해당합니다
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -666,7 +661,6 @@
 
 ## 515. 이 사람들이 어떻게 상금을 탄 걸까? 리뷰&분석 l 환경창업대전
 **URL:** https://www.youtube.com/watch?v=XLwUfdIT788    (
-
 
 # 제목: 이 사람들이 어떻게 상금을 탄 걸까? 리뷰&분석 l 환경창업대전
 
@@ -783,7 +777,6 @@
 ## 516. 삼성전자 퇴사하고 치과의사도 때려친 사람이 만든 블록체인 의료 솔루션
 **URL:** https://www.youtube.com/watch?v=RQa7EvrEZvE    (
 
-
 # 제목: 삼성전자 퇴사하고 치과의사도 때려친 사람이 만든 블록체인 의료 솔루션
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -865,7 +858,6 @@
 
 ## 517. 쿠팡 100조 비결, 이 단어 하나로 종결한다. [비즈니스 퀘스트 | 레버리지]
 **URL:** https://www.youtube.com/watch?v=_ahRvOVVviI    (
-
 
 # 쿠팡 100조 비결, 이 단어 하나로 종결한다. [비즈니스 퀘스트 | 레버리지]
 
@@ -1002,7 +994,6 @@
 ## 518. 천상계 개발자들이 바라보는 코딩 광풍 (feat. 잔디, 콴다, 버즈빌)
 **URL:** https://www.youtube.com/watch?v=8WNwZGcYbOU    (
 
-
 # 제목: 천상계 개발자들이 바라보는 코딩 광풍 (feat. 잔디, 콴다, 버즈빌)
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -1098,7 +1089,6 @@
 
 ## 519. 구글이 뽑은 스타트업에겐 특별한 것이 있다 (feat. 맘시터)
 **URL:** https://www.youtube.com/watch?v=ffnZ5qewkdw    (
-
 
 # 제목: 구글이 뽑은 스타트업에겐 특별한 것이 있다 (feat. 맘시터)
 
@@ -1260,7 +1250,6 @@
 ## 520. 요즘은 대기업들이 스타트업과 일하고 싶어합니다ㅣ2021 마곡 Weconomy Startup Challenge
 **URL:** https://www.youtube.com/watch?v=axa72safalw    (
 
-
 # 제목: 요즘은 대기업들이 스타트업과 일하고 싶어합니다ㅣ2021 마곡 Weconomy Startup Challenge
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -1379,7 +1368,6 @@
 
 ## 521. 29살에 퇴사해서 5년 만에 업계 1위 달성한 워킹맘 CEO
 **URL:** https://www.youtube.com/watch?v=JbkIaUkYrGI    (
-
 
 # 제목: 29살에 퇴사해서 5년 만에 업계 1위 달성한 워킹맘 CEO
 
@@ -1527,7 +1515,6 @@
 
 ## 522. 최초의 모빌리티 유니콘 쏘카 채용설명회
 **URL:** https://www.youtube.com/watch?v=K42eimDtj_U    (
-
 
 # 제목: 최초의 모빌리티 유니콘 쏘카 채용설명회
 
@@ -1678,7 +1665,6 @@
 ## 524. 돈은 팀쿡이 다 버는데 왜 다들 잡스만 좋아할까? [비즈니스 퀘스트 | 기업가정신]
 **URL:** https://www.youtube.com/watch?v=UBSEfH0gdik    (
 
-
 # 제목: 돈은 팀쿡이 다 버는데 왜 다들 잡스만 좋아할까? [비즈니스 퀘스트 | 기업가정신]
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -1763,7 +1749,6 @@
 
 ## 525. 한국에서 가장 빠르게 성장하는 버티컬 스타트업 '오늘의집' 성장 이야기
 **URL:** https://www.youtube.com/watch?v=MAAZCFPHgh0    (
-
 
 # 제목: 한국에서 가장 빠르게 성장하는 버티컬 스타트업 '오늘의집' 성장 이야기
 
@@ -1879,7 +1864,6 @@
 ## 526. 마감 임박 정부지원사업 6개 추천합니다
 **URL:** https://www.youtube.com/watch?v=DpS7iWGHFd8    (
 
-
 # 제목: 마감 임박 정부지원사업 6개 추천합니다
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -1978,7 +1962,6 @@
 
 ## 527. 쿠팡 물류센터 14개까지 만든 기획자의 노하우 ㅣ 딜리셔스 장홍석 부대표
 **URL:** https://www.youtube.com/watch?v=zZFNCcUXr9c    (
-
 
 # 제목: 쿠팡 물류센터 14개까지 만든 기획자의 노하우 ㅣ 딜리셔스 장홍석 부대표
 
@@ -2171,7 +2154,6 @@
 ## 528. 우리집 220V 콘센트를 전기차 충전기로 바꾸는 기술
 **URL:** https://www.youtube.com/watch?v=dweLK-QX9G0    (
 
-
 # 제목: 우리집 220V 콘센트를 전기차 충전기로 바꾸는 기술
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -2229,7 +2211,6 @@
 
 ## 529. 동료를 찾습니다 l EO 채용 설명 영상
 **URL:** https://www.youtube.com/watch?v=h8y4_Ubq7e0    (
-
 
 # 제목: 동료를 찾습니다 l EO 채용 설명 영상
 
@@ -2326,7 +2307,6 @@ EO는 콘텐츠의 '판매'에 있어 카피라이팅의 중요성을 강조하�
 
 ## 530. 요즘 편의점 가면 보이는 이상한 맥주를 만든 사람
 **URL:** https://www.youtube.com/watch?v=BST_UxSqy4Q    (
-
 
 # 제목: 요즘 편의점 가면 보이는 이상한 맥주를 만든 사람
 
@@ -2452,7 +2432,6 @@ EO는 콘텐츠의 '판매'에 있어 카피라이팅의 중요성을 강조하�
 
 ## 531. 누구나 지원할 수 있는 임팩트 스타트업 지원 프로그램
 **URL:** https://www.youtube.com/watch?v=JbiBZ1lHPyY    (
-
 
 # 제목: 누구나 지원할 수 있는 임팩트 스타트업 지원 프로그램
 
@@ -2990,7 +2969,6 @@ H-On Dream A 트랙은 홈페이지 오픈과 동시에 지원이 가능하지�
 ## 532. 열심히 일하는 당신의 노후파산을 막아줄 스타트업, 파운트 [하이퍼 그로스Hyper Growth 2화]
 **URL:** https://www.youtube.com/watch?v=_b5HVSVG3fg    (
 
-
 # 제목: 열심히 일하는 당신의 노후파산을 막아줄 스타트업, 파운트 [하이퍼 그로스Hyper Growth 2화]
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -3164,7 +3142,6 @@ H-On Dream A 트랙은 홈페이지 오픈과 동시에 지원이 가능하지�
 ## 533. 아이를 잃어버린 아빠가 만든 특별한 신호등
 **URL:** https://www.youtube.com/watch?v=JfQfaUhkXcc    (
 
-
 # 제목: 아이를 잃어버린 아빠가 만든 특별한 신호등
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -3229,7 +3206,6 @@ H-On Dream A 트랙은 홈페이지 오픈과 동시에 지원이 가능하지�
 
 ## 534. 22년차 디자이너가 안타까운 마음에 만든 브랜드
 **URL:** https://www.youtube.com/watch?v=zKupnJwONM0    (
-
 
 # 제목: 22년차 디자이너가 안타까운 마음에 만든 브랜드
 
@@ -3347,7 +3323,6 @@ H-On Dream A 트랙은 홈페이지 오픈과 동시에 지원이 가능하지�
 ## 535. 파산 위기를 탈출하게 해준 60억짜리 깨달음
 **URL:** https://www.youtube.com/watch?v=qpYe0Xo5HxY    (
 
-
 # 제목: 파산 위기를 탈출하게 해준 60억짜리 깨달음
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -3434,7 +3409,6 @@ H-On Dream A 트랙은 홈페이지 오픈과 동시에 지원이 가능하지�
 ## 536. 꿈의 무대에서 최고의 결과를 만든 사람들의 마음가짐
 **URL:** https://www.youtube.com/watch?v=LlQQcmiNI3g    (
 
-
 # 제목: 꿈의 무대에서 최고의 결과를 만든 사람들의 마음가짐
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -3519,7 +3493,6 @@ H-On Dream A 트랙은 홈페이지 오픈과 동시에 지원이 가능하지�
 
 ## 537. 한국의 실리콘밸리는 강남이 될까? 판교가 될까?
 **URL:** https://www.youtube.com/watch?v=FIEgsla2rXM    (
-
 
 # 제목: 한국의 실리콘밸리는 강남이 될까? 판교가 될까?
 
@@ -3611,7 +3584,6 @@ H-On Dream A 트랙은 홈페이지 오픈과 동시에 지원이 가능하지�
 ## 538. 도전을 고민하는 사람에게 동기부여가 되는 이야기
 **URL:** https://www.youtube.com/watch?v=wj5G7Lnl2R4    (
 
-
 # 제목: 도전을 고민하는 사람에게 동기부여가 되는 이야기
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -3693,7 +3665,6 @@ H-On Dream A 트랙은 홈페이지 오픈과 동시에 지원이 가능하지�
 
 ## 539. 코로나 시기에 해외에서 성장한 기업들이 거쳐간 프로그램
 **URL:** https://www.youtube.com/watch?v=6GCt7YW-0AQ    (
-
 
 # 제목: 코로나 시기에 해외에서 성장한 기업들이 거쳐간 프로그램
 
@@ -3800,5 +3771,3 @@ ProtoPie의 비전은 "모든 디지털 제품을 고민할 때 혁신적인 디
 
 ## 540. 투자자들이 주목하는 농업 스타트업 이슈와 지원사업 소개
 **URL:** https://www.youtube.com/watch?v=G2Wf6Qowf4s    (
-
-

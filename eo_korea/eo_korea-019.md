@@ -123,7 +123,6 @@
 ## 614. 평범한 헬스장 관장이 미국-일본에 한국 인삼을 알리는 사업가가 되기까지
 **URL:** https://www.youtube.com/watch?v=tOjAbiU6MUc    (
 
-
 # 제목: 평범한 헬스장 관장이 미국-일본에 한국 인삼을 알리는 사업가가 되기까지
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -231,7 +230,6 @@
 ## 615. 최고의 창업가와 투자자를 방구석에서 만날 수 있는 기회
 **URL:** https://www.youtube.com/watch?v=_azhGQuGG_U    (
 
-
 # 제목: 최고의 창업가와 투자자를 방구석에서 만날 수 있는 기회
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -318,7 +316,6 @@
 ## 616. 외국인 창업가의 눈에 보이는 한국시장의 매력
 **URL:** https://www.youtube.com/watch?v=n_N4YGfRj_k    (
 
-
 # 제목: 외국인 창업가의 눈에 보이는 한국시장의 매력
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -394,7 +391,6 @@
 ## 617. 지금은 어렵지만 코로나 이후 잘 될 서울의 스타트업을 위하여
 **URL:** https://www.youtube.com/watch?v=qplTxckGkXQ    (
 
-
 # 제목: 지금은 어렵지만 코로나 이후 잘 될 서울의 스타트업을 위하여
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -469,7 +465,6 @@
 
 ## 618. 30대에 만든 2000억 가치의 여행 스타트업 이야기
 **URL:** https://www.youtube.com/watch?v=wnptzPCZT7E    (
-
 
 # 제목: 30대에 만든 2000억 가치의 여행 스타트업 이야기
 
@@ -575,7 +570,6 @@
 
 ## 619. 4번 실패한 양식 쉐프가 대박 한식집 사장님이 된 방법
 **URL:** https://www.youtube.com/watch?v=MfV3k3smRrU    (
-
 
 # 제목: 4번 실패한 양식 쉐프가 대박 한식집 사장님이 된 방법
 
@@ -693,7 +687,6 @@
 ## 620. 골프황제 박세리가 스타트업에 투자를 결심한 이유
 **URL:** https://www.youtube.com/watch?v=Qnzxs0ubgCk    (
 
-
 # 제목: 골프황제 박세리가 스타트업에 투자를 결심한 이유
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -789,7 +782,6 @@
 
 ## 621. 현대차에서 연구한 자율주행 기술을 학교 급식에 접목한 결과
 **URL:** https://www.youtube.com/watch?v=PeSPf4O9ho8    (
-
 
 # 제목: 현대차에서 연구한 자율주행 기술을 학교 급식에 접목한 결과
 
@@ -900,7 +892,6 @@
 ## 622. 불가사리로 40억을 번 서울대생의 아이디어 | 스타스테크 양승찬
 **URL:** https://www.youtube.com/watch?v=haPB7f7NlCY    (
 
-
 # 제목: 불가사리로 40억을 번 서울대생의 아이디어 | 스타스테크 양승찬
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -1003,7 +994,6 @@
 
 ## 623. 현업 벤처 투자자들과의 Q&A 2편
 **URL:** https://www.youtube.com/watch?v=akUd1AdmVk8    (
-
 
 # 제목: 현업 벤처 투자자들과의 Q&A 2편
 
@@ -1109,7 +1099,6 @@
 ## 624. 인천시와 신한금융그룹이 작정하고 만든 스타트업 지원 사업
 **URL:** https://www.youtube.com/watch?v=0k164X2uwEc    (
 
-
 # 제목: 인천시와 신한금융그룹이 작정하고 만든 스타트업 지원 사업
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -1214,7 +1203,6 @@
 
 ## 625. 삼성전자 개발자 출신이 성수동 수제화거리로 간 이유
 **URL:** https://www.youtube.com/watch?v=qTXoLW9cBRM    (
-
 
 # 제목: 삼성전자 개발자 출신이 성수동 수제화거리로 간 이유
 
@@ -1324,7 +1312,6 @@
 ## 626. 억대 사기 두 번 당했지만 다시 일어설 수 있었던 노하우
 **URL:** https://www.youtube.com/watch?v=RF5_H0wk89o    (
 
-
 # 제목: 억대 사기 두 번 당했지만 다시 일어설 수 있었던 노하우
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -1430,7 +1417,6 @@
 ## 627. 400만명이 본 벌레 이야기의 주인공
 **URL:** https://www.youtube.com/watch?v=1r9txKRELow    (
 
-
 # 제목: 400만명이 본 벌레 이야기의 주인공
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -1530,7 +1516,6 @@
 
 ## 628. 20명이 만든 실리콘밸리 1조 기업, 노션 이야기
 **URL:** https://www.youtube.com/watch?v=aq8pFTm-Wj8    (
-
 
 # 제목: 20명이 만든 실리콘밸리 1조 기업, 노션 이야기
 
@@ -1738,7 +1723,6 @@
 ## 629. 에어팟 프로 20명, 맥북 프로 경품 당첨에 도전할 수 있는 기회
 **URL:** https://www.youtube.com/watch?v=SzlyhjWWZUc    (
 
-
 # 제목: 에어팟 프로 20명, 맥북 프로 경품 당첨에 도전할 수 있는 기회
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -1836,7 +1820,6 @@
 
 ## 630. 노션 한국어판 런칭 커뮤니티 이벤트
 **URL:** https://www.youtube.com/watch?v=iZKmDC1nf4w    (
-
 
 # 제목: 노션 한국어판 런칭 커뮤니티 이벤트
 
@@ -2049,7 +2032,6 @@
 ## 632. 프라이탁 덕후에서 연매출 5억 편집샵 사장님으로
 **URL:** https://www.youtube.com/watch?v=vIHGk6xdZ7g    (
 
-
 # 제목: 프라이탁 덕후에서 연매출 5억 편집샵 사장님으로
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -2148,7 +2130,6 @@
 
 ## 633. 젊은 사람이 가지 않는 사양산업에서 발견한 기회
 **URL:** https://www.youtube.com/watch?v=qeeJyC3M-ZE    (
-
 
 # 제목: 젊은 사람이 가지 않는 사양산업에서 발견한 기회
 
@@ -2279,7 +2260,6 @@
 ## 634. 예비 창업자에게는 최대 5천만 원을 지원합니다
 **URL:** https://www.youtube.com/watch?v=goqAHCUXhwQ    (
 
-
 # 제목: 예비 창업자에게는 최대 5천만 원을 지원합니다
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -2384,7 +2364,6 @@
 ## 635. 짐 로저스가 투자한 한국 금융 스타트업
 **URL:** https://www.youtube.com/watch?v=iocftqfaUC4    (
 
-
 # 제목: 짐 로저스가 투자한 한국 금융 스타트업: 파운트 김영빈 대표의 비전과 자산관리 혁신
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -2485,7 +2464,6 @@
 
 ## 636. 엔비디아에서 13년, 이제는 새로운 꿈을 꾼다
 **URL:** https://www.youtube.com/watch?v=SXbi6axwOFY    (
-
 
 # 제목: 엔비디아에서 13년, 이제는 새로운 꿈을 꾼다
 
@@ -2605,7 +2583,6 @@
 ## 637. 1년째 영업이 중단된 위기의 스타트업 이야기
 **URL:** https://www.youtube.com/watch?v=OpBhbBQlBWc    (
 
-
 # 제목: 1년째 영업이 중단된 위기의 스타트업 이야기
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -2683,7 +2660,6 @@
 
 ## 638. 감사합니다. 투자받았습니다. 더 멀리 날아가겠습니다🚀
 **URL:** https://www.youtube.com/watch?v=yqdgUN8w4c4    (
-
 
 # 감사합니다. 투자받았습니다. 더 멀리 날아가겠습니다🚀
 
@@ -2792,7 +2768,6 @@ cout 아 퍼 미디어 워터 분전 이후 채널이 뭐 초기에 투자를 �
 ## 639. 사업 4번 실패했던 25억 사업가의 성공 노하우 4가지
 **URL:** https://www.youtube.com/watch?v=OId6jrdedBo    (
 
-
 # 제목: 사업 4번 실패했던 25억 사업가의 성공 노하우 4가지
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -2893,7 +2868,6 @@ cout 아 퍼 미디어 워터 분전 이후 채널이 뭐 초기에 투자를 �
 ## 640. 3차 추경으로 창업 지원사업이 쏟아지고 있다
 **URL:** https://www.youtube.com/watch?v=Q9t0NGeutvQ    (
 
-
 # 제목: 3차 추경으로 창업 지원사업이 쏟아지고 있다
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -2978,7 +2952,6 @@ cout 아 퍼 미디어 워터 분전 이후 채널이 뭐 초기에 투자를 �
 
 ## 641. 6억 연봉을 포기하고 만든 BMW가 쓰는 자율주행 기술
 **URL:** https://www.youtube.com/watch?v=boNBr3Yxb4g    (
-
 
 # 제목: 6억 연봉을 포기하고 만든 BMW가 쓰는 자율주행 기술
 
@@ -3084,7 +3057,6 @@ Soul Robotics는 `LiDAR` 분야의 '윈도우'가 되어 기술력과 시장 점
 
 ## 642. 아무것도 하고 싶지 않은데 잘 되고는 싶다면
 **URL:** https://www.youtube.com/watch?v=IGQsUfA210s    (
-
 
 # 제목: 아무것도 하고 싶지 않은데 잘 되고는 싶다면
 
@@ -3210,7 +3182,6 @@ Soul Robotics는 `LiDAR` 분야의 '윈도우'가 되어 기술력과 시장 점
 ## 643. 서울대 과외선생님의 글로벌 사업 아이디어 650억 투자받다
 **URL:** https://www.youtube.com/watch?v=55We_uNaJ20    (
 
-
 # 서울대 과외선생님의 글로벌 사업 아이디어 650억 투자받다
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -3303,7 +3274,6 @@ AI 기반 맞춤형 교육은 고비용의 1:1 과외 없이도 학생 개개인
 
 ## 644. 신용불량자에서 10억 사업가가 되기까지
 **URL:** https://www.youtube.com/watch?v=qHe7bDTdVM0    (
-
 
 # 제목: 신용불량자에서 10억 사업가가 되기까지
 
@@ -3421,7 +3391,6 @@ AI 기반 맞춤형 교육은 고비용의 1:1 과외 없이도 학생 개개인
 
 ## 645. 그럼에도 불구하고 다시 도전한 이유
 **URL:** https://www.youtube.com/watch?v=SvvxDv1qLoI    (
-
 
 # 그럼에도 불구하고 다시 도전한 이유
 
@@ -3548,7 +3517,6 @@ AI 기반 맞춤형 교육은 고비용의 1:1 과외 없이도 학생 개개인
 ## 646. 89% 확률로 의지가 약한 사람을 바꿔주는 서비스
 **URL:** https://www.youtube.com/watch?v=qlLbVaIYWJw    (
 
-
 # 89% 확률로 의지가 약한 사람을 바꿔주는 서비스
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -3647,7 +3615,6 @@ AI 기반 맞춤형 교육은 고비용의 1:1 과외 없이도 학생 개개인
 ## 647. 바다를 바꾸는 아이디어에 3,500만 원을 쏜다✨
 **URL:** https://www.youtube.com/watch?v=GMs50FYBBLA    (
 
-
 # 제목: 바다를 바꾸는 아이디어에 3,500만 원을 쏜다✨
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -3742,7 +3709,6 @@ AI 기반 맞춤형 교육은 고비용의 1:1 과외 없이도 학생 개개인
 
 ## 648. 사막에서 조난을 당했더니 NASA에서 연락이 왔다
 **URL:** https://www.youtube.com/watch?v=0yeLYtqpOR0    (
-
 
 # 제목: 사막에서 조난을 당했더니 NASA에서 연락이 왔다
 
@@ -3845,5 +3811,3 @@ NASA 우주생물학 탐험대에 아시아인 최초로 합류한 문경수 탐
 
 ## 649. 미국 90년대생 40%는 출퇴근 없이 일하고 있다
 **URL:** https://www.youtube.com/watch?v=kYCGupZJwSU    (
-
-

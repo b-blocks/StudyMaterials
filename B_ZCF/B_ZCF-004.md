@@ -29,7 +29,6 @@
 ## 90. 97년생 메타 총괄 (알렉산더 왕)
 **URL:** https://www.youtube.com/watch?v=G9F1bGrnx1Y    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 *   **AI는 인류의 증폭제:** AI는 터미네이터와 같은 디스토피아적 미래가 아닌, 인간의 능력을 강화하고 확장하는 도구입니다.
@@ -129,7 +128,6 @@ AI는 두려워할 대상이 아니라, 우리의 삶을 더 나은 방향으로
 
 ## 91. 욕심 버리면 행복하다
 **URL:** https://www.youtube.com/watch?v=10wkcWY4tbk    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -237,7 +235,6 @@ AI는 두려워할 대상이 아니라, 우리의 삶을 더 나은 방향으로
 
 ## 92. 다같이 미국을 지킵시다
 **URL:** https://www.youtube.com/watch?v=Wg0Afj677bI    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -384,7 +381,6 @@ AI가 전쟁의 패러다임을 바꾸고 민주주의를 위협하는 이 중�
 ## 93. 정치 이제 안합니다
 **URL:** https://www.youtube.com/watch?v=PVZ4b1zCS88    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 *   **디지털 초지능의 임박:** 일론 머스크는 디지털 초지능이 올해 또는 늦어도 내년에는 도래할 것이며, 이는 모든 면에서 인간보다 똑똑한 AI를 의미한다고 강조합니다.
@@ -490,7 +486,6 @@ AI가 전쟁의 패러다임을 바꾸고 민주주의를 위협하는 이 중�
 
 ## 95. 하고 있어요 진짜 (애플)
 **URL:** https://www.youtube.com/watch?v=99Ak0rjEk2U    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -621,7 +616,6 @@ Apple은 현재 iPhone, Mac, iPad 등 주요 제품들이 각 카테고리에서
 ## 96. 계속하려면 계속해야 한다
 **URL:** https://www.youtube.com/watch?v=U0j7Njgxr5s    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 *   **훈련은 자유를 위한 선택**: 'Discipline Equals Freedom'은 금욕이 아닌, 통제력과 성취를 통해 더 큰 선택의 폭과 진정한 자유를 얻는 과정입니다.
@@ -701,7 +695,6 @@ Apple은 현재 iPhone, Mac, iPad 등 주요 제품들이 각 카테고리에서
 
 ## 97. 일론은 왜 빡쳣을까?
 **URL:** https://www.youtube.com/watch?v=CUK56nwjm4g    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -814,7 +807,6 @@ Apple은 현재 iPhone, Mac, iPad 등 주요 제품들이 각 카테고리에서
 ## 98. 그냥 팔란티어 쓰세요
 **URL:** https://www.youtube.com/watch?v=R-R7DnzNBE8    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 *   **Palantir의 압도적 기술력**: 내부 시스템을 근본적으로 교체하고 실시간 의사결정을 혁신하여, 기존 60일 걸리던 사기 탐지를 10초로 단축하는 등 비즈니스 효율성을 극대화합니다.
@@ -900,7 +892,6 @@ Palantir는 고객과의 관계를 단순한 판매자가 아닌, 가치를 함�
 
 ## 99. 미국 육사강연 - 일론머스크
 **URL:** https://www.youtube.com/watch?v=Ht4mkBPYNrE    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -1033,7 +1024,6 @@ AI가 인간의 통제 능력을 빠르게 넘어설 것이라는 예측은 `인
 
 ## 100. 중국 정말 너무 빠르다
 **URL:** https://www.youtube.com/watch?v=TzjzUnyw0_U    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -1323,7 +1313,6 @@ NVIDIA는 `Tesla` 및 `XAI`와 긴밀한 협력 관계를 유지하고 있으며
 ## 101. 찰리멍거 중국 인터뷰
 **URL:** https://www.youtube.com/watch?v=WzBn41pZ8Xw    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 *   **장기 가치 투자**: 단기적 시장 변동에 일희일비하는 `도박`이 아닌, 기업의 `내재 가치`에 집중하는 `장기 투자`가 진정한 부를 창출하는 핵심입니다.
@@ -1397,7 +1386,6 @@ NVIDIA는 `Tesla` 및 `XAI`와 긴밀한 협력 관계를 유지하고 있으며
 
 ## 102. 일론 : 사업 전혀 문제 없다
 **URL:** https://www.youtube.com/watch?v=Z1xUKTN4m4k    (
-
 
 # 일론 머스크의 비전: 우주, AI, 인간의 미래를 묻다
 
@@ -1543,7 +1531,6 @@ NVIDIA는 `Tesla` 및 `XAI`와 긴밀한 협력 관계를 유지하고 있으며
 ## 103. 망가진 서구사회 - 알렉스 카프
 **URL:** https://www.youtube.com/watch?v=0sTnIvSKBhk    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 *   **서구 문명의 위기**: 서구의 교육 시스템과 지적 전통이 자기 비하적 신념을 주입하며, 대학 내 "이교도적 종교"가 서구의 가치를 훼손하고 기관의 정당성을 약화시키고 있음.
@@ -1641,7 +1628,6 @@ NVIDIA는 `Tesla` 및 `XAI`와 긴밀한 협력 관계를 유지하고 있으며
 
 ## 104. 도파민 없는 SNS (레트로 창업자 풀인터뷰)
 **URL:** https://www.youtube.com/watch?v=G--iDYWeV2c    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -1812,7 +1798,6 @@ Jeff Bezos의 "미래에 무엇이 변할 것인가가 아니라, 무엇이 변�
 ## 106. 수준 높은 미국청문회 (에릭슈미트 구글 전 대표)
 **URL:** https://www.youtube.com/watch?v=CELKzueqEwA    (
 
-
 ## AI 시대, 국가 안보와 에너지 패러다임의 대전환: 미래를 위한 심층 분석
 
 ---
@@ -1967,7 +1952,6 @@ AI 시대의 도래는 국가 안보, 경제, 사회 전반에 걸쳐 전례 없
 
 ## 107. 마지막 산업혁명
 **URL:** https://www.youtube.com/watch?v=FjKqy_31ce0    (
-
 
 **1. 핵심 요약 (Hook)**
 
@@ -2149,7 +2133,6 @@ AI 시대의 선두 주자가 되기 위해 다음과 같은 구체적인 액션
 ## 108. 외국에서 보는 한국 저출산
 **URL:** https://www.youtube.com/watch?v=ood8W_MXSqg    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 *   **대한민국 저출산 위기 심화**: 연금 수령 인구 증가 및 경제 생산 인구 감소로 국가 존립 위협.
@@ -2254,7 +2237,6 @@ AI 시대의 선두 주자가 되기 위해 다음과 같은 구체적인 액션
 ## 109. 버크셔 2025 주주총회
 **URL:** https://www.youtube.com/watch?v=soMk3D3ATDM    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 *   **무역의 양면성**: 워렌 버핏은 균형 잡힌 무역이 세계에 이롭다고 강조하지만, 무역이 경제 전쟁의 도구가 될 때의 위험성을 경고하며 신중한 접근을 촉구합니다.
@@ -2358,7 +2340,6 @@ AI 시대의 선두 주자가 되기 위해 다음과 같은 구체적인 액션
 
 ## 110. 메타 + 마이크로소프트 CEO 대화 (라마콘 2025)
 **URL:** https://www.youtube.com/watch?v=wHjQlZA1-18    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -2491,7 +2472,6 @@ AI 시대의 거대한 변화 속에서 새로운 가치를 창출하고 시장�
 
 ## 111. 3차전쟁을 막아라 - 팔마 럭키
 **URL:** https://www.youtube.com/watch?v=iftdkB3ZIV8    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -2676,7 +2656,6 @@ Palmer Luckey는 `IVAS(Integrated Visual Augmentation System)` 프로그램을 �
 ## 112. 실리콘밸리 망가졌다 - 알렉스카프
 **URL:** https://www.youtube.com/watch?v=ZrMqvKctSN4    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 *   **실리콘밸리의 목적 상실**: 기술 혁신이 시장 가치와 개별 기업의 성공에만 집중하며, 사회적 대의에 대한 헌신을 잃어가고 있습니다.
@@ -2755,7 +2734,6 @@ Palmer Luckey는 `IVAS(Integrated Visual Augmentation System)` 프로그램을 �
 
 ## 113. 사람 바꾸려고 하지마 - 나발 라비칸트
 **URL:** https://www.youtube.com/watch?v=XInSMjuxCAY    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -2849,7 +2827,6 @@ Palmer Luckey는 `IVAS(Integrated Visual Augmentation System)` 프로그램을 �
 
 ## 114. 피터틸 30분 전체번역 : 반골, 엘리트, 테크, 정치, 관세, 팔란티어, 벤처, 실리콘밸리
 **URL:** https://www.youtube.com/watch?v=c31aRSOfSaA    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -2981,7 +2958,6 @@ Peter, Peter, 그것을 끝내기 위해 매우 낙관적 인 메모입니다. �
 ## 116. 사업 개어려워요
 **URL:** https://www.youtube.com/watch?v=W7oRhS8L6n8    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 *   **기업 문화는 행동이다:** 아이디어나 가치가 아닌, 구성원들의 실제 행동과 상호작용이 기업 문화를 형성합니다.
@@ -3062,7 +3038,6 @@ Peter, Peter, 그것을 끝내기 위해 매우 낙관적 인 메모입니다. �
 
 ## 117. how to get rich (부자되는 법) - 나발
 **URL:** https://www.youtube.com/watch?v=Tct5FaP8I5o    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -3297,7 +3272,6 @@ The content seems to meet all the requirements.## 1. 핵심 요약 (Hook)
 ## 118. 부채중독
 **URL:** https://www.youtube.com/watch?v=syQhjJk-xt0    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 *   **전 세계적인 부채 중독**: 각국 정부의 공공 부채가 기하급수적으로 증가하여 선진국의 GDP 대비 부채 비율이 1945년 수준으로 회귀했습니다.
@@ -3440,7 +3414,6 @@ MMT는 정부 부채의 긍정적 측면을 강조하지만, `민간 부채` 문
 ## 119. 로켓 AI회사 '커서(CURSOR)' 인터뷰
 **URL:** https://www.youtube.com/watch?v=oK-Skn4v4Cs    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 *   **AI 코드 에디터 시장의 재정의**: Cursor는 GitHub Copilot의 한계를 넘어, 개발 인터페이스 자체를 재구상하여 AI 시대의 새로운 개발 경험을 제시합니다.
@@ -3549,7 +3522,6 @@ Cursor의 성공 사례와 비전은 AI 시대의 소프트웨어 개발 및 비
 ## 120. 3자대면 (빌게이츠, 스티브발머, 사티아나델라)
 **URL:** https://www.youtube.com/watch?v=mYDy7_RL4Jk    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 *   **Microsoft 50주년 기념:** 과거의 치열한 경쟁과 미래 AI 시대의 비전을 조명하며 혁신 여정 강조.
@@ -3646,7 +3618,6 @@ Cursor의 성공 사례와 비전은 AI 시대의 소프트웨어 개발 및 비
 
 ## 121. 달러, 위안화, 비트코인
 **URL:** https://www.youtube.com/watch?v=BoHKf6h_axU    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -3792,7 +3763,6 @@ Bitcoin의 무허가성과 결제 수단으로서의 잠재력을 활용하여 �
 ## 122. 스콧 베선트 미국 재무부장관 인터뷰 번역
 **URL:** https://www.youtube.com/watch?v=eUt-SlQErdI    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 *   **미국 무역 정책의 전환**: 관세 협상 주도권 확보 및 90일간의 집중 협상 기간 돌입으로 새로운 무역 질서 구축 시도.
@@ -3802,4 +3772,3 @@ Bitcoin의 무허가성과 결제 수단으로서의 잠재력을 활용하여 �
 *   **강력한 달러 정책 지속**: 미국 달러의 글로벌 기축 통화 지위 및 안정성 강조, 연준의 통화 정책 독립성 존중.
 *   **종합적 정책 접근**: 관세, 세금, 규제 완화 등 전체 정책 그림을 통해 경제 안정과 성장을 도모하는 다각적 전략 추진.
 *   **시장 불확실성 해소 노력**: 견고한 협상 과정을 통해 시장에 신뢰를 제공하고, VIX(변동성 지수) 정점 가능성 시사.
-

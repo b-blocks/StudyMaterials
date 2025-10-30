@@ -3,7 +3,6 @@
 ## 1. 펩시에 2조 매각 브랜드 (POPPI)
 **URL:** https://www.youtube.com/watch?v=nhUzpq1HtYY    (
 
-
 # 📚 브랜드의 힘: Poppy 성공 신화와 음료 시장 혁신 전략
 
 ## 1. 도입부 (Introduction)
@@ -108,7 +107,6 @@ Shark Tank 단계부터 19억 5천만 달러 규모의 PepsiCo 거래까지 Alli
 
 ## 2. 우리는 자유롭지 않다 (잭 도시)
 **URL:** https://www.youtube.com/watch?v=G3t1QxkfA8s    (
-
 
 ## 📚 탈중앙화 기술로 되찾는 자유: 돈, 표현, 지능의 새로운 패러다임
 
@@ -225,7 +223,6 @@ Shark Tank 단계부터 19억 5천만 달러 규모의 PepsiCo 거래까지 Alli
 
 ## 3. 천재 50명만 모은다 (저커버그)
 **URL:** https://www.youtube.com/watch?v=blhf1lQJjNM    (
-
 
 ## 📚 초지능 시대의 서막: 메타의 AI 전략과 미래형 웨어러블
 
@@ -357,7 +354,6 @@ AI와 웨어러블 기술의 미래에 대해 더 깊이 탐구하고 싶다면,
 ## 4. 극단적으로 하지마 (조코 윌링크)
 **URL:** https://www.youtube.com/watch?v=LVCdmaCjK9E    (
 
-
 # 규율, 균형, 그리고 공동체: 현대 사회에서 나답게 살아가기
 
 ## 📚 책의 기본 구조
@@ -451,7 +447,6 @@ AI와 웨어러블 기술의 미래에 대해 더 깊이 탐구하고 싶다면,
 
 ## 5. 인바디 회장님 모셨습니다
 **URL:** https://www.youtube.com/watch?v=OqKCa7wlIDk    (
-
 
 ## 📚 인바디 차기철 회장의 창업과 성장의 지혜: 30년 혁신 여정에서 배우는 사업의 정도(正道)
 
@@ -570,7 +565,6 @@ AI와 웨어러블 기술의 미래에 대해 더 깊이 탐구하고 싶다면,
 ## 6. 영상은 아직 시작도 안했다 (샘 알트먼)
 **URL:** https://www.youtube.com/watch?v=Y_bNB8jjSSM    (
 
-
 ## 📚 AI 비디오 생성의 혁명: Sora를 통해 본 창작과 미래
 
 ### 1. 도입부 (Introduction)
@@ -672,7 +666,6 @@ Sora는 비디오 생성 AI 분야에서 GPT-4에 비견될 만한 혁신을 가
 
 ## 7. 돈버는게 제일 쉬웠어요 (루시 구오)
 **URL:** https://www.youtube.com/watch?v=fd-bQUrQeAs    (
-
 
 ## 📚 루시 궈의 성공 방정식: 위험을 기회로, 배움을 자산으로
 
@@ -783,7 +776,6 @@ Lucy Guo가 다시 무대에 오른 것을 환영하게 되어 기쁩니다. Luc
 
 ## 8. 스마트폰은 구식 (조니 아이브)
 **URL:** https://www.youtube.com/watch?v=b9kdpm-uwDs    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -918,7 +910,6 @@ Ive는 AI 시대가 모두에게 새롭기 때문에 오히려 `평등한(equali
 ## 9. ARM 대표 인터뷰 | 한글번역
 **URL:** https://www.youtube.com/watch?v=JUa_PMGmWgI    (
 
-
 다음은 제공된 자막을 바탕으로 요청하신 구조에 맞춰 작성한 상세 학습 자료입니다.
 
 ---
@@ -1005,7 +996,6 @@ Nvidia와 경쟁하는 것은 어떤가요? >> 글쎄요, 저는 어 Nvidia가 �
 ## 10. 정자 기증하는 이유 (텔레그램 창업자)
 **URL:** https://www.youtube.com/watch?v=-LlCFxZz03I    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 - **100명 이상의 자녀:** 파벨 두로프는 정자 기증을 통해 100명 이상의 생물학적 자녀를 두고 있으며, 유언장에서 이들을 모두 동등하게 대우할 것이라고 밝혔다.
@@ -1087,7 +1077,6 @@ Nvidia와 경쟁하는 것은 어떤가요? >> 글쎄요, 저는 어 Nvidia가 �
 
 ## 11. 경제성장률 7% (캐시우드)
 **URL:** https://www.youtube.com/watch?v=VkkhClwZ7vA    (
-
 
 다음은 캐시 우드(Cathie Wood)의 강연 내용을 바탕으로 구성한 심층 학습 자료입니다.
 
@@ -1221,7 +1210,6 @@ Arct Invests Kathy Wood를 환영해주세요. [음악] 안녕하세요. 여기 
 ## 12. 텔레그램 창업자 (파벨 두로프)
 **URL:** https://www.youtube.com/watch?v=INwjjF4Uj34    (
 
-
 I am unable to create the file as requested due to the limitations of the available tools. I will now provide the content of the file. You can copy and paste it into a file named `youtube_summary.md` in the `output` directory.
 
 ```markdown
@@ -1328,7 +1316,6 @@ I am unable to create the file as requested due to the limitations of the availa
 ## 13. 장기적 관점 (제프 베조스)
 **URL:** https://www.youtube.com/watch?v=d3LKAUw1q4I    (
 
-
 다음은 제공된 자막을 바탕으로 요청하신 구조와 가이드라인에 맞춰 작성한 학습 자료입니다.
 
 ---
@@ -1414,7 +1401,6 @@ AI를 비롯한 기술이 세상을 빠르게 바꾸고 있습니다. 이런 시
 
 ## 14. 돈보다 더 중요한 것 (텔레그램 창업자)
 **URL:** https://www.youtube.com/watch?v=Ma74xdvZ5R8    (
-
 
 다음은 제공된 자막을 바탕으로 구성한 심층 학습 자료입니다.
 
@@ -1537,7 +1523,6 @@ AI를 비롯한 기술이 세상을 빠르게 바꾸고 있습니다. 이런 시
 
 ## 15. 전쟁부 장관 연설 전체 번역
 **URL:** https://www.youtube.com/watch?v=Y4DJc21DpUQ    (
-
 
 다음은 제공된 유튜브 영상 자막을 바탕으로 요청하신 구조에 맞춰 작성한 심층 학습 자료입니다.
 
@@ -1670,7 +1655,6 @@ AI를 비롯한 기술이 세상을 빠르게 바꾸고 있습니다. 이런 시
 ## 16. 한글번역 | 일라이릴리 대표와 대화
 **URL:** https://www.youtube.com/watch?v=-lELIbg9R8Q    (
 
-
 다음은 제공된 자막을 바탕으로 작성한 체계적인 학습 자료입니다.
 
 ---
@@ -1781,7 +1765,6 @@ AI를 비롯한 기술이 세상을 빠르게 바꾸고 있습니다. 이런 시
 
 ## 17. 지금이 마지막 (구글 딥마인드)
 **URL:** https://www.youtube.com/watch?v=fpR-GJr8Rg0    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -1903,7 +1886,6 @@ AGI가 `진정한 창의성`을 갖추게 된다면, 이는 인간 지성의 한
 
 ## 18. 열심히 하면 다 할 수 있다. (Nikhil Kamath)
 **URL:** https://www.youtube.com/watch?v=OqLupg_1PGY    (
-
 
 ## 인생과 비즈니스에 대한 비전통적 지혜: 한 트레이더의 졸업 축사
 
@@ -2071,7 +2053,6 @@ AGI가 `진정한 창의성`을 갖추게 된다면, 이는 인간 지성의 한
 ## 19. 텔레그램 창업자가 바라보는 일론
 **URL:** https://www.youtube.com/watch?v=3JUSSpicH6k    (
 
-
 ## 리더십의 이중성: 위대한 창업가는 어떻게 만들어지는가
 
 ### 1. 핵심 요약 (Hook)
@@ -2193,7 +2174,6 @@ AGI가 `진정한 창의성`을 갖추게 된다면, 이는 인간 지성의 한
 ## 20. 이건 안보면 손해 (제프 베조스)
 **URL:** https://www.youtube.com/watch?v=S5Irztv18tI    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 - **발명(Dream)과 실행(Build)은 상충 관계가 아닌, 서로를 강화하는 조화(Harmony) 관계**입니다. 효율적인 실행은 다음 단계의 창의적인 발명을 위한 새로운 데이터와 아이디어를 제공합니다.
@@ -2301,7 +2281,6 @@ AGI가 `진정한 창의성`을 갖추게 된다면, 이는 인간 지성의 한
 
 ## 21. OpenAI DevDay 2025 풀번역
 **URL:** https://www.youtube.com/watch?v=aoYy5JeS6fA    (
-
 
 다음은 제공된 YouTube 영상 자막을 바탕으로 요청하신 구조에 맞춰 작성한 상세 학습 자료입니다.
 
@@ -2497,7 +2476,6 @@ OpenAI가 제시한 새로운 도구들은 수많은 사업 기회를 창출할 
 ## 23. 오픈AI, AMD 역대급 계약
 **URL:** https://www.youtube.com/watch?v=JykSGfq2-xA    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 - **거대한 동맹의 탄생:** AMD와 OpenAI가 AI 산업의 미래를 재편할 **6기가와트(GW) 규모의 AI 컴퓨팅 파트너십**을 발표했습니다. 이는 업계에 전례 없는 규모의 투자입니다.
@@ -2598,7 +2576,6 @@ AMD와 OpenAI의 파트너십은 단순히 칩을 사고파는 관계가 아닙�
 
 ## 24. 생각좀 그만해 (쓸모없어)
 **URL:** https://www.youtube.com/watch?v=9-pAiCQQXR8    (
-
 
 ## 결정과 실행, 그리고 리더십: 불확실성을 돌파하는 전략
 
@@ -2755,7 +2732,6 @@ AMD와 OpenAI의 파트너십은 단순히 칩을 사고파는 관계가 아닙�
 ## 25. 자기 인생을 살자
 **URL:** https://www.youtube.com/watch?v=jmWUlJ1U5J0    (
 
-
 # 인생을 바꾸는 '승리하는 게임' 설계법: 그레이엄 던컨의 강연 분석
 
 ## 1. 핵심 요약 (Hook)
@@ -2859,7 +2835,6 @@ AMD와 OpenAI의 파트너십은 단순히 칩을 사고파는 관계가 아닙�
 
 ## 26. 미국이 이겨야 합니다 (구글 전 대표)
 **URL:** https://www.youtube.com/watch?v=C7SlaUqCLZU    (
-
 
 다음은 제공된 YouTube 영상 자막을 바탕으로 작성된 심층 학습 자료입니다.
 
@@ -2997,7 +2972,6 @@ AMD와 OpenAI의 파트너십은 단순히 칩을 사고파는 관계가 아닙�
 ## 27. 5년째 같은말 중임 (팔란티어)
 **URL:** https://www.youtube.com/watch?v=9eEVb0zoFYk    (
 
-
 다음은 제공된 스크립트를 바탕으로 작성한 심층 학습 자료입니다.
 
 ---
@@ -3117,7 +3091,6 @@ Palantir의 비즈니스 철학의 핵심은 월스트리트가 강요하는 단
 
 ## 28. 159억 투자 유치 20대 대표 (두들린 이태규 대표)
 **URL:** https://www.youtube.com/watch?v=rw8zFLundR8    (
-
 
 다음은 제공된 자막을 바탕으로 구성한 심층 학습 자료입니다.
 
@@ -3266,7 +3239,6 @@ Palantir의 비즈니스 철학의 핵심은 월스트리트가 강요하는 단
 ## 31. 캐시우드와 대화 : 비자, 관세, AI, LLM, 중국, 틱톡
 **URL:** https://www.youtube.com/watch?v=7Qnk7AodLA0    (
 
-
 다음은 제공해주신 자막을 바탕으로 요청하신 구조와 가이드라인에 맞춰 작성한 심층 학습 자료입니다.
 
 ---
@@ -3407,7 +3379,6 @@ LLM 개발에는 막대한 자본이 투입되고 있지만, 이 투자가 과�
 ## 32. 일 잘하는 법 (알렉스 홀모지)
 **URL:** https://www.youtube.com/watch?v=iJk-ugKd-bA    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 *   **생산성 극대화의 본질**: `방해 요소 제거`는 생산성 향상의 가장 강력한 방법입니다. 작업 외 모든 것을 제거하여 순수 작업 시간에 집중합니다.
@@ -3540,7 +3511,6 @@ I have completed the task.
 
 ## 33. 챔피언 마인드 (크리스 범스테드)
 **URL:** https://www.youtube.com/watch?v=QKoLzQecbQs    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -3686,7 +3656,6 @@ I have completed the task.
 ## 34. 20대 어떡해
 **URL:** https://www.youtube.com/watch?v=GXx_Chxj9MI    (
 
-
 ## 1. 핵심 요약 (Hook)
 
 *   **AI는 직업 시장과 부의 창출 방식에 근본적인 변화를 가져오고 있습니다.** 과거의 안정적인 직업 경로는 더 이상 보장되지 않습니다.
@@ -3779,7 +3748,6 @@ AI는 특정 산업의 비효율적인 프로세스를 자동화하거나 개선
 
 ## 35. 인공지능 전문가 어딨냐 (코슬라)
 **URL:** https://www.youtube.com/watch?v=LG8P2mB-Zbk    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -3897,4 +3865,3 @@ AI는 특정 산업의 비효율적인 프로세스를 자동화하거나 개선
     *   "오늘날 지구상 대부분의 사람들에게 일은 생존을 위한 봉사이지 열정이 아닙니다."
     *   "2040년 1만 달러는 오늘날 10만 달러보다 더 많은 것을 살 수 있을 것입니다."
     *   "AI는 인류를 해방시키고 인간 경험을 재정의할 것입니다."
-

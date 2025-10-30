@@ -584,7 +584,6 @@ Noya는 현재 첫 번째 빌드를 완료했으며, 기술 개발 및 상용화
     *   상대방의 시간을 존중하고, 짧고 명확하게 요점을 전달합니다.
     *   거절당하더라도 낙담하지 않고, 긍정적인 태도를 유지합니다.
 
-
 ## AMA with YC: Job Searching During an Economic Downturn (Event Summary)
 **URL:** https://www.youtube.com/watch?v=Ir62zhDol9c
 
@@ -691,7 +690,6 @@ YC 스타트업은 설립 시기에 따라 초기 단계(Seed Stage)와 성장 �
 *   **무조건적인 초기 단계 선호:** 초기 단계 스타트업이 무조건 더 많은 기회를 제공한다고 생각하는 것은 오해입니다. 자신의 성향과 맞지 않으면 오히려 스트레스와 불만족으로 이어질 수 있습니다.
 *   **안정성만을 추구:** 스타트업은 본질적으로 대기업보다 불확실성이 높습니다. '안정성'만을 최우선으로 한다면 스타트업보다는 대기업이 더 적합할 수 있습니다.
 *   **정보 부족:** 각 단계별 스타트업의 특징과 자신의 선호도를 명확히 파악하지 않고 지원하는 것은 시간 낭비로 이어질 수 있습니다. 충분한 정보 탐색과 자기 성찰이 필요합니다.
-
 
 # YC's Summer 2022 Startup Job Expo - Pitches from 30 YC founders & find your next startup
 **URL:** https://www.youtube.com/watch?v=JS_2EQsXkgY

@@ -120,7 +120,6 @@
 ## 541. 인간극장 막내PD가 드라마 1200편을 제작한 CEO가 되기까지
 **URL:** https://www.youtube.com/watch?v=R8MTu76kefo    (
 
-
 # 제목: 인간극장 막내PD가 드라마 1200편을 제작한 CEO가 되기까지
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -220,7 +219,6 @@
 ## 542. 인천시의 15,000평 규모 초대형 스타트업 지원 프로젝트 (feat. 셀트리온, 신한금융그룹)
 **URL:** https://www.youtube.com/watch?v=SIf-0OOMrpU    (
 
-
 # 제목: 인천시의 15,000평 규모 초대형 스타트업 지원 프로젝트 (feat. 셀트리온, 신한금융그룹)
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -313,7 +311,6 @@
 
 ## 543. 문과생 CEO가 35억 투자받은 인공지능 회사를 만들기까지
 **URL:** https://www.youtube.com/watch?v=0oK9bvkxIr8    (
-
 
 # 제목: 문과생 CEO가 35억 투자받은 인공지능 회사를 만들기까지
 
@@ -413,7 +410,6 @@
 
 ## 544. 현재가 불만족스럽고 미래가 두려운 직장인이라면
 **URL:** https://www.youtube.com/watch?v=XNmeZ0yZ5ek    (
-
 
 # 제목: 현재가 불만족스럽고 미래가 두려운 직장인이라면
 
@@ -531,7 +527,6 @@
 ## 545. 실패한 사업계획서 리뷰
 **URL:** https://www.youtube.com/watch?v=tab65xqtpzI    (
 
-
 # 제목: 실패한 사업계획서 리뷰
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -642,7 +637,6 @@
 ## 546. 구글코리아 사장이 퇴사 후 만든 꿈의 직장
 **URL:** https://www.youtube.com/watch?v=uIhKDGz2ENo    (
 
-
 # 제목: 구글코리아 사장이 퇴사 후 만든 꿈의 직장
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -727,7 +721,6 @@
 
 ## 547. 청년창업사관학교 입교생 모집이 시작됐다
 **URL:** https://www.youtube.com/watch?v=qoSoLPOGyqc    (
-
 
 # 제목: 청년창업사관학교 입교생 모집이 시작됐다
 
@@ -848,7 +841,6 @@
 ## 548. 기업가치 1700억 평가 받은 자율주행 스타트업의 월드 클래스 공돌이
 **URL:** https://www.youtube.com/watch?v=eYTQV-_hbTI    (
 
-
 # 제목: 기업가치 1700억 평가 받은 자율주행 스타트업의 월드 클래스 공돌이
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -961,7 +953,6 @@
 ## 549. 포항공대 교수가 사람들이 외면하는 소재에 인생을 건 이유
 **URL:** https://www.youtube.com/watch?v=INEVAsy-Atg    (
 
-
 # 제목: 포항공대 교수가 사람들이 외면하는 소재에 인생을 건 이유
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -1052,7 +1043,6 @@
 
 ## 550. 비개발자가 6개월 만에 만든 미래 예측 서비스
 **URL:** https://www.youtube.com/watch?v=lNbHY7ZAUjQ    (
-
 
 # 제목: 비개발자가 6개월 만에 만든 미래 예측 서비스
 
@@ -1147,7 +1137,6 @@
 
 ## 551. 대학생이라면 뭐든 미쳐서 해봐야 한다고 생각해요
 **URL:** https://www.youtube.com/watch?v=nYK91YwynRc    (
-
 
 # 제목: 대학생이라면 뭐든 미쳐서 해봐야 한다고 생각해요
 
@@ -1249,7 +1238,6 @@
 ## 552. 아마존과 디즈니를 거쳐 7번 창업하고 얻은 인생의 깨달음
 **URL:** https://www.youtube.com/watch?v=DjpfuzlsDRA    (
 
-
 # 제목: 아마존과 디즈니를 거쳐 7번 창업하고 얻은 인생의 깨달음
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -1344,7 +1332,6 @@
 
 ## 553. 도시와 바다의 환경 문제를 한번에 해결하는 26살 청년의 아이디어
 **URL:** https://www.youtube.com/watch?v=VJAt3DcgrPg    (
-
 
 # 제목: 도시와 바다의 환경 문제를 한번에 해결하는 26살 청년의 아이디어
 
@@ -1445,7 +1432,6 @@
 
 ## 554. 100만 다운로드 앱의 힌트를 준 '이 사람'의 원칙
 **URL:** https://www.youtube.com/watch?v=NNdXg4dfNuc    (
-
 
 # 제목: 100만 다운로드 앱의 힌트를 준 '이 사람'의 원칙
 
@@ -1582,7 +1568,6 @@ Speak 팀은 제품을 개발하고 사용자들과 소통하면서 예상치 �
 ## 555. 2000만 한국인을 사로잡은 천상계 개발자의 새로운 아이디어
 **URL:** https://www.youtube.com/watch?v=B1NH6ccEEe4    (
 
-
 # 제목: 2000만 한국인을 사로잡은 천상계 개발자의 새로운 아이디어
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -1693,7 +1678,6 @@ Speak 팀은 제품을 개발하고 사용자들과 소통하면서 예상치 �
 ## 556. 18살에 하버드 자퇴하고 만든 100만 다운로드 어플 l 스픽 창업 스토리 1편
 **URL:** https://www.youtube.com/watch?v=tspUk6omCxc    (
 
-
 # 18살에 하버드 자퇴하고 만든 100만 다운로드 어플 l 스픽 창업 스토리 1편
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -1784,7 +1768,6 @@ Speak 팀은 제품을 개발하고 사용자들과 소통하면서 예상치 �
 
 ## 557. 직원의 배신으로 법정에 선 스타트업 대표의 이야기
 **URL:** https://www.youtube.com/watch?v=yu22jPPxCno    (
-
 
 # 제목: 직원의 배신으로 법정에 선 스타트업 대표의 이야기
 
@@ -1880,7 +1863,6 @@ Speak 팀은 제품을 개발하고 사용자들과 소통하면서 예상치 �
 ## 558. 스무살이 된 CEO의 다음 목표
 **URL:** https://www.youtube.com/watch?v=2ehgibcg0WM    (
 
-
 # 제목: 스무살이 된 CEO의 다음 목표
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -1972,7 +1954,6 @@ Speak 팀은 제품을 개발하고 사용자들과 소통하면서 예상치 �
 ## 559. 7억 빚더미에서 연매출 40억으로 일어선 아이템
 **URL:** https://www.youtube.com/watch?v=v_Hpi9H5-0U    (
 
-
 # 제목: 7억 빚더미에서 연매출 40억으로 일어선 아이템
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -2049,7 +2030,6 @@ Speak 팀은 제품을 개발하고 사용자들과 소통하면서 예상치 �
 
 ## 560. 한국에서 2번째로 잘 된 앱을 만든 대만의 학생 스타트업
 **URL:** https://www.youtube.com/watch?v=gbUoF005Kfk    (
-
 
 # 제목: 한국에서 2번째로 잘 된 앱을 만든 대만의 학생 스타트업
 
@@ -2178,7 +2158,6 @@ Seekrtech의 핵심 미션은 "삶의 `페인 포인트`"를 계속 탐색하고
 
 ## 561. 가장 치열한 스타트업 지원 사업 ‘창구 프로그램’ 우수팀들
 **URL:** https://www.youtube.com/watch?v=gaJqpkm_WvE    (
-
 
 # 제목: 가장 치열한 스타트업 지원 사업 ‘창구 프로그램’ 우수팀들
 
@@ -2324,7 +2303,6 @@ Seekrtech의 핵심 미션은 "삶의 `페인 포인트`"를 계속 탐색하고
 ## 562. 개발자 1명 인수에 10억 원, 남는 장사일까? l 스타트업 리뷰 마지막 편
 **URL:** https://www.youtube.com/watch?v=V-XZPDHDLBY    (
 
-
 # 제목: 개발자 1명 인수에 10억 원, 남는 장사일까? l 스타트업 리뷰 마지막 편
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -2424,7 +2402,6 @@ EO 채널은 2021년에 더욱 다양한 콘텐츠를 선보이고, 유튜브를
 ## 563. 영국에서 온 여자 셋이 만든 성병 솔루션
 **URL:** https://www.youtube.com/watch?v=NCpcztjeszE    (
 
-
 # 제목: 영국에서 온 여자 셋이 만든 성병 솔루션
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -2510,7 +2487,6 @@ EO 채널은 2021년에 더욱 다양한 콘텐츠를 선보이고, 유튜브를
 
 ## 564. 한때 인류의 가장 큰 꿈을 꿨던 남자의 재도전
 **URL:** https://www.youtube.com/watch?v=wU7XspDnbGI    (
-
 
 # 제목: 한때 인류의 가장 큰 꿈을 꿨던 남자의 재도전
 
@@ -2696,7 +2672,6 @@ IDAST 활동 중, 그는 미국과 달리 한국에 부재했던 하드웨어 �
 ## 565. 현대차 신입사원을 퇴사하게 만든 베트남의 기회 l 울산 창업경진대회 우승팀
 **URL:** https://www.youtube.com/watch?v=kozut0E7OzM    (
 
-
 # 제목: 현대차 신입사원을 퇴사하게 만든 베트남의 기회 l 울산 창업경진대회 우승팀
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -2783,7 +2758,6 @@ IDAST 활동 중, 그는 미국과 달리 한국에 부재했던 하드웨어 �
 ## 566. 어른들의 딱딱한 편견을 깨는 딱따구리🐦
 **URL:** https://www.youtube.com/watch?v=4y43m-6Jp3Y    (
 
-
 # 제목: 어른들의 딱딱한 편견을 깨는 딱따구리🐦
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -2866,7 +2840,6 @@ IDAST 활동 중, 그는 미국과 달리 한국에 부재했던 하드웨어 �
 
 ## 567. 스물다섯 CEO가 만든 누군가에겐 절실한 기술
 **URL:** https://www.youtube.com/watch?v=eL--HH9XyYc    (
-
 
 # 제목: 스물다섯 CEO가 만든 누군가에겐 절실한 기술
 
@@ -2952,7 +2925,6 @@ IDAST 활동 중, 그는 미국과 달리 한국에 부재했던 하드웨어 �
 
 ## 568. 세상에서 가장 소중한 속도를 만드는 스타트업의 고민
 **URL:** https://www.youtube.com/watch?v=_-ZUz5NqJ9U    (
-
 
 # 제목: 세상에서 가장 소중한 속도를 만드는 스타트업의 고민
 
@@ -3060,7 +3032,6 @@ IDAST 활동 중, 그는 미국과 달리 한국에 부재했던 하드웨어 �
 ## 569. 드라마 속 회사 '삼산텍' 지분율 리뷰(with 스타트업 CEO, VC)
 **URL:** https://www.youtube.com/watch?v=MG6tTE8_aLo    (
 
-
 # 제목: 드라마 속 회사 '삼산텍' 지분율 리뷰(with 스타트업 CEO, VC)
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -3163,7 +3134,6 @@ IDAST 활동 중, 그는 미국과 달리 한국에 부재했던 하드웨어 �
 
 ## 570. 퀴즈 시험으로 CEO 뽑은 회사, 입사하고 싶은가요? (스타트업 리뷰 with CEO&VC)
 **URL:** https://www.youtube.com/watch?v=z2aQW1m680s    (
-
 
 # 제목: 퀴즈 시험으로 CEO 뽑은 회사, 입사하고 싶은가요? (스타트업 리뷰 with CEO&VC)
 
@@ -3285,7 +3255,6 @@ IDAST 활동 중, 그는 미국과 달리 한국에 부재했던 하드웨어 �
 ## 571. 아직은 생소하지만 어쩌면 세상을 바꿔놓을 가루들
 **URL:** https://www.youtube.com/watch?v=tPE2iwORoEQ    (
 
-
 # 제목: 아직은 생소하지만 어쩌면 세상을 바꿔놓을 가루들
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -3381,7 +3350,6 @@ IDAST 활동 중, 그는 미국과 달리 한국에 부재했던 하드웨어 �
 ## 572. 스타트업 드라마 속 '한지평' 리뷰 (with 현직 VC, CEO)
 **URL:** https://www.youtube.com/watch?v=OSJcM0INTAw    (
 
-
 # 제목: 스타트업 드라마 속 '한지평' 리뷰 (with 현직 VC, CEO)
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -3465,7 +3433,6 @@ IDAST 활동 중, 그는 미국과 달리 한국에 부재했던 하드웨어 �
 
 ## 573. 전직 인강강사가 5억 빚 갚고 기술 창업에 뛰어든 이유
 **URL:** https://www.youtube.com/watch?v=tKFvYmLzUDA    (
-
 
 # 제목: 전직 인강강사가 5억 빚 갚고 기술 창업에 뛰어든 이유
 
@@ -3591,7 +3558,6 @@ IT 기업 경험이 있던 창업가는 제조업의 현실을 직접 경험하�
 
 ## 574. 오토바이 난폭운전을 해결하는 스타트업
 **URL:** https://www.youtube.com/watch?v=XP1w-Qm3GiA    (
-
 
 # 제목: 오토바이 난폭운전을 해결하는 스타트업
 
@@ -3745,7 +3711,6 @@ IT 기업 경험이 있던 창업가는 제조업의 현실을 직접 경험하�
 ## 575. 드라마 스타트업 속 '서달미' 리뷰 (with 현직 VC, CEO)
 **URL:** https://www.youtube.com/watch?v=VQf30qxngZM    (
 
-
 # 제목: 드라마 스타트업 속 '서달미' 리뷰 (with 현직 VC, CEO)
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -3872,5 +3837,3 @@ AI 기술은 빠르게 발전하고 있지만, 결국 이 기술이 현실의 �
 
 ## 576. 삼성과 LG가 동시에 투자한 인공지능 기술
 **URL:** https://www.youtube.com/watch?v=6UWnWgjNNXM    (
-
-

@@ -150,7 +150,6 @@ Minitoon의 발표 내용을 더 깊이 이해하고 실제 업무에 적용하�
 -   `Social Media Analytics Tools`
 -   `Dealing with Online Trolls`
 
-
 # Builderman Q&A | RDC 2021: 로블록스의 미래 비전과 개발자 생태계
 
 **URL:** https://www.youtube.com/watch?v=vVVQ0D94Bo4
@@ -234,7 +233,6 @@ Minitoon의 발표 내용을 더 깊이 이해하고 실제 업무에 적용하�
   - `Community Management Tools`: 온라인 게임 커뮤니티를 관리하고 성장시키는 전략과 도구.
   - `Digital Economies` / `Virtual Economies`: 가상 세계의 경제 시스템 설계 및 운영.
   - `Cross-Platform Development`: 다양한 하드웨어와 운영체제에서 일관된 경험을 제공하기 위한 개발 전략.
-
 
 # Tips For Scaling Up A Company on Roblox | RDC 2021
 
@@ -383,7 +381,6 @@ Minitoon의 발표 내용을 더 깊이 이해하고 실제 업무에 적용하�
   - `How to avoid burnout as a solo developer`
   - `Corporate Social Responsibility (CSR) for small business`
 
-
 # Roblox Panel | RDC 2021: 플랫폼의 미래 비전과 개발자 생태계의 진화
 
 **URL:** https://www.youtube.com/watch?v=LCDJPaMylV0
@@ -486,7 +483,6 @@ Roblox는 더 높은 퀄리티의 경험을 안정적으로 제공하기 위해 
     -   `Roblox Asset Privacy`
     -   `Roblox ID Verification`
     -   `Roblox StreamingEnabled performance`
-
 
 # Developer Panel | RDC 2021: Roblox 최고 개발자들의 성공 비결
 
@@ -631,7 +627,6 @@ Roblox는 더 높은 퀄리티의 경험을 안정적으로 제공하기 위해 
     -   `Game Dev Post-mortem`
     -   `Work-Life Balance for Developers`
 
-
 # Game Jam Presentations and Awards Ceremony | RDC 2021
 
 **URL:** https://www.youtube.com/watch?v=JtU0eYYwMOc
@@ -728,7 +723,6 @@ RDC 2021 게임 잼은 24시간이라는 짧은 시간에도 불구하고 높은
 - `Roblox Future Lighting`
 - `Game Polish Techniques` (게임 폴리싱 기법)
 - `Fourth Wall Breaking in Games` (게임에서의 제4의 벽 파괴)
-
 
 # Creating Opportunities to Connect | RDC 2021
 
@@ -2021,7 +2015,6 @@ Roblox는 다른 플랫폼과 구별되는 독특한 플레이어 문화를 가�
     - `Game UI/UX for Readability`
     - `Game Localization Challenges`
 
-
 # Designing Quests, Achievements & Dailies with BreakfastCandy
 
 ## Designing Quests, Achievements & Dailies with BreakfastCandy
@@ -3040,8 +3033,6 @@ MiniToon이 공유한 통찰을 더 깊이 이해하고 자신의 프로젝트�
     *   `Grey-boxing Level Design` (그레이 박싱 레벨 디자인)
     *   `Game Retention Strategies` (게임 리텐션 전략)
 
-
-
 # Supporting Game Expansions with Dspav
 
 - **URL:** https://www.youtube.com/watch?v=4-vZkSrGAxI
@@ -3601,8 +3592,6 @@ KPI는 게임의 건강 상태를 나타내는 혈압계와 같습니다. 크게
 
 - **검색해볼 키워드 제안**
   - `LiveOps`, `Games as a Service (GaaS)`, `Core Gameplay Loop`, `Game Monetization Models`, `Player Retention Strategies`, `Evergreen Content Design`, `Update Cadence`
-
-
 
 # Designing Game Expansions with AbstractAlex, Usering & ImprobableAI
 

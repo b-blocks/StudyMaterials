@@ -95,7 +95,6 @@
 ## 189. "I Got Rich When I Understood This" | David Meltzer
 **URL:** https://www.youtube.com/watch?v=Yg8IlZzpbOY    (
 
-
 ## 📚 성공을 위한 관계의 기술과 회복탄력성: 당신의 주변이 미래를 만든다
 
 ### 1. 도입부 (Introduction)
@@ -196,7 +195,6 @@
 
 ## 190. The Mindset of High Achievers - HOW TO BE SUCCESSFUL IN BUSINESS
 **URL:** https://www.youtube.com/watch?v=SXaW093IUM0    (
-
 
 ## 📚 책의 기본 구조: Next Level Thinking
 
@@ -336,7 +334,6 @@
 ## 191. MAFIA MENTALITY (Part 2) - Greatest Motivation for Success
 **URL:** https://www.youtube.com/watch?v=HfPcIk535us    (
 
-
 ## 📚 협상의 기술: 존중과 전략으로 원하는 것을 얻는 법
 
 ### 1. 도입부 (Introduction)
@@ -421,7 +418,6 @@
 ## 192. The Mindset Millionaires Pay To Know - Secrets to Success in 2022
 **URL:** https://www.youtube.com/watch?v=dqYQcWnoXHQ    (
 
-
 # 성공과 행복을 향한 여정: 내면의 힘을 깨우는 지혜
 
 ## 📚 책의 기본 구조
@@ -505,7 +501,6 @@
 
 ## 193. You CAN Become A Great Leader | Powerful Advice from Stephen Hacker
 **URL:** https://www.youtube.com/watch?v=aPqtaQk1UXM    (
-
 
 ## 📚 내 삶의 운전대를 잡는 법: 자기 인식과 목적 의식으로 이끄는 리더십
 
@@ -621,7 +616,6 @@
 ## 194. You Need to Improve YOU - Motivational Speech for Success (Walter Bond)
 **URL:** https://www.youtube.com/watch?v=hv26yBkj0n4    (
 
-
 ## 📚 멈추지 않는 성장: 당신의 가치를 높이는 자기계발 전략
 
 ### 1. 도입부 (Introduction)
@@ -709,7 +703,6 @@
 
 ## 195. Every Entrepreneur Needs to Hear This | Inspiring Motivational Compilation 2022
 **URL:** https://www.youtube.com/watch?v=wnE0q_Oti8w    (
-
 
 ## 📚 밀레니얼 세대를 위한 성공의 방정식: 마인드셋, 학습, 그리고 재정적 지혜
 
@@ -813,7 +806,6 @@
 
 ## 196. Laws of Success - Napoleon Hill's Secret to Wealth
 **URL:** https://www.youtube.com/watch?v=O2IPPpZQofI    (
-
 
 ## 📚 나폴레온 힐의 성공 철학: '생각하라 그러면 부자가 되리라' 핵심 원리 탐구
 
@@ -1490,7 +1482,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 ## 197. STOP GETTING IN YOUR OWN WAY - Powerful Motivational Speech (Walter Bond)
 **URL:** https://www.youtube.com/watch?v=sf1DNhvPEbA    (
 
-
 ## 📚 다음 단계로 나아가기: 안주하지 않는 삶을 위한 성장 전략
 
 ### 1. 도입부 (Introduction)
@@ -1598,7 +1589,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 
 ## 198. Investment Advice from Warren Buffett 2022
 **URL:** https://www.youtube.com/watch?v=jvFiRSe0so4    (
-
 
 ## 📚 워렌 버핏에게 배우는 현명한 투자와 삶의 지혜
 
@@ -1733,7 +1723,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 ## 199. MAFIA MENTALITY - Greatest Motivation for Success
 **URL:** https://www.youtube.com/watch?v=Fwub2BuyzXw    (
 
-
 ## 📚 위험한 길에서 얻은 삶의 지혜: 전략적 소통과 자기 책임의 중요성
 
 ### 1. 도입부 (Introduction)
@@ -1849,7 +1838,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 ## 200. Prepare Now, Recession is Coming - The LAST WARNING
 **URL:** https://www.youtube.com/watch?v=RqBnxuE6po0    (
 
-
 ## 📚 다가오는 경제 위기, 현명하게 대비하는 법
 
 ### 1. 도입부 (Introduction)
@@ -1946,7 +1934,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 ## 201. I Got Rich When I Understood This | Keith Krach
 **URL:** https://www.youtube.com/watch?v=TJ3wDuo_MGU    (
 
-
 ## 📚 키스 크라치의 리더십 원칙: 고성과 팀을 구축하고 시장을 지배하는 방법
 
 ### 1. 도입부 (Introduction)
@@ -2039,7 +2026,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 
 ## 202. Hustler Mentality - Powerful Motivational Video for Success
 **URL:** https://www.youtube.com/watch?v=nXSF5rEMLmA    (
-
 
 ## 📚 성공을 위한 허슬러 정신: 당신의 잠재력을 깨우는 법
 
@@ -2141,7 +2127,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 
 ## 203. Billionaire Mindset #4 | GREATEST Business Compilation
 **URL:** https://www.youtube.com/watch?v=qY0ZV1LI93Q    (
-
 
 ## 📚 변화하는 세상 속 성공과 성장을 위한 마인드셋: 기회 포착과 내면의 힘
 
@@ -2245,7 +2230,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 
 ## 204. LEAVE A LEGACY  - Powerful Business Advice from Brian Bullock
 **URL:** https://www.youtube.com/watch?v=DZIGuHBITCM    (
-
 
 ## 📚 성(姓)의 무게: 당신의 유산을 만들고 대물림을 끊어내는 법
 
@@ -2364,7 +2348,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 
 ## 205. The Billionaire Mindset #3 - Greatest Business Advice Compilation
 **URL:** https://www.youtube.com/watch?v=UYfSY-rdeDU    (
-
 
 ## 📚 지속적 학습, 노력, 그리고 미래 통찰: 성공을 위한 핵심 마인드셋
 
@@ -2487,7 +2470,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 ## 206. "I Got Rich When I Understood This" | Jeff Bezos
 **URL:** https://www.youtube.com/watch?v=7TWKKww-F30    (
 
-
 ## 📚 재능을 넘어, 선택으로 빛나는 삶: 열정과 용기로 당신의 길을 만들다
 
 ### 1. 도입부 (Introduction)
@@ -2577,7 +2559,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 
 ## 207. Getting Rich is Easier Than You Think | Powerful Business Advice Compilation
 **URL:** https://www.youtube.com/watch?v=3BJYFCKLaVc    (
-
 
 ## 📚 성공을 위한 내면의 변화: 마인드셋, 스킬셋, 그리고 관계의 힘
 
@@ -2741,7 +2722,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 ## 208. THIS IS HOW THE 1% THINK EVERY DAY - THE WEALTH MINDSET | Greatest Motivational Compilation
 **URL:** https://www.youtube.com/watch?v=t0HIkrIUMyU    (
 
-
 ## 📚 돈과 성공에 대한 당신의 오해: 부의 재정의와 기업가 정신
 
 ### 1. 도입부 (Introduction)
@@ -2849,7 +2829,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 ## 209. WORK LIKE HELL | Elon Musk's Speech Will Leave You SPEECHLESS
 **URL:** https://www.youtube.com/watch?v=iAPPt2wUpVI    (
 
-
 ## 📚 일론 머스크의 혁신 철학: 불가능을 가능하게 하는 사고법
 
 ### 1. 도입부 (Introduction)
@@ -2939,7 +2918,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 
 ## 210. BE OBSESSED WITH SUCCESS - Best Motivational Speech Video 2022 (Featuring Eric Thomas)
 **URL:** https://www.youtube.com/watch?v=3HQ__ShOoJ8    (
-
 
 ## 📚 1% 마인드셋: 성공과 재정적 자유를 위한 생각의 전환
 
@@ -3071,7 +3049,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 ## 211. WHAT IT TAKES | Powerful Motivation for Entrepreneur Success
 **URL:** https://www.youtube.com/watch?v=e5wdgPEbsUI    (
 
-
 ## 📚 가짜 기업가 정신을 넘어: 당신의 진짜 잠재력을 깨우는 법
 
 ### 1. 도입부 (Introduction)
@@ -3167,7 +3144,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 
 ## 212. Everything You Know About Entrepreneurship is Wrong | POWERFUL Business Advice from Vishen Lakhiani
 **URL:** https://www.youtube.com/watch?v=jGNO06VrhdY    (
-
 
 ## 📚 기업가 정신, 재정의하다: 변화의 시대에 성공하는 법
 
@@ -3274,7 +3250,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 
 ## 213. THE BILLIONAIRE MINDSET #2 - Powerful Business Motivation
 **URL:** https://www.youtube.com/watch?v=IG1qyP7FURA    (
-
 
 ## 📚 성공을 위한 핵심 전략: 열정, 노력, 그리고 현명한 선택
 
@@ -3398,7 +3373,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 
 ## 214. The Best 5 Lessons Every Business Owner Should Know | Powerful Business Advice
 **URL:** https://www.youtube.com/watch?v=sK-nBZ6Kl4M    (
-
 
 ## 📚 성공적인 비즈니스를 위한 5가지 핵심 원칙: 흔들림 없는 성장을 위한 지혜
 
@@ -3694,7 +3668,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 ## 215. Getting Rich is Easier Than You Think | Wallstreet Trapper's Powerful Business Advice Part 2
 **URL:** https://www.youtube.com/watch?v=EqxkQQoTw_w    (
 
-
 # 월스트리트의 게임: 소유를 통한 부의 재발견
 
 ## 📚 책의 기본 구조
@@ -3786,7 +3759,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 ## 216. RISE UP IN 2022 - New Year Motivation for Success And Entrepreneurs
 **URL:** https://www.youtube.com/watch?v=4ak39RWqmk8    (
 
-
 ## 📚 일어나라, 그리고 너의 잠재력을 깨워라: 성공을 위한 행동 지침
 
 ### 1. 도입부 (Introduction)
@@ -3875,7 +3847,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 
 ## 217. THE BILLIONAIRE MINDSET #1 - Powerful Motivational Video for Success
 **URL:** https://www.youtube.com/watch?v=tatj0nIa3pA    (
-
 
 ## 📚 파괴적 기업가 정신: 변화를 주도하는 삶의 기술
 
@@ -4010,7 +3981,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 ## 218. Getting Rich is Easier Than You Think | Wallstreet Trapper's Powerful Business Advice
 **URL:** https://www.youtube.com/watch?v=3A51xQZcld4    (
 
-
 ## 📚 평범함을 넘어 부를 향한 여정: 소유, 학습, 그리고 성장
 
 ### 1. 도입부 (Introduction)
@@ -4111,7 +4081,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 ## 219. The Untold Truth About Hustle - The Secret Behind Gary Vee's Success
 **URL:** https://www.youtube.com/watch?v=7Gd-xeQGDxc    (
 
-
 ## 📚 진정한 허슬: 성공과 행복을 위한 현실적인 기업가 정신
 
 ### 1. 도입부 (Introduction)
@@ -4197,7 +4166,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 ## 220. SHARK MINDSET | One of the Greatest Motivational Speeches Ever (ft. Walter Bond)
 **URL:** https://www.youtube.com/watch?v=aFZ6PwH08TA    (
 
-
 제공해주신 가이드라인은 출판 가능한 수준의 체계적인 학습서를 작성하는 데 매우 훌륭합니다. 하지만, 첨부해주신 자막 내용은 유튜브 영상의 자동 생성 자막이거나 매우 비공식적인 대화 내용으로 보입니다. 이 자막은 다음과 같은 이유로 학습서의 '본문'으로 직접 활용하기 어렵습니다.
 
 *   **내용의 비일관성 및 단편성**: 특정 주제나 개념에 대한 체계적인 설명 없이 여러 단어와 구절이 무작위로 나열되어 있습니다.
@@ -4222,7 +4190,6 @@ Napoleon Hill은 자기계발에 가장 강력한 영향을 미친 사람 중 �
 
 ## 221. RICH VS POOR MINDSET | An Eye Opening Interview with Robert Kiyosaki [Extended Version]
 **URL:** https://www.youtube.com/watch?v=3TRTOWISp_o    (
-
 
 ## 📚 부자 아빠의 금융 지혜: 낡은 상식을 깨고 부의 길을 걷다
 

@@ -165,7 +165,6 @@
     *   보상 지급 로직은 멱등성(idempotency)을 가져야 합니다. 즉, 동일한 영수증 정보로 여러 번 호출되어도 보상이 중복 지급되지 않도록 해야 합니다. (예: 이미 지급된 영수증인지 확인하는 로직 추가)
     *   `receiptInfo.AdProductType`을 확인하여 이것이 리워드 광고를 통한 구매인지 명확히 구분할 수도 있습니다.
 
-
 # YouTube UGC 카탈로그 제작을 위한 Blender 심화 가이드: 꽃 모델링 및 효율적인 워크플로우
 
 ## UGC Expert Feedback 1: feat. Reverse_Polarity and Madison_Hatter2
@@ -379,7 +378,6 @@ UV 언래핑 후 생성된 2D UV 아일랜드들을 텍스처 공간(UV Grid) �
     *   **실행 취소**: `Ctrl+Z`는 Blender의 모든 작업에서 실행 취소 기능을 수행하며, UV 편집에서도 동일하게 적용됩니다.
 *   **주의사항**: UV 아일랜드 간의 패딩(Padding)을 충분히 확보해야 텍스처가 서로 침범하는 현상(Bleeding)을 방지할 수 있습니다.
 
-
 # Roblox 개발자를 위한 시간 함수 심층 분석
 ## How to work with time in Roblox development
 **URL:** https://www.youtube.com/watch?v=VE56HDVNibI
@@ -571,7 +569,6 @@ Roblox 경험에서 시간은 애니메이션, 이벤트 스케줄링, 사용자
 *   **예시/사례:** 서버에서 이벤트 시작 Unix 시간을 클라이언트에 전달하고, 클라이언트는 `Workspace.GetServerTimeNow()`를 사용하여 남은 시간을 계산, `time()`으로 카운트다운 UI 업데이트.
 *   **주의사항:** `Workspace.GetServerTimeNow()`는 호출 비용이 있으므로, 주기적으로 호출하여 동기화하고, 그 사이에는 `time()`을 사용하여 부드러운 카운트다운을 구현하는 것이 효율적입니다.
 
-
 # Blender 초보자의 UGC 꽃 왕관 제작 여정
 ## Making a UGC catalogue: making a flower crown
 **URL:** https://www.youtube.com/watch?v=hLh5BfrhNgg
@@ -647,7 +644,6 @@ Roblox 경험에서 시간은 애니메이션, 이벤트 스케줄링, 사용자
 *   **왜 중요한가:** 학습 과정에서 겪는 어려움은 자연스러운 것이며, 이를 통해 얻는 성장은 개인의 역량을 강화합니다.
 *   **심화 설명:** 영상은 첫 주차의 어설픈 꽃 왕관과 최종적으로 완성된 꽃 왕관을 비교하며, 짧은 시간 동안의 놀라운 성장을 보여줍니다. 이는 수많은 `Ctrl+Z` (Command Z)와 좌절, 그리고 끈기 있는 노력이 만들어낸 결과입니다.
 *   **예시/사례:** "It's giving growth. It's giving trauma. It's giving control Z like a thousand times." (성장을 보여주고, 트라우마를 보여주고, 천 번의 Ctrl Z를 보여줍니다.) 이 문장은 학습 과정의 고통과 그를 통한 성장을 함축적으로 표현합니다.
-
 
 # 그레이 박싱: 성공적인 게임 환경 디자인의 첫걸음
 ## How to graybox on Roblox
@@ -790,7 +786,6 @@ Roblox 경험에서 시간은 애니메이션, 이벤트 스케줄링, 사용자
     *   문 대신 벽의 균열을 통해 새로운 공간으로 연결되는 것은 아닌가?
 *   **
 
-
 # Roblox Studio 디버거 활용 가이드: 효율적인 코드 문제 해결 전략
 ## How to use Roblox Studio's debugger
 **URL:** https://www.youtube.com/watch?v=yOmPc2g8tbY
@@ -920,7 +915,6 @@ Roblox Studio에서 효과적인 디버깅을 위해 다음 세 가지 창을 �
 
 #### 사례를 통한 교훈
 이 사례는 `print` 문으로는 파악하기 어려웠던, 함수 내부의 미묘한 변수 오버라이드 문제를 디버거의 `Step Into` 및 `Watch Expression` 기능을 통해 효과적으로 찾아내고 해결하는 과정을 보여줍니다. 디버거는 눈에 잘 띄지 않는 복잡한 버그를 진단하는 데 필수적인 도구입니다.
-
 
 # Roblox Ads Manager: 새로운 시대를 위한 심층 가이드
 ## How to grow your experience with Roblox Ads Manager
@@ -1204,7 +1198,6 @@ Ads Manager는 사용자 유입 퍼널(Funnel)의 다양한 단계에서 크리�
 *   **심화 설명:** 커뮤니티의 강력한 요구가 있다면 그룹 광고 기능에 대해 다시 논의할 수 있지만, 현재로서는 게임 성장에 집중하고 있습니다.
 *   **예시/사례:** 그룹 자체를 홍보하는 광고 기능은 현재 제공되지 않으며, 그룹과 연관된 게임을 홍보하는 방식으로 접근해야 합니다.
 *   **주의사항:** 그룹 광고에 대한 요구사항이 있다면 Roblox 개발자 포럼 등을 통해 피드백을 전달하는 것이 좋습니다.
-
 
 # Luau에서 객체 지향 프로그래밍(OOP) 구현 가이드
 ## How to use OOP with Luau on Roblox
@@ -1677,7 +1670,6 @@ Roblox 환경에서 객체 지향 프로그래밍을 할 때, Roblox 리소스(�
 *   **주의사항:**
     `destroy` 메서드를
 
-
 # 모듈 스크립트를 활용한 코드 재사용 및 유지보수성 향상 가이드
 ## How to use module scripts on Roblox
 **URL:** https://www.youtube.com/watch?v=foKFpXZYXPk
@@ -1887,7 +1879,6 @@ print(evenNumbers) -- {2, 4}
 **주의사항:**
 함수 컬렉션을 만들 때는 각 함수의 역할과 목적을 명확히 하고, 모듈의 이름이 그 기능을 잘 나타내도록 하는 것이 좋습니다. 복잡한 타입 정의가 포함될 수 있지만, 핵심은
 
-
 # Roblox에서 데이터 스토어를 활용한 MMO 개발: 6분 만에 영속성 구현하기
 ## How to make an MMO on Roblox in 6 minutes
 **URL:** https://www.youtube.com/watch?v=PeIZN7tPutg
@@ -2010,7 +2001,6 @@ Roblox는 MMO 개발의 복잡성을 상당 부분 줄여줍니다.
     *   **사망 시 처리:** `when the player dies? Oh, right, the game. Yes, we can add another function that finds the first spawn location, in our case, the only spawn location, and puts them there.`
         *   플레이어가 사망했을 때의 위치 처리는 게임 디자인에 따라 달라집니다. 일반적으로는 미리 정의된 스폰 위치(예: 게임 시작 지점)로 이동시킵니다.
         *   `FindService("SpawnLocation")`과 같은 메서드를 사용하여 스폰 위치를 찾고, 플레이어를 해당 위치로 이동시키는 로직을 추가할
-
 
 # Roblox UI 스타일링 심층 가이드: Stylesheets, Tokens, Themes, 그리고 Tags
 ## How to style your UI on Roblox
@@ -2200,7 +2190,6 @@ Roblox UI 스타일링은 개발자가 UI의 시각적 요소를 보다 효율�
 *   **태그**: 동일한 UI 클래스 내에서 특정 목적을 가진 요소에만 적용되는 세분화된 스타일을 정의합니다.
 
 이러한 요소들을 조합하면, 복잡한 UI도 쉽게 관리하고 업데이트할 수 있는 체계적인 디자인 시스템을 만들 수 있습니다. 예를 들어, 캐릭터 클래스별로 다른 색상, 이미지, 텍스트를 가지는 UI를 테마로 관리하고, 버튼의 상태(기본, 활성화, 비활성화)는 태그로 관리
-
 
 # Roblox UGC 신발 제작 가이드: 심층 학습 자료
 ## How to make shoes for Roblox
@@ -2422,7 +2411,6 @@ Blender에서 완성된 모델을 Roblox Studio로 가져와 최종적으로 아
     *   신발 액세서리의 이름(`left shoe accessory`, `right shoe accessory`)을 정확하게 변경하지 않으면 오류가 발생합니다.
     *   유효성 검사에서 문제가 발생하면 Studio에서 직접 해결하거나, 모델/
 
-
 # 포스트 프로세싱 효과로 경험의 분위기 연출하기
 ## How to use post processing effects on Roblox
 **URL:** https://www.youtube.com/watch?v=_vByVrhQX6w
@@ -2517,7 +2505,6 @@ Blender에서 완성된 모델을 Roblox Studio로 가져와 최종적으로 아
         1.  `Roblox Studio` > `Studio Settings` > `Rendering`으로 이동합니다.
         2.  `Editor Quality Level`을 더 높은 값으로 설정하여 효과가 보이도록 합니다.
 *   **조합 및 실험:** 여러 포스트 프로세싱 효과를 조합하여 원하는 시각적 결과물을 얻을 수 있습니다. 두려워하지 말고 다양한 조합과 설정을 실험해 보세요.
-
 
 # Roblox Studio: 글로벌 바람(Global Wind) 기능 심층 학습 자료
 ## How to use global wind on Roblox
@@ -2630,7 +2617,6 @@ Blender에서 완성된 모델을 Roblox Studio로 가져와 최종적으로 아
 ### 3.5. Global Wind의 가치 (Value of Global Wind)
 `Global Wind`는 단순히 시각적인 효과를 넘어, 게임 세계에 생명력을 불어넣고 플레이어의 몰입도를 높이는 데 결정적인 역할을 합니다. 역동적이고 몰입감 있는 환경은 플레이
 
-
 # Roblox Studio: 동적 구름으로 사실적인 하늘 연출하기
 ## How to use dynamic clouds on Roblox
 **URL:** https://www.youtube.com/watch?v=GbO89Hz3PjE
@@ -2714,7 +2700,6 @@ Blender에서 완성된 모델을 Roblox Studio로 가져와 최종적으로 아
     *   **`Atmosphere` 서비스:** `Haze` (안개), `Density` (대기 밀도), `Offset` (안개 시작점) 등의 속성은 구름 주변의 대기 효과를 조절하여 구름이 환경에 더 자연스럽게 녹아들도록 돕습니다.
 *   **예시/사례:** 일몰 장면을 연출할 때, `Clouds`의 `Color`를 복숭아색으로 설정하고, `Lighting`의 `TimeOfDay`를 저녁 시간으로 맞추며, `Atmosphere`의 `Haze`를 약간 높여주면 더욱 극적이고 아름다운 일몰 구름을 만들 수 있습니다.
 *   **주의사항:** 각 속성을 개별적으로 조절하기보다는, 전체적인 시각적 목표를 염두에 두고 `Clouds`, `Lighting`, `Atmosphere` 속성들을 유기적으로 조절하는 것이 중요합니다.
-
 
 # Roblox 환경 스타일링 심화 학습 자료
 ## How to use lighting and effects on Roblox
@@ -2840,7 +2825,6 @@ Roblox는 실제와 같은 3D 구름을 하늘에 추가할 수 있는 기능을
     *   게임 내 이벤트(예: 보스 등장) 발생 시 `ColorCorrectionEffect`를 활성화하여 화면의 색감을 어둡게 변경.
     *   낮과 밤의 주기를 스크립트로 구현하여 월드가 자동으로 변화하도록 설정.
 *   **주의사항:** 스크립트를 통한 빈번한 속성 변경은 성능에 영향을 줄 수 있습니다. `RunService.Heartbeat`와 같은 이벤트에 연결하여 부드러운 전환을 구현하
-
 
 # What are objects?
 **URL:** https://www.youtube.com/watch?v=FzmFAm00A8g
@@ -3124,7 +3108,6 @@ Roblox Studio로 개발한 경험은 개인 포트폴리오에 추가하여 게�
 
 #### 주의사항: 지속적인 학습
 
-
 # Roblox 데이터 모델 심층 분석: 경험의 작동 원리 이해
 
 ## What are data models?
@@ -3262,7 +3245,6 @@ Roblox에는 다양한 용도의 많은 객체 유형이 있지만, 개발자는
 
 *   **주의사항:**
     클라이언트에서 직접 접근하거나 조작할 수 없어야 하는 모든 민감한 정보나 로직은 반드시 서버 전용 컨테이너
-
 
 # Roblox UGC: 바디 케이지와 의류 케이지 변환 심층 가이드
 ## How to turn Body Cages into Clothing Cages (and back again!)
@@ -3443,7 +3425,6 @@ Roblox에는 다양한 용도의 많은 객체 유형이 있지만, 개발자는
     3.  파일을 임포트할 때 관련 오류가 없는지 확인합니다.
     4.  Roblox Studio의 아바타 설정(Avatar Setup)에서 의류가 예상대로 아바타에 잘 맞는지 확인합니다.
 
-
 # Roblox 경험 성능 최적화 가이드
 
 ## How to optimize performance on Roblox
@@ -3556,7 +3537,6 @@ Roblox에는 다양한 용도의 많은 객체 유형이 있지만, 개발자는
     *   시간이 지남에 따라 작은 마이크로 최적화들이 쌓여 오히려 코드의 복잡성을 증가시키고 유지보수를 어렵게 만들 수 있습니다.
 
 ## 4. 용어 해설 (Glossary)
-
 
 # Roblox 친구 초대 보상 시스템 배너 생성 및 게시
 ## Learn how to create a custom experience banner
@@ -3693,7 +3673,6 @@ Roblox에는 다양한 용도의 많은 객체 유형이 있지만, 개발자는
 *   **주의사항:**
     *   **정보 아이콘:** 배너의 '정보 아이콘(info icon)'을 클릭하여 입력했던 모든 상세 정보(기간, 보상 설명, 제한 사항)가 정확하게 표시되는지 확인해야 합니다.
     *
-
 
 # Roblox UGC 아이템 텍스처링 및 퍼블리싱 심화 학습 가이드: 오리 어깨 친구 만들기
 ## Intro to texturing for UGC (feat. Madison_Hatter2)

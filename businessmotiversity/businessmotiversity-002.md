@@ -106,7 +106,6 @@
 ## 53. Making $1,000,000,000 In A Year Taught Me How To Think Correctly 2.0 - Eddie Wilson
 **URL:** https://www.youtube.com/watch?v=9tztIFeBT8I    (
 
-
 ## 📚 시간을 쫓으면 부는 따라온다: 성공을 위한 시간 관리의 지혜
 
 ### 1. 도입부 (Introduction)
@@ -199,7 +198,6 @@
 
 ## 54. If You Have Less Money Than You Want. Please watch this video...
 **URL:** https://www.youtube.com/watch?v=OfI2Q2CQkwk    (
-
 
 ## 📚 성공을 위한 내면의 유전 발굴: 잠재력을 현실로 바꾸는 전략
 
@@ -313,7 +311,6 @@
 ## 55. If You Have Billionaire Dreams But Are Lazy, Watch This
 **URL:** https://www.youtube.com/watch?v=x8SflyYzEU4    (
 
-
 # 성공을 위한 내면의 규율: 워렌 버핏의 지혜와 끊임없는 노력의 가치
 
 ## 📚 책의 기본 구조
@@ -415,7 +412,6 @@
 ## 56. Making $1,000,000,000 In A Year Taught Me How To Think Correctly - Eddie Wilson
 **URL:** https://www.youtube.com/watch?v=rbuMAFy0D_k    (
 
-
 ## 📚 부의 가속화와 삶의 지혜: 성공적인 기업가 정신을 위한 여정
 
 ### 1. 도입부 (Introduction)
@@ -510,7 +506,6 @@
 
 ## 57. It’s So F@cking Easy to Get Rich
 **URL:** https://www.youtube.com/watch?v=FoAKYaDcfKc    (
-
 
 # 돈의 규칙을 바꾸는 법: 로버트 기요사키의 금융 통찰
 
@@ -614,7 +609,6 @@
 
 ## 58. 100+ Years of Brutally Honest Business Advice in 85 Minutes
 **URL:** https://www.youtube.com/watch?v=9WPFYEydBSU    (
-
 
 # 성공을 위한 기업가적 마인드셋: 도전과 성장을 위한 실천 전략
 
@@ -743,7 +737,6 @@ w 하지만 그것은 우리가 스스로를 위해 이것을 만든 것과 같�
 ## 61. “You’ve Been Trained To Be Broke!” - NO BS Guide to Make Millions | Kim Kiyosaki
 **URL:** https://www.youtube.com/watch?v=HUdd6dlhQ9U    (
 
-
 ## 📚 돈에 대한 오해를 넘어: 자산 구축과 기업가 정신으로 재정적 자유를 얻는 법
 
 ### 1. 도입부 (Introduction)
@@ -842,7 +835,6 @@ w 하지만 그것은 우리가 스스로를 위해 이것을 만든 것과 같�
 
 ## 62. LOCK IN 2025 - New Year Motivational Speech
 **URL:** https://www.youtube.com/watch?v=8U6NNvL6efc    (
-
 
 ## 📚 변화를 두려워 말고, 행동으로 삶을 주도하라: 당신의 잠재력을 깨우는 실천 가이드
 
@@ -955,7 +947,6 @@ k 이제 이쯤 되면 내가 이런 창피한 일을 해야 하지 않으면 �
 
 ## 64. Stop Being Broke - Business Advice To Go From $0 to Millions
 **URL:** https://www.youtube.com/watch?v=S12CZYO0nt4    (
-
 
 ## 📚 부의 재정의: 당신이 몰랐던 돈의 비밀과 부자들의 투자 전략
 
@@ -1077,7 +1068,6 @@ k 이제 이쯤 되면 내가 이런 창피한 일을 해야 하지 않으면 �
 
 ## 65. How to Get RICH In Your 20s - Best of 2024 Business Motivation
 **URL:** https://www.youtube.com/watch?v=gC_ToatnhB4    (
-
 
 # 돈을 불리고 삶을 변화시키는 기업가 정신
 
@@ -1205,7 +1195,6 @@ k 이제 이쯤 되면 내가 이런 창피한 일을 해야 하지 않으면 �
 ## 68. It's Supposed To Be Hard - Motivational Speech
 **URL:** https://www.youtube.com/watch?v=IL5zlWms98g    (
 
-
 ## 📚 성공을 위한 불굴의 정신: 역경을 기회로 바꾸는 법
 
 ### 1. 도입부 (Introduction)
@@ -1294,7 +1283,6 @@ k 이제 이쯤 되면 내가 이런 창피한 일을 해야 하지 않으면 �
 
 ## 69. MINDSET OF A MILLIONAIRE - Motivational Speech Compilation
 **URL:** https://www.youtube.com/watch?v=YOfYf69s0eU    (
-
 
 ## 📚 성공을 위한 마인드셋과 습관: 변화, 희생, 그리고 꾸준함
 
@@ -1415,7 +1403,6 @@ k 이제 이쯤 되면 내가 이런 창피한 일을 해야 하지 않으면 �
 ## 71. How To Go From Hustle To Empire - Dwayne "The Rock" Johnson's Motivation
 **URL:** https://www.youtube.com/watch?v=xvYpBWre8Ys    (
 
-
 다음은 제공된 자막 내용을 바탕으로 작성된 학습서의 초안입니다. 출판 가능한 수준의 완성도를 위해 추가적인 학술적 근거, 다양한 사례, 그리고 참고 자료가 보강되어야 합니다.
 
 ---
@@ -1511,7 +1498,6 @@ k 이제 이쯤 되면 내가 이런 창피한 일을 해야 하지 않으면 �
 
 ## 72. The Best Advice I’ve Ever Received | Seth Godin
 **URL:** https://www.youtube.com/watch?v=VigukCyqabY    (
-
 
 # 탁월함과 전략: 세스 고딘에게 배우는 성공의 지혜
 
@@ -1626,7 +1612,6 @@ k 이제 이쯤 되면 내가 이런 창피한 일을 해야 하지 않으면 �
 ## 73. No Risk, No Story 2.0 - Best Motivational Speech Compilation
 **URL:** https://www.youtube.com/watch?v=KCtfHIDQ38Q    (
 
-
 # 불확실성을 기회로: 용기 있는 실행과 성장의 비밀
 
 ## 📚 책의 기본 구조
@@ -1714,7 +1699,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 
 ## 75. How to Get RICH so FAST it feels like CHEATING - Motivational Speech Compilation
 **URL:** https://www.youtube.com/watch?v=_VV0aZm5OXU    (
-
 
 ## 📚 성공을 위한 핵심 역량: 기업가 정신, 협상, 그리고 자기 성장
 
@@ -1813,7 +1797,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 
 ## 77. Richard Branson: How To Get Rich & Change The World in 2025
 **URL:** https://www.youtube.com/watch?v=-8j1rHKxrLc    (
-
 
 # 리처드 브랜슨에게 배우는 불굴의 기업가 정신: 당신의 꿈을 현실로 만드는 5가지 핵심 전략
 
@@ -1980,7 +1963,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 ## 78. Ray Dalio's FINAL Warning - It's Worse Than You Realize!
 **URL:** https://www.youtube.com/watch?v=DrKuW5nJPH4    (
 
-
 ## 📚 글로벌 경제 대전환기: 세 가지 거대한 힘과 현명한 자산 관리 전략
 
 ### 1. 도입부 (Introduction)
@@ -2067,7 +2049,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 
 ## 79. YOU'LL NEVER OUTWORK ME | Brutally Honest Business Advice from Mark Cuban
 **URL:** https://www.youtube.com/watch?v=eTbc6GVmwI0    (
-
 
 ## 📚 사업 성공의 핵심: 지식, 노력, 그리고 끊임없는 학습
 
@@ -2167,7 +2148,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 
 ## 80. The Habits of HIGHLY Successful People | Alex Hormozi Motivation
 **URL:** https://www.youtube.com/watch?v=uF3MpG7_cUU    (
-
 
 ## 📚 성공을 위한 내면의 설계: 환경, 행동, 그리고 탁월함의 비밀
 
@@ -2291,7 +2271,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 ## 81. GRIND MENTALITY | Brutally Honest Business Advice from David Hauser
 **URL:** https://www.youtube.com/watch?v=WbGxdDuJSLc    (
 
-
 ## 📚 성공적인 기업가 정신: 위험과 보상, 그리고 지속 가능한 성장을 위한 핵심 전략
 
 ### 1. 도입부 (Introduction)
@@ -2393,7 +2372,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 ## 82. YOU'VE BEEN TRAINED TO BE BROKE!! | Jack Ma POWERFUL Business Advice
 **URL:** https://www.youtube.com/watch?v=G0wBTicng3k    (
 
-
 ## 📚 잭 마의 기업가 정신: 불가능을 가능케 한 알리바바 성공 신화와 미래를 보는 지혜
 
 ### 1. 도입부 (Introduction)
@@ -2480,7 +2458,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 
 ## 83. THE TOP 1% KNOW THIS TRICK! | Hostage Negotiator's Trick to Get You Anything You Want
 **URL:** https://www.youtube.com/watch?v=nPNwcV65yoA    (
-
 
 # 당신을 빛나게 할 대화의 기술: 협상, 경청, 그리고 성장을 위한 전략
 
@@ -2570,7 +2547,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 
 ## 84. Billionaire Lifestyle Motivation 2024 #2
 **URL:** https://www.youtube.com/watch?v=7QlWlgitnDM    (
-
 
 # 부의 마인드셋: 평범함을 넘어 부를 창조하는 법
 
@@ -2692,7 +2668,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 ## 86. OUTWORK AND GRIND! | Brutally Honest Business Advice from Mark Cuban
 **URL:** https://www.youtube.com/watch?v=2IMx6Pe6h4I    (
 
-
 # 📚 성공적인 기업가 정신: 노력, 학습, 그리고 건강한 편집증
 
 ## 1. 도입부 (Introduction)
@@ -2802,7 +2777,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 ## 87. ENTREPRENEUR MENTALITY - Powerful Business Motivation
 **URL:** https://www.youtube.com/watch?v=g5LmQG7xVc8    (
 
-
 ## 📚 성공을 위한 내면의 나침반: 번아웃 없는 성장과 기회 포착 전략
 
 ### 1. 도입부 (Introduction)
@@ -2889,7 +2863,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 
 ## 88. The 3 Lessons I Learned from The Wallstreet Trapper | Best Advice to Getting Rich in 2024
 **URL:** https://www.youtube.com/watch?v=JTN-vTr85vs    (
-
 
 ## 📚 월스트리트 트래퍼의 지혜: 부의 사다리를 오르는 3가지 핵심 전략
 
@@ -2983,7 +2956,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 ## 89. nobody cares, work harder - best hopecore speeches
 **URL:** https://www.youtube.com/watch?v=chg5kpQgg3A    (
 
-
 ## 📚 고통을 성장의 연료로: 역경을 기회로 바꾸는 삶의 기술
 
 ### 1. 도입부 (Introduction)
@@ -3064,7 +3036,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 
 ## 90. This Video Will Leave You SPEECHLESS -  Eye Opening Video on Bitcoin
 **URL:** https://www.youtube.com/watch?v=sr1buWBF4x4    (
-
 
 # 비트코인, 디지털 시대의 구텐베르크 혁명: 화폐의 미래를 탐색하다
 
@@ -3163,7 +3134,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 
 ## 91. hardest worker in the room - best motivational speech
 **URL:** https://www.youtube.com/watch?v=Wvh5AWiNLig    (
-
 
 ## 📚 자기 주도적 삶과 탁월함의 비밀: 평범함을 넘어선 당신을 위한 성장 전략
 
@@ -3274,7 +3244,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 ## 92. ELITE MINDSET - Powerful Business Motivation (featuring Walter Bond)
 **URL:** https://www.youtube.com/watch?v=UULloNjJr6Q    (
 
-
 ## 📚 성공적인 '제국'을 건설하는 비결: 사람과 함께 성장하는 법
 
 ### 1. 도입부 (Introduction)
@@ -3361,7 +3330,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 
 ## 93. TIME TO HUSTLE, GET TO WORK | Powerful Business Compilation (1 Hour)
 **URL:** https://www.youtube.com/watch?v=HHjLpDlNq_k    (
-
 
 ## 📚 성공을 위한 사고방식과 적응력: 변화를 기회로 만드는 법
 
@@ -3475,7 +3443,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 ## 95. Warren Buffett and Charlie Munger's Speech Will Change Your Financial Future
 **URL:** https://www.youtube.com/watch?v=ubCP2r3QHqg    (
 
-
 ## 📚 워렌 버핏과 찰리 멍거의 지혜: 시대를 초월한 투자와 삶의 원칙
 
 ### 1. 도입부 (Introduction)
@@ -3557,7 +3524,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 
 ## 96. "I Got Rich When I Understood This" | Michael Burry: 3 Lessons from the Big Short
 **URL:** https://www.youtube.com/watch?v=G0cDzDVEkB4    (
-
 
 # 📚 2008 금융 위기: 마이클 버리의 '빅 쇼트'와 금융 시장의 교훈
 
@@ -3677,7 +3643,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 ## 97. SACRIFICE = SUCCESS | Powerful Motivational Speeches
 **URL:** https://www.youtube.com/watch?v=wDR0WDU5Cvg    (
 
-
 # 변화의 기술: 불편함을 넘어 성장으로 나아가는 길
 
 ## 📚 책의 기본 구조
@@ -3773,7 +3738,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 ## 98. no risk no story - motivational speech compilation
 **URL:** https://www.youtube.com/watch?v=7r_B5G5nFUQ    (
 
-
 ## 📚 내면의 힘을 깨우는 습관: 흔들리지 않는 나를 만드는 자기계발 가이드
 
 ### 1. 도입부 (Introduction)
@@ -3861,7 +3825,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 
 ## 99. How to Invest in 2024 (The BEST Way to Get Rich) | Featuring Robert Kiyosaki
 **URL:** https://www.youtube.com/watch?v=pD538-9vO6c    (
-
 
 ## 📚 부자 아빠의 투자 비밀: 로버트 기요사키에게 배우는 현명한 투자 전략
 
@@ -4023,7 +3986,6 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 ## 100. BEAST MENTALITY - Powerful Business Motivation
 **URL:** https://www.youtube.com/watch?v=qDicqcuYyE4    (
 
-
 ## 📚 성공을 위한 마인드셋과 실행 전략
 
 ### 1. 도입부 (Introduction)
@@ -4127,5 +4089,3 @@ e는 가치가 있고 당신이 위험을 감수하지 않는 한 아무것도 �
 
 ## 101. 8 Minutes for the next 80 Years! | ENTREPRENEUR MENTALITY (Must Watch)
 **URL:** https://www.youtube.com/watch?v=fD_LRpwZIlY    (
-
-

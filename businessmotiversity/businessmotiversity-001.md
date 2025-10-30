@@ -3,7 +3,6 @@
 ## 1. We Selected the best 63 minutes of Business Advice
 **URL:** https://www.youtube.com/watch?v=_COsXGwmtfI    (
 
-
 ## 📚 부의 지도를 그리다: 투자, 기업가 정신, 그리고 성공의 마인드셋
 
 ### 1. 도입부 (Introduction)
@@ -141,7 +140,6 @@
 ## 3. Making $1,000,000,000 In A Year Taught Me How To Think Correctly - Eddie Wilson 3.0
 **URL:** https://www.youtube.com/watch?v=6W1Ql3fpiKU    (
 
-
 다음은 요청하신 가이드라인과 자막 내용에 따라 작성된 학습 자료입니다.
 
 ---
@@ -249,7 +247,6 @@
 
 ## 4. Getting Rich Is Super Easy | Myron Golden
 **URL:** https://www.youtube.com/watch?v=L2UK_8XLJ3w    (
-
 
 ## 백만장자가 되는 연금술: '무엇을' 할 것인가가 아닌, '누가' 될 것인가
 
@@ -393,7 +390,6 @@
 
 ## 5. The Simple (& Proven) Ways To Go From $0 To $100,000
 **URL:** https://www.youtube.com/watch?v=6xFefDuSeeo    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -549,7 +545,6 @@
 ## 6. The Most Valuable Hour of Business Advice In Your Life
 **URL:** https://www.youtube.com/watch?v=iLKjCOdYvpc    (
 
-
 ## 성공 방정식: 아이디어를 비즈니스로 바꾸는 전략 가이드
 
 ---
@@ -643,7 +638,6 @@ n, 그리고 지금은 무엇입니까? 당신은 일자리를 구하기 위해 
 
 ## 8. be delusional - powerful motivational speeches
 **URL:** https://www.youtube.com/watch?v=TOjgtqY93AY    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -758,7 +752,6 @@ n, 그리고 지금은 무엇입니까? 당신은 일자리를 구하기 위해 
 
 ## 9. 100+ Years of Brutally Honest Business Advice in 180 Minutes
 **URL:** https://www.youtube.com/watch?v=Jeu4-8lygyg    (
-
 
 ## 부의 마인드셋: 평범함을 거부하고 부를 창조하는 기업가들의 비밀
 
@@ -888,7 +881,6 @@ n, 그리고 지금은 무엇입니까? 당신은 일자리를 구하기 위해 
 
 ## 14. Alex Hormozi: It’s So F%^#g Easy to Get Rich 3.0
 **URL:** https://www.youtube.com/watch?v=z59Yt8O_s2M    (
-
 
 # 부의 끌어당김: 긍정 확언을 통한 재정적 풍요 마스터하기
 
@@ -1051,7 +1043,6 @@ n, 그리고 지금은 무엇입니까? 당신은 일자리를 구하기 위해 
 ## 15. "I AM WEALTHY" - Affirmations For Money, Success & Wealth - Listen Every Night! (3.5 HOURS)
 **URL:** https://www.youtube.com/watch?v=872GOrIzIZ0    (
 
-
 제공해주신 YouTube 영상 자막은 '재정적 풍요, 부, 성공'에 대한 긍정적인 확언(affirmation)들로 구성되어 있습니다. 이는 동기 부여나 자기 계발에 초점을 맞춘 내용으로, 반복적인 긍정 문구를 통해 잠재의식을 강화하는 목적을 가집니다.
 
 요청하신 '출판 가능한 수준의 체계적인 학습서'의 기본 구조(도입부, 이론적 배경, 실무 적용, 심화 학습, 마무리)와 작성 가이드라인(개념 정의, 배경 지식, 학술적 근거, 구체적 사례, 단계별 가이드 등)을 적용하기에는 현재 자막 내용이 적합하지 않습니다. 학습서에 필요한 이론적 설명, 구체적인 방법론, 사례 분석, 심화 학습 내용 등이 포함되어 있지 않기 때문입니다.
@@ -1083,7 +1074,6 @@ n, 그리고 지금은 무엇입니까? 당신은 일자리를 구하기 위해 
 
 ## 18. We selected the absolute best 90 minutes of Business Advice (Actually)
 **URL:** https://www.youtube.com/watch?v=CuD02Ok7DFI    (
-
 
 ## 📚 기업가 정신: 위험을 기회로 바꾸는 성공의 비밀
 
@@ -1211,7 +1201,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 ## 21. 16 Minutes MILLIONAIRE entrepreneur advice to people starting from ZERO
 **URL:** https://www.youtube.com/watch?v=MyUSvhIW9Mo    (
 
-
 ## 📚 진정한 성공이란 무엇인가: 양적 추구를 넘어선 질적 삶의 재정의
 
 ### 1. 도입부 (Introduction)
@@ -1305,7 +1294,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 
 ## 22. Alex Hormozi: It’s So F%^#g Easy to Get Rich 2.0
 **URL:** https://www.youtube.com/watch?v=YfPj8OPK4SY    (
-
 
 # 마음의 전쟁에서 승리하는 기업가 정신: 집중, 끈기, 그리고 장기적 관점
 
@@ -1448,7 +1436,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 ## 24. 10 Minutes of the Best Billionaire Advice
 **URL:** https://www.youtube.com/watch?v=l7r2_BKFv7E    (
 
-
 # 📚 성공적인 기업가 정신: 호기심, 집중, 그리고 실행의 기술
 
 ## 1. 도입부 (Introduction)
@@ -1548,7 +1535,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 
 ## 25. SHARK MINDSET | Best Business Advice Ever by Walter Bond
 **URL:** https://www.youtube.com/watch?v=ovZOXkntDpU    (
-
 
 ## 📚 상어처럼 움직여라: 성공을 위한 자기 혁신 가이드
 
@@ -1687,7 +1673,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 ## 27. We Selected the best 54 minutes of Business Advice
 **URL:** https://www.youtube.com/watch?v=KTn61FEkIHo    (
 
-
 # 기업가 정신의 핵심: 아이디어, 실행, 그리고 부의 축적
 
 ## 1. 도입부 (Introduction)
@@ -1809,7 +1794,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 
 ## 29. 100+ Years of Brutally Honest Business Advice in 92 Minutes
 **URL:** https://www.youtube.com/watch?v=deSpJi8_5Kk    (
-
 
 ## 📚 기업가 정신: 성공을 위한 마인드셋, 전략, 그리고 미래 비전
 
@@ -1936,7 +1920,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 ## 32. This will find entrepreneurs when they need it most
 **URL:** https://www.youtube.com/watch?v=ZAslbT5j67c    (
 
-
 # 성공의 비밀: 시작하고, 배우고, 성장하라
 
 ## 📚 1. 도입부 (Introduction)
@@ -2050,7 +2033,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 ## 33. IT'S YOUR FAULT | Brutally Honest Business Advice from Jon Taffer
 **URL:** https://www.youtube.com/watch?v=Wd_YsrFmFTw    (
 
-
 ## 📚 실패를 소유하고 성장을 창조하는 기업가 정신: 반응을 이끌어내는 성공의 비밀
 
 ### 1. 도입부 (Introduction)
@@ -2130,7 +2112,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 
 ## 34. 18 Minute MILLIONAIRE entrepreneur advice to people starting from ZERO
 **URL:** https://www.youtube.com/watch?v=BekoVsVND6E    (
-
 
 # 기업가 정신의 본질: 두려움을 넘어 빠른 실행과 검증으로
 
@@ -2239,7 +2220,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 
 ## 35. How to ACTUALLY Get Rich In Your 20s - motivational speech compilation
 **URL:** https://www.youtube.com/watch?v=mWOCSvo6OCU    (
-
 
 # 📚 시간, 가치, 그리고 부의 본질: 당신의 20대를 위한 현명한 선택
 
@@ -2383,7 +2363,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 ## 37. Alex Hormozi: It’s So F%^#g Easy to Get Rich
 **URL:** https://www.youtube.com/watch?v=QiGpqb43y6E    (
 
-
 # 기업가 정신, 마음의 전쟁: 집중과 인내로 성공을 쟁취하는 법
 
 ## 📚 책의 기본 구조
@@ -2491,7 +2470,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 ## 38. Dangerous Business Advice - Elon Musk
 **URL:** https://www.youtube.com/watch?v=sopX-bUH6xw    (
 
-
 # 혁신가의 사고방식: 불가능을 현실로 만드는 원칙
 
 ## 1. 도입부 (Introduction)
@@ -2583,7 +2561,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 
 ## 39. The "1 Billion Dollar Morning Routine" - Habits of the World's Most Successful People
 **URL:** https://www.youtube.com/watch?v=QP2i9RinuXE    (
-
 
 ## 📚 아침을 지배하는 자, 하루를 지배한다: 성공을 위한 모닝 루틴 설계 가이드
 
@@ -2695,7 +2672,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 
 ## 40. Daily Habits of Successful People | Brian Tracy’s Powerful Business Advice
 **URL:** https://www.youtube.com/watch?v=FKHmn3l5LWo    (
-
 
 # 성공의 비밀: 브라이언 트레이시의 5가지 성공 전략
 
@@ -2821,7 +2797,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 ## 41. YOU OWE IT TO YOU IN 2025 - Powerful Business Motivational Advice (The Rock)
 **URL:** https://www.youtube.com/watch?v=vWlgesGRrcQ    (
 
-
 # 내면의 거인을 깨워라: 진정성으로 일궈내는 압도적 성공
 
 ## 1. 도입부 (Introduction)
@@ -2920,7 +2895,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 
 ## 42. I Made $1,000,000,000 By Following These 3 Habits - Eddie Wilson
 **URL:** https://www.youtube.com/watch?v=QL23vw8d-EU    (
-
 
 ## 📚 시간, 부, 그리고 목적: 성공적인 삶과 비즈니스를 위한 핵심 원칙
 
@@ -3025,7 +2999,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 
 ## 43. 18 Minutes of the Best Entrepreneur Advice to Grow Your Business Fast
 **URL:** https://www.youtube.com/watch?v=d8DzwSJ1-w8    (
-
 
 ## 부의 축적과 성공적인 비즈니스를 위한 실천적 지혜
 
@@ -3135,7 +3108,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 ## 44. OUTWORK AND GRIND 2.0! | Brutally Honest Business Advice from Mark Cuban
 **URL:** https://www.youtube.com/watch?v=DgyY4wKxPlw    (
 
-
 # 📚 성공하는 기업가의 비밀: 노력, 학습, 그리고 건강한 편집증
 
 ## 1. 도입부 (Introduction)
@@ -3227,7 +3199,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 
 ## 45. THINK AND GROW RICH | Powerful Motivational Speeches for Wealth & Success
 **URL:** https://www.youtube.com/watch?v=kJ6qwQhTaks    (
-
 
 # 📚 마음의 연금술: 내면의 풍요로 현실을 창조하는 법
 
@@ -3326,7 +3297,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 
 ## 46. If You’re Not Winning, It’s Your Fault - Dan Pena Brutally Honest Advice
 **URL:** https://www.youtube.com/watch?v=VepnEtFeVW8    (
-
 
 # 밀레니얼 세대를 위한 성공 마인드셋: 자수성가 백만장자의 비결
 
@@ -3433,7 +3403,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 
 ## 47. my honest business advice to someone who wants to get rich
 **URL:** https://www.youtube.com/watch?v=v1RYasdwflg    (
-
 
 # 두려움을 넘어, 나만의 길을 걷는 용기: 첫 번째 원칙으로 사업을 시작하는 법
 
@@ -3546,7 +3515,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 ## 48. How To Actually Get Rich In Your 20s
 **URL:** https://www.youtube.com/watch?v=v52dadeeLZU    (
 
-
 ## 📚 부의 비밀: 유튜브에서 배우는 금융 지혜와 성공 마인드셋
 
 ### 1. 도입부 (Introduction)
@@ -3643,7 +3611,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 
 ## 49. These Rules Made Me So Rich, I Questioned the Meaning of Life - Dan Martell
 **URL:** https://www.youtube.com/watch?v=KD3TLNW8lHg    (
-
 
 # 부의 재정의: 시간, 가치, 성공을 위한 댄의 5가지 게임 체인징 원칙
 
@@ -3742,7 +3709,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 
 ## 50. 10 Brutal Business Truths I Wish I Knew in My 20s
 **URL:** https://www.youtube.com/watch?v=CIMXc9D52qs    (
-
 
 ## 📚 성공을 가속화하는 10가지 비즈니스 핵심 전략
 
@@ -4103,7 +4069,6 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 ## 51. "How to Become a Billionaire By Age 35" - Jeff Bezos
 **URL:** https://www.youtube.com/watch?v=HwNOsLqEdaY    (
 
-
 ## 📚 제프 베이조스의 성공 방정식: 선택, 열정, 그리고 고객 집착
 
 ### 1. 도입부 (Introduction)
@@ -4268,5 +4233,3 @@ orld는 여러분을 특정 끝점으로 안내하고 싶지 않습니다. 하�
 
 ## 52. "The Ultra Rich Think Differently About Money & Wealth” - Robert Kiyosaki
 **URL:** https://www.youtube.com/watch?v=iiFN2svhDUo    (
-
-

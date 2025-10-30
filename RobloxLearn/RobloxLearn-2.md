@@ -303,8 +303,6 @@ Roblox Studio에서 더미를 내보낼 때, 특정 월드 좌표에 고정하�
     *   트라이앵글 수를 줄일 때는 모델의 시각적 품질이 크게 저하되지 않는 선에서 진행해야 합니다.
     *   가능한 한 낮은 트라이앵글 수를 유지하면서도 모델이 보기 좋게 유지하는 것이 최적화의 목표입니다.
 
-
-
 # Roblox UGC 크리에이터 성공 전략: 영감부터 비즈니스까지
 ## UGC Insights (feat. Reverse_Polarity and Madison_Hatter2)
 **URL:** https://www.youtube.com/watch?v=Zb1BJow0NV4
@@ -389,7 +387,6 @@ Roblox Studio에서 더미를 내보낼 때, 특정 월드 좌표에 고정하�
     *   'Cottagecore' 트렌드에서 영감을 받아 'Mushroom Wizard Hat'을 제작했습니다.
     *   과거에 만든 'Zombie Mask'를 보며 현재의 향상된 기술로 더 좋은 아이템을 만들 수 있다는 자신감을 얻었습니다.
 *   **주의사항:** 단순히 트렌드를 쫓는 것을 넘어, 자신의 강점과 흥미를 결합하여 독창적인 아이템을 만드는 것이 장기적인 성공의 열쇠입니다.
-
 
 # Roblox 매치메이킹 시스템 심층 분석: 가중치 합계 알고리즘과 커스터마이징
 ## Learn how matchmaking works on Roblox
@@ -517,7 +514,6 @@ Roblox Studio에서 더미를 내보낼 때, 특정 월드 좌표에 고정하�
     *   소셜 게임: 친구 수 시그널에 높은 가중치를 부여하여 친구들과 함께 플레이할 가능성을 높임.
     *   특정 콘텐츠 중심 게임: 특정 콘텐츠를 선호하는 플레이어를 해당 콘텐츠가 활성화된 서버로 유도하는 시그널 추가.
 *   **주의사항:** 커스텀 매치메이킹은 강력한 기능이지만, 잘못된 설정은 플레이어 이탈로 이어질 수 있습니다. 지속적인 테스트와 플레이
-
 
 # Roblox 광원(Light Sources) 마스터 가이드
 ## How to use light sources on Roblox
@@ -661,7 +657,6 @@ Roblox에서 사용할 수 있는 세 가지 주요 광원 유형은 각각 고�
         *   그림자를 비활성화하여 만화 같은 또는 스타일화된 장면 연출
     *   **주의사항:** 그림자를 활성화하면 렌더링 비용이 증가하므로, 저사양 기기를 대상으로 하는 경우 신
 
-
 # Roblox 실시간 천 시뮬레이션 및 재단 프로토타입: Taylor Swiftly
 ## Tailor Swiftly - Dynamic Cloth in Roblox
 **URL:** https://www.youtube.com/watch?v=pc9KZbkYv4E
@@ -799,7 +794,6 @@ Taylor Swiftly는 실제 재봉 과정에서 영감을 받은 다양한 조작 �
     5.  `Tack` 기능을 사용하여 옆면의 특정 점들을 정밀하게 봉제.
     6.  물리 엔진을 켜서 튜닉이 마네킹 위에서 자연스럽게 늘어뜨려지는 모습을 확인.
     7.  `Unpin` 기능을 사용하여 모든 핀을 해제, 튜닉이 완전히 자유롭게 움직이도록 함.
-
 
 # Roblox 스크립트 실행 환경 이해: 심층 가이드
 ## How to get your code to run on Roblox
@@ -995,7 +989,6 @@ Roblox Studio의 Laser Tag 템플릿은 스크립트 위치와 `RunContext`를 �
 *   **심화 설명:** `StarterPack`에 있는 `LocalScript`는 플레이어가 블래스터를 장착할 때마다 실행되어, 블래스터의 로컬 UI나 애니메이션을 설정하는 데 사용될 수 있습니다.
 *   **예시/사례:** Laser Tag 템플릿을 직접 열어보고, 각 스크립트의 위치와 `RunContext` 속성을 확인하여 위에서 설명한 개념들이 어떻게 적용되었는지 살펴보는 것이 좋습니다.
 *   **주의사항:** 프로젝트를 조직하는 방법은 다양
-
 
 # Roblox Studio: 플레이어에서 개발자로 전환하기
 ## Enyu opens Studio for the first time (feat. Enyu)
@@ -1315,7 +1308,6 @@ Roblox Studio의 모든 Instance는 계층적인 '부모-자식 관계'를 통�
 *   **예시/사례:** 고품질 게임 캐릭터의 의상이 움직임에 따라 자연스럽게 변형되고 주름지는 것은 정교한 케이징 덕분입니다. 반대로 케이징이 부실하면 아무리 고해상도 의상이라도 부자연스럽게 보일 수 있습니다.
 *   **주의사항:** 케이징은 새로운 개발자나 크리에이터에게는 생소하고 다소 번거로운 과정으로 느껴질 수 있습니다. 하지만 3D 모델링, 특히 캐릭터 의상 모델링의 중요한 부분임을 인지하고 충분한 시간과 노력을 투자해야 합니다.
 
-
 # Roblox 2D 클래식 의류 제작 가이드: 초보자를 위한 심층 학습 자료
 
 ## How to create and sell your first classic clothing item on Roblox
@@ -1455,7 +1447,6 @@ Roblox에서 2D 클래식 의류를 제작하고 판매하는 과정은 다음�
 *   **예시/사례:** `my_awesome_shirt.png`와 같이 의미 있는 파일 이름으로 저장합니다.
 *   **주의사항:** 내보내기 옵션에서 이미지 품질이나 압축률을 조절할 수 있습니다. 너무 낮은 품질은 디자인을 손상시킬 수 있으므로 적절한 설정을 유지합니다.
 
-
 # Roblox 마이크로 프로파일러 고급 활용 가이드
 
 ## How to use the Roblox MicroProfiler on mobile
@@ -1582,7 +1573,6 @@ Roblox 마이크로 프로파일러는 개발 머신뿐만 아니라 실제 모�
 *   **타이머 모드 (Timers Mode):** 모든 프로세스를 정렬 가능한 목록으로 보여주는 모드입니다. 특정 프로세스의 총 실행 시간을 빠르게 확인하고 싶을 때 유용합니다.
 *   **서버 프로파일링 (Server Profiling):** 클라이언트 측 성능뿐만 아니라 서버 측 성능도 프로파일링할 수 있습니다. 이는 서버 스크립트의 부하를 진단하는 데 중요합니다.
 *   **메모리 플레임 그래프 (Memory Flame Graphs):** CPU 플레임 그래프와 유사하게, 메모리 할당 패턴
-
 
 # 효과적인 추천 시스템 구현 가이드
 
@@ -1730,7 +1720,6 @@ Roblox 마이크로 프로파일러는 개발 머신뿐만 아니라 실제 모�
     *   **조치:** 어뷰징이 확인된 사용자 계정 정지(Banning), 부당하게 획득한 보상 회수(Nullifying Rewards) 등의 조치를 취합니다.
     *   *참고:* 동일 추천 링크의 다중 사용을 방지하는 방법에 대한 자세한 내용은 원본 영상 설명의 "documentation
 
-
 # Roblox UGC 스토어 커스터마이징 심화 학습 가이드: Danny의 '홈 스토어' 사례 분석
 
 ## Touring PolarCub's Homestore (feat. Temprist)
@@ -1865,7 +1854,6 @@ Roblox 썸네일 개인화 기능은 두 가지 핵심적인 동기에서 출발
 
 *   **핵심 개념:** 속도, 다양성 존중, 자동 적응성.
 *   **왜 중요한가:** 더 빠르고, 더 광범위하며, 더 지속 가능한 방식으로 썸네일 최적화를 가능하게 하여 크리에이터의 효율성을 높이기 때문입니다.
-
 
 # Roblox UGC 홈 스토어 템플릿 활용 가이드
 ## Touring the Roblox UGC Homestore Template with Minty and SCHLEEMPH
@@ -2046,7 +2034,6 @@ Here is the detailed learning resource based on the provided YouTube transcript:
         *   `Armature.blend`: Roblox 표준 15개 뼈대(Bone) 구조를 포함하고 있습니다. 이 뼈대를 의류에 리깅하여 아바타의 움직임에 따라 의류가 변형되도록 합니다.
 *   **예시/사례**: Roblox 공식 문서 웹사이트에서
 
-
 # Roblox 마이크로 프로파일러를 활용한 성능 최적화 가이드
 
 ## How to use the MicroProfiler on Roblox
@@ -2126,7 +2113,6 @@ Here is the detailed learning resource based on the provided YouTube transcript:
     *   **높은 투명도 오버드로(Transparency Overdraw) 방지:** 투명한 오브젝트가 서로 겹쳐져 있을 때, GPU는 겹치는 부분을 여러 번 렌더링해야 하므로 성능 저하가 발생할 수 있습니다. 투명한 파트의 수를 줄이거나, 겹침을 최소화하도록 환경을 수정하는 것이 좋습니다.
     *   **집중적인 계산 분산:** 한 프레임 내에서 너무 많은 계산(예: 복잡한 물리 시뮬레이션, 대규모 데이터 처리)이 이루어지면 프레임 타임 스파이크를 유발합니다. 이러한 계산을 여러 프레임에 걸쳐 분산시키거나, 필요할 때만 실행되도록 최적화해야 합니다. 예를 들어, `RunService.Heartbeat` 대신 `RunService.Stepped`나 `RunService.RenderStepped`를 사용하거나, `task.wait()`를 활용하여 작업을 나누는 방법이 있습니다.
 *   **주의사항:** 각 최적화 방법은 경험의 특성과 문제의 원인에 따라 효과가 다를 수 있습니다. 마이크로 프로파일러를 통해 변경 사항이 실제 성능에 어떤 영향을 미치는지 지속적으로 확인해야
-
 
 # Roblox 3D 아이템 제작 및 판매 심화 학습 가이드: 보물 상자 백팩 만들기
 
@@ -2320,7 +2306,6 @@ Here is the detailed learning resource based on the provided YouTube transcript:
     4.  각 필드에 대한 최신 정보는 `Learn More` 링크나 Roblox 문서를 참조합니다.
     5.  모든 설정이 완료되면 `Publish Item` 버튼을 클릭하여 아이템을 판매 상태로 전환합니다. 대부분의 아이템은 마켓플레이스에 게시할 때 회수 가능한 게시 수수료(recoupable publish fee)가 필요합니다.
 
-
 # Brave Turtles의 Roblox 게임 개발 여정 – Rift Hunters 사례를 중심으로
 
 ## (English) What We Wish We Knew When Developing Rift Hunters by Brave Turtles | Inspire 2024
@@ -2434,7 +2419,6 @@ Here is the detailed learning resource based on the provided YouTube transcript:
     *   **핵심 개념:** "매우 긍정적이어야 한다." 대부분의 프로젝트는 실패하지만, 당신의 실패에 대해 아무도 신경 쓰지 않는다.
     *   **왜 중요한가:** 실패에 대한 두려움은 도전을 막고 성장을 저해합니다.
     *   **심화 설명:** 성공은 1%에 불과하며, 99%는 실패합니다. 당신이 99%에 속하더라도 아무도 신경 쓰지 않으므로, 실패를 두려워하지 말고 긍정적인 태도로 도전하고 배우는 것이 중요합니다. "그냥 해라. 즐겨라. 팀을 만들어라. 안 되면 누가 신경 쓰겠는가?"
-
 
 # 인플루언서를 활용한 Roblox 경험 홍보 전략
 
@@ -2661,7 +2645,6 @@ Here is the detailed learning resource based on the provided YouTube transcript:
     *   계약서에 "프로모션 영상 게시 후 7일 이내에 스크린샷 형태의 통계 보고서를 제공한다"는 조항을 포함하여 데이터 공유를 의무화합니다.
     *   협업 과정에서 크리에이터의 아이디어를 경청하고, 그들의 창의성을 존중하여 더욱 매력적인 콘텐츠가 나올 수 있도록 지원합니다.
 *   **주의사항:** 법률적인 문제에 깊이 관여하지 않더라도, 계약의 기본 원칙과 데이터 공유의 중요성은 반드시 인지해야 합니다. 또한, 크리에이터의 평가나 보상에 대해 불필요한 논쟁을 피하고, 상호 이익에 초점을 맞춰야 합니다.
-
 
 # Roblox Creator Analytics: 경제 및 퍼널 이벤트 심층 분석
 
@@ -2930,7 +2913,6 @@ Roblox 개발 과정에서 동일한 에셋의 다양한 변형이 필요한 경
     *   **단일 에셋 관리:** 모든 변형이 하나의 원본 패키지에서 파생되므로, 관리해야 할 에셋의 수가 현저히 줄어듭니다.
     *   **시간 절약:** 새로운 변형이 필요할 때마다 패키지를 복제하고 수동으로 수정하는 대신, 속성 값만 변경하면 됩니다.
 
-
 # Roblox 패키지 시스템 워크플로우 심층 학습 가이드
 ## Understanding the Roblox Packages Workflow on Roblox
 **URL:** https://www.youtube.com/watch?v=oDQQ5IYZ5Y0
@@ -3061,7 +3043,6 @@ Roblox 패키지 시스템은 에셋의 이전 버전으로 되돌릴 수 있는
     *   **기타:** 애니메이션, 카메라 설정, 물리적 속성 등 재사용 가능한 모든 요소를 패키지화할 수 있습니다.
 *   **예시/사례:** 특정 게임의 UI 테마를 패키지화하여 모든 UI 요소가 동일한 스타일을 따르도록 하거나, 특정 상호작용 스크립트를 패키지화하여 여러 오브젝트에 쉽게 적용할 수 있습니다.
 *   **주의사항:** 3D 에셋이 아닌 스크립트나 UI와 같은 에셋은 폴더로 패키지화해도 문제가 발생하지 않습니다. 이는 이들이 3D 공간에 물리
-
 
 # Roblox 패키지 시스템 완벽 가이드: 효율적인 에셋 관리 및 협업 전략
 
@@ -3199,7 +3180,6 @@ Roblox 패키지 시스템은 에셋 관리 및 개발 워크플로우를 혁신
     *   디자이너가 소파의 색상을 변경하고 싶다면, `Asset Storage File`에서 소파 패키지를 수정하고 `Publish`합니다. 그러면 `Dev Drive`의 메인 `Place File`에 배치된 모든 소파 인스턴스가 자동으로 업데이트됩니다.
 *   **주의사항:**
     *   `Asset Storage File`을 효과적으로 관리하고, 팀원
-
 
 # Luau 네이티브 코드 생성(NCG)을 활용한 성능 최적화 가이드
 ## Increasing Performance with Native Code Generation on Roblox
@@ -3359,7 +3339,6 @@ NCG를 효과적으로 활용하기 위한 몇 가지 중요한 권장 사항은
         *   **이유:** 컴파일러의 한계로 인해 특정 복잡한 표현식은 네이티브 코드로 변환되지 못할 수 있습니다.
     *   **메모리 할당 오류 (Memory allocation error):** `debug.dumpcodesize()` 도구를 사용하여 원인을 식별하고, 네이티브 코드 크기가 큰 함수를 최적화하거나 NCG 적용을 해제합니다.
         *   **이유:** 네
-
 
 # Roblox UGC 아이템 제작 심층 가이드: Polar Cub (Danny)의 여정
 ## Getting Started with UGC (feat. PolarCub)
@@ -3571,7 +3550,6 @@ Roblox는 창작자들이 비전을 현실로 만들 수 있도록 다양한 리
     *   **활발한 커뮤니티 포럼:** 전 세계 Roblox 창작자들이 지식을 공유하고, 질문에 답하며, 최신 업데이트(공지, 이벤트, 학습 자료 등)를 접할 수 있는 공간입니다.
 *   **예시/사례:** `Roblox Studio` 사용법을 배우기 위해 공식 웹사이트의 비디오 튜토리얼을 시청하거나, 특정 스크립팅 문제에 대해 커뮤니티 포럼에 질문을 올리는 경우.
 *   **주의사항:** 제공되는 리소스를 적극적으로 활용하고, 커뮤니티에 참여하여 다른 창작자들과 교류
-
 
 # Roblox 물리 엔진 101: 시뮬레이션 우선 원리 및 활용 가이드
 ## How Physics work on Roblox
@@ -3950,4 +3928,3 @@ Roblox의 모든 파트는 재질(Material)을 가집니다. 이 재질은 파�
     *   **상쇄 효과:** 구체가 경사면을 굴러 내려갈 때, 중력에 의한 토크와 회전 관성에 의한 각가속도가 모두 질량(M)에 비례합니다. 따라서 가속도 방정식을 세우면 양변의 질량 항이 상쇄되어, 최종적인 가속도는 질량과 무관하게 됩니다. 즉, 질량이 다른 두 고체 구체는 동일한 각가속도와 선가속도로 굴러 내려갑니다.
 *   **예시/사례:** 영상에서는 질량이 다른 두 고체 구체가 마찰 경사면을 굴러 내려갈 때, 질량 차이에도 불구하고 동일한 속도로 가속하는 현상을 설명합니다. 이는 대학 수준의 물리학 개념으로, 두 구체가 "고체(solid)"라는 조건과 "동일한 기하학적 형태(same geometry)"라는 조건이 중요합니다.
 *   **주의사항:** 이 원리는 "고체 구체"에만 적용됩니다. 만약 속이 빈 구체(shelled ball)였다면, 회전 관성 모멘트가 달라져 질량에 따라 다른 가속도를 보였을 것입니다.
-

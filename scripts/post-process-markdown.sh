@@ -1,9 +1,9 @@
-#!/bin/sh
+#!/bin/bash
 
 ##########################
 # Markdown 후처리 스크립트 
 ##########################
-find . -type f -name "*.md" | while read -r file; do
+find ../ -type f -name "*.md" | while read -r file; do
   echo "Processing $file..."
   # macOS/BSD sed를 위한 스크립트. 다음 세 가지 작업을 순차적으로 수행합니다.
   # 1. "YouTube 영상 학습 자료: " 라는 줄을 삭제합니다.

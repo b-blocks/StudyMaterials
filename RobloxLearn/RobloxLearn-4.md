@@ -235,7 +235,6 @@
 *   **예시/사례:** 특정 업데이트 후 D1 리텐션이 증가했는지, 새로운 아이템의 판매량이 늘었는지, 특정 콘텐츠의 플레이 시간이 증가했는지 등을 확인합니다.
 *   **주의사항:** 데이터는 단순히 숫자가 아니라
 
-
 # 페이퍼 프로토타이핑: 개념, 장점, 단점 및 실용적 적용
 ## What's paper prototyping for Roblox?
 **URL:** https://www.youtube.com/watch?v=IJSih2t_jso
@@ -304,7 +303,6 @@
 *   **예시/사례**:
     *   **게임**: 종이로 만든 캐릭터가 점프하는 것을 시뮬레이션할 수는 있지만, 실제 게임 엔진에서 구현된 점프의 물리적 느낌이나 타이밍을 정확히 전달하기는 어렵습니다.
     *   **앱**: 종이로 만든 앱 화면에서 스크롤을 시뮬레이션할 수는 있지만, 실제 앱의 부드러운 스크롤링이나 터치 반응 속도를 경험할 수는 없습니다.
-
 
 # Roblox 스튜디오 프로토타이핑: 개념, 장점 및 단점
 ## What's studio prototyping on Roblox?
@@ -391,7 +389,6 @@
 *   **핵심 메커니즘 집중:** 한 번에 모든 것을 만들려 하지 말고, 경험의 가장 중요한 핵심 메커니즘이나 아이디어 하나에 집중하여 프로토타입을 만듭니다.
 *   **코드의 유연성:** 프로토타입 단계에서는 코드를 완벽하게 작성하기보다는, 나중에 쉽게 수정하고 확장할 수 있도록 유연하게 작성하는 것이 중요합니다.
 *   **명확한 목표 설정:** 프로토타입을 통해 무엇을 검증하고 싶은지 명확한 목표를 설정하고, 그 목표 달성에 필요한 최소한의 기능만 구현합니다.
-
 
 # 프로토타이핑: 경험 디자인을 위한 필수 전략
 ## What's prototyping on Roblox?
@@ -498,7 +495,6 @@
     *   웹사이트의 레이아웃을 검증하기 위해 HTML/CSS로 빠르게 구조만 잡고, 실제 콘텐츠는 더미 텍스트를 사용합니다.
 *   **주의사항**:
     *   너무 저비용에만 집중하여 프로토타입이 핵심 기능을 제대로 전달하지 못하거나, 사용자에게 오해를 불러일으킬 수 있는 수준이 되어서는 안 됩니다. '저비용'과 '충분한 정보 전달' 사이의 균형을 찾는 것이 중요합니다.
-
 
 # 게임의 코어 루프 이해
 ## What's a core loop on Roblox?
@@ -724,7 +720,6 @@
     *   맵 곳곳에 숨겨진 보물 상자를 배치하여 탐험의 즐거움을 선사합니다.
 *   **주의사항:** 즐거움의 순간은 플레이어의 노력과 진행 상황이 인정받고 축하받는다는 느낌을 주어야 합니다. 온보딩의 마지막에 이러한 순간을 배치하는 것은 플레이어의 마음에 긍정적인 인
 
-
 # 게임 커뮤니티 활성화 및 창작자 참여 유도 전략
 ## Clip! Empowering Community Creativity with Bluay
 **URL:** https://www.youtube.com/watch?v=MW-QvpIxO4I
@@ -781,7 +776,6 @@
     *   **투명한 소통:** 커뮤니티 아이디어를 어떻게 활용하고 있는지, 어떤 과정을 거쳐 게임에 반영되는지 투명하게 소통해야 합니다.
     *   **기대치 관리:** 모든 아이디어를 수용할 수 없음을 명확히 하고, 선정 기준을 제시하여 플레이어의 기대치를 적절히 관리해야 합니다.
     *   **지
-
 
 # 데이터 기반 학습 콘텐츠 개선 전략
 ## Clip! Analytics for Educational Games with Boatbomber
@@ -855,7 +849,6 @@
 *   **예시/사례:** 영상에서는 "모든 작은 것에 대한 상세하고 심층적인 분석"이 게임 체인저였다고 강조합니다. 이는 콘텐츠의 모든 측면에서 데이터를 수집하고 분석하는 것이 얼마나 중요한지 보여줍니다.
 *   **주의사항:** 모든 데이터를 추적하는 것이 중요하지만, 어떤 데이터가 가장 의미 있는 통찰력을 제공하는지 우선순위를 정하고, 과도한 데이터 수집으로 인한 분석 피로를 피해야 합니다.
 
-
 # 게임 수익화의 투명성과 오류 대응 전략
 ## Clip! Addressing Monetization Mistakes with Shawnyg
 **URL:** https://www.youtube.com/watch?v=yn4V-fBdUm8
@@ -927,7 +920,6 @@
     *   **아이템 지급 로그 확인:** 아이템이 정상적으로 지급되었는지 여부를 확인하고, 누락된 플레이어에게 재지급합니다.
     *   **사용자 행동 패턴 분석:** 오류 발생 전후 플레이어의 행동 패턴 변화를 분석하여 오류의 간접적인 영향을 파악합니다.
 *   **주의사항:** 데이터 수집 및 분석 과정에서 플레이어의 개인 정보 보호 및 데이터 보안에 각별히 유의해야 합니다. 또한, 데이터는 해석하기 나름이므로, 편향되지 않은 객관적인 시각으로 분석하는 것이 중요합니다.
-
 
 # Roblox 접근성 디자인: 포괄적인 게임 개발을 위한 가이드
 ## Designing for Accessibility Q&A with WooleyWool, ControlCoreAngel, & BitwiseAndrea
@@ -1128,7 +1120,6 @@ Roblox Studio 차원에서 개발자들이 접근성을 고려하도록 돕는 �
     *   **모범 사례 링크:** 경고나 질문과 함께 Roblox 개발자 문서의 접근성 모범 사례 링크를 제공하여, 개발자가 문제를 해결할 수 있도록 안내합니다.
 *   **주의사항:** 이러한 기능은 단순히 경고를 넘어, 개발자가 접근성을 게임 디자인의 필수적인 부분으로 인식하도록 교육하고 지원하는 역할을 해야 합니다.
 
-
 # 접근성을 위한 디자인 (Design for Accessibility)
 ## Designing for Accessibility with BitwiseAndrea, WooleyWool, and ControlCoreAngel
 **URL:** https://www.youtube.com/watch?v=K1pEI6LVJJA
@@ -1307,7 +1298,6 @@ Roblox Studio 차원에서 개발자들이 접근성을 고려하도록 돕는 �
     *   **"모든 것을 알 필요는 없다":** 접근성에 대한 모든 것을 처음부터 알 필요는 없지만, 배우고 개선하려는 의지와 플레이어의 목소리에 귀 기울이는 자세가 중요하다.
     *   **지속적인 노력:** 접근성 디자인은 한 번의 노력으로 완성되는 것이 아니라, 지속적인 학습, 테스트, 개선 과정을 통해 발전한다.
 
-
 # Roblox 개발자를 위한 브랜드 파트너십 전략
 ## Clip! Reaching out to Brands with Eybuddys & Bodybreakerabs
 **URL:** https://www.youtube.com/watch?v=3Y4_B5-EHjY
@@ -1385,7 +1375,6 @@ Roblox Studio 차원에서 개발자들이 접근성을 고려하도록 돕는 �
     *   "수십 번의 거절 끝에 [브랜드 C]와의 파트너십에 성공했고, 이 경험을 통해 [브랜드 D]와의 협상에서 훨씬 유리한 위치를 점할 수 있었습니다."
     *   "저희 팀은 시뮬레이션 게임뿐만 아니라 어드벤처, 교육용 게임 등 다양한 장르의 Roblox 경험을 개발해왔습니다. 덕분에 [브랜드 E]가 요구하는 독특한 브리핑에도 빠르게 적응하여 만족스러운 결과물을 제공할 수 있었습니다."
 *   **주의사항:** 단순히 게임을 많이 만드는 것만이 아니라, 각 게임을 통해 어떤 개발 지식과 경험을 얻었는지, 그리고 그것이 미래의 브랜드 파트너십에 어떻게 기여할 수 있는지를 명확히 설명할 수 있어야 합니다.
-
 
 # 모바일 우선 UI/게임 개발 전략
 ## Clip! Mobile-First UI Design with Cindering & UndoneBuilder
@@ -1479,7 +1468,6 @@ Roblox Studio 차원에서 개발자들이 접근성을 고려하도록 돕는 �
     대규모 오픈월드 게임의 경우, 방대한 맵 정보, 수많은 퀘스트, 인벤토리, 스킬 트리 등 다양한 정보를 동시에 관리해야 합니다. 이를 모바일로 포팅할 때는 핵심 정보만 남기고 나머지는 필요할 때만 접근할 수 있도록 UI를 재구성하는 노력이 필요합니다.
 *   **주의사항:** UI/UX 디자인은 한 번에 완성되는 것이 아니라, 사용자 피드백을 바탕으로 지속적으로 개선하고 최적화해야 하는 '진행 중인 도전(ongoing challenge)'입니다.
 
-
 # 게임 사전 출시 홍보 전략: 기대감 조성과 관리
 ## Clip! Marketing New Games on Roblox with KreekCraft & WonderWorksZach
 **URL:** https://www.youtube.com/watch?v=vNKPlYeXj0Q
@@ -1566,7 +1554,6 @@ Roblox Studio 차원에서 개발자들이 접근성을 고려하도록 돕는 �
 *   **예시/사례:**
     *   개발자가 "사람들이 하루 종일 데이터를 파헤치며 정보를 찾고 있다면, 결국 바이럴 마케팅이라고 받아들여야 합니다. 적어도 그들이 화내지 않고 흥분하고 있다면 좋은 신호죠."라고 말하는 경우.
 *   **주의사항:** 모든 유출을 긍정적으로 받아들
-
 
 # 게임 내 모터 접근성 구현 전략
 ## Clip! Motor Accessibility with BitwiseAndrea, WooleyWool, Dspav & ControlCoreAngel
@@ -1737,7 +1724,6 @@ UI/UX 디자이너, 게임 개발자, 웹 개발자, 접근성 개선에 관심 
     *   **WebAIM Contrast Checker:** 가장 널리 사용되는 온라인 WCAG 대비율 계산기 중 하나입니다.
 *   **주의사항:** 도구는 보조적인 역할을 할 뿐, 최종적인 판단은 디자이너와 개발자의 몫입니다. 도구의 결과를 맹신하기보다는, 다양한 상황과 사용자 시
 
-
 # 게임 시각적 접근성 가이드: 개발자를 위한 첫걸음
 ## Clip! Accessibility Starter Pack with WooleyWool & ControlCoreAngel
 **URL:** https://www.youtube.com/watch?v=uumqDp020jk
@@ -1854,7 +1840,6 @@ UI/UX 디자이너, 게임 개발자, 웹 개발자, 접근성 개선에 관심 
     *   **백엔드 개발:** 접근성 데이터를 효율적으로 처리하고 제공할 수 있는 API 설계.
 *   **주의사항:** 접근성 표준(예: WCAG - Web Content Accessibility Guidelines)은 복잡할 수 있으므로, 전문가의 도움을 받거나 관련 교육을 이수하는 것이 중요합니다.
 
-
 # 게임 업데이트 커뮤니케이션 전략과 커뮤니티 관리
 ## Clip! The Importance of Social Media with Ruddev_Ethan and x_o
 **URL:** https://www.youtube.com/watch?v=M6qQtpjQkXs
@@ -1941,7 +1926,6 @@ UI/UX 디자이너, 게임 개발자, 웹 개발자, 접근성 개선에 관심 
     > "one benefit like I mentioned of the consistent content releases is that the community picks up on these patterns and they begin to For Better or Worse sometimes expect content on dates even without them being announced necessarily"
 *   **주의사항:** 커뮤니티의 기대는 양날의 검입니다. 긍정적으로 활용될 수 있지만, 잘못 관리될 경우 개발팀에 큰 부담을 주거나 커뮤니티의 불만을 야기할 수 있습니다.
 
-
 # 레벨 디자인의 흔한 실수와 간과되는 핵심 요소
 ## Clip! Level Design Mistakes on Roblox with Erythia, MiniToon, Skeledonut & Tohb
 **URL:** https://www.youtube.com/watch?v=CmXyiJw5N_Y
@@ -2002,7 +1986,6 @@ UI/UX 디자이너, 게임 개발자, 웹 개발자, 접근성 개선에 관심 
     > "조명은 많은 게임에서 매우 과소평가되고 있습니다. 다이내믹 클라우드, 분위기, 후처리 효과에 이르기까지, 저는 많은 게임에서 이러한 것들이 충분히 활용되지 않는다고 생각합니다."
     이는 레벨 디자이너가 조명과 시각 효과를 단순한 '꾸밈'이 아닌, 레벨 디자인의 필수적인 부분으로 인식하고 적극적으로 활용해야 함을 강조합니다.
 *   **주의사항:** 과도하거나 부적절한 조명 및 시각 효과는 오히려 플레이어의 시야를 방해하거나 혼란을 줄 수 있습니다. 게임의 전반적인 아트 스타일과 일관성을 유지하며
-
 
 # 게임 전환율 극대화 전략
 ## Clip! Increasing Conversion Rates with Erythia
@@ -2072,7 +2055,6 @@ UI/UX 디자이너, 게임 개발자, 웹 개발자, 접근성 개선에 관심 
     *   영상에서 "otherwise you're not going to see you know converting users if they don't even have that much Robux or they'd spend it you know in other places instead of your game" 라고 언급했듯이, 플레이어가 게임 내에서 결제할 수 있는 옵션이 없다면, 그들은 다른 게임이나 다른 곳에 돈을 쓰게 될 것입니다.
 *   **주의사항:**
     *   무료 플레이어와 유료 플레이어 간의 격차가 너무 커지지 않도록 밸런스를 잘 맞춰야 합니다. 과도한 Pay-to-Win 요소는 무료 플레이어의 이탈을 가속화할 수 있습니다.
-
 
 # 모바일 UI/UX 레벨업 라운드테이블: 심층 학습 가이드
 ## Mobile UI/UX for Roblox Q&A with Cindering and UndoneBuilder
@@ -2214,7 +2196,6 @@ UI/UX 디자이너, 게임 개발자, 웹 개발자, 접근성 개선에 관심 
     *   리더보드와 같이 많은 정보를 담는 UI는 화면에 직접 표시하기보다, 게임 세계 내의 물리적인 패널에 배치하여 플레이어가 카메라를 이용해 확대/축소하며 볼 수 있도록 합니다.
     *   설정 메뉴를 여러 탭(예: '그래픽', '사운드', '컨트롤')으로 나누어 한 화면에 표시되는 정보의 양을 줄입니다.
 *   **주의사항:** 화면 공간이 제한적일수록 UI 디자인은 더욱 간결하고 명확해야 합니다. 불필요한 요소는 제거하고, 핵심 정보와 기능에 집중해야 합니다.
-
 
 # Roblox 경험을 위한 모바일 UI/UX 레벨업 라운드테이블: 상세 학습 자료
 ## Mobile UI/UX for Roblox with Cindering and UndoneBuilder
@@ -2360,7 +2341,6 @@ UI/UX 디자이너, 게임 개발자, 웹 개발자, 접근성 개선에 관심 
     *   **Nathan의 비숙련자 테스트:** Nathan은 자신의 어머니에게 게임을 플레이하게 하여, 모바일 게임에 익숙하지 않은 사용자가 어디서 어려움을 겪는지 파악했습니다.
     *   **배지를 통한 클릭률 분석 (Nathan):** Nathan은 특정 '홈 버튼'에 배지를 연결하여, 해당 버튼을 클릭한 플레이어의 비율(10% 미만)을 파악하고 UI 개선의 필요성을 인지했습니다.
     *   **House Editor의 지속적인 개선 (Cindering):** Cindering의 House Editor는 수년간의 반복적인 개선을 통해 현재의 높은 완성도에 도달했습니다. 이는 UI/UX가 지속적인 과정임을 보여주는 좋은 예시입니다.
-
 
 # 반응형 UI 디자인: 다양한 화면 크기에 대응하는 UI 스케일링 및 형태 유지 전략
 ## Clip! Implementing Scalable UI with Cindering
@@ -2555,7 +2535,6 @@ UI 제약 조건(Constraints)은 UI 요소의 배치와 크기 조절을 자동�
 4.  **모바일 최적화 테스트:** `디바이스 시뮬레이터`를 사용하여 본인이 만든 UI가 모바일 환경에서 텍스트 가독성과 버튼 클릭 용이성을 확보하는지 점검하고, 필요하다면 폰트 크기나 버튼 크기를 조정하여 개선해보세요.
 5.  **레이아웃 제약 조건 활용:** `UI Grid Layout`이나 `UI List Layout`을 사용하여 여러 개의 UI 요소를 자동으로 배치하는 연습을 해보세요. 예를 들어, 9개의 아이템 슬롯을 가진 인벤토리 UI를 `UI Grid Layout`으로 구현해보는 것이 좋습니다.
 
-
 # 유니버설 UI 디자인: 효율적인 크로스-디바이스 개발 전략
 ## Clip! Universal UI with UndoneBuilder
 **URL:** https://www.youtube.com/watch?v=zDU4QNJTFJ0
@@ -2689,7 +2668,6 @@ UI 제약 조건(Constraints)은 UI 요소의 배치와 크기 조절을 자동�
 #### 주의사항: 초기 학습 곡선
 유니버설 UI를 효과적으로 구현하기 위해서는 반응형 디자인, CSS 프레임워크, 크로스-플랫폼 개발 도구 등에 대한 초기
 
-
 # Roblox 게임의 유기적 성장 전략: 광고를 넘어선 플레이어 참여의 힘
 ## Clip! Building an Audience on Roblox with Jandel & Foryxe
 **URL:** https://www.youtube.com/watch?v=91UcqDk115s
@@ -2729,7 +2707,6 @@ UI 제약 조건(Constraints)은 UI 요소의 배치와 크기 조절을 자동�
     > "Wacky Wizards의 경우, 게임에 대한 노출을 얻고 플레이어를 유입시키기 위해 약간의 광고를 했습니다. 그 이후에는 더 이상 광고를 하지 않았습니다."
 *   **예시/사례:** "Wacky Wizards"는 초기 광고를 통해 일정 수의 플레이어를 확보했고, 이 플레이어들이 게임의 높은 참여도와 재미를 입증하면서 Roblox 알고리즘이 게임을 더 많은 사용자에게 추천하기 시작했습니다. 이로 인해 광고 없이도 플레이어가 자연스럽게 증가하는 **성장 모멘텀(Growth Momentum)**이 형성되었습니다.
 *   **주의사항:** 초기 광고는 게임의 품질이 어느 정도 보장된 상태에서 진행되어야 합니다. 재미없는 게임에 광고를 하는 것은 밑 빠진 독에 물 붓기와 같으며, 오히려 부정적인 인식을 심어줄 수 있습니다.
-
 
 # Roblox 경험 수익화 전략: 심층 분석
 ## Monetizing a Roblox Experience Q&A with MrFergie, Shawnyg and Erythia
@@ -3112,7 +3089,6 @@ I will now proceed to generate the content based on the transcript and the given
     *   할인 판매는 신중하게 계획하고 실행해야 합니다. 예측 가능한 주기는 피하고, 게임의 전반적인 수익화 상태를 고려해야 합니다.
     *   할인율과 기간을 적절히 조절하여 플레이어의 구매 심리를 자극하되, 게임 경제의 안정성을 해
 
-
 # 인게임 및 이벤트 통화 전략을 통한 플레이어 참여 및 수익화 극대화
 ## Clip! In-Game Currencies with Mrfergie, Shawnyg, Erythia & Dspav
 **URL:** https://www.youtube.com/watch?v=okAygI1sxsA
@@ -3174,7 +3150,6 @@ I will now proceed to generate the content based on the transcript and the given
 *   **심화 설명:** "이 티어를 구매하면 10% 더 드려요"와 같은 문구는 플레이어에게 '무료 보너스'를 받는다는 인상을 주어 구매를 유도합니다. 또한, Robux(유료 통화) 1단위당 얻을 수 있는 인게임 통화의 양을 각 번들별로 명시적으로 보여줌으로써, 플레이어는 큰 번들을 구매할수록 더 높은 효율을 얻는다는 것을 직관적으로 이해할 수 있습니다.
 *   **예시/사례:** 인게임 통화 상점에서 가장 큰 번들에 "BEST VALUE" 태그를 붙이고, "Robux당 214달러"에서 시작하여 가장 큰 번들에서는 "Robux당 571달러"로 효율이 증가하는 것을 보여주는 방식입니다. 이는 플레이어가 더 많은 돈을 지불할수록 더 큰 이득을 얻는다는 것을 시각적으로 강조합니다.
 *   **주의사항:** 이러한 가치 제안은 투명하고 정직해야 합니다. 과장되거나 오해의 소지가 있는 정보는 플레이어의 신뢰
-
 
 # 게임 개발의 윤리적 수익화 전략
 ## Clip! Designing Fair Loot Boxes with Erythia and Dspav
@@ -3273,7 +3248,6 @@ I will now proceed to generate the content based on the transcript and the given
         플레이어 친화적인 수익화 정책으로 호평을 받는 게임사들이 장기적으로 성공하는 사례.
     *
 
-
 # 라이브 서비스 게임의 지속 가능한 콘텐츠 전략: 파워 크립과 콘텐츠 희석 방지
 ## Clip! Content LiveOps on Roblox with Ruddev_Ethan and x_o
 **URL:** https://www.youtube.com/watch?v=bEEd75mnBIg
@@ -3346,7 +3320,6 @@ I will now proceed to generate the content based on the transcript and the given
 *   **예시/사례:** 영상에서 언급된 것처럼, 총기, 부착물, 맵, 의상 등 다양한 콘텐츠를 제공함으로써 플레이어들이 항상 새로운 것을 기대하고 즐길 수 있게 됩니다.
 *   **주의사항:** 단순히 콘텐츠의 양만 늘리는 것이 아니라, 각 콘텐츠의 품질과 고유한 가치를 유지하는 것이 중요합니다.
 
-
 # 게임 내 콘텐츠 크리에이터 도구의 중요성
 ## Clip! Making Streamer Friendly Games
 **URL:** https://www.youtube.com/watch?v=oMyAQ67is0U
@@ -3406,7 +3379,6 @@ I will now proceed to generate the content based on the transcript and the given
     *   **Among Us의 스트리머 모드:** 게임 내에서 플레이어 이름 대신 색깔로 표시되도록 하여, 스트림 스나이핑을 방지하고 방송의 재미를 유지하는 데 기여했습니다.
     *   **Minecraft 서버의 관리자 기능:** 서버 관리자는 특정 플레이어를 추방하거나 밴(ban)할 수 있으며, 화이트리스트를 설정하여 특정 유저만 접속하도록 제한할 수 있습니다. 이는 스트리머가 자신의 서버를 운영할 때 매우 유용합니다.
 *   **주의사항:** 플레이어 추방이나 화이트리스트 기능은 스트리머에게 강력한 권한을 부여하므로, 남용되지 않도록 명확한 가이드라인과 함께 제공되어야 합니다. 또한, 이러한 기능이 게임의 일반적인 플레이어 경험을 저해하지 않도록 신중하게 설계되어야 합니다.
-
 
 # Roblox: 성인 플레이어를 위한 게임 디자인 전략 심층 분석
 ## Designing for Older Players Q&A with Bluay, MidnightKrystal, Looty_Haga, cbmaximillian & 101airsoft
@@ -3545,7 +3517,6 @@ Unity나 Unreal과 같은 전문 게임 엔진이 있음에도 불구하고, Rob
     *   시즌 패스는 플레이어에게 지속적인 목표를 제공하여 게임에 대한 몰입도를 높이는 좋은 예시입니다.
 *   **주의사항**: 너무 잦은 업데이트의 부작용 (bloat), 밸런스 문제
     *   잦은 업데이트는 게임의 복잡성을 증가시키고, 신규 사용자의 진입 장벽을 높일 수 있습니다.
-
 
 # 13세 이상 플레이어를 위한 디자인 경험
 ## Designing for Older Players with Bluay, MidnightKrystal, Looty_Haga, cbmaximillian, & 101airsoft
@@ -3746,7 +3717,6 @@ Unity나 Unreal과 같은 전문 게임 엔진이 있음에도 불구하고, Rob
         *   '소수의 목소리(vocal minority)'는 실제 대다수 플레이어의 의견을 대변하지 않을 수 있으므로, 이를 분별하는 능력이 중요합니다.
     *   **연령대별 상호작용:** '아스날(Arsenal)'과 같은 게임에서 나이 든 플레이어는 주로 침묵하거나 이모트(emote)를 사용하여 어린 플레이어를 놀리는 경향이 있습니다.
 
-
 # 숙련된 플레이어를 위한 게임 디자인 전략
 ## Clip! Avoiding "Pay to Win" with Bluay and MidnightKrystal
 **URL:** https://www.youtube.com/watch?v=2kUFhwfuZ-w
@@ -3803,7 +3773,6 @@ P2W은 명확한 형태 외에도 `Pay-to-Progress` (진행 가속), `Pay-for-Co
 
 #### 주의사항: 적절한 발견 유도와 피드백
 'Shadow Mechanics'가 너무 숨겨져 있거나 불투명하면 플레이어가 이를 발견하지 못하고 게임의 깊이를 경험하지 못할 수 있습니다. 따라서 게임은 플레이어가 이러한 메커니즘을 탐구하도록 유도하는 미묘한 힌트, 피드백, 그리고 실험의 기회를 제공해야 합니다. 예를 들어, 특정 행동에 대한 예상치 못한 보상이나, 다른 플레이어의 고급 플레이를 관찰할 수 있는 기회 등이 될 수 있습니다.
-
 
 # 성인 대상 게임 디자인 전략 - Roblox 사례를 중심으로
 ## Clip! Thinking Like an Older Player with Looty_Haga
@@ -3884,7 +3853,6 @@ P2W은 명확한 형태 외에도 `Pay-to-Progress` (진행 가속), `Pay-for-Co
     > "시뮬레이터 게임이 상위 10위권에 진입했다가 시간이 지나면서 사라지는 것을 자주 봅니다. 이는 초기에는 쉽게 시작할 수 있고 시행착오를 통해 빠르게 루프에 진입할 수 있기 때문에 성공적이지만, 나이가 많은 플레이어들은 표면적인 수준을 넘어 '다음 단계의 복잡성은 무엇인가', '이것을 마스터할 다음 방법은 무엇인가'를 찾기 시작합니다."
     성공적인 시뮬레이터 게임은 이러한 플레이어의 요구를 충족시키기 위해 깊이 있는 메타 시스템, 전략적 의사결정, 그리고 지속적인 학습과 개선의 기회를 제공합니다.
 *   **주의사항:** 시뮬레이터 게임을 개발할 때는 초기 진입 장벽을 낮추는 동시에, 장기적인 플레이어 유지를 위한 깊이 있는 시스템과 마스터리 요소를 반드시 고려해야 합니다. 단순히 반복적인 행동만으로는 성인 플레이어를 만족시킬 수 없습니다.
-
 
 # 게임 내 진행(Progression) 시스템 설계의 이해
 ## Clip! Player Goals in Dragon Blade ft. FriendlyStoneGolem
@@ -3993,7 +3961,6 @@ P2W은 명확한 형태 외에도 `Pay-to-Progress` (진행 가속), `Pay-for-Co
 *   **예시/사례:** 플레이어는 "황금 전투 도끼"와 같은 특정 장비를 목표로 삼거나, "탈것 컬렉션"을 만드는 것을 목표로 삼을 수 있습니다. "여분의 탈것을 판매하여 메인 진행 경로에 필요한 코인을 얻을 수도 있습니다."
 *   **주의사항:** 컬렉션 요소가 너무 많거나 얻기 어려우면 플레이어에게 부담을 줄 수 있습니다.
 
-
 # 효과적인 게임 진행 시스템 설계 전략
 ## Clip! Player Goals in Phantom Forces ft. litozinnamon
 **URL:** https://www.youtube.com/watch?v=VKsbd4hadpk
@@ -4072,7 +4039,6 @@ P2W은 명확한 형태 외에도 `Pay-to-Progress` (진행 가속), `Pay-for-Co
 *   **심화 설명:** 플레이어가 게임 중 멋진 킬을 당했을 때, 상대방이 사용한 무기를 확인하고 '나도 저 무기를 갖고 싶다'는 생각을 하게 되는 것이 대표적인 예시입니다. 이는 게임이 의도적으로 설계한 광고가 아니라, 플레이어 간의 자연스러운 상호작용에서 발생하는 '사회적 광고(Social Advertising)' 효과입니다. 이러한 현상은 성공적인 대부분의 게임에서 관찰됩니다.
 *   **예시/사례:** "게임을 하다가 멋진 킬을 당했을 때, 상대방이 어떤 무기를 가지고 있는지 보게 됩니다. 이런 식으로 플레이어들은 서로에게 어떤 목표를 가져야 할지 광고하기 시작합니다."
 *   **주의사항:** 이러한 소셜 광고 효과는 모네타이제이션(Monetization) 시스템과도 연계될 수 있습니다. 일부 플레이어는 진행 과정을 건너뛰고 원하는 무기를 바로 구매하고 싶어 할 수 있습니다. 이때, 플레이어에게 과금이라는 선택지를 제공하되, 과도한 강요 없이 자연스러운 선택으로 유도하는 균형 잡힌 접근이 필요합니다.
-
 
 # 게임 진행 시스템의 이해와 설계
 ## Clip! Progression in Sonic Speed Simulator with Dademaiolo

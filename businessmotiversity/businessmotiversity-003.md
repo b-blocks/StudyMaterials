@@ -84,7 +84,6 @@
 ## 102. make it happen - best motivational hopecore speeches
 **URL:** https://www.youtube.com/watch?v=aCb3kxko18A    (
 
-
 ## 📚 불확실성 속에서 기회를 포착하는 법: 행동하는 기업가의 마인드셋
 
 ### 1. 도입부 (Introduction)
@@ -182,7 +181,6 @@
 
 ## 103. RICH VS POOR MINDSET | An Eye Opening Interview with Wallstreet Trapper [Extended Version]
 **URL:** https://www.youtube.com/watch?v=WUlpO5t6Cy4    (
-
 
 ## 📚 부의 본질: 소유와 마인드셋 전환을 통한 부의 축적
 
@@ -296,7 +294,6 @@
 ## 104. GET RICH IN 2024 | What I'd Do To Become A Millionaire in 2024
 **URL:** https://www.youtube.com/watch?v=y_OcvHaCJ08    (
 
-
 # 성공을 위한 마인드셋: 부의 축적과 성장을 위한 실천 전략
 
 ## 📚 1. 도입부 (Introduction)
@@ -396,7 +393,6 @@
 
 ## 105. YOU'VE BEEN TRAINED TO BE BROKE!! | Wallstreet Trapper and Jaspreet Singh POWERFUL Business Advice
 **URL:** https://www.youtube.com/watch?v=rIOry7glWAA    (
-
 
 ## 📚 돈의 본질을 이해하고 부를 창조하는 지혜
 
@@ -499,7 +495,6 @@
 
 ## 106. GET RICH OR DIE TRYING | Powerful Motivational Compilation (2-Hour Motivation)
 **URL:** https://www.youtube.com/watch?v=Pw6bOO2ROVU    (
-
 
 ## 📚 성공을 향한 열정: 기업가 정신, 부의 축적, 그리고 미래를 위한 준비
 
@@ -663,7 +658,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 109. The TRUTH About SUCCESS - Robert Greene's Powerful Advice
 **URL:** https://www.youtube.com/watch?v=PzUNBObC26M    (
 
-
 ## 📚 내면의 나침반: 진정한 Mastery를 향한 여정
 
 ### 1. 도입부 (Introduction)
@@ -757,7 +751,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 
 ## 110. get disciplined - motivational speech
 **URL:** https://www.youtube.com/watch?v=8DqLWH2SUj0    (
-
 
 ## 📚 내 삶의 주인이 되는 법: 동기 부여, 성장, 그리고 성공을 위한 마인드셋
 
@@ -867,7 +860,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 111. You've Been TRAINED TO BE BROKE | "I Did This and Got Rich!" - Powerful Business Advice
 **URL:** https://www.youtube.com/watch?v=hXicOTrjz4g    (
 
-
 ## 💡 부의 사슬을 끊고 자유를 쟁취하는 기업가 정신
 
 ### 1. 도입부 (Introduction)
@@ -966,7 +958,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 
 ## 112. Billionaire Lifestyle Motivation 2024
 **URL:** https://www.youtube.com/watch?v=q-uYcHDGdoQ    (
-
 
 ## 📚 변화에 적응하고 부를 창출하는 삶의 지혜: 불확실성 시대의 성공 전략
 
@@ -1092,7 +1083,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 113. get to work - motivational speech compilation
 **URL:** https://www.youtube.com/watch?v=vuj2ZaV6Vnw    (
 
-
 ## 📚 성공을 위한 내면의 힘: 역경을 기회로 바꾸는 법
 
 ### 1. 도입부 (Introduction)
@@ -1195,7 +1185,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 114. "We Will Be In A Global Depression by 2025" - Their FINAL Warning
 **URL:** https://www.youtube.com/watch?v=Wjc9BlpQl6w    (
 
-
 ## 📚 불안정한 시대, 현명한 투자와 자산 보호 전략
 
 ### 1. 도입부 (Introduction)
@@ -1279,7 +1268,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 
 ## 115. 5 Lessons I Learned From Women CEO's  | Best Motivational Advice 2024
 **URL:** https://www.youtube.com/watch?v=2UIihq-jFwk    (
-
 
 ## 📚 꿈을 현실로 만드는 5가지 지혜: 성공한 여성 기업가들에게 배우는 삶의 기술
 
@@ -1386,7 +1374,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 
 ## 116. YOU'VE BEEN TRAINED TO BE BROKE! | Brutally Honest Business Compilation
 **URL:** https://www.youtube.com/watch?v=bejkAkT5HIE    (
-
 
 제공해주신 가이드라인과 YouTube 영상 자막 내용을 바탕으로, 출판 가능한 수준의 체계적인 학습서 초안을 작성했습니다.
 
@@ -1514,7 +1501,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 117. BILLIONAIRE MINDSET  | Powerful Motivational Video For SUCCESS in 2024
 **URL:** https://www.youtube.com/watch?v=gvmpk-uiS5U    (
 
-
 ## 📚 부의 비밀: 내면의 프로그래밍을 재설계하라
 
 ### 1. 도입부 (Introduction)
@@ -1613,7 +1599,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 118. no more average - motivational speech
 **URL:** https://www.youtube.com/watch?v=diB4jeZibo8    (
 
-
 ## 📚 두려움을 넘어 탁월함으로: 평범함을 거부하는 삶의 기술
 
 ### 1. 도입부 (Introduction)
@@ -1702,7 +1687,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 119. You've Been Trained to Be Broke! | "I Did This And Got RICH!" - Noah Kagan
 **URL:** https://www.youtube.com/watch?v=uNFh_KYWeLo    (
 
-
 ## 📚 일상 속 기회 포착: 당신 안의 기업가 정신을 깨우다
 
 ### 1. 도입부 (Introduction)
@@ -1789,7 +1773,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 
 ## 120. Warren Buffets Inspiring Speech (MUST WATCH)
 **URL:** https://www.youtube.com/watch?v=iXjnHAgdcxM    (
-
 
 ## 📚 워렌 버핏에게 배우는 비즈니스의 인간적인 면: 성공을 위한 관계와 열정
 
@@ -1902,7 +1885,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 121. 1% MENTALITY - Motivational Video For SUCCESS in 2024
 **URL:** https://www.youtube.com/watch?v=yKXJOdaEPiY    (
 
-
 # 허슬러 마인드셋: 평범함을 넘어선 비범한 성취의 비밀
 
 ## 📚 책의 기본 구조
@@ -2009,7 +1991,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 122. Why This Elon Musk Post Might Ruin X Forever
 **URL:** https://www.youtube.com/watch?v=optsLe_Z7N8    (
 
-
 ## 📚 일론 머스크와 X(트위터)의 광고주 이탈 사태: 플랫폼 비즈니스의 위기와 전략
 
 ### 1. 도입부 (Introduction)
@@ -2096,7 +2077,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 
 ## 123. time to hustle - motivational speech
 **URL:** https://www.youtube.com/watch?v=ayKl-8CFYqQ    (
-
 
 ## 📚 역경을 딛고 일어서는 삶: 성공을 위한 회복탄력성과 실행력
 
@@ -2211,7 +2191,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 124. 10 Minutes for the next 10 Years | POWERFUL Motivational Speeches to Start 2024 RIGHT
 **URL:** https://www.youtube.com/watch?v=Ormc3lQwOKw    (
 
-
 ## 📚 성공적인 삶을 위한 나만의 길 찾기: 목적, 열정, 그리고 성장의 물리학
 
 ### 1. 도입부 (Introduction)
@@ -2298,7 +2277,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 
 ## 125. MAFIA MENTALITY | Greatest Motivational Compilation for Success
 **URL:** https://www.youtube.com/watch?v=Af2dzGf0CGM    (
-
 
 # 📚 비즈니스와 삶의 지혜: 비범한 경험에서 배우는 협상과 인간관계의 기술
 
@@ -2411,7 +2389,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 126. GET RICH IN 2024 | Powerful Motivational Speech Compilation
 **URL:** https://www.youtube.com/watch?v=SJUZaaCK8HM    (
 
-
 # 성공과 행복을 위한 현대인의 지혜: 마인드셋, 노력, 그리고 미래
 
 ## 📚 책의 기본 구조
@@ -2517,7 +2494,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 
 ## 127. Charlie Munger: My Greatest Lessons for You
 **URL:** https://www.youtube.com/watch?v=qzF6uw7TyfI    (
-
 
 ## 📚 찰리 멍거의 지혜: 성공적인 투자와 행복한 삶을 위한 네 가지 통찰
 
@@ -2661,7 +2637,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 128. You Won't Believe This CEO Advice: Powerful Motivation Compilation 2023
 **URL:** https://www.youtube.com/watch?v=-6FUKkczhII    (
 
-
 ## 📚 부의 사고방식: 성공적인 삶을 위한 재정적 지혜와 기업가 정신
 
 ### 1. 도입부 (Introduction)
@@ -2799,7 +2774,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 130. STOP WASTING TIME - Grant Cardone Powerful Motivational Speech
 **URL:** https://www.youtube.com/watch?v=qtGHpJjG4aY    (
 
-
 ## 📚 돈을 넘어선 부: 성공적인 삶을 위한 투자와 관계의 지혜
 
 ### 1. 도입부 (Introduction)
@@ -2906,7 +2880,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 
 ## 131. You've Been Trained to Be Broke | Powerful Robert Kiyosaki Compilation
 **URL:** https://www.youtube.com/watch?v=M0I41ldP9Pc    (
-
 
 ## 📚 부자 아빠의 비밀: 경제적 자유를 위한 4가지 핵심 레슨
 
@@ -3068,7 +3041,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 132. RICH VS POOR MINDSET | Robert Kiyosaki's Tips to Get Rich
 **URL:** https://www.youtube.com/watch?v=k3Q4EAklyCI    (
 
-
 ## 📚 진정한 스승은 어디에 있는가: 유튜브와 기업가 정신으로 배우는 부의 지혜
 
 ### 1. 도입부 (Introduction)
@@ -3177,7 +3149,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 133. ENTREPRENEUR MINDSET - Powerful Motivational Speeches for Business and Entrepreneurs
 **URL:** https://www.youtube.com/watch?v=8fB-N_39XMI    (
 
-
 ## 📚 성공을 위한 사고방식: 돈, 기술, 그리고 당신의 잠재력
 
 ### 1. 도입부 (Introduction)
@@ -3278,7 +3249,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 134. ADAPT AND OVERCOME | Powerful Entrepreneur Motivation (Featuring Marcus A. Taylor)
 **URL:** https://www.youtube.com/watch?v=gy2xnsjaFR8    (
 
-
 # 변화와 적응: 미래를 만드는 힘
 
 ## 📚 책의 기본 구조
@@ -3374,7 +3344,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 
 ## 135. YOU'VE BEEN TRAINED TO BE BROKE | Wallstreet Trapper and Jaspreet Singh
 **URL:** https://www.youtube.com/watch?v=PrTvq7RPNHU    (
-
 
 # 부의 게임: 돈의 흐름을 읽고 시스템을 활용하는 법
 
@@ -3529,7 +3498,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 136. SEIZE THE OPPORTUNITY |  Powerful Motivational Speech (featuring Walter Bond)
 **URL:** https://www.youtube.com/watch?v=C1d-RxL-9WU    (
 
-
 ## 📚 성공을 위한 유연한 사고와 자기 계발: 잠재력을 현실로 만드는 방법
 
 ### 1. 도입부 (Introduction)
@@ -3629,7 +3597,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 
 ## 137. 5 Skills You NEED to Know to Become a Millionaire (MUST WATCH)
 **URL:** https://www.youtube.com/watch?v=cNMtf2Cgzmk    (
-
 
 ## 📚 백만장자의 성공 습관: 부를 창조하는 5가지 핵심 역량
 
@@ -3801,7 +3768,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 138. GET RICH MENTALITY - Powerful Business Compilation
 **URL:** https://www.youtube.com/watch?v=NPZ_nAp8mTM    (
 
-
 ## 📚 성공을 위한 불굴의 정신: 잠재력을 깨우는 행동 전략
 
 ### 1. 도입부 (Introduction)
@@ -3922,7 +3888,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 139. What it Takes To Be Successful - Ultimate Advice for Young People & Entrepreneurs
 **URL:** https://www.youtube.com/watch?v=RWQGvcSLxeo    (
 
-
 ## 📚 역경을 기회로 바꾸는 성공 마인드셋: 부의 본질과 행동 전략
 
 ### 1. 도입부 (Introduction)
@@ -4023,7 +3988,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 140. You've Been TRAINED to Be Broke! - Blaine Bartlett & Ken Honda
 **URL:** https://www.youtube.com/watch?v=J-4OlXwK0qo    (
 
-
 ## 📚 돈, 그 이상의 의미: 에너지, 흐름, 그리고 삶의 목적
 
 ### 1. 도입부 (Introduction)
@@ -4110,7 +4074,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 141. RICH VS POOR MINDSET| Powerful Business Compilation
 **URL:** https://www.youtube.com/watch?v=EskkOkCDxXk    (
 
-
 ## 📚 성공을 위한 기업가 정신: 회복탄력성과 재정적 통찰력 기르기
 
 ### 1. 도입부 (Introduction)
@@ -4196,7 +4159,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 
 ## 142. The INSANE Reason Jeff Bezos is so Rich
 **URL:** https://www.youtube.com/watch?v=halJbtIWUpg    (
-
 
 ## 📚 제1장: 제프 베이조스와 아마존: e-커머스의 탄생과 고객 중심 혁신
 
@@ -4309,7 +4271,6 @@ o 인류에 영향을 미치므로 AI의 출현이 매우 중요합니다. uh �
 ## 143. Think Like A Shark and Get Rich: Barbara Cocoran
 **URL:** https://www.youtube.com/watch?v=mSsjNtA1oAM    (
 
-
 ## 📚 열정 너머의 기업가 정신: 끈기와 회복력으로 성공을 쟁취하라
 
 ### 1. 도입부 (Introduction)
@@ -4389,7 +4350,6 @@ shop.motiversity.com 불을 지펴 스타일을 높이세요 제가 14년 동안
 
 ## 144. Robert Kiyosaki: How to Get Rich in 2023
 **URL:** https://www.youtube.com/watch?v=VInRSCHgtDk    (
-
 
 ## 📚 부자 아빠의 지혜: 로버트 기요사키에게 배우는 부의 비밀
 
@@ -4521,5 +4481,3 @@ shop.motiversity.com 불을 지펴 스타일을 높이세요 제가 14년 동안
 
 ## 146. NO EXCUSE, GET TO WORK - Motivational Speech Compilations 2023
 **URL:** https://www.youtube.com/watch?v=Qwmn0FKlFdI    (
-
-

@@ -91,7 +91,6 @@
 ## 147. You've Been Trained to be BROKE! | I Did This & Got Rich - Bob Proctor
 **URL:** https://www.youtube.com/watch?v=dEjaj5clBl8    (
 
-
 ## 📚 생각의 힘: 성공을 이끄는 마음의 법칙
 
 ### 1. 도입부 (Introduction)
@@ -192,7 +191,6 @@
 ## 148. SACRIFICE = SUCCESS! POWERFUL Motivational Speech
 **URL:** https://www.youtube.com/watch?v=b3Zig0374UQ    (
 
-
 ## 📚 성공을 위한 희생: 불편함을 기꺼이 감수하는 용기
 
 ### 1. 도입부 (Introduction)
@@ -289,7 +287,6 @@
 
 ## 149. DO IT FOR YOU | Powerful Motivational Speeches of 2023
 **URL:** https://www.youtube.com/watch?v=A3nfDTNO_ps    (
-
 
 ## 📚 인생의 주도권을 잡는 법: 책임, 열정, 그리고 지속 가능한 성공
 
@@ -393,7 +390,6 @@
 
 ## 150. Dave Ramsey: You Only Need These 5 Lessons To Be Successful
 **URL:** https://www.youtube.com/watch?v=KBaY9bwkyKc    (
-
 
 ## 📚 부의 기초를 다지는 지혜: 데이브 램지의 5가지 핵심 재정 원칙
 
@@ -613,7 +609,6 @@
 ## 151. INVEST IN YOUR FUTURE - Learn to Invest like Kevin O'Leary in less then 10 minutes
 **URL:** https://www.youtube.com/watch?v=sk9Nkw13b-U    (
 
-
 ## 📚 성공을 위한 세 가지 핵심 기둥: 기업가 정신, 현명한 재정 관리, 그리고 직관
 
 ### 1. 도입부 (Introduction)
@@ -725,7 +720,6 @@
 
 ## 152. 10 Minutes for the next 10 years - POWERFUL Motivational Speeches (MUST WATCH)
 **URL:** https://www.youtube.com/watch?v=Svw-oXtXO-c    (
-
 
 ## 📚 성공을 위한 마인드셋: 부의 비밀과 꾸준함의 힘
 
@@ -847,7 +841,6 @@
 ## 153. NO EXCUSES | Powerful Motivational Speeches | Listen Everyday
 **URL:** https://www.youtube.com/watch?v=fTmuxfXhGlI    (
 
-
 ## 📚 성공을 위한 내면의 엔진: 허슬러 정신과 승리자의 태도
 
 ### 1. 도입부 (Introduction)
@@ -949,7 +942,6 @@ s Vuitton lvmh 세계에서 세 번째로 부유한 사람 Louis Vuitton olds Lo
 
 ## 155. Gary Vee: The Greatest Advice You'll Ever Receive
 **URL:** https://www.youtube.com/watch?v=mGu9tQMjaLA    (
-
 
 ## 📚 돈이 전부가 아니다: 진정한 성공을 위한 비즈니스 지혜
 
@@ -1115,7 +1107,6 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 ## 156. Beginner's Guide to Real Estate Investment (MUST WATCH)
 **URL:** https://www.youtube.com/watch?v=iliaqB0adn0    (
 
-
 ## 📚 로버트 기요사키의 지혜: 초보자를 위한 부동산 투자 성공 전략
 
 ### 1. 도입부 (Introduction)
@@ -1203,7 +1194,6 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 
 ## 157. WHAT'S HOLDING YOU BACK? - Powerful Motivational Speech (Cole The Wolf DaSilva)
 **URL:** https://www.youtube.com/watch?v=4_xjBMyDmC0    (
-
 
 # 성공을 위한 자기 혁명: 변명을 멈추고 행동하라
 
@@ -1310,7 +1300,6 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 ## 158. Ray Dalio's WARNING and How To Prepare for the Upcoming Recession
 **URL:** https://www.youtube.com/watch?v=gOFfZM8zjfc    (
 
-
 # 금융 위기 시대, 나의 자산을 지키는 현명한 전략
 
 ## 1. 도입부 (Introduction)
@@ -1415,7 +1404,6 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 
 ## 159. Zig Ziglar: How to Get Rich in 2023
 **URL:** https://www.youtube.com/watch?v=GLZo-AIsXPc    (
-
 
 ## 📚 성공을 위한 내면의 잠재력 발휘: 지그 지글러의 지혜
 
@@ -1539,7 +1527,6 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 
 ## 160. Warren Buffett: 10 Rules For Young People Who Want To Get Rich
 **URL:** https://www.youtube.com/watch?v=GYL-UqULyAg    (
-
 
 ## 📚 워렌 버핏의 현명한 투자 10계명: 부의 지혜를 배우다
 
@@ -1698,7 +1685,6 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 ## 161. Robert Kiyosaki: How to Get Rich in 2023
 **URL:** https://www.youtube.com/watch?v=ZYn8o8JwezQ    (
 
-
 ## 📚 로버트 기요사키의 부자 아빠 가르침: 경제적 자유를 위한 4가지 핵심 전략
 
 ### 1. 도입부 (Introduction)
@@ -1802,7 +1788,6 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 
 ## 162. BEST MOTIVATIONAL SPEECHES OF 2023 (SO FAR) - NO EXCUSES
 **URL:** https://www.youtube.com/watch?v=0LVswaEEiOg    (
-
 
 ## 📚 내 안의 사자를 깨워라: 역경을 딛고 재정적 자유를 쟁취하는 법
 
@@ -2036,7 +2021,6 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 ## 163. 2023 GO HARD MENTALITY | Savage Advice from Billionaire Dan Pena
 **URL:** https://www.youtube.com/watch?v=AqjB3kPJ-ZY    (
 
-
 ## 📚 열정으로 일하고, 현명하게 투자하라: 성공을 위한 비즈니스 마인드셋
 
 ### 1. 도입부 (Introduction)
@@ -2130,7 +2114,6 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 ## 164. The Most Honest Advice About Getting Rich (EYE OPENING SPEECH)
 **URL:** https://www.youtube.com/watch?v=JpbPF3VyVrI    (
 
-
 # 내 삶의 주인이 되는 법: 자기 책임, 성장, 그리고 대담한 꿈
 
 ## 📚 책의 기본 구조
@@ -2209,7 +2192,6 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 
 ## 165. It's Actually Happening - Survive the Upcoming Recession - 5 Ways to Prepare
 **URL:** https://www.youtube.com/watch?v=w0gW8AHi0fM    (
-
 
 # 경기 침체에서 살아남기: 불황을 기회로 바꾸는 지혜
 
@@ -2307,7 +2289,6 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 ## 166. You'll Have an INSTANT Advantage Over Others | "I Did This and Got Rich!" - Jasmine Star
 **URL:** https://www.youtube.com/watch?v=WmhmzMux7-Y    (
 
-
 ## 📚 불확실성을 기회로: 당신의 잠재력을 깨우는 기업가 정신
 
 ### 1. 도입부 (Introduction)
@@ -2388,7 +2369,6 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 
 ## 167. 5 Lessons I Learned From Elon Musk | Best Motivational Advice 2023
 **URL:** https://www.youtube.com/watch?v=tBGBVj_eEEs    (
-
 
 ## 📚 일론 머스크에게 배우는 혁신과 리더십: 미래를 만드는 5가지 핵심 원칙
 
@@ -2547,7 +2527,6 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ## 168. Advice To Get RICH In Your 20's - Greatest Motivational Compilation 2023
 **URL:** https://www.youtube.com/watch?v=9m8MXt766hI    (
 
-
 ## 📚 내 안의 언더독을 깨워라: 성공을 위한 마인드셋과 실천 전략
 
 ### 1. 도입부 (Introduction)
@@ -2651,7 +2630,6 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ## 169. HOW TO THINK & GET RICH | Wallstreet Trapper & Jaspreet Singh
 **URL:** https://www.youtube.com/watch?v=R3rwRnrum98    (
 
-
 ## 📚 부의 게임: 생존 모드에서 공격 모드로 전환하는 법
 
 ### 1. 도입부 (Introduction)
@@ -2745,7 +2723,6 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 
 ## 170. You've Been TRAINED TO BE BROKE | "I Did This and Got Rich!" Jaspreet Singh
 **URL:** https://www.youtube.com/watch?v=n3rgrHyArMw    (
-
 
 ## 📚 금융 시스템 이해와 인플레이션 시대의 부의 축적 전략
 
@@ -2876,7 +2853,6 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ## 171. Neuroscientist: TRY IT FOR 3 DAYS! Habits of The Ultra Wealthy for 2023
 **URL:** https://www.youtube.com/watch?v=Tigs1QzcHfQ    (
 
-
 ## 📚 도파민의 비밀: 욕망을 이해하고 동기를 조절하는 법
 
 ### 1. 도입부 (Introduction)
@@ -2970,7 +2946,6 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ## 172. How The System Keeps You POOR! (Watch this To Become RICH in 2023) | Jaspreet Singh
 **URL:** https://www.youtube.com/watch?v=kNynbjt8wLI    (
 
-
 ## 📚 부의 시작: 돈이 아닌 '마인드셋'에 있다
 
 ### 1. 도입부 (Introduction)
@@ -3061,7 +3036,6 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 
 ## 173. GET TO WORK - The Most Powerful Motivational Speech Compilation for Success, Students & Work
 **URL:** https://www.youtube.com/watch?v=y1XgzIOrsh0    (
-
 
 # 성공을 위한 마인드셋: 잠재력을 깨우고 목표를 달성하는 법
 
@@ -3211,7 +3185,6 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ## 174. You've Been TRAINED TO BE BROKE | "I Did This and Got Rich!" - Kim Kiyosaki
 **URL:** https://www.youtube.com/watch?v=H-SyXQviga4    (
 
-
 ## 📚 학교는 가르쳐주지 않는 진짜 돈 공부: 기업가 정신으로 인생을 변화시키는 법
 
 ### 1. 도입부 (Introduction)
@@ -3316,7 +3289,6 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ## 175. Getting Rich Is Super Easy | Jeff Bezos
 **URL:** https://www.youtube.com/watch?v=ZIUH3k2V1j4    (
 
-
 # 제프 베이조스의 성공 비결: 후회 최소화부터 고객 집착까지
 
 ## 1. 도입부 (Introduction)
@@ -3409,7 +3381,6 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 
 ## 176. UNDERDOG MENTALITY - Motivational Video 2023
 **URL:** https://www.youtube.com/watch?v=0WDtyICffHg    (
-
 
 ## 📚 언더독 정신: 당신 안의 굶주린 개를 깨워라
 
@@ -3515,7 +3486,6 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 
 ## 177. This Secret Will Change Everything | Motivational Video for 2023 (Featuring Eric Thomas)
 **URL:** https://www.youtube.com/watch?v=3Ni_VQFuTCg    (
-
 
 ## 📚 숨 쉬듯 간절히 원하라: 성공을 위한 절대적 헌신
 
@@ -3652,7 +3622,6 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ## 178. IT'S YOUR TIME - Powerful Motivation To Start 2023
 **URL:** https://www.youtube.com/watch?v=vjFHitDEUlg    (
 
-
 ## 📚 포기하지 않는 마음: 성공을 위한 회복탄력적 사고방식
 
 ### 1. 도입부 (Introduction)
@@ -3745,7 +3714,6 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 
 ## 179. BUSINESS MOTIVERSITY - BEST OF 2022 | Best Motivational Video Compilation
 **URL:** https://www.youtube.com/watch?v=2ENi6OQqKKI    (
-
 
 # 변명 없는 삶: 허슬러 정신으로 만드는 위대한 유산
 
@@ -3841,7 +3809,6 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 
 ## 181. GET IT DONE IN 2023 - Greatest Business Motivation Compilation
 **URL:** https://www.youtube.com/watch?v=N3_8_TZwbZI    (
-
 
 ## 📚 책의 기본 구조
 
@@ -3966,7 +3933,6 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ## 182. WIN THE MORNING, WIN THE DAY - Positive Morning Motivation
 **URL:** https://www.youtube.com/watch?v=b08ly1rjgjc    (
 
-
 ## 📚 위대한 성공을 위한 마인드셋: '그라인드' 정신으로 한계를 돌파하라
 
 ### 1. 도입부 (Introduction)
@@ -4047,7 +4013,6 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ## 183. Do what the 99% Are Not Doing! - GREATEST Business Motivation Compilation
 **URL:** https://www.youtube.com/watch?v=uON4DDXgm8E    (
 
-
 ## 📚 잠재력을 깨우는 삶: 목표, 행동, 그리고 회복탄력성
 
 ### 1. 도입부 (Introduction)
@@ -4127,7 +4092,6 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 
 ## 184. HOW THE SYSTEM KEEPS YOU POOR | Jaspreet Singh
 **URL:** https://www.youtube.com/watch?v=wclD0gcURFw    (
-
 
 ## 📚 화폐의 본질과 인플레이션: 부를 지키는 지혜
 
@@ -4229,7 +4193,6 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ## 185. "How I Went from Broke to BILLIONAIRE!" | Ray Dalio
 **URL:** https://www.youtube.com/watch?v=_0_d1h2ujdE    (
 
-
 ## 📚 성공의 역설: 불편함과 불확실성을 기회로 바꾸는 지혜
 
 ### 1. 도입부 (Introduction)
@@ -4323,7 +4286,6 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 
 ## 186. REPROGRAM your mind to be rich in 10 minutes
 **URL:** https://www.youtube.com/watch?v=OEc76HDG56U    (
-
 
 ## 📚 성공을 위한 20시간의 법칙: 실행과 인내로 목표를 달성하는 법
 
@@ -4439,7 +4401,6 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ## 187. HOW THEY KEEP YOU POOR - Become a Billionaire by doing THIS! (Ft Tom and Lisa Bilyeu)
 **URL:** https://www.youtube.com/watch?v=toRimj9OIFg    (
 
-
 ## 📚 성공을 위한 내면의 힘: 감정 조절과 문제 해결의 기술
 
 ### 1. 도입부 (Introduction)
@@ -4529,5 +4490,3 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 
 ## 188. EVERY SINGLE DAY MENTALITY, NO EXCUSES - Business Motivation
 **URL:** https://www.youtube.com/watch?v=_xRvb09E2u4    (
-
-

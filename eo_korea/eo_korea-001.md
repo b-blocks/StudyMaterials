@@ -3,7 +3,6 @@
 ## 1. 브라우저 개발한 OpenAI 미친 성공의 마인드셋 15분 만에 보기 | 키치 헤이기
 **URL:** https://www.youtube.com/watch?v=wonwFsEbl-w    (
 
-
 # 브라우저 개발한 OpenAI 미친 성공의 마인드셋 15분 만에 보기 | 키치 헤이기
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -90,7 +89,6 @@
 
 ## 2. 서울대 의대 출신 창업가가 6년 삽질하고 깨달은 사업의 원리 | 모두닥 다큐멘터리
 **URL:** https://www.youtube.com/watch?v=TdyJD6zfDUo    (
-
 
 # 서울대 의대 출신 창업가가 6년 삽질하고 깨달은 사업의 원리 | 모두닥 다큐멘터리
 
@@ -206,7 +204,6 @@ PMF는 한 번에 영원히 얻어지는 것이 아니다. 시장이 변하면 P
 
 ## 3. 3번 엑싯한 99년생이 제로투원을 고집하는 이유 | 이민석
 **URL:** https://www.youtube.com/watch?v=fAO4dwnmxwE    (
-
 
 다음은 요청하신 내용에 맞춰 작성한 학습 자료입니다.
 
@@ -343,7 +340,6 @@ PMF는 한 번에 영원히 얻어지는 것이 아니다. 시장이 변하면 P
 ## 4. 우버가 한국에서 택한 초장기적 현지화 전략 | 우버 택시
 **URL:** https://www.youtube.com/watch?v=5vZW_XrbtIg    (
 
-
 # 우버가 한국에서 택한 초장기적 현지화 전략 | 우버 택시
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -452,7 +448,6 @@ PMF는 한 번에 영원히 얻어지는 것이 아니다. 시장이 변하면 P
 ## 5. 호기심과 주도성이 없는 사람은 성장하지 않아요 | Notion COO
 **URL:** https://www.youtube.com/watch?v=wzwE5H0-Rvg    (
 
-
 # 호기심과 주도성이 없는 사람은 성장하지 않아요 | Notion COO, Akshay Kothari
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -537,7 +532,6 @@ Notion은 AI에 대한 철학적 관점으로, 컴퓨터 과학의 선구자 더
 
 ## 6. 애플·우버·도커 출신들이 1000억을 투자 받은 성공 철학 | Magic Labs Documentary
 **URL:** https://www.youtube.com/watch?v=D4sDX1vYMJ0    (
-
 
 # 애플·우버·도커 출신들이 1000억을 투자 받은 성공 철학 | Magic Labs Documentary
 
@@ -692,7 +686,6 @@ Magic Labs는 Web3 온보딩 문제를 해결한 경험을 바탕으로, 다가�
 ## 7. 모두 안된다고 할 때, 되게 한 건 결국 사람이었어요 | 더그리트 양우정
 **URL:** https://www.youtube.com/watch?v=35g7tmfnHqs    (
 
-
 # 모두 안된다고 할 때, 되게 한 건 결국 사람이었어요 | 더그리트 양우정
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -843,7 +836,6 @@ Magic Labs는 Web3 온보딩 문제를 해결한 경험을 바탕으로, 다가�
 ## 8. 한국인만 모르는 미국살이의 진짜 모습 | UKF, Noom 정세주
 **URL:** https://www.youtube.com/watch?v=QDEvpI1aQxQ    (
 
-
 # 한국인만 모르는 미국살이의 진짜 모습 | UKF, Noom 정세주
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -944,7 +936,6 @@ Magic Labs는 Web3 온보딩 문제를 해결한 경험을 바탕으로, 다가�
 
 ## 9. 6년만에 300배 매출을 만든 압도적 성장전략 | 아정당 김민기
 **URL:** https://www.youtube.com/watch?v=hO1LKrkoQz4    (
-
 
 # 6년만에 300배 매출을 만든 압도적 성장전략 | 아정당 김민기
 
@@ -1049,7 +1040,6 @@ Magic Labs는 Web3 온보딩 문제를 해결한 경험을 바탕으로, 다가�
 
 ## 10. 미국에서 20년 사업한 베테랑 사업가의 한국인을 위한 조언 | UKF, 사제파트너스 대표 이기하
 **URL:** https://www.youtube.com/watch?v=Oh_n8m9eg-M    (
-
 
 # 미국에서 20년 사업한 베테랑 사업가의 한국인을 위한 조언 | UKF, 사제파트너스 대표 이기하
 
@@ -1181,7 +1171,6 @@ BTS, 오징어 게임 등으로 대표되는 `K-컬처`의 세계적인 성공�
 ## 11. S급 기회가 오기만을 기다리는 당신을 위한 영상 | 아워심볼 이상욱
 **URL:** https://www.youtube.com/watch?v=e4FK5F6aaY0    (
 
-
 물론입니다. 제공해주신 자막의 내용을 바탕으로, 요청하신 구조와 가이드라인에 맞춰 깊이 있는 학습 자료를 작성해 드리겠습니다.
 
 ---
@@ -1300,7 +1289,6 @@ BTS, 오징어 게임 등으로 대표되는 `K-컬처`의 세계적인 성공�
 ## 12. K-학습지로 20조 베트남 교육시장 먹은 한국 부부의 초성장 방식ㅣ야호랩 권영욱, 윤선희
 **URL:** https://www.youtube.com/watch?v=HOIRRmrctDg    (
 
-
 물론입니다. 제공해주신 유튜브 자막을 바탕으로, 요청하신 구조와 가이드라인에 맞춰 깊이 있는 학습 자료를 작성해 드리겠습니다.
 
 ---
@@ -1393,7 +1381,6 @@ BTS, 오징어 게임 등으로 대표되는 `K-컬처`의 세계적인 성공�
 
 ## 13. 공대에 미친 싱가포르가 만든 전 세계 첫 번째 AI 에이전트 | 마누스
 **URL:** https://www.youtube.com/watch?v=IBbB-Dmpj9A    (
-
 
 # 공대에 미친 싱가포르가 만든 전 세계 첫 번째 AI 에이전트 | 마누스
 
@@ -1504,7 +1491,6 @@ Manis는 세계 최초의 일반 요원과 비슷합니다. 그리고 오늘 우
 ## 14. 한국 최초 SNS 만든 창업가의 위기에서 먼저 기회 찾는 법 l 츄룹 박수만
 **URL:** https://www.youtube.com/watch?v=S45F8Ug4_pE    (
 
-
 # 한국 최초 SNS 만든 창업가의 위기에서 먼저 기회 찾는 법 l 츄룹 박수만
 
 ## 1. 핵심 요약 (Executive Summary)
@@ -1608,7 +1594,6 @@ Manis는 세계 최초의 일반 요원과 비슷합니다. 그리고 오늘 우
 
 ## 15. 300만 명이 평일 3시간을 기꺼이 쓰는 AI 앱 | 스캐터랩 김종윤
 **URL:** https://www.youtube.com/watch?v=yhgEgAc1ELw    (
-
 
 # 300만 명이 평일 3시간을 기꺼이 쓰는 AI 앱 | 스캐터랩 김종윤
 
@@ -1734,7 +1719,6 @@ Manis는 세계 최초의 일반 요원과 비슷합니다. 그리고 오늘 우
 
 ## 16. 4000억 엑싯한 맥킨지 출신 창업가의 초합리적 결정법(+경제학)ㅣ스킨1004 이소형
 **URL:** https://www.youtube.com/watch?v=fOQ7U2xL3sw    (
-
 
 네, 알겠습니다. 제공해주신 유튜브 영상 자막을 바탕으로, 요청하신 구조와 가이드라인에 맞춰 깊이 있는 학습 자료를 작성하겠습니다.
 
@@ -1874,7 +1858,6 @@ Manis는 세계 최초의 일반 요원과 비슷합니다. 그리고 오늘 우
 ## 17. 배달을 넘어 1인가구의 삶을 바꿉니다ㅣ두잇 성장 다큐멘터리 (2/2)
 **URL:** https://www.youtube.com/watch?v=O7LTDvzUhA4    (
 
-
 # 배달을 넘어 1인가구의 삶을 바꿉니다ㅣ두잇 성장 다큐멘터리 (2/2)
 
 - **URL**: [https://www.youtube.com/watch?v=wYp5S23A4No](https://www.youtube.com/watch?v=wYp5S23A4No)
@@ -2012,7 +1995,6 @@ Manis는 세계 최초의 일반 요원과 비슷합니다. 그리고 오늘 우
 ## 18. 배민보다 10배 나은 세상 만들겠습니다ㅣ두잇 팀 다큐멘터리 (1/2)
 **URL:** https://www.youtube.com/watch?v=xZFPilgAwNk    (
 
-
 # 배민보다 10배 나은 세상 만들겠습니다ㅣ두잇 팀 다큐멘터리 (1/2)
 
 - **URL**: [https://www.youtube.com/watch?v=e_hI342y55Y](https://www.youtube.com/watch?v=e_hI342y55Y)
@@ -2136,7 +2118,6 @@ Manis는 세계 최초의 일반 요원과 비슷합니다. 그리고 오늘 우
 ## 19. 글로벌 탑 회사에서 배운 '비즈니스 임팩트’ 극대화 하는 법 | 애플 김상휘
 **URL:** https://www.youtube.com/watch?v=sKQTCJj8blo    (
 
-
 # 글로벌 탑 회사에서 배운 '비즈니스 임팩트’ 극대화 하는 법 | 애플 김상휘
 
 - **URL**: (영상 URL을 여기에 삽입)
@@ -2248,7 +2229,6 @@ Manis는 세계 최초의 일반 요원과 비슷합니다. 그리고 오늘 우
 
 ## 20. 대학교 창업동아리 출신이 매출 200억 2번 만들기까지 | 리필드 정근식
 **URL:** https://www.youtube.com/watch?v=6J2v9CiOrZs    (
-
 
 물론입니다. 제공해주신 자막의 내용을 바탕으로, 요청하신 구조와 가이드라인에 맞춰 깊이 있는 학습 자료를 작성해 드리겠습니다.
 
@@ -2370,7 +2350,6 @@ Manis는 세계 최초의 일반 요원과 비슷합니다. 그리고 오늘 우
 ## 21. 실리콘밸리에서 받은 문화 충격...!!! 교육, 창업 문화 등 | Hack the Valley Ep.4
 **URL:** https://www.youtube.com/watch?v=k5m5ZGBvhSM    (
 
-
 # 실리콘밸리에서 받은 문화 충격...!!! 교육, 창업 문화 등 | Hack the Valley Ep.4
 
 - **URL:** (영상 원본 URL을 여기에 삽입)
@@ -2491,7 +2470,6 @@ Manis는 세계 최초의 일반 요원과 비슷합니다. 그리고 오늘 우
 
 ## 22. 창업은 100점 받으려고 하는 게 아닙니다 | Hack the Valley Ep.3
 **URL:** https://www.youtube.com/watch?v=etL4sFxOlw0    (
-
 
 # 창업은 100점 받으려고 하는 게 아닙니다 | Hack the Valley Ep.3
 
@@ -2621,7 +2599,6 @@ Manis는 세계 최초의 일반 요원과 비슷합니다. 그리고 오늘 우
 ## 23. 실리콘밸리 길거리로 AI 제품을 들고 나가봤습니다 | Hack the Valley Ep.2
 **URL:** https://www.youtube.com/watch?v=SE5nA75j_q8    (
 
-
 # 실리콘밸리 길거리로 AI 제품을 들고 나가봤습니다 | Hack the Valley Ep.2
 
 - **URL**: https://www.youtube.com/watch?v=8-q2xo_2V5A
@@ -2737,7 +2714,6 @@ Hi sir howday howday may cle 여기서 디자인만 잘하고 민폐만 끼치�
 ## 24. 20학번 대학생 vs 11년차 유학생, AI를 더 잘 만드는 팀은? | Hack the Valley EP.1
 **URL:** https://www.youtube.com/watch?v=M-ibWegOQQ0    (
 
-
 # 20학번 대학생 vs 11년차 유학생, AI를 더 잘 만드는 팀은? | Hack the Valley EP.1
 
 - **URL**: [영상 URL 삽입]
@@ -2838,7 +2814,6 @@ Hi sir howday howday may cle 여기서 디자인만 잘하고 민폐만 끼치�
 ## 25. 카이스트 수석, MIT 박사, 그는 왜 창업을 하는가 | 1849 Bio 박용진
 **URL:** https://www.youtube.com/watch?v=YFUVMPOIeAo    (
 
-
 # 카이스트 수석, MIT 박사, 그는 왜 창업을 하는가 | 1849 Bio 박용진
 
 - **URL**: [https://www.youtube.com/watch?v=Reo_p_l_oP4](https://www.youtube.com/watch?v=Reo_p_l_oP4)
@@ -2936,7 +2911,6 @@ Hi sir howday howday may cle 여기서 디자인만 잘하고 민폐만 끼치�
 
 ## 26. 프로 인턴러 에서 아마존 자율주행 핵심 개발자가 되기 까지 | Zoox 김지니
 **URL:** https://www.youtube.com/watch?v=z0f31YTnSCg    (
-
 
 # 프로 인턴러 에서 아마존 자율주행 핵심 개발자가 되기 까지 | Zoox 김지니
 
@@ -3041,7 +3015,6 @@ Hi sir howday howday may cle 여기서 디자인만 잘하고 민폐만 끼치�
 ## 27. AI로 아마존 코딩 테스트 뚫고, 36일 만에 13억 매출을 만든 21살 | Cluely, Chungin (Roy) Lee
 **URL:** https://www.youtube.com/watch?v=DN-FZj5bfsg    (
 
-
 # AI로 아마존 코딩 테스트 뚫고, 36일 만에 13억 매출을 만든 21살 | Cluely, Chungin (Roy) Lee
 
 - **URL**: https://www.youtube.com/watch?v=DN-FZj5bfsg
@@ -3145,7 +3118,6 @@ AI를 사용할 수 있으면 AI를 사용해야 한다고 생각합니다. 도�
 ## 28. AI 시대, 살아남는 크리에이터의 조건ㅣ밥 맨코프, 전 뉴요커 만화 편집장
 **URL:** https://www.youtube.com/watch?v=lvi25OvCpbw    (
 
-
 # AI 시대, 살아남는 크리에이터의 조건ㅣ밥 맨코프, 전 뉴요커 만화 편집장
 
 - **URL**: https://www.youtube.com/watch?v=lvi25OvCpbw
@@ -3235,7 +3207,6 @@ AI를 사용할 수 있으면 AI를 사용해야 한다고 생각합니다. 도�
 
 ## 29. 전 세계 클라우드 패러다임을 바꾼 창업가의 데이터와 AI의 미래 | 스노우플레이크 공동창업자
 **URL:** https://www.youtube.com/watch?v=sG59popsadM    (
-
 
 # 전 세계 클라우드 패러다임을 바꾼 창업가의 데이터와 AI의 미래 | 스노우플레이크 공동창업자
 
@@ -3357,7 +3328,6 @@ AI를 사용할 수 있으면 AI를 사용해야 한다고 생각합니다. 도�
 ## 30. 스탠포드가 가르치는 AI시대 창의력 훈련법 | 스탠포드 교수 제레미 어틀리
 **URL:** https://www.youtube.com/watch?v=rSS5yM74zeo    (
 
-
 # 스탠포드가 가르치는 AI시대 창의력 훈련법 | 스탠포드 교수 제레미 어틀리
 
 - **URL**: https://www.youtube.com/watch?v=rSS5yM74zeo
@@ -3475,7 +3445,6 @@ AI를 사용할 수 있으면 AI를 사용해야 한다고 생각합니다. 도�
 ## 31. 레전드 CEO들의 대담 직접 듣고온 후기ㅣ마이크로소프트 50주년 행사
 **URL:** https://www.youtube.com/watch?v=07kX6TgYQIA    (
 
-
 # 레전드 CEO들의 대담 직접 듣고온 후기ㅣ마이크로소프트 50주년 행사
 
 - **URL**: https://www.youtube.com/watch?v=07kX6TgYQIA
@@ -3583,7 +3552,6 @@ Satcha의 리더십 하에 회사는 제가 떠날 때보다 3배 더 커졌습�
 
 ## 32. 연휴에 놀아서 뭐하나 EO 레전드 인터뷰 몰아보지 | 리얼밸리 레전드 몰아보기 1편
 **URL:** https://www.youtube.com/watch?v=gCA78dvjnEA    (
-
 
 # 연휴에 놀아서 뭐하나 EO 레전드 인터뷰 몰아보지 | 리얼밸리 레전드 몰아보기 1편
 
@@ -3725,7 +3693,6 @@ Satcha의 리더십 하에 회사는 제가 떠날 때보다 3배 더 커졌습�
 
 ## 33. 
 **URL:** https://www.youtube.com/watch?v=gCA78dvjnEA    (
-
 
 ## 1. 핵심 요약 (Hook)
 
@@ -3913,5 +3880,3 @@ Satcha의 리더십 하에 회사는 제가 떠날 때보다 3배 더 커졌습�
 
 ## 34. IT 갈라파고스 한국에서 찾은 외주개발 시장 기회ㅣ 씨그로, 리트머스 CEO 김응진 2부
 **URL:** https://www.youtube.com/watch?v=iblFpnMaOdY    (
-
-

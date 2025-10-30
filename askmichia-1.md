@@ -199,7 +199,6 @@
 ## 33. How I Retired at 33 | Starting From $0
 **URL:** https://www.youtube.com/watch?v=pxViAI-SVfQ    (
 
-
 # YouTube 영상 자막 기반 심층 학습 자료: 33세 조기 은퇴와 무한 돈 버는 기계 구축 전략
 
 ## 1. 개요 (Overview)
@@ -293,7 +292,6 @@
 
 ## 34. $110M in 6 Years: How I Pick Profitable Business Ideas
 **URL:** https://www.youtube.com/watch?v=f_RD0j0gKUk    (
-
 
 # YouTube 영상 학습 자료: Gap Wave Method를 활용한 성공적인 사업 아이디어 발굴
 
@@ -420,7 +418,6 @@ Gap은 Wave에 의해 시장에 생긴 빈틈, 즉 변화하는 소비자 기대
 ## 35. How I Went From $0 to $110 Million in 6 Years
 **URL:** https://www.youtube.com/watch?v=6ATj68VYP44    (
 
-
 # YouTube 영상 자막 기반 심층 학습 자료: 1억 1천만 달러 성공 스토리
 
 ## 1. 개요 (Overview)
@@ -531,7 +528,6 @@ Gap은 Wave에 의해 시장에 생긴 빈틈, 즉 변화하는 소비자 기대
 
 ## 36. How to Reinvent Yourself in 30 Days - Unlock Your Potential
 **URL:** https://www.youtube.com/watch?v=SiiQdSIw7Vk    (
-
 
 # 인생 재창조를 위한 심층 학습 가이드: 목표 설정부터 실행까지
 
@@ -695,7 +691,6 @@ MAP는 막연한 목표를 달성 가능한 작은 단계들로 나누어 실행
 ## 37. 7 Rules for Million Dollar Pitch Decks
 **URL:** https://www.youtube.com/watch?v=RTbh2FQ9dE8    (
 
-
 # YouTube 영상 자막 기반 심층 학습 자료: 성공적인 VC 피치 덱 디자인 7가지 황금률
 
 ## 1. 개요 (Overview)
@@ -788,7 +783,6 @@ MAP는 막연한 목표를 달성 가능한 작은 단계들로 나누어 실행
 
 ## 38. The Puppet Masters of Wealth - Venture Capitalists
 **URL:** https://www.youtube.com/watch?v=Ycp2CmbElkA    (
-
 
 # YouTube 영상 자막 기반 심층 학습 자료: 벤처 캐피탈의 이해
 
@@ -884,7 +878,6 @@ VC 자금은 스타트업 성장의 강력한 촉매제이지만, 창업자에�
 ## 39. How to build wealth from nothing - the smart way
 **URL:** https://www.youtube.com/watch?v=SjKYJYngIqM    (
 
-
 # 부의 축적을 위한 3단계 공식: 깊이 있는 학습 자료
 
 ## 1. 개요 (Overview)
@@ -974,7 +967,6 @@ VC 자금은 스타트업 성장의 강력한 촉매제이지만, 창업자에�
 
 ## 40. 5 Low-Cost Businesses That Made Me Over $100k Online
 **URL:** https://www.youtube.com/watch?v=WKiPGuuqaBs    (
-
 
 # YouTube 영상 자막 기반 심층 학습 자료: 컴퓨터와 인터넷을 활용한 기발한 온라인 수익 창출 전략
 
@@ -1089,7 +1081,6 @@ VC 자금은 스타트업 성장의 강력한 촉매제이지만, 창업자에�
 
 ## 41. 18 life lessons for teenagers to become millionaires
 **URL:** https://www.youtube.com/watch?v=GxzV2B45jA0    (
-
 
 ## 1. 개요 (Overview)
 
@@ -1261,7 +1252,6 @@ VC 자금은 스타트업 성장의 강력한 촉매제이지만, 창업자에�
 ## 42. How to invest without losing money (According to Science)
 **URL:** https://www.youtube.com/watch?v=nT2gtcuLfgw    (
 
-
 # YouTube 영상 학습 자료: 시간(Time in the Market)을 통한 현명한 투자 전략
 
 ## 1. 개요 (Overview)
@@ -1321,7 +1311,6 @@ VC 자금은 스타트업 성장의 강력한 촉매제이지만, 창업자에�
 
 ## 43. 7 Money Tips to Become a Millionaire in Your 20's
 **URL:** https://www.youtube.com/watch?v=uOUun2mExRo    (
-
 
 # 백만장자가 되는 길: 부의 규칙과 실천 전략
 
@@ -1398,7 +1387,6 @@ VC 자금은 스타트업 성장의 강력한 촉매제이지만, 창업자에�
 
 ## 44. $110M CEO Reveals The Best Business to Make Millions in Your 20’s
 **URL:** https://www.youtube.com/watch?v=16U-ukZE4Yg    (
-
 
 ## 1. 개요 (Overview)
 
@@ -1519,7 +1507,6 @@ YouTube에서 보는 대부분의 온라인 백만장자들은 사기입니다. 
 ## 45. What Nobody Tells You About Being an Entrepreneur
 **URL:** https://www.youtube.com/watch?v=hbW2nwRdmS4    (
 
-
 # YouTube 영상 자막 기반 심층 학습 자료: 기업가 정신의 현실
 
 ## 1. 개요 (Overview)
@@ -1602,7 +1589,6 @@ YouTube에서 보는 대부분의 온라인 백만장자들은 사기입니다. 
 
 ## 46. Don’t get rich, get WEALTHY
 **URL:** https://www.youtube.com/watch?v=-YsZtiLPuqI    (
-
 
 # YouTube 영상 학습 자료: 부자(Rich)와 부유한 사람(Wealthy)의 차이
 
@@ -1702,7 +1688,6 @@ YouTube에서 보는 대부분의 온라인 백만장자들은 사기입니다. 
 ## 47. $110M CEO Reveals The 7 Laws of Success for Beginner Entrepreneurs
 **URL:** https://www.youtube.com/watch?v=yb4ByhlejSY    (
 
-
 # YouTube 영상 자막 기반 심층 학습 자료: 성공적인 기업가 정신의 7가지 법칙
 
 ## 1. 개요 (Overview)
@@ -1789,7 +1774,6 @@ YouTube에서 보는 대부분의 온라인 백만장자들은 사기입니다. 
 ## 48. $110m at 31 years old - How I did it
 **URL:** https://www.youtube.com/watch?v=msRE5K0X3YA    (
 
-
 # YouTube 영상 학습 자료: 1억 1천만 달러 사업 성공 비결
 
 ## 1. 개요 (Overview)
@@ -1870,7 +1854,6 @@ YouTube에서 보는 대부분의 온라인 백만장자들은 사기입니다. 
 
 ## 49. The secret to billion dollar business ideas
 **URL:** https://www.youtube.com/watch?v=5EcPq422lmc    (
-
 
 ## 1. 개요 (Overview)
 이 학습 자료는 연간 수십만 달러 규모의 비즈니스와 수십억 달러 규모의 비즈니스를 가르는 핵심적인 차이점을 탐구합니다. 단순히 창업자의 지능이나 노력의 차이가 아닌, 아이디어 자체의 잠재력과 시장 접근 방식에 초점을 맞춰, 어떻게 하면 거대한 성공을 이룰 수 있는 비즈니스 아이디어를 발굴하고 성장시킬 수 있는지에 대한 통찰을 제공합니다. 이 자료는 비즈니스 아이디어의 확장성, 시장의 크기, 문제 해결의 중요성, 경쟁 구도, 그리고 시장 변화 포착이라는 다섯 가지 핵심 요소를 중심으로 구성됩니다.
@@ -1989,7 +1972,6 @@ YouTube에서 보는 대부분의 온라인 백만장자들은 사기입니다. 
 ## 50. The REAL reason you still haven’t started a business yet
 **URL:** https://www.youtube.com/watch?v=wkyQYBJYb6M    (
 
-
 # YouTube 영상 자막 기반 심층 학습 자료: 사업 시작의 허들을 넘어서
 
 ## 1. 개요 (Overview)
@@ -2085,7 +2067,6 @@ YouTube에서 보는 대부분의 온라인 백만장자들은 사기입니다. 
 ## 51. How to start a business if you have no experience (no capital required)
 **URL:** https://www.youtube.com/watch?v=MnwlLrZN_d8    (
 
-
 # YouTube 영상 학습 자료: 성공적인 비즈니스 시작을 위한 5단계
 
 ## 1. 개요 (Overview)
@@ -2177,7 +2158,6 @@ YouTube에서 보는 대부분의 온라인 백만장자들은 사기입니다. 
 
 ## 52. 6 Business Ideas That Keep Beginners Broke
 **URL:** https://www.youtube.com/watch?v=kQ3rNDdlDbE    (
-
 
 ## 1. 개요 (Overview)
 
@@ -2279,7 +2259,6 @@ YouTube에서 보는 대부분의 온라인 백만장자들은 사기입니다. 
 
 ## 53. The Ultimate Science-Based Morning Routine for Entrepreneurs (2023)
 **URL:** https://www.youtube.com/watch?v=_PBu04o20c0    (
-
 
 다음은 YouTube 영상의 자막 내용을 바탕으로 재구성한 깊이 있는 학습 자료입니다.
 
@@ -2418,7 +2397,6 @@ YouTube에서 보는 대부분의 온라인 백만장자들은 사기입니다. 
 ## 54. The perfect seed stage pitch deck outline - just 8 slides
 **URL:** https://www.youtube.com/watch?v=eRu9xP2yZYo    (
 
-
 다음은 YouTube 영상의 자막 내용을 바탕으로 재구성한 깊이 있는 학습 자료입니다.
 
 # YouTube 영상 자막 기반 학습 자료: 시드 단계 펀드레이징 피치 덱 완벽 가이드
@@ -2553,7 +2531,6 @@ YouTube에서 보는 대부분의 온라인 백만장자들은 사기입니다. 
 
 ## 55. How to quickly get out of an entrepreneur rut
 **URL:** https://www.youtube.com/watch?v=hSQGOV0aXho    (
-
 
 물론입니다. 제공해주신 유튜브 영상 자막을 바탕으로, 요청하신 구조와 가이드라인에 맞춰 깊이 있는 학습 자료를 작성해 드리겠습니다.
 
@@ -2693,7 +2670,6 @@ YouTube에서 보는 대부분의 온라인 백만장자들은 사기입니다. 
 ## 56. Hustle culture will kill your startup
 **URL:** https://www.youtube.com/watch?v=Fjx1f5XiXz8    (
 
-
 다음은 YouTube 영상의 자막 내용을 바탕으로 재구성한 깊이 있는 학습 자료입니다.
 
 ---
@@ -2816,7 +2792,6 @@ YouTube에서 보는 대부분의 온라인 백만장자들은 사기입니다. 
 ## 57. The truth about getting into top accelerators
 **URL:** https://www.youtube.com/watch?v=2HZ8C5zMqwc    (
 
-
 # YouTube 영상 자막 기반 심층 학습 자료: 탑 액셀러레이터 합격 전략
 
 ## 1. 개요 (Overview)
@@ -2937,7 +2912,6 @@ YouTube에서 보는 대부분의 온라인 백만장자들은 사기입니다. 
 ## 58. The dirty secret of raising VC money (Momentum Manipulation)
 **URL:** https://www.youtube.com/watch?v=FNq7hZqXdhU    (
 
-
 다음은 YouTube 영상의 자막 내용을 바탕으로 재구성한 깊이 있는 학습 자료입니다.
 
 ---
@@ -3034,7 +3008,6 @@ YouTube에서 보는 대부분의 온라인 백만장자들은 사기입니다. 
 ## 59. How to get investors for your startup
 **URL:** https://www.youtube.com/watch?v=y-nRWiBur6A    (
 
-
 # YouTube 영상 자막 기반 심층 학습 자료: FOMO를 활용한 초기 투자 유치 전략
 
 ## 1. 개요 (Overview)
@@ -3093,7 +3066,6 @@ fomo를 사용하여 약속을 이행합니다. 즉, 25,000개 또는 250,000개
 
 ## 60. How I raised $5.4m in 3 weeks to save my business
 **URL:** https://www.youtube.com/watch?v=pJoTZXAuFfc    (
-
 
 # YouTube 영상 자막 기반 심층 학습 자료: 3주 만에 540만 달러 투자 유치 전략
 
@@ -3197,7 +3169,6 @@ Micaiah의 회사는 2017년 1월, 은행 잔고가 3주치 현금밖에 남지 
 
 ## 61. Turn Your Layoff Into Millions (4 Steps To Do Now)
 **URL:** https://www.youtube.com/watch?v=QV-XuS-5BF0    (
-
 
 # YouTube 영상 자막 기반 심층 학습 자료: 해고를 기회로 삼아 스타트업을 시작하고 벤처 캐피탈 자금을 유치하는 방법
 
@@ -3310,7 +3281,6 @@ Micaiah의 회사는 2017년 1월, 은행 잔고가 3주치 현금밖에 남지 
 ## 62. 5 Things You Must Have to Succeed as a Solopreneur
 **URL:** https://www.youtube.com/watch?v=in6u3yMz3fM    (
 
-
 # YouTube 영상 자막 기반 심층 학습 자료: 성공적인 솔로프러너를 위한 5가지 핵심 요소
 
 ## 1. 개요 (Overview)
@@ -3420,7 +3390,6 @@ Micaiah의 회사는 2017년 1월, 은행 잔고가 3주치 현금밖에 남지 
 ## 63. How I Raised $250,000 From Angel Investors I Had Never Met Before (Free Guide)
 **URL:** https://www.youtube.com/watch?v=FkkHyO-1jRI    (
 
-
 # YouTube 자막 기반 심층 학습 자료: 엔젤 투자 유치 전략
 
 ## 1. 개요 (Overview)
@@ -3522,7 +3491,6 @@ Micaiah의 회사는 2017년 1월, 은행 잔고가 3주치 현금밖에 남지 
 ## 64. 5 Ways To Win In Life (2023)
 **URL:** https://www.youtube.com/watch?v=tezjqnTw7Oo    (
 
-
 # YouTube 영상 자막 기반 심층 학습 자료: 새해 목표 달성을 위한 5가지 전략
 
 ## 1. 개요 (Overview)
@@ -3601,7 +3569,6 @@ Micaiah의 회사는 2017년 1월, 은행 잔고가 3주치 현금밖에 남지 
 
 ## 65. How To Get Customers For Your Startup (Beginner Guide)
 **URL:** https://www.youtube.com/watch?v=PJ52jZlpj74    (
-
 
 다음은 YouTube 영상의 자막 내용을 바탕으로 재구성한 깊이 있는 학습 자료입니다.
 
@@ -3796,7 +3763,6 @@ LinkedIn에서 "대도시 교외 병원"에서 "행정 관리자" 또는 "IT 책
 ## 66. Top 5 Reasons You NEED a Cofounder
 **URL:** https://www.youtube.com/watch?v=NXf8GIhbFTk    (
 
-
 # YouTube 영상 자막 기반 심층 학습 자료: 스타트업 공동 창업자, 필수인가?
 
 ## 1. 개요 (Overview)
@@ -3878,7 +3844,6 @@ Google에서 온라인으로 스타트업을 구축하는 방법에 대한 가�
 
 ## 67. The productivity hack I used to turn my laziness into $9,000,000
 **URL:** https://www.youtube.com/watch?v=VSEEjnDRu08    (
-
 
 # YouTube 영상 자막 기반 심층 학습 자료: 게으름을 900만 달러로 바꾼 생산성 해킹
 
@@ -3968,7 +3933,6 @@ Google에서 온라인으로 스타트업을 구축하는 방법에 대한 가�
 
 ## 68. How I Raised Over $1,000,000 Pitching To Angel Investors
 **URL:** https://www.youtube.com/watch?v=vZakDrmFBb0    (
-
 
 # YouTube 영상 자막 기반 심층 학습 자료: 엔젤 투자 유치 성공 전략
 

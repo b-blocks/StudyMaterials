@@ -1,6 +1,5 @@
 # RobloxLearn
 
-
 # Roblox 애셋 저장소(Asset Repository) 구축 가이드
 
 ## How to make an Asset Repository on Roblox
@@ -141,7 +140,6 @@ Roblox의 패키지 기능은 애셋 저장소의 가치를 극대화하는 핵�
 #### 3.5.4. 예시/사례: 회색 상자에서 최종 애셋으로
 초기 개발 단계에서 임시 문 모델(회색 상자)을 패키지로 만들어 저장소에 배치하고, 메인 게임의 여러 위치에 사용합니다. 나중에 아티스트가 최종 디자인의 문 모델을 완성하면, 저장소의 패키지 애셋을 최종 모델로 교체하고 업데이트합니다. 그러면 메인 게임의 모든 문이 자동으로 최종 디자인으로 변경됩니다.
 
-
 # Roblox 카메라 조작 심화 학습 가이드
 
 ## How to manipulate the camera on Roblox
@@ -281,7 +279,6 @@ Roblox에서 카메라는 플레이어의 시점을 결정하는 핵심 요소�
 *   **자연스럽고 의도적인 경험:**
     *   카메라 조작은 플레이어가 눈치채지 못할 정도로 자연스럽고 의도적으로 느껴져야 합니다. 과도하거나 부자연스러운 움직임은 플레이어의 몰입을 방해합니다.
     *   "큰 힘에는 큰 책임이 따른다"는 말처럼, 카메라를 마음대로 조작할 수 있다고 해서 과도한 효과를 남용해서는 안 됩니다.
-
 
 # Roblox 헤어 제작 심화 학습 자료: Blender에서 Studio까지
 
@@ -772,7 +769,6 @@ I will go through each section of the required document structure and populate i
         *   **정의:** 특정 기능(Feature)과 관련된 모든 코드와 자산을 하나의 폴더 안에 모아두는 방식. (예: `Vehicle` 폴더 안에 `VehicleSpawner.server.lua`, `VehicleFinder.module.lua`, `VehicleModel.rbxm` 등).
         *
 
-
 # Roblox Studio 댓글 기능 활용 가이드
 
 ## How to use Comments on Roblox
@@ -865,7 +861,6 @@ Roblox Studio 댓글 기능은 단순한 메모를 넘어, 개발 프로세스 �
 *   **예시/사례:**
     *   새로운 맵을 기획할 때, 각 구역에 대한 기능이나 테마를 댓글로 미리 지정하여 전체적인 맵 구조를 구상합니다.
     *   특정 퍼즐 요소를 디자인할 때, 퍼
-
 
 # Roblox 스크립팅 아키텍처: 싱글 스크립트 vs. 멀티 스크립트
 
@@ -1112,7 +1107,6 @@ Auto Setup이 완료된 후에도 모델을 Roblox 마켓플레이스에 게시�
 *   **의상 및 신발 분리:** 모델에 병합된 의상이나 신발이 있다면, 마켓플레이스 정책에 따라 이를 분리하고 재텍스처링해야 합니다.
 *   **피부색 투명 맵 변환:** 캐릭터의 피부색을 투명 맵(transparent map)으로 변환하는 것이 좋습니다. 이를 통해 사용자가 아바타를 얻었을 때 캐릭터 피부색의 틴트(tint)를 직접 설정할 수 있게 됩니다.
 *   **혁신과 노력:** Auto Setup은 시간을 절약해주는 도구일 뿐, 고품질의 아바타 캐릭터를 만들고 마켓플레이스에 성공적으로 업로드하여 판매하려면 여전히 많은 노력과 창의성
-
 
 # 보상형 비디오 광고: Roblox 크리에이터를 위한 심층 가이드
 
@@ -1531,7 +1525,6 @@ EPM을 높이는 것은 각 광고 노출에서 얻는 수익을 증가시키는
 *   **예시/사례:** 구형 스마트폰을 사용하는 사용자도 게임 내에서 보상형 광고를 시청하고 보상을 받을 수 있게 되어, 크리에이터는 더 넓은 사용자층으로부터 수익을 창출할 수 있습니다.
 *   **주의사항:** 기술적 확장은 지속적으로 이루어지지만, 개발자는 자신의 게임이 지원하는 모든 기기에서 광고가 안정적으로 작동하는지 테스트하고 사용자 피드백을 주시해야 합니다.
 
-
 # Roblox 버전 관리 심층 학습 가이드
 
 ## How to version control on Roblox
@@ -1671,7 +1664,6 @@ Roblox Studio는 스크립트가 저장될 때마다 해당 스크립트의 새�
 
 | 용어 (영문 원
 
-
 # Roblox AI Assistant 활용 가이드: 개발 생산성 극대화
 
 ## What is Assistant?
@@ -1734,7 +1726,6 @@ Assistant는 개발자가 제공하는 프롬프트의 내용을 기반으로 �
 #### 3.4.2. 구체적인 프롬프트 작성의 예시
 
 다음은 'sparkle'이라는 이름의 파트가 캐릭터
-
 
 # YouTube UGC 비즈니스 성공 전략: 러쉬(Rush)의 인사이트
 
@@ -1862,7 +1853,6 @@ Assistant는 개발자가 제공하는 프롬프트의 내용을 기반으로 �
 *   **예시/사례:**
     *   "Have fun with it. Make what you love. And the more you make, the better you do." (즐겁게 만들고, 좋아하는 것을 만들고, 더 많이 만들수록 더 잘하게 될 것이다.)
 *   **주의사항:** 비즈니스적인 측면도 중요하지만, 창작의 본질적인 즐거움을 잃지 않는 것이 지속 가능한 성공
-
 
 # Roblox 월드 빌딩 심화: 상세 프롭 및 시각 효과(VFX) 적용 가이드
 
@@ -2137,7 +2127,6 @@ Roblox Studio의 AI 어시스턴트는 월드 빌딩 과정에서 반복적인 �
 *   **예시/사례:** 게임 내 풀과 연기 파티클이 바람의 방향에 따라 흔들리는 모습.
 *   **주의사항:** 전역 바람 스크립트는
 
-
 # Roblox UGC 레이어드 의류 제작 심화 학습 자료: 전문가 멘토링을 통한 문제 해결 및 고급 텍스처링 기법
 
 ## UGC Expert Feedback 3: feat. Reverse_Polarity and Madison_Hatter2
@@ -2336,7 +2325,6 @@ Blender에서 Normal Map과 Metallic Map을 생성했다면, 이제 Roblox Studi
     *   **문제의 근본 원인:** 문제가 지오메트리 분할 방식이나 초기 설계 단계에서 비롯된 것이라면, 수정이 어려울 수 있으므로 재시작을 고려합니다.
     > "if you can't easily take something and restore it back to like your vision... that's the point I would start over on."
 *   **멘토의 조언:** 전문가들은 대부분의 경우 처음부터 다시 시작하기 전에
-
 
 # Roblox UGC 레이어드 의류 제작 심화 학습 자료: 초보자의 Blender 도전기
 
@@ -2919,7 +2907,6 @@ new_current_value, new_velocity = smooth_damp(
         3.  캐릭터가 특정 지점으로 이동하는 고정된 경로 애니메이션.
 *   **주의사항:** 두 기법은 상호 배타적이지 않으며, 경우에 따라 함께 사용될 수도 있습니다. 예를 들어, `Smooth Damp`로 카메라가 캐릭터를 추적하다가, 특정 이벤트 발생 시 `Tween`으로 카메라가 고정된 컷신 위치로 이동하는 식입니다.
 
-
 # Roblox 월드 빌딩: 몰입감 있는 조명과 지형 디테일링 심화 학습 가이드
 
 ## How to customize lighting and edit terrain on Roblox
@@ -3340,7 +3327,6 @@ new_current_value, new_velocity = smooth_damp(
 *   **후처리 효과 실험:** `Bloom`, `Blur`, `ColorCorrection`, `SunRays`와 같은 다양한 후처리 효과를 추가하고 각 속성 값을 변경해 보면서 맵의 분위기가 어떻게 달라지는지 실험해 보세요. 각 효과가 맵에 미치는 영향을 스크린샷으로 기록해두면 좋습니다.
 *   **자신만의 스토리텔링 지형 만들기:** 위에서 배운 "자연스러운 스토리텔링" 기법을 활용하여 지형에 자신만의 이야기를 담아낼 수 있는 요소를 2가지 이상 추가해 보세요 (예: 오래된 유적의 흔적, 침식된 다리, 바람에 의해 형성된 독특한 바위 등).
 
-
 # UGC Expert Feedback 2: feat. Reverse_Polarity and Madison_Hatter2
 **URL:** https://www.youtube.com/watch?v=D64IOXAb6SM
 
@@ -3517,7 +3503,6 @@ Roblox에서 모델의 시각적 품질을 결정하는 중요한 단계입니�
     *   > **Madison Hatter 2:** "unfortunately you can't export that directly from Blender into Roblox. So that's where the texturing trickery is going to come in." (안타깝게도 Blender에서 Roblox로 직접 내보낼 수 없습니다. 그래서 텍스처링 트릭이 필요합니다.)
     *   > **Reverse Polarity:** "I think one of the ways that you're achieving this very wonderful... metallic effect is you have the metalness set up to 100 on the material that will not export when you export the texture." (이 멋진 메탈릭 효과를 내는 한 가지 방법은 재질의 메탈릭 값을 100으로 설정하는 것인데, 이는 텍스처를 내보낼 때 함께 내보내지지 않습니다.)
 *   **외부 도구를 통한 근사치 표현:** 원하는 메탈릭 또는 광택 효과를 얻기 위해서는 Photoshop과
-
 
 # 3D 모델 텍스처링 및 Roblox 에셋 통합 가이드
 
@@ -3753,7 +3738,6 @@ UV 매핑은 3D 모델의 표면을 2D 평면으로 펼치는 과정으로, 텍�
 *   **예시/사례:**
     *   완성된 하트 펜던트 텍스처를 Roblox 웹사이트에 `Decal`로 업로드하고 Asset ID를 얻습니다. 이후 Roblox Studio에서 목걸이 모델의 하트 메쉬 파트를 선택하고 `Texture
 
-
 # 블렌더로 Roblox UGC 진주 목걸이 만들기
 
 ## Making a UGC catalogue: making a necklace
@@ -3844,7 +3828,6 @@ UV 매핑은 3D 모델의 표면을 2D 평면으로 펼치는 과정으로, 텍�
     *   **적절한 타이밍:** 모델링이 거의 완료되고 더 이상 메쉬 변경이 없을 때 UV 언래핑을 수행하는 것이 가장 효율적입니다.
     *   **UV 맵 확인:** 언래핑 후에는 `UV Editor`에서 UV 맵이 깔끔하게 펼쳐졌는지, 겹치거나 왜곡된 부분이 없는지 확인해야 합니다.
     *   **`Seam` (솔기) 설정:** UV 언래핑 시 `Seam`을 적절히 설정하여 모델을 효율적으로 펼치는 것이 중요합니다.
-
 
 # Roblox 네트워크 통신: Remote Event와 Unreliable Remote Event 심층 분석
 
