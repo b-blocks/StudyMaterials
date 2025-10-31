@@ -2259,9 +2259,6 @@ YouTube에서 보는 대부분의 온라인 백만장자들은 사기입니다. 
 
 ## 53. The Ultimate Science-Based Morning Routine for Entrepreneurs (2023)
 **URL:** https://www.youtube.com/watch?v=_PBu04o20c0    (
-
-다음은 YouTube 영상의 자막 내용을 바탕으로 재구성한 깊이 있는 학습 자료입니다.
-
 ---
 
 # 성공적인 기업가를 위한 과학 기반 모닝 루틴
@@ -2396,9 +2393,6 @@ YouTube에서 보는 대부분의 온라인 백만장자들은 사기입니다. 
 
 ## 54. The perfect seed stage pitch deck outline - just 8 slides
 **URL:** https://www.youtube.com/watch?v=eRu9xP2yZYo    (
-
-다음은 YouTube 영상의 자막 내용을 바탕으로 재구성한 깊이 있는 학습 자료입니다.
-
 # 시드 단계 펀드레이징 피치 덱 완벽 가이드
 
 ## 1. 개요 (Overview)
@@ -2669,9 +2663,6 @@ YouTube에서 보는 대부분의 온라인 백만장자들은 사기입니다. 
 
 ## 56. Hustle culture will kill your startup
 **URL:** https://www.youtube.com/watch?v=Fjx1f5XiXz8    (
-
-다음은 YouTube 영상의 자막 내용을 바탕으로 재구성한 깊이 있는 학습 자료입니다.
-
 ---
 
 # 성공적인 기업가를 위한 생산성 전략
@@ -2911,9 +2902,6 @@ YouTube에서 보는 대부분의 온라인 백만장자들은 사기입니다. 
 
 ## 58. The dirty secret of raising VC money (Momentum Manipulation)
 **URL:** https://www.youtube.com/watch?v=FNq7hZqXdhU    (
-
-다음은 YouTube 영상의 자막 내용을 바탕으로 재구성한 깊이 있는 학습 자료입니다.
-
 ---
 
 # 스타트업 자금 조달의 비밀 – 모멘텀 조작 (Momentum Manipulation)
@@ -3569,9 +3557,6 @@ Micaiah의 회사는 2017년 1월, 은행 잔고가 3주치 현금밖에 남지 
 
 ## 65. How To Get Customers For Your Startup (Beginner Guide)
 **URL:** https://www.youtube.com/watch?v=PJ52jZlpj74    (
-
-다음은 YouTube 영상의 자막 내용을 바탕으로 재구성한 깊이 있는 학습 자료입니다.
-
 ---
 
 # 스타트업 초기 고객 확보 전략: 제품 없이 52만 달러 매출 달성 비법

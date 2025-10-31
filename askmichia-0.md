@@ -1,9 +1,9 @@
 # askmichia
 
-## 1. Watch This Before Starting Any Business in 2025
+# 1. Watch This Before Starting Any Business in 2025
 **URL:** https://www.youtube.com/watch?v=Jf_ZCSjJzck    (
 
-# 현재 기업가에게 가장 위험한 시기
+현재 기업가에게 가장 위험한 시기
 
 ## 1. 개요 (Overview)
 이 문서는 2007년부터 사업을 구축하고 현재는 창업가들에게 투자하는 연사의 경험을 바탕으로, 현재 기업가들이 직면한 위험과 기회에 대해 심층적으로 분석합니다. 특히 기술 산업의 급변하는 환경, AI 기술의 부상과 그에 따른 과대광고, 그리고 시장의 불확실성 속에서 기업가들이 피해야 할 사업 유형과 성공적인 사업을 구축하기 위한 핵심 원칙을 제시합니다. 이 자료는 현재 사업을 운영 중이거나 창업을 준비하는 모든 기업가들이 잘못된 길로 시간을 낭비하지 않고, 견고하고 지속 가능한 비즈니스를 설계하는 데 필요한 통찰력을 제공하는 것을 목적으로 합니다.
@@ -933,9 +933,6 @@ I am ready for your first command.
 
 ## 9. How to Make Better Decisions Than 99% of People
 **URL:** https://www.youtube.com/watch?v=K2RdzPGG9Dc    (
-
-다음은 YouTube 영상의 자막 내용을 바탕으로 재구성한 깊이 있는 학습 자료입니다.
-
 ---
 
 # 의사결정 마스터하기: 성공을 위한 빌리어네어의 사고방식
@@ -3904,9 +3901,6 @@ Micaa는 현재 전 세계를 여행하고 슈퍼카 경주를 즐기는 등 풍
 
 ## 32. Everything I Learned From Building a $110M Company in 28 Minutes
 **URL:** https://www.youtube.com/watch?v=keYTc1oYb8Y    (
-
-다음은 YouTube 영상의 자막 내용을 바탕으로 재구성한 깊이 있는 학습 자료입니다.
-
 ---
 
 # 1. 개요 (Overview)
