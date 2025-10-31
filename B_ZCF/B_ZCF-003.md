@@ -3288,7 +3288,7 @@ AI 시대의 소프트웨어 패러다임 변화는 새로운 비즈니스 기�
 ## 85. 97년생 메타 인공지능 총괄
 **URL:** https://www.youtube.com/watch?v=kflvqZbh5yc    (
 
-## YouTube 영상 기반 심층 학습 자료: Scale AI의 혁신과 AI 시대의 미래
+## Scale AI의 혁신과 AI 시대의 미래
 
 ---
 
