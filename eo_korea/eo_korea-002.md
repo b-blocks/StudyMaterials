@@ -2747,7 +2747,7 @@ AI가 '무엇을(What)'과 '어떻게(How)'를 해결해 줄수록, 인간은 '�
 ## 56. 카카오, 쿠팡, 토스 초기투자자가 700번의 투자에서 배운 것 | 굿워터캐피탈 에릭 킴
 **URL:** https://www.youtube.com/watch?v=xWiSJiXjPWg    (
 
-## 제목: Goodwater Capital 에릭 킴이 말하는 위대한 투자와 창업의 본질
+## Goodwater Capital 에릭 킴이 말하는 위대한 투자와 창업의 본질
 
 ---
 

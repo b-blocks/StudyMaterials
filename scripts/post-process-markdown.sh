@@ -32,6 +32,7 @@ find ../ -type f -name "*.md" | while read -r file; do
   sed -i '' 's/^#### #### /#### /g' "$file"
   sed -i '' 's/^##### ### /##### /g' "$file"
   sed -i '' 's/# 장 제목:/#/g' "$file"
+  sed -i '' 's/# 제목:/#/g' "$file"
   sed -i '' 's/핵심 요약 (Executive Summary)/핵심 요약/g' "$file"
   sed -i '' 's/핵심 요약 (Hook)/핵심 요약/g' "$file"
   sed -i '' 's/상세 내용 (Detailed Content)/상세 내용/g' "$file"

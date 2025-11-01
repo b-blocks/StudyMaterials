@@ -1,4 +1,4 @@
-# 제목: 유전자 DNA 연구자 박종화 교수의 게놈과 인생 이야기
+# 유전자 DNA 연구자 박종화 교수의 게놈과 인생 이야기
 
 ## 1. 핵심 요약
 *   **게놈 기술의 혁명적 발전**: 20년 만에 게놈 해독 비용과 시간이 획기적으로 단축되었으며, 이는 의료, 농업, 환경 등 다양한 분야에 혁신적인 변화를 가져오고 있습니다.
@@ -116,7 +116,7 @@
 ## 721. 다음 커뮤니케이션 창업자 이택경의 창업과 투자 이야기
 **URL:** https://www.youtube.com/watch?v=EczOfNHDB7s    (
 
-# 제목: 다음 커뮤니케이션 창업자 이택경의 창업과 투자 이야기
+# 다음 커뮤니케이션 창업자 이택경의 창업과 투자 이야기
 
 ## 1. 핵심 요약
 *   **인터넷 메가 트렌드 포착**: 다음(Daum) 창업 당시 인터넷이라는 거대한 흐름을 읽고, 아이템을 고정하지 않는 유연한 접근으로 성공.
@@ -231,7 +231,7 @@ IMF 시기, 다음은 B2B 매출 감소와 서버 증설 비용으로 인한 심
     *   `한국 엔젤 투자 생태계`
     *   `Daum Hanmail success story`
     *   `Primer accelerator`
-    *   `Startup ecosystem Korea`The user wants me to create a detailed learning material based on the provided YouTube transcript, following a specific Markdown structure and guidelines. I have analyzed the transcript and outlined the content according to the requested structure. Now I will generate the full Markdown document.# 제목: 다음 커뮤니케이션 창업자 이택경의 창업과 투자 이야기
+    *   `Startup ecosystem Korea`The user wants me to create a detailed learning material based on the provided YouTube transcript, following a specific Markdown structure and guidelines. I have analyzed the transcript and outlined the content according to the requested structure. Now I will generate the full Markdown document.# 다음 커뮤니케이션 창업자 이택경의 창업과 투자 이야기
 
 ## 1. 핵심 요약
 *   **인터넷 메가 트렌드 포착**: 다음(Daum) 창업 당시 인터넷이라는 거대한 흐름을 읽고, 아이템을 고정하지 않는 유연한 접근으로 성공.
@@ -356,7 +356,7 @@ IMF 시기, 다음은 B2B 매출 감소와 서버 증설 비용으로 인한 심
 ## 722. 4,500억 매출 아이리버 디자이너 김영세가 말하는 디자인의 미래
 **URL:** https://www.youtube.com/watch?v=bN3ig6T630E    (
 
-# 제목: 4,500억 매출 아이리버 디자이너 김영세가 말하는 디자인의 미래
+# 4,500억 매출 아이리버 디자이너 김영세가 말하는 디자인의 미래
 
 ## 1. 핵심 요약
 - **디자인의 진화**: 디자인은 단순히 '어떻게 만들 것인가(How to design)'를 넘어 '무엇을 만들 것인가(What to design)'로 확장되었으며, 이는 사업 기획 단계부터 시작되는 '빅 디자인'의 개념을 의미합니다.
@@ -441,7 +441,7 @@ IMF 시기, 다음은 B2B 매출 감소와 서버 증설 비용으로 인한 심
 ## 723. 밀레니얼의 쇼핑을 바꾸다, 패션산업의 미래
 **URL:** https://www.youtube.com/watch?v=-unlo0J6a3g    (
 
-# 제목: 밀레니얼의 쇼핑을 바꾸다, 패션산업의 미래
+# 밀레니얼의 쇼핑을 바꾸다, 패션산업의 미래
 
 ## 1. 핵심 요약
 - 스타트업 성공의 핵심은 초기 비전과 현실의 괴리를 인정하고, 작은 성공 경험(`성공 벡터`)을 통해 지속적인 동기 부여와 문제 해결 역량을 강화하는 것입니다.
@@ -577,7 +577,7 @@ IMF 시기, 다음은 B2B 매출 감소와 서버 증설 비용으로 인한 심
 ## 724. 중국에서 두 번의 사업 실패 후 연매출 20억 앞둔 꽃차 브랜드를 만들기까지
 **URL:** https://www.youtube.com/watch?v=GM48nSpK2sM    (
 
-# 제목: 중국에서 두 번의 사업 실패 후 연매출 20억 앞둔 꽃차 브랜드를 만들기까지
+# 중국에서 두 번의 사업 실패 후 연매출 20억 앞둔 꽃차 브랜드를 만들기까지
 
 ## 1. 핵심 요약
 
@@ -714,7 +714,7 @@ IMF 시기, 다음은 B2B 매출 감소와 서버 증설 비용으로 인한 심
 ## 725. 배민 출신 창업가가 자영업자들을 위해 만든 공유주방 플랫폼
 **URL:** https://www.youtube.com/watch?v=BpBmImFqMxg    (
 
-# 제목: 배민 출신 창업가가 자영업자들을 위해 만든 공유주방 플랫폼
+# 배민 출신 창업가가 자영업자들을 위해 만든 공유주방 플랫폼
 
 ## 1. 핵심 요약
 *   **공유주방 고스트 키친 (Ghost Kitchen)**은 배달 전문 자영업자를 위한 독립된 주방 공간을 제공하는 플랫폼입니다.
@@ -846,7 +846,7 @@ IMF 시기, 다음은 B2B 매출 감소와 서버 증설 비용으로 인한 심
 ## 726. 인텔이 350억에 인수한 스타트업 창업가가 테크 전문 투자 회사를 만든 이유
 **URL:** https://www.youtube.com/watch?v=qNd18juwqes    (
 
-# 제목: 인텔이 350억에 인수한 스타트업 창업가가 테크 전문 투자 회사를 만든 이유
+# 인텔이 350억에 인수한 스타트업 창업가가 테크 전문 투자 회사를 만든 이유
 
 ## 1. 핵심 요약
 - 이중웅 대표는 기술을 통해 인류의 삶을 변화시키고 미래를 만드는 것을 중요하게 생각하며, 현재 AI, 블록체인, AR/VR, IoT 등 혁신적인 기술 재료가 풍부한 시대를 기회로 인식합니다.

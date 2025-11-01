@@ -1563,7 +1563,7 @@ EOS는 강력한 시스템이지만, 모든 비즈니스에 획일적으로 적�
 ## 15. How I built my dream life step by step (just copy me)
 **URL:** https://www.youtube.com/watch?v=MBijvtK-rmc    (
 
-# 제목: How I built my dream life step by step (just copy me)
+# How I built my dream life step by step (just copy me)
 
 ## 1. 핵심 요약
 
@@ -1738,7 +1738,7 @@ EOS는 강력한 시스템이지만, 모든 비즈니스에 획일적으로 적�
 ## 16. How to Become the First Millionaire in Your Family
 **URL:** https://www.youtube.com/watch?v=2lEVLFFiTbI    (
 
-# 제목: How to Become the First Millionaire in Your Family
+# How to Become the First Millionaire in Your Family
 
 ## 1. 핵심 요약
 
