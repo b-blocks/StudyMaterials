@@ -60,7 +60,7 @@
 ---
 
 ## 242. 창업가의 야망, 실패, 자기검열, 돈에 대한 가장 솔직한 이야기 | 최성운의 사고실험 [임혜민]
-**URL:** https://www.youtube.com/watch?v=DPuTKRUYkDw    (
+**** https://www.youtube.com/watch?v=DPuTKRUYkDw    (
 
 # 창업가의 야망, 실패, 자기검열, 돈에 대한 가장 솔직한 이야기 | 최성운의 사고실험 [임혜민]
 
@@ -202,7 +202,7 @@
 ---
 
 ## 243. 실리콘밸리 개발자로 10년, 사업 망하고 우버를 몰다가 깨달은 인생 법칙 | Ceeya 박기상
-**URL:** https://www.youtube.com/watch?v=2OH-xcuyOFk    (
+**** https://www.youtube.com/watch?v=2OH-xcuyOFk    (
 
 # 실리콘밸리 개발자로 10년, 사업 망하고 우버를 몰다가 깨달은 인생 법칙 | Ceeya 박기상
 
@@ -336,7 +336,7 @@ Ceeya의 비전은 단순히 기술적 편의를 제공하는 것을 넘어, 개
 ---
 
 ## 244. 투자자의 배신으로 한국을 떠난 청년이 미국을 매료시킨 브랜드를 만들기까지 | 도깨비어 이영원
-**URL:** https://www.youtube.com/watch?v=8l9YIw9K4u4    (
+**** https://www.youtube.com/watch?v=8l9YIw9K4u4    (
 
 # 투자자의 배신으로 한국을 떠난 청년이 미국을 매료시킨 브랜드를 만들기까지 | 도깨비어 이영원
 
@@ -489,7 +489,7 @@ Ceeya의 비전은 단순히 기술적 편의를 제공하는 것을 넘어, 개
 ---
 
 ## 245. 창업과 성장에 관심 있다면 이 단어를 아실 거예요
-**URL:** https://www.youtube.com/watch?v=b3A4DJ5WWh0    (
+**** https://www.youtube.com/watch?v=b3A4DJ5WWh0    (
 
 # 창업과 성장에 관심 있다면 이 단어를 아실 거예요
 
@@ -600,7 +600,7 @@ Seed TIPS 프로그램의 `데모데이`는 투자자들에게 스타트업의 �
 ---
 
 ## 246. 25년차고요, 제 직업은 개발자를 키우는 개발자입니다 | 오늘의집 CTO
-**URL:** https://www.youtube.com/watch?v=d14cQHBtZc4    (
+**** https://www.youtube.com/watch?v=d14cQHBtZc4    (
 
 # 25년차고요, 제 직업은 개발자를 키우는 개발자입니다 | 오늘의집 CTO
 
@@ -694,7 +694,7 @@ Seed TIPS 프로그램의 `데모데이`는 투자자들에게 스타트업의 �
 ---
 
 ## 247. 저커버그도 따라야 하는 메타(META)의 피드백 원칙
-**URL:** https://www.youtube.com/watch?v=Fn3fGp9s3bY    (
+**** https://www.youtube.com/watch?v=Fn3fGp9s3bY    (
 
 # 저커버그도 따라야 하는 메타(META)의 피드백 원칙
 
@@ -784,7 +784,7 @@ Seed TIPS 프로그램의 `데모데이`는 투자자들에게 스타트업의 �
 ---
 
 ## 248. 처음 리더가 된 사람들을 위한 조언 by 전 메타(META) 수석팀장
-**URL:** https://www.youtube.com/watch?v=UADiwl9SHss    (
+**** https://www.youtube.com/watch?v=UADiwl9SHss    (
 
 # 처음 리더가 된 사람들을 위한 조언 by 전 메타(META) 수석팀장
 
@@ -871,7 +871,7 @@ Seed TIPS 프로그램의 `데모데이`는 투자자들에게 스타트업의 �
 ---
 
 ## 249. 평범한 내가 실리콘밸리에서 20년간 승승장구 할 수 있는 이유 | 테슬라 김동욱
-**URL:** https://www.youtube.com/watch?v=fHS1ZOxCzDA    (
+**** https://www.youtube.com/watch?v=fHS1ZOxCzDA    (
 
 # 평범한 내가 실리콘밸리에서 20년간 승승장구 할 수 있는 이유 | 테슬라 김동욱
 
@@ -1050,7 +1050,7 @@ Seed TIPS 프로그램의 `데모데이`는 투자자들에게 스타트업의 �
 ---
 
 ## 250. 엑셀로 2일 만에 만든 서비스, 2년 만에 매각까지 | 마이루틴 옥민송
-**URL:** https://www.youtube.com/watch?v=huqyFa7O9p0    (
+**** https://www.youtube.com/watch?v=huqyFa7O9p0    (
 
 # 엑셀로 2일 만에 만든 서비스, 2년 만에 매각까지 | 마이루틴 옥민송
 
@@ -1180,7 +1180,7 @@ Seed TIPS 프로그램의 `데모데이`는 투자자들에게 스타트업의 �
 ---
 
 ## 251. 어느날 카카오가 내게 계열사 대표가 되어달라고 했다 | 카카오브레인 김일두
-**URL:** https://www.youtube.com/watch?v=rlP110tnSLU    (
+**** https://www.youtube.com/watch?v=rlP110tnSLU    (
 
 # 어느날 카카오가 내게 계열사 대표가 되어달라고 했다 | 카카오브레인 김일두
 
@@ -1318,7 +1318,7 @@ Seed TIPS 프로그램의 `데모데이`는 투자자들에게 스타트업의 �
 ---
 
 ## 252. 12년 동안 이 기술만 연구했습니다 | 씨에이랩 IR 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=6BS4YgPS3TQ    (
+**** https://www.youtube.com/watch?v=6BS4YgPS3TQ    (
 
 # 12년 동안 이 기술만 연구했습니다 | 씨에이랩 IR 피칭, Q&A
 
@@ -1451,7 +1451,7 @@ Seed TIPS 프로그램의 `데모데이`는 투자자들에게 스타트업의 �
 ---
 
 ## 253. 쌓아왔던 것에서 벗어나 새로운 도전을 하고 싶다면 | CoDo
-**URL:** https://www.youtube.com/watch?v=RA5udnqbiIQ    (
+**** https://www.youtube.com/watch?v=RA5udnqbiIQ    (
 
 # 쌓아왔던 것에서 벗어나 새로운 도전을 하고 싶다면 | CoDo
 
@@ -1546,7 +1546,7 @@ Seed TIPS 프로그램의 `데모데이`는 투자자들에게 스타트업의 �
 ---
 
 ## 254. 미세먼지 '이걸' 로 쉽게 볼 수 있죠 | 딥비전스 IR 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=uMhAYdRJ2nU    (
+**** https://www.youtube.com/watch?v=uMhAYdRJ2nU    (
 
 # 미세먼지 '이걸' 로 쉽게 볼 수 있죠 | 딥비전스 IR 피칭, Q&A
 
@@ -1670,7 +1670,7 @@ Seed TIPS 프로그램의 `데모데이`는 투자자들에게 스타트업의 �
 ---
 
 ## 255. 회사에 불만은 있지만 뭘 하고 싶은지 모르는 당신에게 I 구글 UX 리드 김은주
-**URL:** https://www.youtube.com/watch?v=iT3X2vMvqHE    (
+**** https://www.youtube.com/watch?v=iT3X2vMvqHE    (
 
 # 회사에 불만은 있지만 뭘 하고 싶은지 모르는 당신에게 I 구글 UX 리드 김은주
 
@@ -1793,7 +1793,7 @@ Seed TIPS 프로그램의 `데모데이`는 투자자들에게 스타트업의 �
 ---
 
 ## 256. 창업하는 모든 사람들이 알아야 하는 지원 사업ㅣ초기창업패키지
-**URL:** https://www.youtube.com/watch?v=ulpxSLY7HvI    (
+**** https://www.youtube.com/watch?v=ulpxSLY7HvI    (
 
 # 창업하는 모든 사람들이 알아야 하는 지원 사업ㅣ초기창업패키지
 
@@ -1870,7 +1870,7 @@ Seed TIPS 프로그램의 `데모데이`는 투자자들에게 스타트업의 �
 ---
 
 ## 257. 대학 중퇴 후 창업, 11년을 버티며 빛을 본 지금에야 깨달은 것 | Allo 홍용남
-**URL:** https://www.youtube.com/watch?v=bo5Z1ugNl5U    (
+**** https://www.youtube.com/watch?v=bo5Z1ugNl5U    (
 
 # 대학 중퇴 후 창업, 11년을 버티며 빛을 본 지금에야 깨달은 것 | Allo 홍용남
 
@@ -1968,7 +1968,7 @@ Seed TIPS 프로그램의 `데모데이`는 투자자들에게 스타트업의 �
 ---
 
 ## 258. 우리는 왜 이제야 만났을까요 😂 투자자들의 탄식 | 인투코어테크놀로지 IR 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=fHohaxTfDwA    (
+**** https://www.youtube.com/watch?v=fHohaxTfDwA    (
 
 # 우리는 왜 이제야 만났을까요 😂 투자자들의 탄식 | 인투코어테크놀로지 IR 피칭, Q&A
 
@@ -2113,7 +2113,7 @@ Seed TIPS 프로그램의 `데모데이`는 투자자들에게 스타트업의 �
 ---
 
 ## 259. 눈 깜빡임에서 사업 기회를 발견했죠 👀 | 비주얼캠프 IR 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=jz3nbUa_wfk    (
+**** https://www.youtube.com/watch?v=jz3nbUa_wfk    (
 
 # 눈 깜빡임에서 사업 기회를 발견했죠 👀 | 비주얼캠프 IR 피칭, Q&A
 
@@ -2304,7 +2304,7 @@ B2B 영업의 특성상 계약부터 실제 수익 발생까지 시간이 소요
 ---
 
 ## 260. 바닥부터 시작해 아마존의 리드 자리까지 오르게 만든 성장통ㅣAmazon 방비룡
-**URL:** https://www.youtube.com/watch?v=w_JOomDg70A    (
+**** https://www.youtube.com/watch?v=w_JOomDg70A    (
 
 # 바닥부터 시작해 아마존의 리드 자리까지 오르게 만든 성장통ㅣAmazon 방비룡
 
@@ -2382,7 +2382,7 @@ B2B 영업의 특성상 계약부터 실제 수익 발생까지 시간이 소요
 ---
 
 ## 261. 중대발표 여러분 EO를 도와주세요
-**URL:** https://www.youtube.com/watch?v=1e79ltiuvco    (
+**** https://www.youtube.com/watch?v=1e79ltiuvco    (
 
 # 중대발표 여러분 EO를 도와주세요
 
@@ -2494,7 +2494,7 @@ EO 채널은 단순히 사연을 제공받는 것을 넘어, `작품 반영`, `�
 ---
 
 ## 262. 사업가보다는 사명가로 불리고 싶습니다ㅣ브라더스키퍼 IR 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=U3975OUB3Q8    (
+**** https://www.youtube.com/watch?v=U3975OUB3Q8    (
 
 # 사업가보다는 사명가로 불리고 싶습니다ㅣ브라더스키퍼 IR 피칭, Q&A
 
@@ -2603,7 +2603,7 @@ EO 채널은 단순히 사연을 제공받는 것을 넘어, `작품 반영`, `�
 ---
 
 ## 263. 갓생을 꿈꾸던 대학생이 세계 170개 국가의 아침을 깨우기까지 | 알라미
-**URL:** https://www.youtube.com/watch?v=PnsSgqldfzU    (
+**** https://www.youtube.com/watch?v=PnsSgqldfzU    (
 
 # 갓생을 꿈꾸던 대학생이 세계 170개 국가의 아침을 깨우기까지 | 알라미
 
@@ -2698,7 +2698,7 @@ EO 채널은 단순히 사연을 제공받는 것을 넘어, `작품 반영`, `�
 ---
 
 ## 264. 무려 20억 목표가 눈앞이죠ㅣ어나더데이 IR 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=MsJfLhWU8b4    (
+**** https://www.youtube.com/watch?v=MsJfLhWU8b4    (
 
 # 무려 20억 목표가 눈앞이죠ㅣ어나더데이 IR 피칭, Q&A
 
@@ -2833,7 +2833,7 @@ EO 채널은 단순히 사연을 제공받는 것을 넘어, `작품 반영`, `�
 ---
 
 ## 265. 실리콘밸리에서 라이브로 전합니다, 한국에서 만나보세요 ㅣ82 STARTUP GLOBAL SUMMIT
-**URL:** https://www.youtube.com/watch?v=LI62sbcu-Oo    (
+**** https://www.youtube.com/watch?v=LI62sbcu-Oo    (
 
 # 실리콘밸리에서 라이브로 전합니다, 한국에서 만나보세요 ㅣ82 STARTUP GLOBAL SUMMIT
 
@@ -2926,7 +2926,7 @@ EO 채널은 단순히 사연을 제공받는 것을 넘어, `작품 반영`, `�
 ---
 
 ## 266. 아이폰 다음으로 세상을 완전히 바꿀 기술, 10년 전부터 준비했죠
-**URL:** https://www.youtube.com/watch?v=QEosmEQrxII    (
+**** https://www.youtube.com/watch?v=QEosmEQrxII    (
 
 # 아이폰 다음으로 세상을 완전히 바꿀 기술, 10년 전부터 준비했죠
 
@@ -3068,7 +3068,7 @@ EHT는 디지털 트윈 서비스 기술이 스마트폰처럼 `없어서는 안
 ---
 
 ## 267. 70점도 충분해요 대신 계속하세요 | 워킹맘 특집 2부
-**URL:** https://www.youtube.com/watch?v=kbjkK27URvk    (
+**** https://www.youtube.com/watch?v=kbjkK27URvk    (
 
 # 70점도 충분해요 대신 계속하세요 | 워킹맘 특집 2부
 
@@ -3219,7 +3219,7 @@ EHT는 디지털 트윈 서비스 기술이 스마트폰처럼 `없어서는 안
 ---
 
 ## 268. 10년 동안 3번 망할 뻔했던 위기 끝에서 찾아낸 희망
-**URL:** https://www.youtube.com/watch?v=xKVMeKnxU-0    (
+**** https://www.youtube.com/watch?v=xKVMeKnxU-0    (
 
 # 10년 동안 3번 망할 뻔했던 위기 끝에서 찾아낸 희망
 
@@ -3314,7 +3314,7 @@ EHT는 디지털 트윈 서비스 기술이 스마트폰처럼 `없어서는 안
 ---
 
 ## 269. 환자 식단이 이렇게 맛있을 수 있다고? | 잇마플 IR 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=3Bd7ZjARLZI    (
+**** https://www.youtube.com/watch?v=3Bd7ZjARLZI    (
 
 # 환자 식단이 이렇게 맛있을 수 있다고? | 잇마플 IR 피칭, Q&A
 
@@ -3413,7 +3413,7 @@ IR 피칭 후 이어진 Q&A 세션에서는 제품 배송 형태와 데이터 �
 ---
 
 ## 270. 대학원을 나와 토마토 농장으로 내려간 공대생의 5년 | 아이오크롭스
-**URL:** https://www.youtube.com/watch?v=xdIgeyVwiSc    (
+**** https://www.youtube.com/watch?v=xdIgeyVwiSc    (
 
 # 대학원을 나와 토마토 농장으로 내려간 공대생의 5년 | 아이오크롭스
 
@@ -3525,7 +3525,7 @@ IR 피칭 후 이어진 Q&A 세션에서는 제품 배송 형태와 데이터 �
 ---
 
 ## 271. 코로나 초기엔 하루에 1명 온 날도 많았어요 | 째깍악어
-**URL:** https://www.youtube.com/watch?v=wGMz9xig38c    (
+**** https://www.youtube.com/watch?v=wGMz9xig38c    (
 
 # 코로나 초기엔 하루에 1명 온 날도 많았어요 | 째깍악어
 
@@ -3626,7 +3626,7 @@ IR 피칭 후 이어진 Q&A 세션에서는 제품 배송 형태와 데이터 �
 ---
 
 ## 272. 내가 나를 포기했다고 생각했을 때 가장 슬펐어요 | 워킹맘 특집 1부
-**URL:** https://www.youtube.com/watch?v=NlEIGG7xxQs    (
+**** https://www.youtube.com/watch?v=NlEIGG7xxQs    (
 
 # 내가 나를 포기했다고 생각했을 때 가장 슬펐어요 | 워킹맘 특집 1부
 
@@ -3710,7 +3710,7 @@ IR 피칭 후 이어진 Q&A 세션에서는 제품 배송 형태와 데이터 �
 ---
 
 ## 273. 한때 600만 명이 쓰는 서비스를 만들었던 젊은 사업가의 시행착오 | 더대시
-**URL:** https://www.youtube.com/watch?v=qJcUpifoyzo    (
+**** https://www.youtube.com/watch?v=qJcUpifoyzo    (
 
 # 한때 600만 명이 쓰는 서비스를 만들었던 젊은 사업가의 시행착오 | 더대시
 
@@ -3810,4 +3810,4 @@ IR 피칭 후 이어진 Q&A 세션에서는 제품 배송 형태와 데이터 �
 ---
 
 ## 274. 핀테크의 새로운 기준이 되겠습니다 | 윙크스톤파트너스 IR 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=SnWiV_T7Z8A    (
+**** https://www.youtube.com/watch?v=SnWiV_T7Z8A    (

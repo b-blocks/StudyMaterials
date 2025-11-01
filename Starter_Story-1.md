@@ -102,7 +102,7 @@
 *   **주의사항:** 이 조언은 장기적인 계획이나 목표 설정의 중요성을 부정하는 것이 아닙니다. 오히려 장기적인 목표를 향해 나아가는 과정에서 겪는 어려움을 극복하기 위한 현실적인 마음가짐으로 이해해야 합니다.
 
 # I Turned One Website Into $1M/Year
-**URL:** https://www.youtube.com/watch?v=7pCgbhUWW54
+**** https://www.youtube.com/watch?v=7pCgbhUWW54
 
 "지루한" 틈새시장에서 100만 달러 비즈니스 구축하기
 
@@ -236,7 +236,7 @@
 *   **주의사항:** 돈을 많이 버는 것만이 성공의 척도가 아니며, 자신이 추구하는 삶의 가치와 비즈니스 목표를 일치시키는 것이 중요합니다.
 
 # I Make $1M/Month From Bed
-**URL:** https://www.youtube.com/watch?v=dphK9rh2F5U
+**** https://www.youtube.com/watch?v=dphK9rh2F5U
 
 Sheets & Giggles, 월 100만 달러 브랜드 구축 전략
 
@@ -405,7 +405,7 @@ Colin은 25~27세의 자신에게 다음과 같은 조언을 해줄 것이라고
 *   **주의사항:**
 
 # I Hacked Reddit To Build A $1M Business
-**URL:** https://www.youtube.com/watch?v=ptT0tfzeu8I
+**** https://www.youtube.com/watch?v=ptT0tfzeu8I
 
 '관심'을 해킹하여 백만 달러 사업을 구축하는 법
 
@@ -491,7 +491,7 @@ Colin은 25~27세의 자신에게 다음과 같은 조언을 해줄 것이라고
 *   **주의사항:** '알고리즘 해킹'은 단기적인 전략일 수 있습니다. 장기적인 성공을 위해서는 진정으로 고객에게 가치를 제공하고, 플랫폼과의 상생 관계를 유지하는 것이 중요합니다.
 
 # The Multipreneur: He Makes $10M/Year With 6 Businesses
-**URL:** https://www.youtube.com/watch?v=akM6P97_0B8
+**** https://www.youtube.com/watch?v=akM6P97_0B8
 
 그렉 아이젠버그의 멀티프러너 성공 전략
 
@@ -603,7 +603,7 @@ Colin은 25~27세의 자신에게 다음과 같은 조언을 해줄 것이라고
 *   **주의사항:** 사회적 성공의 기준에 얽매이지 않고, 자신만의 가치와 행복을 추구하는 것이 진정한 성공으로 이어질 수 있습니다.
 
 # I Make $1M/Year As An Introvert
-**URL:** https://www.youtube.com/watch?v=trNGj1BN1GU
+**** https://www.youtube.com/watch?v=trNGj1BN1GU
 
 내향인을 위한 100만 달러 고스트라이팅 비즈니스 구축 전략
 
@@ -785,7 +785,7 @@ Colin은 25~27세의 자신에게 다음과 같은 조언을 해줄 것이라고
 *   **주의사항:** 자신의 강점을 파악하는 것은 자기 성찰과 다양한 경험을 통해 이루어집니다. 또한, 끈기는 타고나는 것이 아니라 훈련을 통해 길러지는 능력입니다.
 
 # They Make $1.4M/Year With AI
-**URL:** https://www.youtube.com/watch?v=b5JhfGHafZA
+**** https://www.youtube.com/watch?v=b5JhfGHafZA
 
 AI 앱으로 0에서 월 12만 달러 MRR 달성하기
 
@@ -880,7 +880,7 @@ AI 앱으로 0에서 월 12만 달러 MRR 달성하기
 *   **예시/사례:** 분기별 대면 미팅과 주 2회 짧은 스탠드업 콜은 원격 팀이 효율적으로 협업하고 중요한 결정을 내리는 데 도움이 됩니다.
 
 # He Quit His Job And Makes $10M/Year Writing Online
-**URL:** https://www.youtube.com/watch?v=OoFqTMPW_3E
+**** https://www.youtube.com/watch?v=OoFqTMPW_3E
 
 온라인 글쓰기로 1,000만 달러 사업 구축하기
 
@@ -994,7 +994,7 @@ AI 앱으로 0에서 월 12만 달러 MRR 달성하기
     *   **완벽한 때를 기다리지 않기:** "완벽한 때란 없다."는 생각으로 오늘 당장 한 걸음이라도 내딛는 것이 중요합니다. "Kill your wantes (원하는 것들을 죽
 
 # I Built A $1M SaaS In 87 Days
-**URL:** https://www.youtube.com/watch?v=WctFUP4w0sc
+**** https://www.youtube.com/watch?v=WctFUP4w0sc
 
 87일 만에 100만 달러 SaaS를 구축한 비결
 
@@ -1126,7 +1126,7 @@ AI 앱으로 0에서 월 12만 달러 MRR 달성하기
 *   **주의사항:** 성공은 단기간에 이루어지지 않습니다. 인내심을 가지고 꾸준히 노력하며, 자신의 강점과 약점을 파악하여 지속적으로 개선해나가야 합니다.
 
 # I Turned $150 into $2M/Year
-**URL:** https://www.youtube.com/watch?v=8yCXyCN_NR0
+**** https://www.youtube.com/watch?v=8yCXyCN_NR0
 
 150달러로 200만 달러 AI 앱을 만든 조셉의 성공 전략
 
@@ -1351,7 +1351,7 @@ AI 앱으로 0에서 월 12만 달러 MRR 달성하기
 *   **주의사항:** 무료 티어의 한계를 명확히 이해하고, 서비스가 성장함에 따라 발생하는 기술적, 재정적 문제를 미리 대비해야 합니다.
 
 # The Underdog: From $10/hr to $1.5M/Year
-**URL:** https://www.youtube.com/watch?v=WGVxAmmJUmY
+**** https://www.youtube.com/watch?v=WGVxAmmJUmY
 
 실패를 딛고 연 150만 달러 솔로프러너가 된 Mark Lou의 이야기
 
@@ -1463,7 +1463,7 @@ Mark는 자신의 경험을 통해 "지금 시작하고 빠르게 출시하라"�
         *   **"If you don't quit, then at some point you'll win."** (포기하지 않는다면, 언젠가는 이길 것이다.)
 
 # How I Built It: $20K/Month Chrome Extension
-**URL:** https://www.youtube.com/watch?v=ty9ZcimL6VE
+**** https://www.youtube.com/watch?v=ty9ZcimL6VE
 
 AI 시대, 솔로프리너의 성공 전략
 
@@ -1612,7 +1612,7 @@ AI 시대, 솔로프리너의 성공 전략
 *   **주의사항:** 강점에 집중하되, 약점을 보완하거나 필요한 경우 외부 도움을 받는 것도 고려해야 합니다.
 
 # Faceless: From Immigrant to $1M/Year
-**URL:** https://www.youtube.com/watch?v=TNZmNIYv050
+**** https://www.youtube.com/watch?v=TNZmNIYv050
 
 익명 디자이너의 120만 달러 성공 신화
 
@@ -1691,7 +1691,7 @@ AI 시대, 솔로프리너의 성공 전략
 *   **주의사항:** 성공은 단거리 경주가 아닌 마라톤입니다. 꾸준한 노력과 인내, 그리고 자신에 대한 믿음이 필요합니다.
 
 # How I Built It: $40K/Month iPhone App
-**URL:** https://www.youtube.com/watch?v=loXc0Tyi4R4
+**** https://www.youtube.com/watch?v=loXc0Tyi4R4
 
 모바일 앱 창업 성공 전략: 코딩 없이 월 4만 달러 수익 달성하기
 
@@ -1805,7 +1805,7 @@ AI 시대, 솔로프리너의 성공 전략
 *   **주의사항:** 아이디어에 대한 맹신은 금물입니다. 항상 `사용자 피드백`과 `데이터`를 기반으로 `반복`하고 `개선`해야
 
 # How I Built It: $10K/Month AI Image Generator
-**URL:** https://www.youtube.com/watch?v=mjCa8IFjM2E
+**** https://www.youtube.com/watch?v=mjCa8IFjM2E
 
 풀타임 직장인이 10만 달러 AI 앱을 만든 비결
 
@@ -1905,7 +1905,7 @@ AI 시대, 솔로프리너의 성공 전략
 *   **주의사항:** 조언은 듣는 것만으로는 부족합니다. 실제로 행동으로 옮기고, 그 과정에서 발생하는 어려움을 극복하려는 의
 
 # 9 Things That Make Me $1.8M/Year
-**URL:** https://www.youtube.com/watch?v=GFnBp8lMIf4
+**** https://www.youtube.com/watch?v=GFnBp8lMIf4
 
 성공적인 기업가의 필수 도구와 습관
 
@@ -1998,7 +1998,7 @@ AI 시대, 솔로프리너의 성공 전략
 *   **주의사항:** 이메일 마케팅은 단순히 이메일을 보내는 것이 아니라, 가치 있는 콘텐츠를 제공하고, 고객 세분화를 통해 개인화된 메시지를 전달하며, 지속적으로 성과를 분석하고 최적화하는 노력이 필요
 
 # The day I hit reset on my life
-**URL:** https://www.youtube.com/watch?v=xZDofUHbZHA
+**** https://www.youtube.com/watch?v=xZDofUHbZHA
 
 "무엇을 망설이는가? 꿈을 향한 365일의 여정"
 
@@ -2073,7 +2073,7 @@ AI 시대, 솔로프리너의 성공 전략
 *   **주의사항:** 목표 달성 이후에도 안주하지 않고, 끊임없이 배우고 성장하며 새로운 도전에 맞설 준비가 되어 있어야 합니다.
 
 # How I Built It: $37K/Month Notion App
-**URL:** https://www.youtube.com/watch?v=WuzxmeUP6ro
+**** https://www.youtube.com/watch?v=WuzxmeUP6ro
 
 6일 만에 MVP로 연 40만 달러를 버는 솔로프리너의 비밀
 
@@ -2193,7 +2193,7 @@ AI 시대, 솔로프리너의 성공 전략
 *   **주의사항:** '행동 편향'이 무모한 행동을 의미하는 것은 아닙니다. 충분한 시장 조사와 검증 없이 무작정 뛰어들기보다는, 작은 규모로 빠르게 실험하고 학습하는 태도가 중요합니다.
 
 # How I Built It: $12K/Month Micro SaaS
-**URL:** https://www.youtube.com/watch?v=TCGXT7ySco8
+**** https://www.youtube.com/watch?v=TCGXT7ySco8
 
 9 to 5 직장인에서 월 1만 달러 솔로프리너가 되기까지
 
@@ -2317,7 +2317,7 @@ AI 시대, 솔로프리너의 성공 전략
 *   **주의사항**: 조언을 무시하라는 것이 아니라, 맹목적으로 따르지 말고 비판적으로 수용하라는 의미입니다. 다양한 관점을 듣고 자신의 상황에 맞게 재해석하는 능력이 필요합니다.
 
 # I Make $15K/Month With 2 AI Apps
-**URL:** https://www.youtube.com/watch?v=G4nsGvL4Fo0
+**** https://www.youtube.com/watch?v=G4nsGvL4Fo0
 
 성공적인 솔로프러너의 제품 개발 및 성장 전략
 
@@ -2424,7 +2424,7 @@ AI 시대, 솔로프리너의 성공 전략
 *   **주의사항:** '작은 도구'에 집중하더라도, 시장의 수요와 경쟁 환경을 충분히 고려해야 합니다.
 
 # The Underdog: He Turned His Last $1,000 Into $150M
-**URL:** https://www.youtube.com/watch?v=ZEIPj7QbZeI
+**** https://www.youtube.com/watch?v=ZEIPj7QbZeI
 
 1,000달러에서 1억 5천만 달러 기업으로: Lemlist 창업자 Guam Mubes의 여정
 
@@ -2570,7 +2570,7 @@ AI 시대, 솔로프리너의 성공 전략
 *   **주의사항:** 성공의 정의는 개인마다 다르며, 물질적 성취가 반드시 행복으로 이어지는 것은 아닙니다. 자신만의 가치와 목표를 설정하는 것이 중요합니다.
 
 # He Made $10M with 3 iPhone Apps
-**URL:** https://www.youtube.com/watch?v=5u9u8yzPEpA
+**** https://www.youtube.com/watch?v=5u9u8yzPEpA
 
 YouTube AI 앱 성공 전략: Blake Anderson의 1천만 달러 여정
 
@@ -2809,7 +2809,7 @@ Blake는 자신의 경험을 통해 얻은 중요한 교훈과 현재의 열정�
     *   **심화 설명:** 초심 사고는 문제를 가장 기본적인 요소로 분해하고, 그 요소들로부터 새로운 해결책을 구축하는 방식입니다. 이는 기존의 가정이나 관습에 얽매이지 않고 혁신적인 아이디어를 창출하는 데 도움이 됩니다.
 
 # How I Built It: $20K/Month AI App as a Non-Technical Founder
-**URL:** https://www.youtube.com/watch?v=yue9in5oh64
+**** https://www.youtube.com/watch?v=yue9in5oh64
 
 AI 이력서 빌더 성공 사례 분석: 비기술 창업가를 위한 AI 비즈니스 청사진
 
@@ -2912,7 +2912,7 @@ AI 이력서 빌더 성공 사례 분석: 비기술 창업가를 위한 AI 비�
 *   **주의사항:** AI 도구는 보조적인 수단이며, 핵심 비즈니스 가치와 고객 문제 해결에 집중하는 것이 우선되어야 합니다.
 
 # The Underdog: From Life Changing Accident to $100M/Year
-**URL:** https://www.youtube.com/watch?v=BeRKQkU5Ceo
+**** https://www.youtube.com/watch?v=BeRKQkU5Ceo
 
 역경을 딛고 1억 달러 기업을 일군 라이언 첸의 스토리
 
@@ -3078,7 +3078,7 @@ AI 이력서 빌더 성공 사례 분석: 비기술 창업가를 위한 AI 비�
     *   **주의사항:** '일단 시작하라'는 무모하게 뛰어들라는 의미가 아닙니다. 최소한의 계획과 검증을 바탕으로 실행하고, 빠르게 피드백을 받아 개선하는 반복적인 과정이 중요합니다.
 
 # The Underdog: From $200K in Debt to $1M App Maker
-**URL:** https://www.youtube.com/watch?v=h9R6ZeNruuI
+**** https://www.youtube.com/watch?v=h9R6ZeNruuI
 
 20만 달러 빚더미에서 월 5만 달러 앱 개발자로 거듭나기
 
@@ -3227,7 +3227,7 @@ AI 이력서 빌더 성공 사례 분석: 비기술 창업가를 위한 AI 비�
     *   **주의사항:** 창조 행위가 스트레스나 강박으로 이어지지 않도록, 과정 자체를 즐기고 균형을 유지하는 것이 중요합니다.
 
 # I Quit My Job & Accidentally Built A $10M Business
-**URL:** https://www.youtube.com/watch?v=gU9FtZIfb_M
+**** https://www.youtube.com/watch?v=gU9FtZIfb_M
 
 우연히 1,000만 달러 사업을 일군 비결
 
@@ -3323,7 +3323,7 @@ AI 이력서 빌더 성공 사례 분석: 비기술 창업가를 위한 AI 비�
 *   **주의사항:** 무모한 도전과 두려움 없는 의사결정은 다릅니다. 충분한 정보 탐색과 리스크 분석을 바탕으로 하되, 결과에 대한 과도한 두려움 때문에 행동을 주저하지 말아야 합니다.
 
 # The $10M AI SaaS Playbook
-**URL:** https://www.youtube.com/watch?v=KcCnqLBhvXY
+**** https://www.youtube.com/watch?v=KcCnqLBhvXY
 
 $10M AI 플레이북 - 단기 영상으로 폭발적 성장을 이끄는 전략
 
@@ -3586,7 +3586,7 @@ David Park이 전하는 성공을 위한 핵심 조언입니다.
 *   **실패를 통한 학습:** 처음 몇 번의 이메일은 어색하고 무시당할 수 있으며, 첫 인플루언서 파트너십은 손실을 볼 수도 있습니다. 하지만 이러한 경험을 통해 배우고 데이터를 축적하여 더 나은 파트너십을 구축할 수 있습니다.
 
 ## I Built a $10K/Month App from My Mom’s Basement
-**URL:** https://www.youtube.com/watch?v=qeY283nBhIA
+**** https://www.youtube.com/watch?v=qeY283nBhIA
 
 # 잭 픽스(Jack Ficks)의 월 1만 달러 앱 개발 성공 전략: 솔로 창업가를 위한 실전 가이드
 
@@ -3734,7 +3734,7 @@ David Park이 전하는 성공을 위한 핵심 조언입니다.
 | 용어 (영문 원어)           | 한글 설명
 
 ## I Locked Myself In A Room, Made 17 Apps, & Sold 2 for $265,000
-**URL:** https://www.youtube.com/watch?v=zPijWd9uk-I
+**** https://www.youtube.com/watch?v=zPijWd9uk-I
 
 # 2개월 만에 코딩 독학 후 앱 개발 및 판매로 26만 5천 달러 벌기
 
@@ -3857,7 +3857,7 @@ David Park이 전하는 성공을 위한 핵심 조언입니다.
 ### 3.6
 
 ## I Make $60K/Month Running 4 Products
-**URL:** https://www.youtube.com/watch?v=KpVPST_P4W8
+**** https://www.youtube.com/watch?v=KpVPST_P4W8
 
 # 개발자의 4가지 온라인 비즈니스 성공 전략 (월 6만 달러 수익 달성)
 

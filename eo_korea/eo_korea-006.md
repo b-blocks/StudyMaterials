@@ -123,7 +123,7 @@
 ---
 
 ## 177. 한국 개발자 최고 1타강사 김영한의 인생 [1부]
-**URL:** https://www.youtube.com/watch?v=_HTj5b59Em0    (
+**** https://www.youtube.com/watch?v=_HTj5b59Em0    (
 
 # 한국 개발자 최고 1타강사 김영한의 인생 [1부]
 
@@ -221,7 +221,7 @@
 ---
 
 ## 178. “한국인인 네가 뭘 아냐” 낯선 땅에서 국민 앱을 만들어낸 이방인 정신
-**URL:** https://www.youtube.com/watch?v=ZCFEgIwku5g    (
+**** https://www.youtube.com/watch?v=ZCFEgIwku5g    (
 
 # “한국인인 네가 뭘 아냐” 낯선 땅에서 국민 앱을 만들어낸 이방인 정신
 
@@ -341,7 +341,7 @@
 ---
 
 ## 179. 방구석 1인 창업, 글로벌 시장에서 성공하기까지 | 아마존 글로벌 셀러 토크
-**URL:** https://www.youtube.com/watch?v=rISkoFV8wG8    (
+**** https://www.youtube.com/watch?v=rISkoFV8wG8    (
 
 # 방구석 1인 창업, 글로벌 시장에서 성공하기까지 | 아마존 글로벌 셀러 토크
 
@@ -475,7 +475,7 @@
 ---
 
 ## 180. 콘텐츠 분야 창업을 준비하고 있다면 주목 🤳
-**URL:** https://www.youtube.com/watch?v=z1gnNemuZe8    (
+**** https://www.youtube.com/watch?v=z1gnNemuZe8    (
 
 # 콘텐츠 분야 창업을 준비하고 있다면 주목 🤳
 
@@ -580,7 +580,7 @@ AI 블록체인 자율주행 등 지금 일어나고 있는 큰 변화들로 인
 ---
 
 ## 181. 매출 350억, 20년 차 화장품 브랜드로 성장하기까지 | 아로마티카 김영균
-**URL:** https://www.youtube.com/watch?v=41KeYTmV-CI    (
+**** https://www.youtube.com/watch?v=41KeYTmV-CI    (
 
 # 매출 350억, 20년 차 화장품 브랜드로 성장하기까지 | 아로마티카 김영균
 
@@ -697,7 +697,7 @@ AI 블록체인 자율주행 등 지금 일어나고 있는 큰 변화들로 인
 ---
 
 ## 182. 20년차 기획자가 대표가 되어 그리는 이커머스 생존 전략 | 11번가 안정은
-**URL:** https://www.youtube.com/watch?v=jjiwMXB6lxI    (
+**** https://www.youtube.com/watch?v=jjiwMXB6lxI    (
 
 # 20년차 기획자가 대표가 되어 그리는 이커머스 생존 전략 | 11번가 안정은
 
@@ -795,7 +795,7 @@ AI 블록체인 자율주행 등 지금 일어나고 있는 큰 변화들로 인
 ---
 
 ## 183. 월세=월급, 미친 집값의 나라에서 한국인이 발견한 기회 | 고투조이 변성민
-**URL:** https://www.youtube.com/watch?v=M1fsHBsIHfw    (
+**** https://www.youtube.com/watch?v=M1fsHBsIHfw    (
 
 # 월세=월급, 미친 집값의 나라에서 한국인이 발견한 기회 | 고투조이 변성민
 
@@ -902,7 +902,7 @@ AI 블록체인 자율주행 등 지금 일어나고 있는 큰 변화들로 인
 ---
 
 ## 184. 영업사원에서 대표까지, 20년 차 투자자의 인생 철학 | 고위드 김항기
-**URL:** https://www.youtube.com/watch?v=guETTiacPnE    (
+**** https://www.youtube.com/watch?v=guETTiacPnE    (
 
 제가 요청하신 내용에 맞춰 학습 자료를 작성했습니다.
 
@@ -1012,7 +1012,7 @@ AI 블록체인 자율주행 등 지금 일어나고 있는 큰 변화들로 인
 ---
 
 ## 185. 8년 차 투자자의 매운맛 사업계획서 멘토링 | 임팩트 퀘스트 멘토링 세션
-**URL:** https://www.youtube.com/watch?v=Xk3JKCIFWwo    (
+**** https://www.youtube.com/watch?v=Xk3JKCIFWwo    (
 
 # 8년 차 투자자의 매운맛 사업계획서 멘토링 | 임팩트 퀘스트 멘토링 세션
 
@@ -1121,7 +1121,7 @@ AI 블록체인 자율주행 등 지금 일어나고 있는 큰 변화들로 인
 ---
 
 ## 186. 이 세상은 당신보다 똑똑하지 않은 사람들에 의해 만들어졌다 | YOBO 스티븐 킴
-**URL:** https://www.youtube.com/watch?v=B8fqnPmXjtw    (
+**** https://www.youtube.com/watch?v=B8fqnPmXjtw    (
 
 # 이 세상은 당신보다 똑똑하지 않은 사람들에 의해 만들어졌다 | YOBO 스티븐 킴
 
@@ -1215,7 +1215,7 @@ MBA 이후 합류한 `로켓 인터넷(Rocket Internet)`은 그의 커리어에 
 ---
 
 ## 187. 20분 만에 끝내는 창업가에게 꼭 필요한 리더십 강의 | 임팩트 퀘스트 멘토링 세션
-**URL:** https://www.youtube.com/watch?v=gHT11oBvgUA    (
+**** https://www.youtube.com/watch?v=gHT11oBvgUA    (
 
 # 20분 만에 끝내는 창업가에게 꼭 필요한 리더십 강의 | 임팩트 퀘스트 멘토링 세션
 
@@ -1323,7 +1323,7 @@ MBA 이후 합류한 `로켓 인터넷(Rocket Internet)`은 그의 커리어에 
 ---
 
 ## 188. 돈만 잘 벌고 싶었던 독고다이 사업가의 성장기 | 레디포스트 곽세병
-**URL:** https://www.youtube.com/watch?v=h63NaKbpNIY    (
+**** https://www.youtube.com/watch?v=h63NaKbpNIY    (
 
 # 돈만 잘 벌고 싶었던 독고다이 사업가의 성장기 | 레디포스트 곽세병
 
@@ -1415,7 +1415,7 @@ MBA 이후 합류한 `로켓 인터넷(Rocket Internet)`은 그의 커리어에 
 ---
 
 ## 189. 글로벌 대기업이 외국인인 나를 뽑도록 만드는 방법 | 박성은
-**URL:** https://www.youtube.com/watch?v=a-sKogcbFjE    (
+**** https://www.youtube.com/watch?v=a-sKogcbFjE    (
 
 # 글로벌 대기업이 외국인인 나를 뽑도록 만드는 방법 | 박성은
 
@@ -1551,7 +1551,7 @@ MBA 이후 합류한 `로켓 인터넷(Rocket Internet)`은 그의 커리어에 
 ---
 
 ## 190. 꺾이더라도 무너지지 않고 반등하는 창업가의 자질 | 레뷰 장대규
-**URL:** https://www.youtube.com/watch?v=cPJYmMZN6OA    (
+**** https://www.youtube.com/watch?v=cPJYmMZN6OA    (
 
 # 꺾이더라도 무너지지 않고 반등하는 창업가의 자질 | 레뷰 장대규
 
@@ -1674,7 +1674,7 @@ MBA 이후 합류한 `로켓 인터넷(Rocket Internet)`은 그의 커리어에 
 ---
 
 ## 191. 3번 실패 후 1000억 짜리 회사를 만들며 깨달은 것 | 에이슬립 이동헌
-**URL:** https://www.youtube.com/watch?v=T_fpEiPT1Jc    (
+**** https://www.youtube.com/watch?v=T_fpEiPT1Jc    (
 
 # 3번 실패 후 1000억 짜리 회사를 만들며 깨달은 것 | 에이슬립 이동헌
 
@@ -1767,7 +1767,7 @@ MBA 이후 합류한 `로켓 인터넷(Rocket Internet)`은 그의 커리어에 
 ---
 
 ## 192. 사람 보고 투자한다는 분들에 관한 생각ㅣ베이스인베스트먼트 신윤호&강준열
-**URL:** https://www.youtube.com/watch?v=xhS-e17A9oQ    (
+**** https://www.youtube.com/watch?v=xhS-e17A9oQ    (
 
 # 사람 보고 투자한다는 분들에 관한 생각ㅣ베이스인베스트먼트 신윤호&강준열
 
@@ -1872,7 +1872,7 @@ MBA 이후 합류한 `로켓 인터넷(Rocket Internet)`은 그의 커리어에 
 ---
 
 ## 193. 한국을 떠나 나만의 커리어 설계도를 그렸던 방법 | 솔루션 아키텍트 마르코
-**URL:** https://www.youtube.com/watch?v=Qaccry_XnX0    (
+**** https://www.youtube.com/watch?v=Qaccry_XnX0    (
 
 # 한국을 떠나 나만의 커리어 설계도를 그렸던 방법 | 솔루션 아키텍트 마르코
 
@@ -2038,7 +2038,7 @@ MBA 이후 합류한 `로켓 인터넷(Rocket Internet)`은 그의 커리어에 
 ---
 
 ## 194. 2023년 상반기 벤처투자 결산ㅣTry Everything 2023 홍보
-**URL:** https://www.youtube.com/watch?v=Mqou5lOVv24    (
+**** https://www.youtube.com/watch?v=Mqou5lOVv24    (
 
 # 2023년 상반기 벤처투자 결산ㅣTry Everything 2023 홍보
 
@@ -2149,7 +2149,7 @@ EHO와 같은 주체들의 글로벌 확장은 국내 스타트업들이 해외 
 ---
 
 ## 195. 7번의 이직으로 배운, 이직할 곳 고르는 3가지 기준
-**URL:** https://www.youtube.com/watch?v=THkoFLt9DAQ    (
+**** https://www.youtube.com/watch?v=THkoFLt9DAQ    (
 
 # 7번의 이직으로 배운, 이직할 곳 고르는 3가지 기준
 
@@ -2247,7 +2247,7 @@ EHO와 같은 주체들의 글로벌 확장은 국내 스타트업들이 해외 
 ---
 
 ## 196. 스티브잡스는 왜 건물당 하나의 화장실만 고집했을까? | EO 지식토크
-**URL:** https://www.youtube.com/watch?v=jupxRH_MHIQ    (
+**** https://www.youtube.com/watch?v=jupxRH_MHIQ    (
 
 # 스티브잡스는 왜 건물당 하나의 화장실만 고집했을까? | EO 지식토크
 
@@ -2347,7 +2347,7 @@ EHO와 같은 주체들의 글로벌 확장은 국내 스타트업들이 해외 
 ---
 
 ## 197. 천재 과학자들이 만든 교육에 참여할 수 있는 기회ㅣ딥테크문샷 프로그램
-**URL:** https://www.youtube.com/watch?v=WD2zKtbe2F0    (
+**** https://www.youtube.com/watch?v=WD2zKtbe2F0    (
 
 # 천재 과학자들이 만든 교육에 참여할 수 있는 기회ㅣ딥테크문샷 프로그램
 
@@ -2632,7 +2632,7 @@ I will now proceed to generate the content based on this plan.# 천재 과학자
 ---
 
 ## 198. 10번 창업 5번 피벗하며 깨달은 창업의 법칙
-**URL:** https://www.youtube.com/watch?v=x0Wl1WfyCkM    (
+**** https://www.youtube.com/watch?v=x0Wl1WfyCkM    (
 
 # 10번 창업 5번 피벗하며 깨달은 창업의 법칙
 
@@ -2765,7 +2765,7 @@ Y Combinator(YC)와 같은 액셀러레이터 프로그램은 단순히 자금 �
 ---
 
 ## 199. 파격적인 사회공헌 프로젝트 공모사업 '사이드임팩트'를 소개합니다
-**URL:** https://www.youtube.com/watch?v=5MmxVnYKrL0    (
+**** https://www.youtube.com/watch?v=5MmxVnYKrL0    (
 
 # 파격적인 사회공헌 프로젝트 공모사업 '사이드임팩트'를 소개합니다
 
@@ -2854,7 +2854,7 @@ Y Combinator(YC)와 같은 액셀러레이터 프로그램은 단순히 자금 �
 ---
 
 ## 200. 세계3대 사모펀드와 함께하는 임팩트 스타트업 오디션 참가자 모집🚀
-**URL:** https://www.youtube.com/watch?v=xMg2Uocn-p8    (
+**** https://www.youtube.com/watch?v=xMg2Uocn-p8    (
 
 # 세계3대 사모펀드와 함께하는 임팩트 스타트업 오디션 참가자 모집🚀
 
@@ -2940,7 +2940,7 @@ Y Combinator(YC)와 같은 액셀러레이터 프로그램은 단순히 자금 �
 ---
 
 ## 201. 240억 투자받은 놀라운 드론 기술ㅣ비거라지 김영준
-**URL:** https://www.youtube.com/watch?v=wiaQa7RjAtE    (
+**** https://www.youtube.com/watch?v=wiaQa7RjAtE    (
 
 # 240억 투자받은 놀라운 드론 기술ㅣ비거라지 김영준
 
@@ -3097,7 +3097,7 @@ Y Combinator(YC)와 같은 액셀러레이터 프로그램은 단순히 자금 �
 ---
 
 ## 202. 영어 콤플렉스를 가졌던 한국인이 글로벌 조직에서 살아남는 법 | Grab 한소리
-**URL:** https://www.youtube.com/watch?v=dymHKrDVDXY    (
+**** https://www.youtube.com/watch?v=dymHKrDVDXY    (
 
 # 영어 콤플렉스를 가졌던 한국인이 글로벌 조직에서 살아남는 법 | Grab 한소리
 
@@ -3197,7 +3197,7 @@ Y Combinator(YC)와 같은 액셀러레이터 프로그램은 단순히 자금 �
 ---
 
 ## 203. 베트남에서 오토바이 사업으로 1등 먹은 한국인의 방식 | 오케이쎄 김우석
-**URL:** https://www.youtube.com/watch?v=jTIncrqyezI    (
+**** https://www.youtube.com/watch?v=jTIncrqyezI    (
 
 # 베트남에서 오토바이 사업으로 1등 먹은 한국인의 방식 | 오케이쎄 김우석
 
@@ -3311,7 +3311,7 @@ Y Combinator(YC)와 같은 액셀러레이터 프로그램은 단순히 자금 �
 ---
 
 ## 204. 대학에 갈 이유가 없다는 걸 깨달은 고3 창업가의 논리 | 최성운의 사고실험 [김현준] 2부
-**URL:** https://www.youtube.com/watch?v=uOwNhYCckLU    (
+**** https://www.youtube.com/watch?v=uOwNhYCckLU    (
 
 # 대학에 갈 이유가 없다는 걸 깨달은 고3 창업가의 논리 | 최성운의 사고실험 [김현준] 2부
 
@@ -3473,7 +3473,7 @@ Y Combinator(YC)와 같은 액셀러레이터 프로그램은 단순히 자금 �
 ---
 
 ## 205. 혁신 없는 레드오션에서 살아남는 방법 | 페이히어 박준기
-**URL:** https://www.youtube.com/watch?v=MLIcI2TKjrQ    (
+**** https://www.youtube.com/watch?v=MLIcI2TKjrQ    (
 
 # 혁신 없는 레드오션에서 살아남는 방법 | 페이히어 박준기
 
@@ -3577,7 +3577,7 @@ Y Combinator(YC)와 같은 액셀러레이터 프로그램은 단순히 자금 �
 ---
 
 ## 206. 글로벌 6위 한국의 인공지능 기업들의 생존 전략ㅣ2023 Generative AI Asia 요약
-**URL:** https://www.youtube.com/watch?v=rhTwR9vdApQ    (
+**** https://www.youtube.com/watch?v=rhTwR9vdApQ    (
 
 # 글로벌 6위 한국의 인공지능 기업들의 생존 전략ㅣ2023 Generative AI Asia 요약
 
@@ -3770,4 +3770,4 @@ AI의 발전은 크게 **'인식(Recognition)'**과 **'생성(Generation)'**의 
 ---
 
 ## 207. 고3이 기숙사에서 만든 앱으로 1500만 원을 번 과정 | 최성운의 사고실험 [김현준] 1부
-**URL:** https://www.youtube.com/watch?v=U3BJyWSSbro    (
+**** https://www.youtube.com/watch?v=U3BJyWSSbro    (

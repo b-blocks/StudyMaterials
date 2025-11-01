@@ -214,7 +214,7 @@
 ---
 
 ## 275. 매출 0원에서 5000억까지, 모든 실패가 배움이었다 [눔 정세주 2편]
-**URL:** https://www.youtube.com/watch?v=O20acuFIGf8    (
+**** https://www.youtube.com/watch?v=O20acuFIGf8    (
 
 # 매출 0원에서 5000억까지, 모든 실패가 배움이었다 [눔 정세주 2편]
 
@@ -342,7 +342,7 @@
 ---
 
 ## 276. 대한민국 12만개의 건축물을 사람이 모두 점검할 수 있을까요? | 코매퍼
-**URL:** https://www.youtube.com/watch?v=RwuBpxWRxsM    (
+**** https://www.youtube.com/watch?v=RwuBpxWRxsM    (
 
 # 대한민국 12만개의 건축물을 사람이 모두 점검할 수 있을까요? | 코매퍼
 
@@ -476,7 +476,7 @@
 ---
 
 ## 277. 실리콘밸리의 일하는 방식을 바꾸고 있는 한국 기업 | 스윗 Swit
-**URL:** https://www.youtube.com/watch?v=Nt_l9o7ZdfY    (
+**** https://www.youtube.com/watch?v=Nt_l9o7ZdfY    (
 
 # 실리콘밸리의 일하는 방식을 바꾸고 있는 한국 기업 | 스윗 Swit
 
@@ -655,7 +655,7 @@ I will now generate the markdown content.
 ---
 
 ## 278. 이걸 저희가 안 하면 변화는 한참 늦어질 거예요 | 브이터치
-**URL:** https://www.youtube.com/watch?v=fdUS2YqYMT8    (
+**** https://www.youtube.com/watch?v=fdUS2YqYMT8    (
 
 # 이걸 저희가 안 하면 변화는 한참 늦어질 거예요 | 브이터치
 
@@ -746,7 +746,7 @@ I will now generate the markdown content.
 ---
 
 ## 279. [무삭제] 크라우드펀딩 누적 4,729% 기록의 음료수 | 비네스트 IR 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=iU5lfF-r_zQ    (
+**** https://www.youtube.com/watch?v=iU5lfF-r_zQ    (
 
 # [무삭제] 크라우드펀딩 누적 4,729% 기록의 음료수 | 비네스트 IR 피칭, Q&A
 
@@ -870,7 +870,7 @@ I will now generate the markdown content.
 ---
 
 ## 280. 매출 400억💰30만 명이 사용하는 코딩교육제품을 만들기까지 | 에이럭스
-**URL:** https://www.youtube.com/watch?v=ixkotvNV1Pc    (
+**** https://www.youtube.com/watch?v=ixkotvNV1Pc    (
 
 # 매출 400억💰30만 명이 사용하는 코딩교육제품을 만들기까지 | 에이럭스
 
@@ -972,7 +972,7 @@ I will now generate the markdown content.
 ---
 
 ## 281. 여수의 소년, 뉴욕의 자수성가 신화가 되다 [눔 정세주 1편]
-**URL:** https://www.youtube.com/watch?v=kAfYEtj8XaU    (
+**** https://www.youtube.com/watch?v=kAfYEtj8XaU    (
 
 # 여수의 소년, 뉴욕의 자수성가 신화가 되다 [눔 정세주 1편]
 
@@ -1073,7 +1073,7 @@ I will now generate the markdown content.
 ---
 
 ## 282. 혼다, 구글 출신 연구자가 작정하고 만든 한국 스타트업
-**URL:** https://www.youtube.com/watch?v=pyUCS6v0pEc    (
+**** https://www.youtube.com/watch?v=pyUCS6v0pEc    (
 
 # 혼다, 구글 출신 연구자가 작정하고 만든 한국 스타트업
 
@@ -1170,7 +1170,7 @@ I will now generate the markdown content.
 ---
 
 ## 283. 축구 덕후 공대생이 만들어낸 세계 축구의 미래
-**URL:** https://www.youtube.com/watch?v=70HVNrXkgUk    (
+**** https://www.youtube.com/watch?v=70HVNrXkgUk    (
 
 # 축구 덕후 공대생이 만들어낸 세계 축구의 미래
 
@@ -1269,7 +1269,7 @@ I will now generate the markdown content.
 ---
 
 ## 284. 15살에 로켓 독학한 천재 창업가의 우주업계 썰
-**URL:** https://www.youtube.com/watch?v=vOE5Bolltuo    (
+**** https://www.youtube.com/watch?v=vOE5Bolltuo    (
 
 # 15살에 로켓 독학한 천재 창업가의 우주업계 썰
 
@@ -1357,7 +1357,7 @@ I will now generate the markdown content.
 ---
 
 ## 285. 문맹률 90%, 배움의 기회가 없는 이들을 위해
-**URL:** https://www.youtube.com/watch?v=P2AWCp0YU9A    (
+**** https://www.youtube.com/watch?v=P2AWCp0YU9A    (
 
 # 문맹률 90%, 배움의 기회가 없는 이들을 위해
 
@@ -1482,7 +1482,7 @@ I will now generate the markdown content.
 ---
 
 ## 286. 고인물이 장악한 시장에서 창업 1년도 안 돼 이뤄낸 성과 | 나비프라
-**URL:** https://www.youtube.com/watch?v=e6cVzJC0Yvc    (
+**** https://www.youtube.com/watch?v=e6cVzJC0Yvc    (
 
 # 고인물이 장악한 시장에서 창업 1년도 안 돼 이뤄낸 성과 | 나비프라
 
@@ -1579,7 +1579,7 @@ I will now generate the markdown content.
 ---
 
 ## 287. 테이블 빼고 로봇 넣겠다는 매장들, 왜일까? 🤔
-**URL:** https://www.youtube.com/watch?v=xOYZUdij0LA    (
+**** https://www.youtube.com/watch?v=xOYZUdij0LA    (
 
 # 테이블 빼고 로봇 넣겠다는 매장들, 왜일까? 🤔
 
@@ -1665,7 +1665,7 @@ I will now generate the markdown content.
 ---
 
 ## 288. 사기꾼이라 의심하던 투자자의 마음을 10분 안에 돌릴 확률
-**URL:** https://www.youtube.com/watch?v=nNIVWugyqjQ    (
+**** https://www.youtube.com/watch?v=nNIVWugyqjQ    (
 
 # 사기꾼이라 의심하던 투자자의 마음을 10분 안에 돌릴 확률
 
@@ -1774,7 +1774,7 @@ B2B 시장에서는 단순한 위치 파악을 넘어, 자율주행 로봇의 �
 ---
 
 ## 289. 투자받는 콘텐츠 스타트업과 못 받는 회사의 차이
-**URL:** https://www.youtube.com/watch?v=X6uKOeQsUkU    (
+**** https://www.youtube.com/watch?v=X6uKOeQsUkU    (
 
 # 투자받는 콘텐츠 스타트업과 못 받는 회사의 차이
 
@@ -1877,7 +1877,7 @@ B2B 시장에서는 단순한 위치 파악을 넘어, 자율주행 로봇의 �
 ---
 
 ## 290. 매주 앱 1개씩 만들다 보니 글로벌 1000만 앱이 탄생했다
-**URL:** https://www.youtube.com/watch?v=y2a-OJqCD9I    (
+**** https://www.youtube.com/watch?v=y2a-OJqCD9I    (
 
 # 매주 앱 1개씩 만들다 보니 글로벌 1000만 앱이 탄생했다
 
@@ -1973,7 +1973,7 @@ B2B 시장에서는 단순한 위치 파악을 넘어, 자율주행 로봇의 �
 ---
 
 ## 291. 이제는 현실이 된 환경문제를 해결하는 두 스타트업
-**URL:** https://www.youtube.com/watch?v=Cvr7IW36sf4    (
+**** https://www.youtube.com/watch?v=Cvr7IW36sf4    (
 
 # 이제는 현실이 된 환경문제를 해결하는 두 스타트업
 
@@ -2091,7 +2091,7 @@ B2B 시장에서는 단순한 위치 파악을 넘어, 자율주행 로봇의 �
 ---
 
 ## 292. 벤처 투자자가 생각하는 불황이 기회인 이유 | 7%런치클럽 토크쇼 ep1
-**URL:** https://www.youtube.com/watch?v=0l32H7vankE    (
+**** https://www.youtube.com/watch?v=0l32H7vankE    (
 
 # 벤처 투자자가 생각하는 불황이 기회인 이유 | 7%런치클럽 토크쇼 ep1
 
@@ -2193,7 +2193,7 @@ B2B 시장에서는 단순한 위치 파악을 넘어, 자율주행 로봇의 �
 ---
 
 ## 293. 32년간 한 우물만 팠던 어느 교수의 뚝심 | 페이스
-**URL:** https://www.youtube.com/watch?v=L6ynpTpKcWU    (
+**** https://www.youtube.com/watch?v=L6ynpTpKcWU    (
 
 # 32년간 한 우물만 팠던 어느 교수의 뚝심 | 페이스
 
@@ -2285,7 +2285,7 @@ B2B 시장에서는 단순한 위치 파악을 넘어, 자율주행 로봇의 �
 ---
 
 ## 294. 겨울이 끝난 뒤의 미래를 엿볼 수 있는 곳
-**URL:** https://www.youtube.com/watch?v=KGl5RD_lXEM    (
+**** https://www.youtube.com/watch?v=KGl5RD_lXEM    (
 
 # 겨울이 끝난 뒤의 미래를 엿볼 수 있는 곳
 
@@ -2384,7 +2384,7 @@ B2B 시장에서는 단순한 위치 파악을 넘어, 자율주행 로봇의 �
 ---
 
 ## 295. 전국 어디든 사람들이 모이게 만들 수 있어요🏃‍♀️
-**URL:** https://www.youtube.com/watch?v=Dis3YUUT-to    (
+**** https://www.youtube.com/watch?v=Dis3YUUT-to    (
 
 # 전국 어디든 사람들이 모이게 만들 수 있어요🏃‍♀️
 
@@ -2462,7 +2462,7 @@ B2B 시장에서는 단순한 위치 파악을 넘어, 자율주행 로봇의 �
 ---
 
 ## 296. 잘나가던 컨설턴트를 포기하고 실리콘밸리에서 창업하며 배운 것들 | 링글 이승훈
-**URL:** https://www.youtube.com/watch?v=79s67xl8a9M    (
+**** https://www.youtube.com/watch?v=79s67xl8a9M    (
 
 # 잘나가던 컨설턴트를 포기하고 실리콘밸리에서 창업하며 배운 것들 | 링글 이승훈
 
@@ -2568,7 +2568,7 @@ B2B 시장에서는 단순한 위치 파악을 넘어, 자율주행 로봇의 �
 ---
 
 ## 297. 유튜브 조회수 세계 1위 핑크퐁 창업기
-**URL:** https://www.youtube.com/watch?v=CtgP-6EJwF0    (
+**** https://www.youtube.com/watch?v=CtgP-6EJwF0    (
 
 # 유튜브 조회수 세계 1위 핑크퐁 창업기
 
@@ -2663,7 +2663,7 @@ B2B 시장에서는 단순한 위치 파악을 넘어, 자율주행 로봇의 �
 ---
 
 ## 298. 240만 노인 일자리를 혁신하는 회사 | 내이루리 IR 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=4On1sUNPrOo    (
+**** https://www.youtube.com/watch?v=4On1sUNPrOo    (
 
 # 240만 노인 일자리를 혁신하는 회사 | 내이루리 IR 피칭, Q&A
 
@@ -2818,7 +2818,7 @@ B2B 시장에서는 단순한 위치 파악을 넘어, 자율주행 로봇의 �
 ---
 
 ## 299. 완벽주의는 비즈니스의 가장 해로운 적입니다
-**URL:** https://www.youtube.com/watch?v=QEyJ7RJRcLg    (
+**** https://www.youtube.com/watch?v=QEyJ7RJRcLg    (
 
 # 완벽주의는 비즈니스의 가장 해로운 적입니다
 
@@ -2899,7 +2899,7 @@ AM폴리는 창업 초기부터 `글로벌 시장`을 염두에 두었습니다.
 ---
 
 ## 300. 2억 → 300억💸 8년간 적자 없이 성장했습니다
-**URL:** https://www.youtube.com/watch?v=vc53hzDbIQQ    (
+**** https://www.youtube.com/watch?v=vc53hzDbIQQ    (
 
 # 2억 → 300억💸 8년간 적자 없이 성장했습니다
 
@@ -2999,7 +2999,7 @@ AM폴리는 창업 초기부터 `글로벌 시장`을 염두에 두었습니다.
 ---
 
 ## 301. 중소기업 식품연구원의 네카라쿠배 개발자 입성기 🏰
-**URL:** https://www.youtube.com/watch?v=adfS2hrSPYQ    (
+**** https://www.youtube.com/watch?v=adfS2hrSPYQ    (
 
 # 중소기업 식품연구원의 네카라쿠배 개발자 입성기 🏰
 
@@ -3092,7 +3092,7 @@ AM폴리는 창업 초기부터 `글로벌 시장`을 염두에 두었습니다.
 ---
 
 ## 302. 투자자 관점에서 본 콘텐츠 사업 관전 포인트
-**URL:** https://www.youtube.com/watch?v=mpKMgmZgRto    (
+**** https://www.youtube.com/watch?v=mpKMgmZgRto    (
 
 # 투자자 관점에서 본 콘텐츠 사업 관전 포인트
 
@@ -3244,7 +3244,7 @@ VR(가상현실) 기술은 오랜 기간 `킬러 디바이스`와 `킬러 콘텐
 ---
 
 ## 303. 지금 때려치고 싶다면? 현실적인 퇴사준비 체크리스트 4 | 신일류 이연
-**URL:** https://www.youtube.com/watch?v=0JqJfXuyC0A    (
+**** https://www.youtube.com/watch?v=0JqJfXuyC0A    (
 
 # 지금 때려치고 싶다면? 현실적인 퇴사준비 체크리스트 4 | 신일류 이연
 
@@ -3330,7 +3330,7 @@ VR(가상현실) 기술은 오랜 기간 `킬러 디바이스`와 `킬러 콘텐
 ---
 
 ## 304. 지금 뒤처져 있다고 생각하는 모든 사람들에게
-**URL:** https://www.youtube.com/watch?v=g4vD2OWJlag    (
+**** https://www.youtube.com/watch?v=g4vD2OWJlag    (
 
 # 지금 뒤처져 있다고 생각하는 모든 사람들에게
 
@@ -3432,7 +3432,7 @@ VR(가상현실) 기술은 오랜 기간 `킬러 디바이스`와 `킬러 콘텐
 ---
 
 ## 305. 국내 최초 의사 출신 투자자가 말하는 일의 즐거움 | IMM인베스트먼트 문여정
-**URL:** https://www.youtube.com/watch?v=_aljZHnjVgI    (
+**** https://www.youtube.com/watch?v=_aljZHnjVgI    (
 
 # 국내 최초 의사 출신 투자자가 말하는 일의 즐거움 | IMM인베스트먼트 문여정
 
@@ -3557,7 +3557,7 @@ VC는 단기적인 수익률에만 집중하기보다, 투자하는 기술이 �
 ---
 
 ## 306. 18년 다닌 대기업 그만두고 스타트업 키우며 깨달은 것들 | 에이치에너지
-**URL:** https://www.youtube.com/watch?v=uSYyva1FGVY    (
+**** https://www.youtube.com/watch?v=uSYyva1FGVY    (
 
 # 18년 다닌 대기업 그만두고 스타트업 키우며 깨달은 것들 | 에이치에너지
 
@@ -3656,7 +3656,7 @@ H에너지는 소규모 태양광 발전 사업에 대한 개인 투자를 유�
 ---
 
 ## 307. 퇴사 후 되찾은 나만의 뾰족함으로 연봉 10배를 벌기까지 | 신일류 이연
-**URL:** https://www.youtube.com/watch?v=I4lYrCj6KZI    (
+**** https://www.youtube.com/watch?v=I4lYrCj6KZI    (
 
 # 퇴사 후 되찾은 나만의 뾰족함으로 연봉 10배를 벌기까지 | 신일류 이연
 
@@ -3759,7 +3759,7 @@ H에너지는 소규모 태양광 발전 사업에 대한 개인 투자를 유�
 ---
 
 ## 308. 자퇴 1번, 창업 2번, 이직 3번에서 배운 커리어 불확실성을 이겨내는 법 | 위벤처스 김소희
-**URL:** https://www.youtube.com/watch?v=mXvWBlv2ecA    (
+**** https://www.youtube.com/watch?v=mXvWBlv2ecA    (
 
 # 자퇴 1번, 창업 2번, 이직 3번에서 배운 커리어 불확실성을 이겨내는 법 | 위벤처스 김소희
 
@@ -3898,4 +3898,4 @@ LB인베스트먼트에서 5년간의 경험을 바탕으로, 김소희 투자�
 ---
 
 ## 309. 25세 CEO에서 창업자들이 가장 만나고 싶어하는 투자자가 되기까지 | 알토스벤처스 박희은
-**URL:** https://www.youtube.com/watch?v=lZFjN3BhzO4    (
+**** https://www.youtube.com/watch?v=lZFjN3BhzO4    (

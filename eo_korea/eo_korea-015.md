@@ -113,7 +113,7 @@
 ---
 
 ## 478. 이것은 실패와 용기에 대한 이야기입니다
-**URL:** https://www.youtube.com/watch?v=TjVP4cICwGE    (
+**** https://www.youtube.com/watch?v=TjVP4cICwGE    (
 
 # 이것은 실패와 용기에 대한 이야기입니다
 
@@ -437,7 +437,7 @@ IP를 확보하고 창출하는 것, 카카오페이지는 우리 회사의 아�
 ---
 
 ## 479. 중학생 때 월 3000만원 매출을 낸 대표의 인사이트 | 지미의 원스텝 with 채널톡 최시원
-**URL:** https://www.youtube.com/watch?v=_yMaE0EfTdw    (
+**** https://www.youtube.com/watch?v=_yMaE0EfTdw    (
 
 # 중학생 때 월 3000만원 매출을 낸 대표의 인사이트 | 지미의 원스텝 with 채널톡 최시원
 
@@ -519,7 +519,7 @@ B2B 제품 개발은 B2C와는 다른 특성을 가집니다. 특히 초기 시�
 ---
 
 ## 480. 돈 많이 벌면 사람 더 뽑고 기부하겠다는 회사들
-**URL:** https://www.youtube.com/watch?v=uyMlKJEd_QY    (
+**** https://www.youtube.com/watch?v=uyMlKJEd_QY    (
 
 # 돈 많이 벌면 사람 더 뽑고 기부하겠다는 회사들
 
@@ -634,7 +634,7 @@ B2B 제품 개발은 B2C와는 다른 특성을 가집니다. 특히 초기 시�
 ---
 
 ## 481. 북한에서 영감을 얻은 아산상회 창업가들
-**URL:** https://www.youtube.com/watch?v=fzSLayzuVkc    (
+**** https://www.youtube.com/watch?v=fzSLayzuVkc    (
 
 # 북한에서 영감을 얻은 아산상회 창업가들
 
@@ -744,7 +744,7 @@ B2B 제품 개발은 B2C와는 다른 특성을 가집니다. 특히 초기 시�
 ---
 
 ## 482. 코딩 꿈나무들이라면 주목해야 할 토크콘서트
-**URL:** https://www.youtube.com/watch?v=VkXpuoYd3zQ    (
+**** https://www.youtube.com/watch?v=VkXpuoYd3zQ    (
 
 # 코딩 꿈나무들이라면 주목해야 할 토크콘서트
 
@@ -876,7 +876,7 @@ B2B 제품 개발은 B2C와는 다른 특성을 가집니다. 특히 초기 시�
 ---
 
 ## 483. 유튜브 알고리즘을 만든 한국인의 창업 아이템
-**URL:** https://www.youtube.com/watch?v=lxFLK8VqeXA    (
+**** https://www.youtube.com/watch?v=lxFLK8VqeXA    (
 
 # 유튜브 알고리즘을 만든 한국인의 창업 아이템
 
@@ -967,7 +967,7 @@ B2B 제품 개발은 B2C와는 다른 특성을 가집니다. 특히 초기 시�
 ---
 
 ## 484. 스스로 문제를 정의할 수 없으면 행복할 수 없어요 | 좋은 평가방식의 기준은 무엇일까?
-**URL:** https://www.youtube.com/watch?v=GmZg0KC7w5s    (
+**** https://www.youtube.com/watch?v=GmZg0KC7w5s    (
 
 # 스스로 문제를 정의할 수 없으면 행복할 수 없어요 | 좋은 평가방식의 기준은 무엇일까?
 
@@ -1069,7 +1069,7 @@ B2B 제품 개발은 B2C와는 다른 특성을 가집니다. 특히 초기 시�
 ---
 
 ## 485. 3년 간 매출 0원, 지금은 매년 떡상중 📈
-**URL:** https://www.youtube.com/watch?v=U2NDWj2cXhA    (
+**** https://www.youtube.com/watch?v=U2NDWj2cXhA    (
 
 # 3년 간 매출 0원, 지금은 매년 떡상중 📈
 
@@ -1211,7 +1211,7 @@ B2B 제품 개발은 B2C와는 다른 특성을 가집니다. 특히 초기 시�
 ---
 
 ## 486. 엔비디아 CEO 키노트 하이라이트 요약
-**URL:** https://www.youtube.com/watch?v=MUQKG6psZJ0    (
+**** https://www.youtube.com/watch?v=MUQKG6psZJ0    (
 
 # 엔비디아 CEO 키노트 하이라이트 요약
 
@@ -1333,7 +1333,7 @@ B2B 제품 개발은 B2C와는 다른 특성을 가집니다. 특히 초기 시�
 ---
 
 ## 487. 작은 기업이 대기업을 이길 수 있는 이유
-**URL:** https://www.youtube.com/watch?v=nzfjAYHQE9c    (
+**** https://www.youtube.com/watch?v=nzfjAYHQE9c    (
 
 # 작은 기업이 대기업을 이길 수 있는 이유
 
@@ -1501,7 +1501,7 @@ B2B 제품 개발은 B2C와는 다른 특성을 가집니다. 특히 초기 시�
 ---
 
 ## 488. 스타트업 대표들이 평가한 대학졸업장의 가치
-**URL:** https://www.youtube.com/watch?v=s6p8UcX9nz0    (
+**** https://www.youtube.com/watch?v=s6p8UcX9nz0    (
 
 # 스타트업 대표들이 평가한 대학졸업장의 가치
 
@@ -1609,7 +1609,7 @@ B2B 제품 개발은 B2C와는 다른 특성을 가집니다. 특히 초기 시�
 ---
 
 ## 489. 불가능해 보이는 우리의 문제를 해결하는 기업들(암 정복, 독서, 디지털 농업)
-**URL:** https://www.youtube.com/watch?v=sRQKl4xDbQM    (
+**** https://www.youtube.com/watch?v=sRQKl4xDbQM    (
 
 # 불가능해 보이는 우리의 문제를 해결하는 기업들(암 정복, 독서, 디지털 농업)
 
@@ -1713,7 +1713,7 @@ B2B 제품 개발은 B2C와는 다른 특성을 가집니다. 특히 초기 시�
 ---
 
 ## 490. 0.2초만에 사람을 구하는 제품이 상용화되기까지
-**URL:** https://www.youtube.com/watch?v=ynxNY7meIR0    (
+**** https://www.youtube.com/watch?v=ynxNY7meIR0    (
 
 # 0.2초만에 사람을 구하는 제품이 상용화되기까지
 
@@ -1820,7 +1820,7 @@ B2B 제품 개발은 B2C와는 다른 특성을 가집니다. 특히 초기 시�
 ---
 
 ## 491. 12년 간 한 우물만 판 개발자의 아이템이 인수되기까지
-**URL:** https://www.youtube.com/watch?v=2UtNtfMkTUQ    (
+**** https://www.youtube.com/watch?v=2UtNtfMkTUQ    (
 
 # 12년 간 한 우물만 판 개발자의 아이템이 인수되기까지
 
@@ -1918,7 +1918,7 @@ B2B 제품 개발은 B2C와는 다른 특성을 가집니다. 특히 초기 시�
 ---
 
 ## 492. 모빌리티 회사들이 ‘지금’ 주목하고 있는 것들
-**URL:** https://www.youtube.com/watch?v=1mF2-XpAqIg    (
+**** https://www.youtube.com/watch?v=1mF2-XpAqIg    (
 
 # 모빌리티 회사들이 ‘지금’ 주목하고 있는 것들
 
@@ -2065,7 +2065,7 @@ V2L 기술은 전기차의 활용 범위를 이동 수단에서 `모바일 에�
 ---
 
 ## 493. 개발자에서 기업가가 되기로 결심하고 바뀐 것
-**URL:** https://www.youtube.com/watch?v=LKcLMij1Zng    (
+**** https://www.youtube.com/watch?v=LKcLMij1Zng    (
 
 # 개발자에서 기업가가 되기로 결심하고 바뀐 것
 
@@ -2162,7 +2162,7 @@ V2L 기술은 전기차의 활용 범위를 이동 수단에서 `모바일 에�
 ---
 
 ## 494. 집에서도 가능한 한국 경제 현황 객관화 프로젝트
-**URL:** https://www.youtube.com/watch?v=lpu-AIc4omI    (
+**** https://www.youtube.com/watch?v=lpu-AIc4omI    (
 
 # 집에서도 가능한 한국 경제 현황 객관화 프로젝트
 
@@ -2271,7 +2271,7 @@ V2L 기술은 전기차의 활용 범위를 이동 수단에서 `모바일 에�
 ---
 
 ## 495. 헬조선을 구하겠다는 연구소의 이상한 실험
-**URL:** https://www.youtube.com/watch?v=UtHZdwYnLNE    (
+**** https://www.youtube.com/watch?v=UtHZdwYnLNE    (
 
 # 헬조선을 구하겠다는 연구소의 이상한 실험
 
@@ -2414,7 +2414,7 @@ AI 분야는 새로운 모델이 논문으로 공개되고, 데이터와 소스 
 ---
 
 ## 496. 배달의민족 CEO에게 뽑고 싶은 개발자를 물어보았다
-**URL:** https://www.youtube.com/watch?v=3H4umWD5bwI    (
+**** https://www.youtube.com/watch?v=3H4umWD5bwI    (
 
 # 배달의민족 CEO에게 뽑고 싶은 개발자를 물어보았다
 
@@ -2515,7 +2515,7 @@ AI 분야는 새로운 모델이 논문으로 공개되고, 데이터와 소스 
 ---
 
 ## 497. 10년간 안 바뀐 외식시장의 새로운 길을 열다 | 위쿡 김기웅
-**URL:** https://www.youtube.com/watch?v=7hmu_kBNKK0    (
+**** https://www.youtube.com/watch?v=7hmu_kBNKK0    (
 
 # 10년간 안 바뀐 외식시장의 새로운 길을 열다 | 위쿡 김기웅
 
@@ -2616,7 +2616,7 @@ AI 분야는 새로운 모델이 논문으로 공개되고, 데이터와 소스 
 ---
 
 ## 498. 내 정보로 기업만 돈 버는 게 당연한 걸까? l 마이데이터 스타트업 에스앤피랩
-**URL:** https://www.youtube.com/watch?v=-g68h2ypKbo    (
+**** https://www.youtube.com/watch?v=-g68h2ypKbo    (
 
 # 내 정보로 기업만 돈 버는 게 당연한 걸까? l 마이데이터 스타트업 에스앤피랩
 
@@ -2704,7 +2704,7 @@ S&P랩의 노력은 단순히 돈을 버는 것을 넘어섭니다. "세상이 �
 ---
 
 ## 499. 우리 회사는 싫지만 김갑생할머니김은 좋은 이유 [비즈니스 퀘스트 | 미션]
-**URL:** https://www.youtube.com/watch?v=NIaF5z_aDa8    (
+**** https://www.youtube.com/watch?v=NIaF5z_aDa8    (
 
 # 우리 회사는 싫지만 김갑생할머니김은 좋은 이유 [비즈니스 퀘스트 | 미션]
 
@@ -2815,7 +2815,7 @@ S&P랩의 노력은 단순히 돈을 버는 것을 넘어섭니다. "세상이 �
 ---
 
 ## 500. 한국 모빌리티 산업의 미래를 볼 수 있는 기회 | 2021 서울 스마트 모빌리티 엑스포
-**URL:** https://www.youtube.com/watch?v=UGvDigHu9Uo    (
+**** https://www.youtube.com/watch?v=UGvDigHu9Uo    (
 
 # 한국 모빌리티 산업의 미래를 볼 수 있는 기회 | 2021 서울 스마트 모빌리티 엑스포
 
@@ -2928,7 +2928,7 @@ S&P랩의 노력은 단순히 돈을 버는 것을 넘어섭니다. "세상이 �
 ---
 
 ## 501. 1조 기업가치 평가받은 국산 앱마켓의 생존 전략
-**URL:** https://www.youtube.com/watch?v=xmrWHBCckOo    (
+**** https://www.youtube.com/watch?v=xmrWHBCckOo    (
 
 # 1조 기업가치 평가받은 국산 앱마켓의 생존 전략
 
@@ -3080,7 +3080,7 @@ S&P랩의 노력은 단순히 돈을 버는 것을 넘어섭니다. "세상이 �
 ---
 
 ## 502. 회사 매각 경험한 개발자들이 또 다시 스타트업 하는 이유
-**URL:** https://www.youtube.com/watch?v=iofxe_NmOQ8    (
+**** https://www.youtube.com/watch?v=iofxe_NmOQ8    (
 
 # 회사 매각 경험한 개발자들이 또 다시 스타트업 하는 이유
 
@@ -3203,7 +3203,7 @@ S&P랩의 노력은 단순히 돈을 버는 것을 넘어섭니다. "세상이 �
 ---
 
 ## 503. 사업가의 고민에 대한 투자자들의 솔직한 생각
-**URL:** https://www.youtube.com/watch?v=JTnespw_DyM    (
+**** https://www.youtube.com/watch?v=JTnespw_DyM    (
 
 # 사업가의 고민에 대한 투자자들의 솔직한 생각
 
@@ -3305,7 +3305,7 @@ S&P랩의 노력은 단순히 돈을 버는 것을 넘어섭니다. "세상이 �
 ---
 
 ## 504. 6개월차 신입인데 벌써 일본 진출했어요
-**URL:** https://www.youtube.com/watch?v=g_HOY9dVDW8    (
+**** https://www.youtube.com/watch?v=g_HOY9dVDW8    (
 
 # 6개월차 신입인데 벌써 일본 진출했어요
 
@@ -3391,7 +3391,7 @@ S&P랩의 노력은 단순히 돈을 버는 것을 넘어섭니다. "세상이 �
 ---
 
 ## 505. 대표가 돈 좀 벌자는데 팀원들이 결사반대하는 회사
-**URL:** https://www.youtube.com/watch?v=6Gwlc8FwPYw    (
+**** https://www.youtube.com/watch?v=6Gwlc8FwPYw    (
 
 # 대표가 돈 좀 벌자는데 팀원들이 결사반대하는 회사
 
@@ -3485,7 +3485,7 @@ Play Keyboard 팀은 "유쾌하게 재미있지만 할 때는 제대로"라는 �
 ---
 
 ## 506. 10년 전에 미래 예측한 사람들의 이상한 실험 l 퓨쳐플레이 더 다큐멘터리 [CC Available]
-**URL:** https://www.youtube.com/watch?v=NiIdYRjuVg8    (
+**** https://www.youtube.com/watch?v=NiIdYRjuVg8    (
 
 # 10년 전에 미래 예측한 사람들의 이상한 실험 l 퓨쳐플레이 더 다큐멘터리 [CC Available]
 
@@ -3627,7 +3627,7 @@ Play Keyboard 팀은 "유쾌하게 재미있지만 할 때는 제대로"라는 �
 ---
 
 ## 507. 입소문으로만 50억이 팔리는 '광고 금지 품목'
-**URL:** https://www.youtube.com/watch?v=QZoNDbQ12e4    (
+**** https://www.youtube.com/watch?v=QZoNDbQ12e4    (
 
 # 입소문으로만 50억이 팔리는 '광고 금지 품목'
 
@@ -3710,7 +3710,7 @@ Instinc.us는 2015년 2월에 설립되어 '생식기에 닿는 모든 것을 �
 ---
 
 ## 508. ‘쪼금만 일하고 돈 많이 벌고 싶다’
-**URL:** https://www.youtube.com/watch?v=s1Sdq36647o    (
+**** https://www.youtube.com/watch?v=s1Sdq36647o    (
 
 # ‘쪼금만 일하고 돈 많이 벌고 싶다’
 
@@ -3793,4 +3793,4 @@ Instinc.us는 2015년 2월에 설립되어 '생식기에 닿는 모든 것을 �
 ---
 
 ## 509. 근거 없는 일처리에 지친 직장인들을 위한 영상
-**URL:** https://www.youtube.com/watch?v=pgsAMqJ2StU    (
+**** https://www.youtube.com/watch?v=pgsAMqJ2StU    (

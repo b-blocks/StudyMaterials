@@ -1,5 +1,5 @@
 ## Lecture 7 - How to Build Products Users Love (Kevin Hale)
-**URL:** https://www.youtube.com/watch?v=sz_LgBAGYyo
+**** https://www.youtube.com/watch?v=sz_LgBAGYyo
 
 ## 1. 개요
 
@@ -134,7 +134,7 @@
 *   **King for a Day:** Wufoo의 독특한 해커톤 방식. 무작위로 선정된 한 명의 직원이 '왕'이 되어, 자신이 개선하고 싶었던 제품 기능이나 고객 지원 문제를 해결하기 위해 모든 엔지니어링 및 마케팅 자원을 활용할 수 있었습니다
 
 ## 
-**URL:** https://www.youtube.com/watch?v=sz_LgBAGYyo
+**** https://www.youtube.com/watch?v=sz_LgBAGYyo
 
 # 원격 근무 환경에서의 생산성, 문화, 그리고 리더십
 
@@ -230,7 +230,7 @@
 *   **주의사항:** 회복은 단순히 휴식을 의미하는 것이 아니라, 재충전과 학습, 개인적인 성장을 위한 시간을
 
 ## Lecture 6 - Growth (Alex Schultz)
-**URL:** https://www.youtube.com/watch?v=n_yHZ_vKjno
+**** https://www.youtube.com/watch?v=n_yHZ_vKjno
 
 ## 1. 개요
 
@@ -380,7 +380,7 @@
 ##
 
 ## 
-**URL:** https://www.youtube.com/watch?v=n_yHZ_vKjno
+**** https://www.youtube.com/watch?v=n_yHZ_vKjno
 
 # 지속 가능한 성장을 위한 전략
 
@@ -500,7 +500,7 @@
 *   **주의사항:** 'Move Fast and Don't Be Afraid to Break Stuff'는 무책임한 개발
 
 ## Lecture 5 - Competition is for Losers (Peter Thiel)
-**URL:** https://www.youtube.com/watch?v=5_0dVHMpJlo
+**** https://www.youtube.com/watch?v=5_0dVHMpJlo
 
 # 피터 틸의 '경쟁은 패자들을 위한 것'
 
@@ -628,7 +628,7 @@
 *   **주의사항:** 경쟁에서 "패자"는 경쟁을 잘 못하는 사람이 아니라, `경쟁 자체`에 참여하여 이윤을 잃는 사람일 수 있습니다. 우리는 경쟁의 본질을 재평가하고, 그것이 우리를 어디로 이끄
 
 ## 
-**URL:** https://www.youtube.com/watch?v=5_0dVHMpJlo
+**** https://www.youtube.com/watch?v=5_0dVHMpJlo
 
 ## 1. 개요
 
@@ -703,7 +703,7 @@
 *   **주의사항:** 이러한 심리적 함정을 피하기 위해서는 끊임없이 자기 성찰을 통해 자신의 진정한 가치와 목표를 재
 
 ## Lecture 4 - Building Product, Talking to Users, and Growing (Adora Cheung)
-**URL:** https://www.youtube.com/watch?v=yP176MBG9Tk
+**** https://www.youtube.com/watch?v=yP176MBG9Tk
 
 # 0명에서 수많은 사용자 확보하기
 
@@ -895,7 +895,7 @@
 *   **
 
 ## 
-**URL:** https://www.youtube.com/watch?v=yP176MBG9Tk
+**** https://www.youtube.com/watch?v=yP176MBG9Tk
 
 # 딥러닝 자료: 스타트업의 성장 전략과 재무 건전성
 
@@ -997,7 +997,7 @@
     제품 개발 시 "우리가 50가지 면에서 조금 더 낫다"는 생각보다는, "우리가 이 1~2가지 면에서 압
 
 ## Lecture 3 - Before the Startup (Paul Graham)
-**URL:** https://www.youtube.com/watch?v=ii1jcLg-eIQ
+**** https://www.youtube.com/watch?v=ii1jcLg-eIQ
 
 # 스타트업의 반직관적 진실
 
@@ -1127,7 +1127,7 @@
 *   **주의사항:** 스타트업을 시작하는 것은 호기심을 충족시키기 위한 '다른 의도'일 뿐이다. 이 '다른 의도'는 과정의 마지막에 도입될 때 가장 효과적이다.
 
 ## 
-**URL:** https://www.youtube.com/watch?v=ii1jcLg-eIQ
+**** https://www.youtube.com/watch?v=ii1jcLg-eIQ
 
 ## 1. 개요
 
@@ -1228,7 +1228,7 @@ YC가 모든 스타트업의 만병통치약은 아닙니다. 프로그램의 �
 ##
 
 ## Lecture 2 - Team and Execution (Sam Altman)
-**URL:** https://www.youtube.com/watch?v=CVfnkM44Urs
+**** https://www.youtube.com/watch?v=CVfnkM44Urs
 
 # 스타트업의 성공적인 팀 빌딩과 실행 전략
 
@@ -1460,7 +1460,7 @@ YC가 모든 스타트업의 만병통치약은 아닙니다. 프로그램의 �
 *   **주의사항:** 창업자로부터 시작되는 끊임없는 운영 리듬(Relentless Operating Rhythm)이 필요하다. 페이스북의
 
 ## 
-**URL:** https://www.youtube.com/watch?v=CVfnkM44Urs
+**** https://www.youtube.com/watch?v=CVfnkM44Urs
 
 # 스타트업 성공을 위한 핵심 원칙
 
@@ -1573,7 +1573,7 @@ YC가 모든 스타트업의 만병통치약은 아닙니다. 프로그램의 �
     *   경쟁사를 완전히 무시하라는 것이 아니라, 그들의 `실질적인 위협`에만 반응하라는 의미입니다. 단순한 소음이나 마케팅에 에
 
 ## Lecture 1 - How to Start a Startup (Sam Altman, Dustin Moskovitz)
-**URL:** https://www.youtube.com/watch?v=CBYhVcO4WgI
+**** https://www.youtube.com/watch?v=CBYhVcO4WgI
 
 ## 스타트업 성공의 핵심 원리
 
@@ -1697,7 +1697,7 @@ YC가 모든 스타트업의 만병통치약은 아닙니다. 프로그램의 �
 | 용어 (
 
 ## 
-**URL:** https://www.youtube.com/watch?v=CBYhVcO4WgI
+**** https://www.youtube.com/watch?v=CBYhVcO4WgI
 
 ## 1. 개요
 

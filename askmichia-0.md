@@ -1,7 +1,7 @@
 # askmichia
 
 # 1. Watch This Before Starting Any Business in 2025
-**URL:** https://www.youtube.com/watch?v=Jf_ZCSjJzck    (
+**** https://www.youtube.com/watch?v=Jf_ZCSjJzck    (
 
 현재 기업가에게 가장 위험한 시기
 
@@ -137,7 +137,7 @@ AI 기술의 진정한 가치는 사업의 핵심인 '빠른 학습과 반복(ra
 ---
 
 ## 2. How to crush your self-doubt as an entrepreneur
-**URL:** https://www.youtube.com/watch?v=7TF-kiY8xuM    (
+**** https://www.youtube.com/watch?v=7TF-kiY8xuM    (
 
 # 기업가 정신과 자기 의심 극복
 
@@ -202,7 +202,7 @@ AI 기술의 진정한 가치는 사업의 핵심인 '빠른 학습과 반복(ra
 ---
 
 ## 3. The uncomfortable reality of Christian entrepreneurship
-**URL:** https://www.youtube.com/watch?v=U7cNQLGjyZU    (
+**** https://www.youtube.com/watch?v=U7cNQLGjyZU    (
 
 # 기독교 기업가를 위한 냉혹한 진실
 
@@ -310,7 +310,7 @@ AI 기술의 진정한 가치는 사업의 핵심인 '빠른 학습과 반복(ra
 ---
 
 ## 4. Everything I Learned at The Stanford StartX Accelerator
-**URL:** https://www.youtube.com/watch?v=BfRCVhwJVbs    (
+**** https://www.youtube.com/watch?v=BfRCVhwJVbs    (
 
 # Stanford Stardex Accelerator의 스타트업 성공 공식
 
@@ -440,7 +440,7 @@ Stanford Stardex Accelerator는 실리콘밸리에서 가장 성공적인 스타
 ---
 
 ## 5. Give Me 24 Minutes and I'll Teach You How to Make $1M
-**URL:** https://www.youtube.com/watch?v=y5ks4FhoGfQ    (
+**** https://www.youtube.com/watch?v=y5ks4FhoGfQ    (
 
 # 백만장자 사업 구축을 위한 3단계 청사진: 무경험, 무자본으로 시작하기
 
@@ -681,7 +681,7 @@ CEO 자신의 성장을 자동화하기 위해 '영향력의 삼각편대'를 �
 ---
 
 ## 6. I learned the world's hardest language in 30 days to prove anything is possible
-**URL:** https://www.youtube.com/watch?v=ViePiTs-dds    (
+**** https://www.youtube.com/watch?v=ViePiTs-dds    (
 
 The user is asking me to set up the context for our chat, providing today's date, operating system, current working directory, and folder structure. This is just information for me to process and acknowledge. I don't need to perform any actions yet. I will simply confirm that I have received and understood the context.Okay, I have received and understood the context. Today's date is Friday, October 17, 2025. My operating system is Darwin, and the current working directory is `/Users/byungwoo/Downloads/main/`. I also have the folder structure.
 
@@ -693,7 +693,7 @@ I am ready for your first command.
 ---
 
 ## 7. What $12,000 Per Month Gets You in Tokyo
-**URL:** https://www.youtube.com/watch?v=EZlvkbU--jk    (
+**** https://www.youtube.com/watch?v=EZlvkbU--jk    (
 
 # 도쿄 럭셔리 아파트와 라이프스타일 자유
 
@@ -801,7 +801,7 @@ I am ready for your first command.
 ---
 
 ## 8. I'm 35. If You're in Your 20s, Please Watch This
-**URL:** https://www.youtube.com/watch?v=YPEDz3V_LzA    (
+**** https://www.youtube.com/watch?v=YPEDz3V_LzA    (
 
 # 20대를 위한 35세의 지혜
 
@@ -932,7 +932,7 @@ I am ready for your first command.
 ---
 
 ## 9. How to Make Better Decisions Than 99% of People
-**URL:** https://www.youtube.com/watch?v=K2RdzPGG9Dc    (
+**** https://www.youtube.com/watch?v=K2RdzPGG9Dc    (
 ---
 
 # 의사결정 마스터하기: 성공을 위한 빌리어네어의 사고방식
@@ -1090,7 +1090,7 @@ I am ready for your first command.
 ---
 
 ## 10. Money Habits, Dating a CEO, Travel - Q&A With My Wife
-**URL:** https://www.youtube.com/watch?v=2VTe8W2H3rY    (
+**** https://www.youtube.com/watch?v=2VTe8W2H3rY    (
 
 # 비즈니스, 돈, 그리고 삶의 지혜
 
@@ -1224,7 +1224,7 @@ I am ready for your first command.
 ---
 
 ## 11. 5 Must Read Books for Beginner Entrepreneurs
-**URL:** https://www.youtube.com/watch?v=HyBkgeaov_E    (
+**** https://www.youtube.com/watch?v=HyBkgeaov_E    (
 
 # 초보 기업가를 위한 필독서 5선
 
@@ -1336,7 +1336,7 @@ EOS는 강력한 시스템이지만, 모든 비즈니스에 획일적으로 적�
 ---
 
 ## 12. bts: making $8,348,792 in one week
-**URL:** https://www.youtube.com/watch?v=hWpjib9Z37g    (
+**** https://www.youtube.com/watch?v=hWpjib9Z37g    (
 
 # 세금 최적화 및 레버리지 투자를 통한 자산 증식 전략
 
@@ -1407,7 +1407,7 @@ EOS는 강력한 시스템이지만, 모든 비즈니스에 획일적으로 적�
 ---
 
 ## 13. You can change your life in 12 months - become unrecognizable
-**URL:** https://www.youtube.com/watch?v=_NF8nHGl1So    (
+**** https://www.youtube.com/watch?v=_NF8nHGl1So    (
 
 # 12개월 만에 인생을 변화시키는 '5314 시스템'
 
@@ -1495,7 +1495,7 @@ EOS는 강력한 시스템이지만, 모든 비즈니스에 획일적으로 적�
 ---
 
 ## 14. The thing no one will tell you about becoming successful in your 20s
-**URL:** https://www.youtube.com/watch?v=QVZaoBoacK0    (
+**** https://www.youtube.com/watch?v=QVZaoBoacK0    (
 
 # 20대에 성공하기 위한 진실과 희생
 
@@ -1561,7 +1561,7 @@ EOS는 강력한 시스템이지만, 모든 비즈니스에 획일적으로 적�
 ---
 
 ## 15. How I built my dream life step by step (just copy me)
-**URL:** https://www.youtube.com/watch?v=MBijvtK-rmc    (
+**** https://www.youtube.com/watch?v=MBijvtK-rmc    (
 
 # How I built my dream life step by step (just copy me)
 
@@ -1736,7 +1736,7 @@ EOS는 강력한 시스템이지만, 모든 비즈니스에 획일적으로 적�
 ---
 
 ## 16. How to Become the First Millionaire in Your Family
-**URL:** https://www.youtube.com/watch?v=2lEVLFFiTbI    (
+**** https://www.youtube.com/watch?v=2lEVLFFiTbI    (
 
 # How to Become the First Millionaire in Your Family
 
@@ -1901,7 +1901,7 @@ EOS는 강력한 시스템이지만, 모든 비즈니스에 획일적으로 적�
 ---
 
 ## 17. $110M CEO Ranks Best Businesses to Start in 2025 (Tier List)
-**URL:** https://www.youtube.com/watch?v=qAsDU3BMPrY    (
+**** https://www.youtube.com/watch?v=qAsDU3BMPrY    (
 
 # 사업 모델 분석 및 평가
 
@@ -2159,7 +2159,7 @@ EOS는 강력한 시스템이지만, 모든 비즈니스에 획일적으로 적�
 ---
 
 ## 18. I’ve Met 34 Billionaires. Here’s Everything I Learned
-**URL:** https://www.youtube.com/watch?v=ZvjrQF1Vr9M    (
+**** https://www.youtube.com/watch?v=ZvjrQF1Vr9M    (
 
 ## 1. 개요
 
@@ -2293,7 +2293,7 @@ EOS는 강력한 시스템이지만, 모든 비즈니스에 획일적으로 적�
 ---
 
 ## 19. Startup CEO Explains: How to ACTUALLY Become Productive
-**URL:** https://www.youtube.com/watch?v=UaEiYGScFdM    (
+**** https://www.youtube.com/watch?v=UaEiYGScFdM    (
 
 ## 1. 개요
 
@@ -2434,7 +2434,7 @@ EOS는 강력한 시스템이지만, 모든 비즈니스에 획일적으로 적�
 ---
 
 ## 20. why I walked away from millions to be a youtuber
-**URL:** https://www.youtube.com/watch?v=azQR9XRLby0    (
+**** https://www.youtube.com/watch?v=azQR9XRLby0    (
 
 # YouTube 채널 운영을 통한 삶의 변화와 성장: 심층 학습 자료
 
@@ -2525,7 +2525,7 @@ EOS는 강력한 시스템이지만, 모든 비즈니스에 획일적으로 적�
 ---
 
 ## 21. The Easiest Way to Get Your First 10 Customers
-**URL:** https://www.youtube.com/watch?v=zpNTNeII4KY    (
+**** https://www.youtube.com/watch?v=zpNTNeII4KY    (
 
 # 첫 10명의 고객 확보 및 100명으로 확장하기
 
@@ -2653,7 +2653,7 @@ EOS는 강력한 시스템이지만, 모든 비즈니스에 획일적으로 적�
 ---
 
 ## 22. raw reality of making $1.5m a month
-**URL:** https://www.youtube.com/watch?v=Qb3eMuWggWY    (
+**** https://www.youtube.com/watch?v=Qb3eMuWggWY    (
 
 # 백만장자가 되는 길과 인생 게임에서 승리하는 법
 
@@ -2736,7 +2736,7 @@ Micaa는 현재 전 세계를 여행하고 슈퍼카 경주를 즐기는 등 풍
 ---
 
 ## 23. $110M CEO Explains: 7 Skills to Make Your First $1M in 2024
-**URL:** https://www.youtube.com/watch?v=gGmM-Oo4_WA    (
+**** https://www.youtube.com/watch?v=gGmM-Oo4_WA    (
 
 # 백만장자 스킬 스택 구축
 
@@ -2846,7 +2846,7 @@ Micaa는 현재 전 세계를 여행하고 슈퍼카 경주를 즐기는 등 풍
 ---
 
 ## 24. A Practical Guide to Finding *The One* (Using Data)
-**URL:** https://www.youtube.com/watch?v=ZFnqPatq8R4    (
+**** https://www.youtube.com/watch?v=ZFnqPatq8R4    (
 
 # 완벽한 배우자 찾기 시스템
 
@@ -2984,7 +2984,7 @@ Micaa는 현재 전 세계를 여행하고 슈퍼카 경주를 즐기는 등 풍
 ---
 
 ## 25. How I Rewired My Brain for Success
-**URL:** https://www.youtube.com/watch?v=6AnNOncXNsA    (
+**** https://www.youtube.com/watch?v=6AnNOncXNsA    (
 
 # 성공을 위한 뇌 재설계 원칙
 
@@ -3072,7 +3072,7 @@ Micaa는 현재 전 세계를 여행하고 슈퍼카 경주를 즐기는 등 풍
 ---
 
 ## 26. How to Build a Billion Dollar Network (From Scratch)
-**URL:** https://www.youtube.com/watch?v=Ew_0i_ci1x4    (
+**** https://www.youtube.com/watch?v=Ew_0i_ci1x4    (
 
 # 멘토십 매트릭스 구축 전략
 
@@ -3176,7 +3176,7 @@ Micaa는 현재 전 세계를 여행하고 슈퍼카 경주를 즐기는 등 풍
 ---
 
 ## 27. $110M CEO Explains: How to Make Your First $1M
-**URL:** https://www.youtube.com/watch?v=GZj0u6FEiZU    (
+**** https://www.youtube.com/watch?v=GZj0u6FEiZU    (
 
 # 온라인에서 첫 100만 달러 벌기
 
@@ -3395,7 +3395,7 @@ Micaa는 현재 전 세계를 여행하고 슈퍼카 경주를 즐기는 등 풍
 ---
 
 ## 28. 
-**URL:** https://www.youtube.com/watch?v=GZj0u6FEiZU    (
+**** https://www.youtube.com/watch?v=GZj0u6FEiZU    (
 
 # 성공적인 사업 구축 및 출구 전략
 
@@ -3613,7 +3613,7 @@ Micaa는 현재 전 세계를 여행하고 슈퍼카 경주를 즐기는 등 풍
 ---
 
 ## 29. How to Unlock Insane Charisma on Command
-**URL:** https://www.youtube.com/watch?v=_7URXPwyMJw    (
+**** https://www.youtube.com/watch?v=_7URXPwyMJw    (
 
 # 설득의 기술
 
@@ -3761,7 +3761,7 @@ Micaa는 현재 전 세계를 여행하고 슈퍼카 경주를 즐기는 등 풍
 ---
 
 ## 30. I Quit My $145k Tech Job at 24 After Learning 3 Truths
-**URL:** https://www.youtube.com/watch?v=slfOxVmTM_A    (
+**** https://www.youtube.com/watch?v=slfOxVmTM_A    (
 
 영상 요약: 24세에 연봉 14만 5천 달러 직장을 그만둔 이유와 그 이후배경화자: 24세에 연봉 14만 5천 달러, 마케팅 부사장 직책을 가진 스타트업 직원. 가난한 어린 시절(4세에 부모 이혼, 어머니 파산, 아버지와 함께 구호소 이용)을 겪으며 돈의 중요성을 체감.
 상황: 평균 연봉 3만 5천 달러인 24세 미국인 중 상위 1%에 속했지만, 9개월 만에 직장을 그만둠. 백업 계획이나 대체 수입 없이.
@@ -3808,7 +3808,7 @@ Micaa는 현재 전 세계를 여행하고 슈퍼카 경주를 즐기는 등 풍
 ---
 
 ## 31. The 7 Best Investing Books That Made Me Millions
-**URL:** https://www.youtube.com/watch?v=89tMaiLxasE    (
+**** https://www.youtube.com/watch?v=89tMaiLxasE    (
 
 # 투자 서적을 통한 재정적 자유
 
@@ -3900,7 +3900,7 @@ Micaa는 현재 전 세계를 여행하고 슈퍼카 경주를 즐기는 등 풍
 ---
 
 ## 32. Everything I Learned From Building a $110M Company in 28 Minutes
-**URL:** https://www.youtube.com/watch?v=keYTc1oYb8Y    (
+**** https://www.youtube.com/watch?v=keYTc1oYb8Y    (
 ---
 
 # 1. 개요

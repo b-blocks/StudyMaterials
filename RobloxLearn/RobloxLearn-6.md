@@ -1,6 +1,6 @@
 # How to Manage Your Community | RDC 2021
 
-**URL:** https://www.youtube.com/watch?v=wrf6DRlfoO8
+**** https://www.youtube.com/watch?v=wrf6DRlfoO8
 
 ## 1. 핵심 요약
 
@@ -152,7 +152,7 @@ Minitoon의 발표 내용을 더 깊이 이해하고 실제 업무에 적용하�
 
 # Builderman Q&A | RDC 2021: 로블록스의 미래 비전과 개발자 생태계
 
-**URL:** https://www.youtube.com/watch?v=vVVQ0D94Bo4
+**** https://www.youtube.com/watch?v=vVVQ0D94Bo4
 
 ## 1. 핵심 요약
 
@@ -236,8 +236,8 @@ Minitoon의 발표 내용을 더 깊이 이해하고 실제 업무에 적용하�
 
 # Tips For Scaling Up A Company on Roblox | RDC 2021
 
-- **URL:** https://www.youtube.com/watch?v=TLRakuu4vd0
-- **URL:** https://www.youtube.com/watch?v=vVVQ0D94Bo4
+- **** https://www.youtube.com/watch?v=TLRakuu4vd0
+- **** https://www.youtube.com/watch?v=vVVQ0D94Bo4
 
 ## 1. 핵심 요약
 
@@ -383,7 +383,7 @@ Minitoon의 발표 내용을 더 깊이 이해하고 실제 업무에 적용하�
 
 # Roblox Panel | RDC 2021: 플랫폼의 미래 비전과 개발자 생태계의 진화
 
-**URL:** https://www.youtube.com/watch?v=LCDJPaMylV0
+**** https://www.youtube.com/watch?v=LCDJPaMylV0
 
 ## 1. 핵심 요약
 
@@ -486,7 +486,7 @@ Roblox는 더 높은 퀄리티의 경험을 안정적으로 제공하기 위해 
 
 # Developer Panel | RDC 2021: Roblox 최고 개발자들의 성공 비결
 
-**URL:** https://www.youtube.com/watch?v=D8scEdjtqf0
+**** https://www.youtube.com/watch?v=D8scEdjtqf0
 
 ## 1. 핵심 요약
 
@@ -629,7 +629,7 @@ Roblox는 더 높은 퀄리티의 경험을 안정적으로 제공하기 위해 
 
 # Game Jam Presentations and Awards Ceremony | RDC 2021
 
-**URL:** https://www.youtube.com/watch?v=JtU0eYYwMOc
+**** https://www.youtube.com/watch?v=JtU0eYYwMOc
 
 ## 1. 핵심 요약
 
@@ -726,8 +726,8 @@ RDC 2021 게임 잼은 24시간이라는 짧은 시간에도 불구하고 높은
 
 # Creating Opportunities to Connect | RDC 2021
 
-- **URL:** https://www.youtube.com/watch?v=-LsnvpHLNhw
-- **URL:** https://www.youtube.com/watch?v=JtU0eYYwMOc
+- **** https://www.youtube.com/watch?v=-LsnvpHLNhw
+- **** https://www.youtube.com/watch?v=JtU0eYYwMOc
 
 ## 1. 핵심 요약
 
@@ -883,7 +883,7 @@ Roblox의 소통에 대한 비전은 "메타버스 내에서 매우 몰입감 �
 
 # RDC 2021 Sizzle: 커뮤니티, 창작, 그리고 메타버스의 미래
 
-**URL:** https://www.youtube.com/watch?v=a63iradAeJE
+**** https://www.youtube.com/watch?v=a63iradAeJE
 
 ## 1. 핵심 요약
 
@@ -975,7 +975,7 @@ RDC 2021의 핵심 메시지 중 하나는 Roblox가 게임을 넘어 '메타버
 
 # Live Ops with the Notorious Creators of Jailbreak | RDC 2021
 
-**URL:** https://www.youtube.com/watch?v=bKvOPfp3oX0
+**** https://www.youtube.com/watch?v=bKvOPfp3oX0
 
 ## 1. 핵심 요약
 
@@ -1154,7 +1154,7 @@ Jailbreak의 첫 라이브 이벤트는 성공적이었지만, 여러 문제점�
 # Roblox의 Open Cloud로 생산성을 잠금 해제하세요 | RDC 2021
 ## Unlock Your Productivity with Roblox's Open Cloud | RDC 2021
 
-**URL:** https://www.youtube.com/watch?v=Qkgxw6HoJ4M
+**** https://www.youtube.com/watch?v=Qkgxw6HoJ4M
 
 ## 1. 핵심 요약
 
@@ -1298,7 +1298,7 @@ Open Cloud는 이제 시작 단계이며, 앞으로 더 많은 기능이 추가�
 
 # Tailoring Dynamic Content: Localization and Suitability | RDC 2021
 ## Tailoring Dynamic Content: Localization and Suitability | RDC 2021
-**URL:** https://www.youtube.com/watch?v=ZhtTkuaSyVs
+**** https://www.youtube.com/watch?v=ZhtTkuaSyVs
 
 ## 1. 핵심 요약
 
@@ -1459,7 +1459,7 @@ Roblox는 번역 기능을 더욱 고도화할 계획입니다.
 # Driving Discovery on Roblox | RDC 2021
 
 ## Driving Discovery on Roblox | RDC 2021
-**URL:** https://www.youtube.com/watch?v=DHvfEB8myyU
+**** https://www.youtube.com/watch?v=DHvfEB8myyU
 
 ## 1. 핵심 요약
 
@@ -1612,7 +1612,7 @@ Roblox는 광고 시스템을 더욱 발전시킬 계획입니다.
 # Tools & Resources for Collaboration | RDC 2021
 
 ## Tools & Resources for Collaboration | RDC 2021
-**URL:** https://www.youtube.com/watch?v=0HlqqX29sRE
+**** https://www.youtube.com/watch?v=0HlqqX29sRE
 
 ## 1. 핵심 요약
 
@@ -1783,7 +1783,7 @@ Roblox에서 협업은 단순한 공동 작업을 넘어, 커뮤니티와 플랫
 # Finding the Fun with Jandel and Foryxe
 
 ## Finding the Fun with Jandel and Foryxe
-**URL:** https://www.youtube.com/watch?v=rVr0IyfYkPg
+**** https://www.youtube.com/watch?v=rVr0IyfYkPg
 
 ## 1. 핵심 요약
 
@@ -1895,8 +1895,8 @@ Roblox는 다른 플랫폼과 구별되는 독특한 플레이어 문화를 가�
 # Writing Quests, Achievements & Dailies with BreakfastCandy
 
 ## Writing Quests, Achievements & Dailies with BreakfastCandy
-- **URL:** https://www.youtube.com/watch?v=iWSZJSE2NEc
-- **URL:** https://www.youtube.com/watch?v=rVr0IyfYkPg
+- **** https://www.youtube.com/watch?v=iWSZJSE2NEc
+- **** https://www.youtube.com/watch?v=rVr0IyfYkPg
 
 ## 1. 핵심 요약
 
@@ -2018,7 +2018,7 @@ Roblox는 다른 플랫폼과 구별되는 독특한 플레이어 문화를 가�
 # Designing Quests, Achievements & Dailies with BreakfastCandy
 
 ## Designing Quests, Achievements & Dailies with BreakfastCandy
-**URL:** https://www.youtube.com/watch?v=1stxDQeHhr8
+**** https://www.youtube.com/watch?v=1stxDQeHhr8
 
 ## 1. 핵심 요약
 
@@ -2196,7 +2196,7 @@ Roblox는 다른 플랫폼과 구별되는 독특한 플레이어 문화를 가�
 
 # Introduction to Quests, Achievements & Dailies with BreakfastCandy
 
-**URL:** https://www.youtube.com/watch?v=d4g30UupgKw
+**** https://www.youtube.com/watch?v=d4g30UupgKw
 
 ## 1. 핵심 요약
 
@@ -2332,7 +2332,7 @@ Roblox는 다른 플랫폼과 구별되는 독특한 플레이어 문화를 가�
 
 # Roleplay Design and Worldbuilding with Myzta
 
-**URL:** https://www.youtube.com/watch?v=UlKAoiFLgUo
+**** https://www.youtube.com/watch?v=UlKAoiFLgUo
 
 ## 1. 핵심 요약
 
@@ -2418,9 +2418,9 @@ Myzta와 그녀의 팀은 게임의 핵심 비전(예: 긍정적인 영향, 환�
 
 # Designing Season Passes with Dspav and BreakfastCandy
 
-- **URL:** https://www.youtube.com/watch?v=k2gbQI-ggB4
-- **URL:** https://www.youtube.com/watch?v=UlKAoiFLgUo
-- **URL:** https://www.youtube.com/watch?v=UlKAoiFLgUo
+- **** https://www.youtube.com/watch?v=k2gbQI-ggB4
+- **** https://www.youtube.com/watch?v=UlKAoiFLgUo
+- **** https://www.youtube.com/watch?v=UlKAoiFLgUo
 
 ## 1. 핵심 요약
 
@@ -2554,8 +2554,8 @@ Myzta와 그녀의 팀은 게임의 핵심 비전(예: 긍정적인 영향, 환�
 
 # UI/UX Design with GodzGalaxy, theloudscream & Repotted
 
-- **URL:** https://www.youtube.com/watch?v=AG-3o_GdqKI
-- **URL:** https://www.youtube.com/watch?v=k2gbQI-ggB4
+- **** https://www.youtube.com/watch?v=AG-3o_GdqKI
+- **** https://www.youtube.com/watch?v=k2gbQI-ggB4
 
 Roblox의 성공적인 게임 'Outlaster'의 개발팀, Peak Precision Studios와 함께하는 UI/UX 디자인 심층 분석. 이 자료는 Roblox Level Up 라운드테이블에서 공유된 전문가들의 인사이트를 바탕으로, 단순 요약을 넘어 실제 게임 개발에 적용할 수 있는 체계적인 학습 내용을 제공합니다.
 
@@ -2682,9 +2682,9 @@ UI(User Interface)와 UX(User Experience)는常常 함께 언급되지만, 명�
 
 ## Content Updates for Live Games
 
-- **URL:** https://www.youtube.com/watch?v=kQIyqMdh7Os
-- **URL:** https://www.youtube.com/watch?v=AG-3o_GdqKI
-- **URL:** https://www.youtube.com/watch?v=AG-3o_GdqKI
+- **** https://www.youtube.com/watch?v=kQIyqMdh7Os
+- **** https://www.youtube.com/watch?v=AG-3o_GdqKI
+- **** https://www.youtube.com/watch?v=AG-3o_GdqKI
 
 ## 1. 핵심 요약
 
@@ -2881,8 +2881,8 @@ UI(User Interface)와 UX(User Experience)는常常 함께 언급되지만, 명�
 
 # Narrative and Game Design with MiniToon
 
-- **URL:** https://www.youtube.com/watch?v=kQIyqMdh7Os
-- **URL:** https://www.youtube.com/watch?v=dBlP8NdJQM0
+- **** https://www.youtube.com/watch?v=kQIyqMdh7Os
+- **** https://www.youtube.com/watch?v=dBlP8NdJQM0
 
 ## 1. 핵심 요약
 
@@ -3035,8 +3035,8 @@ MiniToon이 공유한 통찰을 더 깊이 이해하고 자신의 프로젝트�
 
 # Supporting Game Expansions with Dspav
 
-- **URL:** https://www.youtube.com/watch?v=4-vZkSrGAxI
-- **URL:** https://www.youtube.com/watch?v=dBlP8NdJQM0
+- **** https://www.youtube.com/watch?v=4-vZkSrGAxI
+- **** https://www.youtube.com/watch?v=dBlP8NdJQM0
 > 부제: 라이브 게임 피처 지원 및 성장을 위한 완벽 가이드
 
 ## 1. 핵심 요약
@@ -3201,8 +3201,8 @@ KPI는 게임의 건강 상태를 나타내는 혈압계와 같습니다. 크게
 
 # Balancing Game Expansions with Dspav
 
-- **URL:** https://www.youtube.com/watch?v=4-vZkSrGAxI
-- **URL:** https://www.youtube.com/watch?v=pSjFYDEgRxs
+- **** https://www.youtube.com/watch?v=4-vZkSrGAxI
+- **** https://www.youtube.com/watch?v=pSjFYDEgRxs
 
 ## 1. 핵심 요약
 
@@ -3365,7 +3365,7 @@ KPI는 게임의 건강 상태를 나타내는 혈압계와 같습니다. 크게
 
 # Dspav와 함께하는 게임 확장팩 제작 프로덕션 가이드
 
-**URL:** https://www.youtube.com/watch?v=HKLRLhHHHVc
+**** https://www.youtube.com/watch?v=HKLRLhHHHVc
 
 ## 1. 핵심 요약
 
@@ -3477,7 +3477,7 @@ KPI는 게임의 건강 상태를 나타내는 혈압계와 같습니다. 크게
 
 # What are Game Expansions? with Dspav
 
-**URL:** https://www.youtube.com/watch?v=UL4QaSbfyC4
+**** https://www.youtube.com/watch?v=UL4QaSbfyC4
 
 ## 1. 핵심 요약
 
@@ -3595,8 +3595,8 @@ KPI는 게임의 건강 상태를 나타내는 혈압계와 같습니다. 크게
 
 # Designing Game Expansions with AbstractAlex, Usering & ImprobableAI
 
-- **URL:** https://www.youtube.com/watch?v=Gv5OVVyWM10
-- **URL:** https://www.youtube.com/watch?v=UL4QaSbfyC4
+- **** https://www.youtube.com/watch?v=Gv5OVVyWM10
+- **** https://www.youtube.com/watch?v=UL4QaSbfyC4
 
 ## 1. 핵심 요약
 
@@ -3816,5 +3816,5 @@ KPI는 게임의 건강 상태를 나타내는 혈압계와 같습니다. 크게
   - `Game Analytics KPIs` (Key Performance Indicators)
   - `Good News Sandwich Communication`
 
-**URL:** https://www.youtube.com/watch?v=Gv5OVVyWM10
-**URL:** https://www.youtube.com/watch?v=Gv5OVVyWM10
+**** https://www.youtube.com/watch?v=Gv5OVVyWM10
+**** https://www.youtube.com/watch?v=Gv5OVVyWM10

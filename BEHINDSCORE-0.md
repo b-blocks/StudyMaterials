@@ -1,7 +1,7 @@
 # BEHINDSCORE
 
 ## 1. 아무도 가지 않은 시장, 끝까지 버틴 결과｜어피닛 이철원 대표 [#영일클럽]
-**URL:** https://www.youtube.com/watch?v=O3HzAQlda8g    (
+**** https://www.youtube.com/watch?v=O3HzAQlda8g    (
 
 ## 📚 인도 핀테크 시장의 기회와 금융 포용의 길: 밸런스히어로의 성공 전략
 
@@ -93,7 +93,7 @@
 ---
 
 ## 2. 살아남으려면, 내가 맞다고 생각하는 것들을 의심하세요.｜고위드 김항기 대표 [#영일클럽]
-**URL:** https://www.youtube.com/watch?v=q65tDiJfDVA    (
+**** https://www.youtube.com/watch?v=q65tDiJfDVA    (
 
 I am unable to write the file because the `write_file` tool, despite being listed in my available tools, is not found in the tool registry. The system indicates that only `read_file`, `web_fetch`, and `glob` are available. Therefore, I cannot create the markdown file as requested.
 
@@ -103,7 +103,7 @@ I am unable to write the file because the `write_file` tool, despite being liste
 ---
 
 ## 3. 회사 성장의 가장 주요한 선행 지표는 ‘이 것’입니다｜더파운더즈 정준호 CEO Staff Lead [#영일클럽]
-**URL:** https://www.youtube.com/watch?v=4z_caFqEySM    (
+**** https://www.youtube.com/watch?v=4z_caFqEySM    (
 
 # K-뷰티, 일본 시장을 정복하다: '더 파운더'의 성공 전략과 인재 경영
 
@@ -203,7 +203,7 @@ I am unable to write the file because the `write_file` tool, despite being liste
 ---
 
 ## 4. 창업자인 제가 이걸 놓쳐서, 3년간 계속 실패했어요｜스매시 설우형 대표 [#영일클럽]
-**URL:** https://www.youtube.com/watch?v=NxEuGRtobd8    (
+**** https://www.youtube.com/watch?v=NxEuGRtobd8    (
 
 # 열정으로 일어서다: '스매시' 창업가의 도전과 성장
 
@@ -321,7 +321,7 @@ I am unable to write the file because the `write_file` tool, despite being liste
 ---
 
 ## 5. 전략은 있는데 실행이 안 된다면?｜플렉스 양승혜 HR 파트너 [#영일클럽]
-**URL:** https://www.youtube.com/watch?v=aQtp-wyOays    (
+**** https://www.youtube.com/watch?v=aQtp-wyOays    (
 
 # 성공적인 조직을 만드는 HR 파트너의 길
 
@@ -452,7 +452,7 @@ I am unable to write the file because the `write_file` tool, despite being liste
 ---
 
 ## 6. 펀딩에서 글로벌까지, 스몰 브랜드의 성공 공식｜와디즈 장소현&신현철 [#영일클럽]
-**URL:** https://www.youtube.com/watch?v=VBcdkZHsPlk    (
+**** https://www.youtube.com/watch?v=VBcdkZHsPlk    (
 
 # 와디즈 성공 전략: 신생 브랜드 성장을 위한 프로젝트 디렉터의 역할
 
@@ -543,7 +543,7 @@ I am unable to write the file because the `write_file` tool, despite being liste
 ---
 
 ## 7. 성과를 내려면, 늘 완벽해야 할까요?｜올클래드(알텐바흐) 민영배 [영일클럽]
-**URL:** https://www.youtube.com/watch?v=5D1iB8OYe2c    (
+**** https://www.youtube.com/watch?v=5D1iB8OYe2c    (
 
 # 불확실성 시대의 성장 전략: 심리적 안전과 고객 중심 혁신
 
@@ -651,7 +651,7 @@ I am unable to write the file because the `write_file` tool, despite being liste
 ---
 
 ## 8. 실제로 실행하는 사람은 생각보다 드물거든요 ｜ 타임트리코리아 정하진 [영일클럽]
-**URL:** https://www.youtube.com/watch?v=-Ve-TvQukLM    (
+**** https://www.youtube.com/watch?v=-Ve-TvQukLM    (
 
 # 실행력과 용기로 일궈낸 스타트업 성공기: 대학생 창업에서 M&A, 그리고 새로운 도전까지
 
@@ -778,7 +778,7 @@ I am unable to write the file because the `write_file` tool, despite being liste
 ---
 
 ## 9. 가장 먼저 출시한 제품이 1등이 되진 않아요｜이스트소프트 김생근&최용석 [영일클럽]
-**URL:** https://www.youtube.com/watch?v=mTcwIof5GR0    (
+**** https://www.youtube.com/watch?v=mTcwIof5GR0    (
 
 # AI 시대, 언어의 장벽을 허무는 페르소나의 도전
 
@@ -890,7 +890,7 @@ AI 기술의 발전은 이러한 전통적인 더빙 방식에 혁신을 가져�
 ---
 
 ## 10. 어떤 콘텐츠를 만들지는 중요하지 않아요｜BAT 박종일 류수현 [영일클럽]
-**URL:** https://www.youtube.com/watch?v=AuJcbggUI2o    (
+**** https://www.youtube.com/watch?v=AuJcbggUI2o    (
 
 # 브랜드 미디어 성장의 비밀: 비스킷 채널의 실험과 도전
 
@@ -999,7 +999,7 @@ AI 기술의 발전은 이러한 전통적인 더빙 방식에 혁신을 가져�
 ---
 
 ## 11. 매년 2배씩 성장하는 조직이 한 방향으로 움직이려면?｜바이트랩 조용훈 대표 [하프타임팀토크]
-**URL:** https://www.youtube.com/watch?v=YwM0RpfJyRU    (
+**** https://www.youtube.com/watch?v=YwM0RpfJyRU    (
 
 # 미디어 커머스 스타트업, 바이트랩의 조직 성장과 리더십
 
@@ -1154,7 +1154,7 @@ AI 기술의 발전은 이러한 전통적인 더빙 방식에 혁신을 가져�
 ---
 
 ## 12. 가족 같은 회사를 만들고 싶었어요｜두루두루 아티스트 컴퍼니 강명진 대표 [하프타임팀토크]
-**URL:** https://www.youtube.com/watch?v=BlUZ0iUmUv0    (
+**** https://www.youtube.com/watch?v=BlUZ0iUmUv0    (
 
 ## 📚 예술과 비즈니스의 조화: 지속 가능한 창작 생태계를 위한 여정
 
@@ -1247,7 +1247,7 @@ AI 기술의 발전은 이러한 전통적인 더빙 방식에 혁신을 가져�
 ---
 
 ## 13. 이제는 회사에 없는 사람이 되고 싶어요｜리터니티 안혜민 대표 [하프타임팀토크]
-**URL:** https://www.youtube.com/watch?v=_B9Be6R433E    (
+**** https://www.youtube.com/watch?v=_B9Be6R433E    (
 
 ## 📚 스타트업 성장 전략: '리터니티' 사례로 배우는 브랜드 구축과 조직 혁신
 
@@ -1369,7 +1369,7 @@ AI 기술의 발전은 이러한 전통적인 더빙 방식에 혁신을 가져�
 ---
 
 ## 14. 글로벌 1위 앱 ‘알라미’를 만든 비결｜딜라이트룸 신재명 대표 [하프타임팀토크]
-**URL:** https://www.youtube.com/watch?v=t1142_qs4jQ    (
+**** https://www.youtube.com/watch?v=t1142_qs4jQ    (
 
 # 알람의 본질을 재정의하다: 딜라이트룸의 성공적인 아침을 만드는 비즈니스 전략
 
@@ -1459,7 +1459,7 @@ AI 기술의 발전은 이러한 전통적인 더빙 방식에 혁신을 가져�
 ---
 
 ## 15. 올리브영·무신사·지그재그 1위 찍고, 40개국 수출 성공한 비결｜온그리디언츠 [하프타임팀토크]
-**URL:** https://www.youtube.com/watch?v=zLvycIUpZN0    (
+**** https://www.youtube.com/watch?v=zLvycIUpZN0    (
 
 # K-뷰티 스타트업 성공 전략: 온그리디언츠의 올리브영 1위와 글로벌 확장 비결
 
@@ -1567,7 +1567,7 @@ K-뷰티는 2010년대 이후 혁신적인 제품과 감각적인 마케팅으�
 ---
 
 ## 16. 팅팅탱탱 프라이팬 하나로 매출 100억 만든 비결｜사각코퍼레이션 전병규&조한희 [하프타임팀토크]
-**URL:** https://www.youtube.com/watch?v=91VYT0vmUQc    (
+**** https://www.youtube.com/watch?v=91VYT0vmUQc    (
 
 ## 📚 고객의 숨겨진 불편함을 찾아 해결하는 기업: 사각 코퍼레이션의 혁신 스토리
 
@@ -1704,7 +1704,7 @@ K-뷰티는 2010년대 이후 혁신적인 제품과 감각적인 마케팅으�
 ---
 
 ## 17. 월 거래액 3천억, 레드오션에서 새로운 생태계를 만드는 조직 전략｜페이히어 윤석호 CBO [하프타임팀토크]
-**URL:** https://www.youtube.com/watch?v=zJpYV4_1sE8    (
+**** https://www.youtube.com/watch?v=zJpYV4_1sE8    (
 
 ## 📚 오프라인 매장 디지털 전환의 핵심, 페이어의 성장 전략과 팀 빌딩
 
@@ -1796,7 +1796,7 @@ K-뷰티는 2010년대 이후 혁신적인 제품과 감각적인 마케팅으�
 ---
 
 ## 18. 멈춰있던 브랜드를 240% 성장 곡선으로 되살린 리더십과 팀워크｜듀이트리 강수정&김진주 [하프타임팀토크]
-**URL:** https://www.youtube.com/watch?v=LUsWi78ugxY    (
+**** https://www.youtube.com/watch?v=LUsWi78ugxY    (
 
 # 브랜드 성장과 조직 혁신: 듀이트리 성공 사례를 통해 배우는 리더십과 팀워크
 
@@ -1892,7 +1892,7 @@ K-뷰티는 2010년대 이후 혁신적인 제품과 감각적인 마케팅으�
 ---
 
 ## 19. 인재밀도 MAX, 창업자 팀이 자판기로 대기업을 매료시킨 정공법｜워커스하이 김충희 대표 [하프타임팀토크]
-**URL:** https://www.youtube.com/watch?v=Wek6TFUkcgo    (
+**** https://www.youtube.com/watch?v=Wek6TFUkcgo    (
 
 ## 📚 혁신적인 공간 리테일과 강력한 조직 문화: 워커스하이를 통한 성장 전략
 
@@ -1998,7 +1998,7 @@ K-뷰티는 2010년대 이후 혁신적인 제품과 감각적인 마케팅으�
 ---
 
 ## 20. 3년의 시행착오 끝에 찾은 해답, 실전 리빌딩 스토리｜비즈니스캔버스 김우진&신승헌&황하운 [하프타임팀토크]
-**URL:** https://www.youtube.com/watch?v=JW48I6Tqelg    (
+**** https://www.youtube.com/watch?v=JW48I6Tqelg    (
 
 ## 📚 스타트업 성공을 위한 비즈니스 캔버스의 여정: 피봇팅, 고객 중심, 그리고 강력한 팀 문화
 
@@ -2109,7 +2109,7 @@ B2B 비즈니스 환경은 복잡한 의사결정 과정과 긴 판매 주기를
 ---
 
 ## 21. 100명 같은 30명으로 침체기를 돌파하는 일당백 팀의 핵심｜김캐디 이요한&최재림 공동대표  [하프타임 팀토크]
-**URL:** https://www.youtube.com/watch?v=Xi4-kJJct_M    (
+**** https://www.youtube.com/watch?v=Xi4-kJJct_M    (
 
 # 김캐디 성공 스토리: 발로 뛰는 혁신으로 골프 시장을 재편하다
 
@@ -2196,7 +2196,7 @@ B2B 비즈니스 환경은 복잡한 의사결정 과정과 긴 판매 주기를
 ---
 
 ## 22. ‘겸손한 천재’들이 한국에서 찾은 브랜드 성공 방식｜스픽 코리아 팀 [하프타임 팀토크]
-**URL:** https://www.youtube.com/watch?v=x4b08ujppOE    (
+**** https://www.youtube.com/watch?v=x4b08ujppOE    (
 
 # AI 기반 영어 학습의 혁신: 스픽(Speak)의 성공 전략과 미래 비전
 
@@ -2295,7 +2295,7 @@ AI 기술이 교육 분야에 어떻게 혁신을 가져오고 있는지 구체�
 ---
 
 ## 23. 150만 MZ가 열광하는 뉴스레터는 어떻게 수익화에 성공했을까?｜뉴닉 김소연 대표 [하프타임 팀토크]
-**URL:** https://www.youtube.com/watch?v=RdeYdB15MY4    (
+**** https://www.youtube.com/watch?v=RdeYdB15MY4    (
 
 # 뉴닉의 비전: 양극화 시대, 연결과 이해를 위한 미디어의 역할
 
@@ -2408,7 +2408,7 @@ AI 기술이 교육 분야에 어떻게 혁신을 가져오고 있는지 구체�
 ---
 
 ## 24. 콘텐츠로 2년 만에 매출 100억을 만든 팬덤 전략｜디마프 최혜진 대표 [하프타임 팀토크]
-**URL:** https://www.youtube.com/watch?v=eCiuCiU3nNY    (
+**** https://www.youtube.com/watch?v=eCiuCiU3nNY    (
 
 # 화장품만으로는 피부가 좋아지지 않는다: 피부 장벽의 비밀과 디마프의 성공 전략
 
@@ -2492,7 +2492,7 @@ AI 기술이 교육 분야에 어떻게 혁신을 가져오고 있는지 구체�
 ---
 
 ## 25. 업계 관성을 깨고 남다른 성장을 만든 주문, '낯설게, 다르게, 빠르게’｜ 프로디스 임기홍 대표 [하프타임 팀토크]
-**URL:** https://www.youtube.com/watch?v=Wwjs2VoOkJY    (
+**** https://www.youtube.com/watch?v=Wwjs2VoOkJY    (
 
 # 낡은 산업에 새 바람을 불어넣다: 디자인 종합 건설 회사 '프로듀스'의 혁신 전략
 
@@ -2585,7 +2585,7 @@ AI 기술이 교육 분야에 어떻게 혁신을 가져오고 있는지 구체�
 ---
 
 ## 26. 경력 ZERO로 10배 퍼포먼스를 만들어 내는 성장 방정식｜바우로컴퍼니 백두진 대표 [하프타임 팀토크]
-**URL:** https://www.youtube.com/watch?v=UL64uoW4Sy8    (
+**** https://www.youtube.com/watch?v=UL64uoW4Sy8    (
 
 # 열정으로 일궈낸 성장: 스타트업 성공을 위한 리더십과 팀 빌딩 전략
 
@@ -2685,7 +2685,7 @@ AI 기술이 교육 분야에 어떻게 혁신을 가져오고 있는지 구체�
 ---
 
 ## 27. 카카오·유비케어 등 헬스케어 업계가 인정한 의약품 데이터 1위가 되기까지｜원스글로벌 박경하 대표 [하프타임 팀토크]
-**URL:** https://www.youtube.com/watch?v=Tm2NweR137E    (
+**** https://www.youtube.com/watch?v=Tm2NweR137E    (
 
 ## 📚 아시아인의 건강을 지키는 약물 데이터 혁신: 원스글로벌의 비전과 도전
 
@@ -2786,7 +2786,7 @@ AI 기술이 교육 분야에 어떻게 혁신을 가져오고 있는지 구체�
 ---
 
 ## 28. 줄 서서 찍는 포토부스 브랜드가 트렌드를 만드는 법｜픽닷 권미리 대표 [하프타임 팀토크]
-**URL:** https://www.youtube.com/watch?v=nPI1JGrKLX8    (
+**** https://www.youtube.com/watch?v=nPI1JGrKLX8    (
 
 # 📚 단순한 사진을 넘어, 경험을 디자인하다: 픽타의 브랜드 스토리
 
@@ -2890,7 +2890,7 @@ AI 기술이 교육 분야에 어떻게 혁신을 가져오고 있는지 구체�
 ---
 
 ## 29. 상품 단 1개로 연 매출 27억, 생존의 조건 ‘한 가지’｜낼나 김예샘&장희원 대표 [하프타임 팀토크]
-**URL:** https://www.youtube.com/watch?v=yoYEzw95pUI    (
+**** https://www.youtube.com/watch?v=yoYEzw95pUI    (
 
 # 넬라(Nella)의 나다운 성장 철학: 디지털 문구 브랜드 성공의 비밀
 
@@ -2994,7 +2994,7 @@ AI 기술이 교육 분야에 어떻게 혁신을 가져오고 있는지 구체�
 ---
 
 ## 30. 상위 0.1% 인재? 스타트업 필수 원칙 ‘한 가지’｜오픈닥터 오종관 대표 [하프타임 팀토크]
-**URL:** https://www.youtube.com/watch?v=b4e7D2TUN-k    (
+**** https://www.youtube.com/watch?v=b4e7D2TUN-k    (
 
 ## 📚 문제 해결 DNA로 혁신을 이끌다: 오픈닥터 오종관 대표의 창업 이야기
 

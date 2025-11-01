@@ -78,7 +78,7 @@
 ---
 
 ## 123. 아포칼립스 세계정부 (피터틸)
-**URL:** https://www.youtube.com/watch?v=J8h0AYXHBbs    (
+**** https://www.youtube.com/watch?v=J8h0AYXHBbs    (
 
 ## 1. 핵심 요약
 
@@ -171,7 +171,7 @@
 ---
 
 ## 124. 불안에 대하여
-**URL:** https://www.youtube.com/watch?v=9NuhcSA8UM4    (
+**** https://www.youtube.com/watch?v=9NuhcSA8UM4    (
 
 ## 1. 핵심 요약
 
@@ -535,7 +535,7 @@ The current output looks good and meets all the requirements. I will now output 
 ---
 
 ## 125. 생산성 x10 인간
-**URL:** https://www.youtube.com/watch?v=BkwoDnBOXl4    (
+**** https://www.youtube.com/watch?v=BkwoDnBOXl4    (
 
 ## 1. 핵심 요약
 
@@ -666,7 +666,7 @@ The current output looks good and meets all the requirements. I will now output 
 ---
 
 ## 126. 자존감 높은 사람
-**URL:** https://www.youtube.com/watch?v=3mL-yIwOyVM    (
+**** https://www.youtube.com/watch?v=3mL-yIwOyVM    (
 
 ## 자존감: 내면의 평화와 외부 세계를 마주하는 힘
 
@@ -982,7 +982,7 @@ I will add a "참고 자료" section at the end of the "상세 내용" to list t
 ---
 
 ## 127. 미국 내전? (레이달리오)
-**URL:** https://www.youtube.com/watch?v=MMBDNqnufbM    (
+**** https://www.youtube.com/watch?v=MMBDNqnufbM    (
 
 ## 1. 핵심 요약
 
@@ -1067,7 +1067,7 @@ I will add a "참고 자료" section at the end of the "상세 내용" to list t
 ---
 
 ## 128. 하워드 막스 회장 | 트럼프 관세 해설
-**URL:** https://www.youtube.com/watch?v=-OSFl3YrC08    (
+**** https://www.youtube.com/watch?v=-OSFl3YrC08    (
 
 ## 1. 핵심 요약
 
@@ -1160,7 +1160,7 @@ I will add a "참고 자료" section at the end of the "상세 내용" to list t
 ---
 
 ## 129. 장하준 교수 | 트럼프 관세 해설
-**URL:** https://www.youtube.com/watch?v=mwGx3eX09QE    (
+**** https://www.youtube.com/watch?v=mwGx3eX09QE    (
 
 ## 1. 핵심 요약
 
@@ -1254,7 +1254,7 @@ I will add a "참고 자료" section at the end of the "상세 내용" to list t
 ---
 
 ## 130. 생각좀 하면서 살자
-**URL:** https://www.youtube.com/watch?v=ledUBXY7Vfo    (
+**** https://www.youtube.com/watch?v=ledUBXY7Vfo    (
 
 ## 1. 핵심 요약
 
@@ -1481,7 +1481,7 @@ I will add a "참고 자료" section at the end of the "상세 내용" to list t
 ---
 
 ## 131. 버핏과 게이츠 (클래식)
-**URL:** https://www.youtube.com/watch?v=zLUieYG1zsk    (
+**** https://www.youtube.com/watch?v=zLUieYG1zsk    (
 
 ## 1. 핵심 요약
 
@@ -1597,7 +1597,7 @@ I will add a "참고 자료" section at the end of the "상세 내용" to list t
 ---
 
 ## 132. 팀 도지 총출동 (TEAM DOGE)
-**URL:** https://www.youtube.com/watch?v=R61qJ0ycRk4    (
+**** https://www.youtube.com/watch?v=R61qJ0ycRk4    (
 
 **Reasoning 2: Refinement and Markdown Formatting**
 
@@ -1839,7 +1839,7 @@ Now that the content is structured, I will refine the language, ensure all guide
 ---
 
 ## 133. 이거 다 과학입니다
-**URL:** https://www.youtube.com/watch?v=MVdmnpWUVY4    (
+**** https://www.youtube.com/watch?v=MVdmnpWUVY4    (
 
 ## 뇌를 사로잡는 미학의 비밀: 디자인 심리학 완벽 가이드
 
@@ -1920,7 +1920,7 @@ Now that the content is structured, I will refine the language, ensure all guide
 ---
 
 ## 134. 사람들이 놓치고 있는 거 : 의학, 드론, 비만 치료제
-**URL:** https://www.youtube.com/watch?v=CmA3jQaHKZo    (
+**** https://www.youtube.com/watch?v=CmA3jQaHKZo    (
 
 ## 1. 핵심 요약
 
@@ -2134,7 +2134,7 @@ GLP-1 약물의 혁명적 잠재력을 최대한 활용하고, 현대 의학 및
 ---
 
 ## 135. 이런날도 있지 뭐
-**URL:** https://www.youtube.com/watch?v=pXBx1cA2VaA    (
+**** https://www.youtube.com/watch?v=pXBx1cA2VaA    (
 
 ## 1. 핵심 요약
 
@@ -2423,7 +2423,7 @@ The document looks complete and adheres to all specified guidelines.## 1. 핵심
 ---
 
 ## 136. 테슬라 긴급발표
-**URL:** https://www.youtube.com/watch?v=RE5Sotz6TYA    (
+**** https://www.youtube.com/watch?v=RE5Sotz6TYA    (
 
 ## 1. 핵심 요약
 
@@ -2559,7 +2559,7 @@ The document looks complete and adheres to all specified guidelines.## 1. 핵심
 ---
 
 ## 137. 당신은 미친놈 입니까? (YE)
-**URL:** https://www.youtube.com/watch?v=ghHD6A4cdAE    (
+**** https://www.youtube.com/watch?v=ghHD6A4cdAE    (
 
 ## 1. 핵심 요약
 
@@ -2677,7 +2677,7 @@ The document looks complete and adheres to all specified guidelines.## 1. 핵심
 ---
 
 ## 138. 찰리멍거의 생각법
-**URL:** https://www.youtube.com/watch?v=F8CCvOxyq60    (
+**** https://www.youtube.com/watch?v=F8CCvOxyq60    (
 
 ## 1. 핵심 요약
 
@@ -2778,7 +2778,7 @@ The document looks complete and adheres to all specified guidelines.## 1. 핵심
 ---
 
 ## 139. 발전 없는 미국 (피터 틸)
-**URL:** https://www.youtube.com/watch?v=szRPVC5Vtcs    (
+**** https://www.youtube.com/watch?v=szRPVC5Vtcs    (
 
 ## 1. 핵심 요약
 
@@ -3070,7 +3070,7 @@ The content seems to flow logically and addresses all parts of the prompt. The l
 ---
 
 ## 140. 나 자신으로 살아가기
-**URL:** https://www.youtube.com/watch?v=9k_RCgDsETA    (
+**** https://www.youtube.com/watch?v=9k_RCgDsETA    (
 
 ## 1. 핵심 요약
 
@@ -3279,7 +3279,7 @@ The content looks solid and adheres to all instructions.## 1. 핵심 요약
 ---
 
 ## 141. 개빡친 애플창업자
-**URL:** https://www.youtube.com/watch?v=rHPJPy5i-9o    (
+**** https://www.youtube.com/watch?v=rHPJPy5i-9o    (
 
 ## 1. 핵심 요약
 
@@ -3411,7 +3411,7 @@ The content looks solid and adheres to all instructions.## 1. 핵심 요약
 ---
 
 ## 142. 스트레스 좋은거임
-**URL:** https://www.youtube.com/watch?v=oW32MLiUou4    (
+**** https://www.youtube.com/watch?v=oW32MLiUou4    (
 
 ## 1. 핵심 요약
 *   **리프레이밍**은 과학적 진실 여부와 무관하게 관점을 전환하여 불안과 스트레스를 관리하는 강력한 심리 기술입니다.
@@ -3533,7 +3533,7 @@ The content looks solid and adheres to all instructions.## 1. 핵심 요약
 ---
 
 ## 143. 우리는 프로그래밍 당하고 있다 (잭도시)
-**URL:** https://www.youtube.com/watch?v=pplZlVSwZhA    (
+**** https://www.youtube.com/watch?v=pplZlVSwZhA    (
 
 ## 오픈 소스, 탈중앙화, 그리고 자유 의지: 디지털 시대의 새로운 패러다임
 
@@ -3675,7 +3675,7 @@ Noster는 사용자가 자신의 `콘텐츠`를 생성하고 `신원`을 구축�
 ---
 
 ## 144. 비결좀 알려주세요 (렉스 프리드먼)
-**URL:** https://www.youtube.com/watch?v=9COEbYLNVKo    (
+**** https://www.youtube.com/watch?v=9COEbYLNVKo    (
 
 ## 1. 핵심 요약
 

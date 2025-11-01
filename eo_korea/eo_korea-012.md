@@ -100,7 +100,7 @@ B-PRO는 현재 15개 국적의 구성원들이 서울과 런던을 중심으로
 ---
 
 ## 379. 1년에 업데이트만 300번, 미친 실행력의 스타트업 이야기
-**URL:** https://www.youtube.com/watch?v=vWibGEFLdvc    (
+**** https://www.youtube.com/watch?v=vWibGEFLdvc    (
 
 # 1년에 업데이트만 300번, 미친 실행력의 스타트업 이야기
 
@@ -204,7 +204,7 @@ B-PRO는 현재 15개 국적의 구성원들이 서울과 런던을 중심으로
 ---
 
 ## 380. 그가 모두의 인정을 받기까지 걸린 시간, 단 1년
-**URL:** https://www.youtube.com/watch?v=Z4F2pSiKwes    (
+**** https://www.youtube.com/watch?v=Z4F2pSiKwes    (
 
 # 그가 모두의 인정을 받기까지 걸린 시간, 단 1년
 
@@ -300,7 +300,7 @@ B-PRO는 현재 15개 국적의 구성원들이 서울과 런던을 중심으로
 ---
 
 ## 381. [무삭제] 단돈 10만 원으로 예술작품의 주인이 되다 | 플리옥션 IR 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=55q_bgZHHcw    (
+**** https://www.youtube.com/watch?v=55q_bgZHHcw    (
 
 # [무삭제] 단돈 10만 원으로 예술작품의 주인이 되다 | 플리옥션 IR 피칭, Q&A
 
@@ -436,7 +436,7 @@ B-PRO는 현재 15개 국적의 구성원들이 서울과 런던을 중심으로
 ---
 
 ## 382. 정부지원사업 지원 전에 무조건 봐야하는 영상
-**URL:** https://www.youtube.com/watch?v=Yu29nG-38jM    (
+**** https://www.youtube.com/watch?v=Yu29nG-38jM    (
 
 # 정부지원사업 지원 전에 무조건 봐야하는 영상
 
@@ -534,7 +534,7 @@ B-PRO는 현재 15개 국적의 구성원들이 서울과 런던을 중심으로
 ---
 
 ## 383. 4번의 실패로 배운 위대한 기업을 만드는 법ｌ드라마앤컴퍼니 CEO 최재호
-**URL:** https://www.youtube.com/watch?v=GoOTra0C4Xg    (
+**** https://www.youtube.com/watch?v=GoOTra0C4Xg    (
 
 # 4번의 실패로 배운 위대한 기업을 만드는 법ｌ드라마앤컴퍼니 CEO 최재호
 
@@ -627,7 +627,7 @@ B-PRO는 현재 15개 국적의 구성원들이 서울과 런던을 중심으로
 ---
 
 ## 384. 전 재산 다 잃고 글로벌 3위 명품 커머스 기업을 만들기까지ｌ발란 최형록 CEO
-**URL:** https://www.youtube.com/watch?v=FvJxtHzeX1I    (
+**** https://www.youtube.com/watch?v=FvJxtHzeX1I    (
 
 # 전 재산 다 잃고 글로벌 3위 명품 커머스 기업을 만들기까지ｌ발란 최형록 CEO
 
@@ -757,7 +757,7 @@ B-PRO는 현재 15개 국적의 구성원들이 서울과 런던을 중심으로
 ---
 
 ## 385. [무삭제] MZ세대 지갑을 여는 3가지 키워드 | 그라인더 IR 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=ogLbAgGh0RQ    (
+**** https://www.youtube.com/watch?v=ogLbAgGh0RQ    (
 
 # [무삭제] MZ세대 지갑을 여는 3가지 키워드 | 그라인더 IR 피칭, Q&A
 
@@ -937,7 +937,7 @@ B-PRO는 현재 15개 국적의 구성원들이 서울과 런던을 중심으로
 ---
 
 ## 386. 신용불량자 14년을 딛고 일어서기까지
-**URL:** https://www.youtube.com/watch?v=hqOsUOlja3o    (
+**** https://www.youtube.com/watch?v=hqOsUOlja3o    (
 
 # 신용불량자 14년을 딛고 일어서기까지
 
@@ -1012,7 +1012,7 @@ B-PRO는 현재 15개 국적의 구성원들이 서울과 런던을 중심으로
 ---
 
 ## 387. 효율적으로 일하고 싶다면 이 영상을 보세요 | 토스 디자이너 강수영
-**URL:** https://www.youtube.com/watch?v=HQktfrNBZV4    (
+**** https://www.youtube.com/watch?v=HQktfrNBZV4    (
 
 # 효율적으로 일하고 싶다면 이 영상을 보세요 | 토스 디자이너 강수영
 
@@ -1117,7 +1117,7 @@ TDS 구축 후, 디자이너들이 똑같은 '레고 블록'을 가지고도 각
 ---
 
 ## 388. 디자인 현실적인 고민 무엇이든 물어보세요 | 공부법? 포트폴리오? 좋은 커리어?
-**URL:** https://www.youtube.com/watch?v=L6MZDx02D9I    (
+**** https://www.youtube.com/watch?v=L6MZDx02D9I    (
 
 # 디자인 현실적인 고민 무엇이든 물어보세요 | 공부법? 포트폴리오? 좋은 커리어?
 
@@ -1241,7 +1241,7 @@ UX 디자이너에게 요구되는 가장 중요한 역량은 바로 `상상력`
 ---
 
 ## 389. 위기가 닥쳤을 때 아버지가 선택한 것
-**URL:** https://www.youtube.com/watch?v=13nAKaP14Jg    (
+**** https://www.youtube.com/watch?v=13nAKaP14Jg    (
 
 # 위기가 닥쳤을 때 아버지가 선택한 것
 
@@ -1374,7 +1374,7 @@ UX 디자이너에게 요구되는 가장 중요한 역량은 바로 `상상력`
 ---
 
 ## 390. 같이 일하고 싶은 사람의 포트폴리오 공통점 | 디자이너 특집 2편
-**URL:** https://www.youtube.com/watch?v=c1XInGHUb-c    (
+**** https://www.youtube.com/watch?v=c1XInGHUb-c    (
 
 # 같이 일하고 싶은 사람의 포트폴리오 공통점 | 디자이너 특집 2편
 
@@ -1480,7 +1480,7 @@ UX 디자이너에게 요구되는 가장 중요한 역량은 바로 `상상력`
 ---
 
 ## 391. 매출 없는 초기 회사에 뭘 보고 투자할까?ㅣ이택경의 스타트업 투자 전략 EP 02
-**URL:** https://www.youtube.com/watch?v=eZ3xfry0SEM    (
+**** https://www.youtube.com/watch?v=eZ3xfry0SEM    (
 
 # 매출 없는 초기 회사에 뭘 보고 투자할까?ㅣ이택경의 스타트업 투자 전략 EP 02
 
@@ -1579,7 +1579,7 @@ UX 디자이너에게 요구되는 가장 중요한 역량은 바로 `상상력`
 ---
 
 ## 392. 올해는 이직하고 싶은데 막상 실천하기 두렵다면? | 디자이너 특집 1편
-**URL:** https://www.youtube.com/watch?v=CVWoUFd42qo    (
+**** https://www.youtube.com/watch?v=CVWoUFd42qo    (
 
 # 올해는 이직하고 싶은데 막상 실천하기 두렵다면? | 디자이너 특집 1편
 
@@ -1674,7 +1674,7 @@ UX 디자이너에게 요구되는 가장 중요한 역량은 바로 `상상력`
 ---
 
 ## 393. 코딩하러 들어가서 창업하고 나오는 곳(?!)
-**URL:** https://www.youtube.com/watch?v=_FjVmzdzKhI    (
+**** https://www.youtube.com/watch?v=_FjVmzdzKhI    (
 
 # 코딩하러 들어가서 창업하고 나오는 곳(?!) - 소프트웨어 마에스트로 프로그램 심층 분석
 
@@ -1786,7 +1786,7 @@ UX 디자이너에게 요구되는 가장 중요한 역량은 바로 `상상력`
 ---
 
 ## 394. 쿠키런 킹덤을 미국 2위로 만든 30대 임원 이야기
-**URL:** https://www.youtube.com/watch?v=4HWChI8Udeo    (
+**** https://www.youtube.com/watch?v=4HWChI8Udeo    (
 
 # 쿠키런 킹덤을 미국 2위로 만든 30대 임원 이야기
 
@@ -1913,7 +1913,7 @@ UX 디자이너에게 요구되는 가장 중요한 역량은 바로 `상상력`
 ---
 
 ## 395. 데이터로 돈을 만든 떠오르는 스타트업 3인방
-**URL:** https://www.youtube.com/watch?v=P5_7uXX_FXI    (
+**** https://www.youtube.com/watch?v=P5_7uXX_FXI    (
 
 # 데이터로 돈을 만든 떠오르는 스타트업 3인방
 
@@ -2033,7 +2033,7 @@ UX 디자이너에게 요구되는 가장 중요한 역량은 바로 `상상력`
 ---
 
 ## 396. 본인의 선택을 설명할 수 있는 삶을 살고 있나요? | 하트시그널 천인우
-**URL:** https://www.youtube.com/watch?v=wWHysB-6j4g    (
+**** https://www.youtube.com/watch?v=wWHysB-6j4g    (
 
 # 본인의 선택을 설명할 수 있는 삶을 살고 있나요? | 하트시그널 천인우
 
@@ -2183,7 +2183,7 @@ UC 버클리에서 `전기공학`과 `컴퓨터공학`을 함께 공부하는 `E
 ---
 
 ## 397. Chat GPT 만든 인공지능 회사 입사부터 퇴사까지
-**URL:** https://www.youtube.com/watch?v=mzQDuGeTZhg    (
+**** https://www.youtube.com/watch?v=mzQDuGeTZhg    (
 
 # Chat GPT 만든 인공지능 회사 입사부터 퇴사까지
 
@@ -2323,7 +2323,7 @@ UC 버클리에서 `전기공학`과 `컴퓨터공학`을 함께 공부하는 `E
 ---
 
 ## 398. 10명 중 9명이 부정해야 블루오션이죠 | 숏다큐멘터리
-**URL:** https://www.youtube.com/watch?v=qOC0VfqgPS4    (
+**** https://www.youtube.com/watch?v=qOC0VfqgPS4    (
 
 # 10명 중 9명이 부정해야 블루오션이죠 | 숏다큐멘터리
 
@@ -2422,7 +2422,7 @@ UC 버클리에서 `전기공학`과 `컴퓨터공학`을 함께 공부하는 `E
 ---
 
 ## 399. 크래프톤 CEO에게 직접 듣는 ‘프로듀서’의 관점
-**URL:** https://www.youtube.com/watch?v=Q2yIj-eC71Q    (
+**** https://www.youtube.com/watch?v=Q2yIj-eC71Q    (
 
 # 크래프톤 CEO에게 직접 듣는 ‘프로듀서’의 관점
 
@@ -2506,7 +2506,7 @@ UC 버클리에서 `전기공학`과 `컴퓨터공학`을 함께 공부하는 `E
 ---
 
 ## 400. 정부지원사업 ‘이거’ 하나로 종결합니다
-**URL:** https://www.youtube.com/watch?v=2j3QotNXvPk    (
+**** https://www.youtube.com/watch?v=2j3QotNXvPk    (
 
 # 정부지원사업 ‘이거’ 하나로 종결합니다
 
@@ -2596,7 +2596,7 @@ UC 버클리에서 `전기공학`과 `컴퓨터공학`을 함께 공부하는 `E
 ---
 
 ## 401. 이 시국에 트래픽이 275% 증가한 오프라인 팝업공간
-**URL:** https://www.youtube.com/watch?v=PUicuHmwlvk    (
+**** https://www.youtube.com/watch?v=PUicuHmwlvk    (
 
 # 이 시국에 트래픽이 275% 증가한 오프라인 팝업공간
 
@@ -2714,7 +2714,7 @@ UC 버클리에서 `전기공학`과 `컴퓨터공학`을 함께 공부하는 `E
 ---
 
 ## 402. 한때 대한민국 1000만 유저를 사로잡았던 교수님?!
-**URL:** https://www.youtube.com/watch?v=4rHkm2r711c    (
+**** https://www.youtube.com/watch?v=4rHkm2r711c    (
 
 # 한때 대한민국 1000만 유저를 사로잡았던 교수님?!
 
@@ -2850,7 +2850,7 @@ AlphaView는 현재 `좋은 콘텐츠`를 가진 회사들로부터 VR 제작 �
 ---
 
 ## 403. 유튜브에서 제일 잘 나가는 코미디 레이블 수장👑 | 신일류04 메타코미디 정영준
-**URL:** https://www.youtube.com/watch?v=roK_6D_HkGY    (
+**** https://www.youtube.com/watch?v=roK_6D_HkGY    (
 
 # 유튜브에서 제일 잘 나가는 코미디 레이블 수장👑 | 신일류04 메타코미디 정영준
 
@@ -2954,7 +2954,7 @@ AlphaView는 현재 `좋은 콘텐츠`를 가진 회사들로부터 VR 제작 �
 ---
 
 ## 404. 개발자 고민 무엇이든 물어보세요 | 개발자 특집 6편
-**URL:** https://www.youtube.com/watch?v=sSI9lKojEjc    (
+**** https://www.youtube.com/watch?v=sSI9lKojEjc    (
 
 # 개발자 고민 무엇이든 물어보세요 | 개발자 특집 6편
 
@@ -3123,7 +3123,7 @@ it 업계 선이 개발자를 뽑기 어렵다고 하는데 개발자가 되고 
 ---
 
 ## 405. 음식물쓰레기에 파묻혀 개발한 기술이 매출 80억을 넘어섰다
-**URL:** https://www.youtube.com/watch?v=RsFYHw6tMlQ    (
+**** https://www.youtube.com/watch?v=RsFYHw6tMlQ    (
 
 # 음식물쓰레기에 파묻혀 개발한 기술이 매출 80억을 넘어섰다
 
@@ -3229,7 +3229,7 @@ it 업계 선이 개발자를 뽑기 어렵다고 하는데 개발자가 되고 
 ---
 
 ## 406. 3조 원 써본 경영인은 창업이 쉬울까?
-**URL:** https://www.youtube.com/watch?v=ZFeRRScYHVM    (
+**** https://www.youtube.com/watch?v=ZFeRRScYHVM    (
 
 # 3조 원 써본 경영인은 창업이 쉬울까?
 
@@ -3344,7 +3344,7 @@ it 업계 선이 개발자를 뽑기 어렵다고 하는데 개발자가 되고 
 ---
 
 ## 407. 경영학도가 지방에서 발견한 투자 기회
-**URL:** https://www.youtube.com/watch?v=-RYIR9t9cUI    (
+**** https://www.youtube.com/watch?v=-RYIR9t9cUI    (
 
 # 경영학도가 지방에서 발견한 투자 기회
 
@@ -3448,7 +3448,7 @@ it 업계 선이 개발자를 뽑기 어렵다고 하는데 개발자가 되고 
 ---
 
 ## 408. 주니어 개발자 ‘실제’ 이력서 첨삭해 보았습니다 | 개발자 특집 5편
-**URL:** https://www.youtube.com/watch?v=1bcmmc2rTBE    (
+**** https://www.youtube.com/watch?v=1bcmmc2rTBE    (
 
 # 주니어 개발자 ‘실제’ 이력서 첨삭해 보았습니다 | 개발자 특집 5편
 
@@ -3569,7 +3569,7 @@ it 업계 선이 개발자를 뽑기 어렵다고 하는데 개발자가 되고 
 ---
 
 ## 409. 수백억대 사업가들이 술자리에서 푸는 투자비결 | 유니콘하우스 EP.9 데이오프
-**URL:** https://www.youtube.com/watch?v=LkOybv-WxXk    (
+**** https://www.youtube.com/watch?v=LkOybv-WxXk    (
 
 # 수백억대 사업가들이 술자리에서 푸는 투자비결 | 유니콘하우스 EP.9 데이오프
 
@@ -3744,7 +3744,7 @@ it 업계 선이 개발자를 뽑기 어렵다고 하는데 개발자가 되고 
 ---
 
 ## 410. 질문마저 계산하는 기술 스타트업들의 수싸움, 그리고..? | 유니콘하우스 EP.8 잉클vs에이블랩스
-**URL:** https://www.youtube.com/watch?v=zwVlNrz7coQ    (
+**** https://www.youtube.com/watch?v=zwVlNrz7coQ    (
 
 # 질문마저 계산하는 기술 스타트업들의 수싸움, 그리고..? | 유니콘하우스 EP.8 잉클vs에이블랩스
 
@@ -3846,4 +3846,4 @@ it 업계 선이 개발자를 뽑기 어렵다고 하는데 개발자가 되고 
 ---
 
 ## 411. 채용 담당자가 말하는 '꼭' 뽑고 싶은 신입 개발자 특징은? | 개발자 특집 4편
-**URL:** https://www.youtube.com/watch?v=2to3IQFhZVo    (
+**** https://www.youtube.com/watch?v=2to3IQFhZVo    (

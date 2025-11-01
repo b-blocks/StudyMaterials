@@ -1,7 +1,7 @@
 # Roblox 리워드 비디오 광고 구현 상세 가이드
 
 ## How to use rewarded video ads on Roblox
-**URL:** https://www.youtube.com/watch?v=Jpj0VnA-jmI
+**** https://www.youtube.com/watch?v=Jpj0VnA-jmI
 
 ## 1. 개요
 이 문서는 Roblox 플랫폼에서 리워드 비디오 광고(Rewarded Video Ads)를 성공적으로 구현하는 방법에 대한 상세한 학습 자료입니다. 플레이어 경험부터 클라이언트 및 서버 측 코드 구현에 이르기까지 전반적인 과정을 다루며, 개발자가 게임 내에 효과적인 광고 수익 모델을 통합할 수 있도록 돕는 것을 목적으로 합니다. 이 가이드는 "Roblox에서 리워드 비디오 광고를 어떻게 구현하고, 플레이어에게 보상을 지급하는가?"라는 핵심 질문에 답하며, Roblox 스튜디오 및 Lua 스크립팅에 대한 기본적인 이해를 가진 개발자를 대상으로 합니다.
@@ -168,7 +168,7 @@
 # YouTube UGC 카탈로그 제작을 위한 Blender 심화 가이드: 꽃 모델링 및 효율적인 워크플로우
 
 ## UGC Expert Feedback 1: feat. Reverse_Polarity and Madison_Hatter2
-**URL:** https://www.youtube.com/watch?v=dlMWNO5iiGU
+**** https://www.youtube.com/watch?v=dlMWNO5iiGU
 
 ## 1. 개요
 이 문서는 초보자가 Blender를 활용하여 Roblox UGC(User Generated Content) 카탈로그 아이템, 특히 꽃과 같은 3D 모델을 제작하는 과정을 상세하게 안내합니다. 영상은 경험 많은 멘토들이 초보자의 작업물을 검토하고, Blender 인터페이스 사용법, 효율적인 모델링 기법, 그리고 Roblox 플랫폼에 적합한 최적화 전략에 대한 실질적인 조언을 제공하는 멘토링 세션을 기반으로 합니다. 이 자료는 3D 모델링 초보자, Blender 학습자, 그리고 Roblox UGC 제작에 관심 있는 이들을 대상으로 하며, 기본적인 3D 모델링 개념과 Blender 인터페이스에 대한 이해가 있다면 더욱 효과적으로 학습할 수 있습니다.
@@ -325,7 +325,7 @@
 
 # Blender UV 매핑 및 배치 심화 가이드: 꽃 왕관 제작 사례
 
-**URL:** https://www.youtube.com/watch?v=dlMWNO5iiGU
+**** https://www.youtube.com/watch?v=dlMWNO5iiGU
 
 ## 1. 개요
 이 학습 자료는 3D 모델링 소프트웨어인 Blender를 사용하여 복잡한 오브젝트의 UV 매핑을 수행하고, 텍스처링을 위한 UV 레이아웃을 효율적으로 배치하는 방법을 심층적으로 다룹니다. 특히, 꽃 왕관 모델을 예시로 들어 UV 언래핑의 기본부터 여러 오브젝트를 하나로 합친 후 UV 공간을 최적화하는 고급 기술까지 상세하게 설명합니다. 이 자료는 3D 모델링 초보자부터 중급 사용자까지, 텍스처링 전 UV 작업의 중요성을 이해하고 실무에 적용하고자 하는 모든 이들을 대상으로 합니다. Blender의 기본 조작법과 3D 모델링 개념에 대한 사전 지식이 있다면 더욱 효과적으로 학습할 수 있습니다.
@@ -380,7 +380,7 @@ UV 언래핑 후 생성된 2D UV 아일랜드들을 텍스처 공간(UV Grid) �
 
 # Roblox 개발자를 위한 시간 함수 심층 분석
 ## How to work with time in Roblox development
-**URL:** https://www.youtube.com/watch?v=VE56HDVNibI
+**** https://www.youtube.com/watch?v=VE56HDVNibI
 
 ## 1. 개요
 이 문서는 Roblox 경험 개발 시 마주하게 되는 다양한 시간 측정 함수들의 특징과 올바른 사용법을 심층적으로 다룹니다. 단순히 시간을 얻는 것을 넘어, 특정 개발 시나리오에 가장 적합한 시간 함수를 선택하는 것이 왜 중요한지, 그리고 각 함수의 미묘한 차이점을 이해하는 것이 어떻게 안정적이고 효율적인 경험을 구축하는 데 기여하는지 설명합니다. 이 자료는 시간 측정의 복잡성을 해소하고, 개발자들이 자신의 프로젝트 요구사항에 맞춰 최적의 결정을 내릴 수 있도록 돕는 것을 목적으로 합니다.
@@ -571,7 +571,7 @@ Roblox 경험에서 시간은 애니메이션, 이벤트 스케줄링, 사용자
 
 # Blender 초보자의 UGC 꽃 왕관 제작 여정
 ## Making a UGC catalogue: making a flower crown
-**URL:** https://www.youtube.com/watch?v=hLh5BfrhNgg
+**** https://www.youtube.com/watch?v=hLh5BfrhNgg
 
 ## 1. 개요
 이 문서는 Blender를 처음 접하는 개인이 사용자 생성 콘텐츠(UGC)용 3D 꽃 왕관을 제작하는 과정을 상세하게 기록한 YouTube 영상의 내용을 심층 학습 자료로 재구성한 것입니다. 영상은 Blender 학습의 초기 어려움, 시행착오, 그리고 그 과정에서 얻게 되는 실질적인 교훈들을 솔직하게 보여줍니다. 이 자료는 "과연 Blender 초보자가 복잡한 3D 모델링을 통해 착용 가능한 아이템을 만들 수 있을까?"라는 핵심 질문을 탐구하며, 3D 모델링 소프트웨어 학습에 대한 현실적인 기대치와 접근 방식을 제시합니다. 대상 독자는 3D 모델링, 특히 Blender를 이용한 UGC 제작에 관심 있는 초보자 및 입문자이며, 특별한 사전 지식 없이도 내용을 이해할 수 있도록 구성되었습니다.
@@ -647,7 +647,7 @@ Roblox 경험에서 시간은 애니메이션, 이벤트 스케줄링, 사용자
 
 # 그레이 박싱: 성공적인 게임 환경 디자인의 첫걸음
 ## How to graybox on Roblox
-**URL:** https://www.youtube.com/watch?v=T--CNfkfBBQ
+**** https://www.youtube.com/watch?v=T--CNfkfBBQ
 
 ## 1. 개요
 이 문서는 게임 개발 과정에서 성공적인 환경 디자인을 위한 핵심 초기 단계인 '그레이 박싱(Gray Boxing)'의 예술과 실용적인 방법에 대해 심층적으로 다룹니다. 영상의 주요 목적은 복잡한 모델링과 디테일에 얽매이지 않고, 경험의 핵심 디자인을 효율적으로 테스트하고 반복하는 방법을 제시하는 것입니다. 우리는 "어떻게 하면 초기 단계에서 디자인의 핵심을 효과적으로 검증하고, 추후 발생할 수 있는 시간 소모적인 변경 위험을 최소화할 수 있는가?"라는 핵심 질문에 답하고자 합니다. 이 자료는 게임 아티스트, 레벨 디자이너, 그리고 게임 개발에 관심 있는 모든 이들을 대상으로 하며, 기본적인 게임 개발 프로세스에 대한 이해가 있다면 더욱 유용할 것입니다.
@@ -788,7 +788,7 @@ Roblox 경험에서 시간은 애니메이션, 이벤트 스케줄링, 사용자
 
 # Roblox Studio 디버거 활용 가이드: 효율적인 코드 문제 해결 전략
 ## How to use Roblox Studio's debugger
-**URL:** https://www.youtube.com/watch?v=yOmPc2g8tbY
+**** https://www.youtube.com/watch?v=yOmPc2g8tbY
 
 ## 1. 개요
 이 문서는 Roblox Studio 환경에서 프로그래밍 시 발생하는 코드 오류를 효과적으로 진단하고 해결하기 위한 **디버거(Debugger)**의 활용법을 상세히 설명합니다. 개발자들이 흔히 겪는 "코드가 예상대로 작동하지 않을 때"의 문제 상황을 해결하는 데 초점을 맞추며, `print` 문을 이용한 디버깅 방식의 한계를 넘어서는 디버거의 강력한 기능을 소개합니다. 이 가이드는 Roblox Studio를 사용하여 게임이나 애플리케이션을 개발하는 모든 프로그래머, 특히 디버깅 과정에서 더 깊이 있는 통찰력을 얻고자 하는 초급 및 중급 개발자를 대상으로 합니다.
@@ -918,7 +918,7 @@ Roblox Studio에서 효과적인 디버깅을 위해 다음 세 가지 창을 �
 
 # Roblox Ads Manager: 새로운 시대를 위한 심층 가이드
 ## How to grow your experience with Roblox Ads Manager
-**URL:** https://www.youtube.com/watch?v=D_YmdVZxIZw
+**** https://www.youtube.com/watch?v=D_YmdVZxIZw
 
 ## 1. 개요
 이 문서는 Roblox의 새로운 광고 관리자(Ads Manager)에 대한 심층적인 학습 자료입니다. Roblox 플랫폼에서 활동하는 크리에이터들이 자신의 경험(게임)을 효과적으로 성장시키고 수익을 창출할 수 있도록 돕기 위해 설계된 최신 광고 솔루션의 주요 기능, 개선 사항, 그리고 활용 전략을 상세히 다룹니다. 이 자료는 Roblox Ads Manager의 핵심 질문인 "어떻게 하면 더 많은 사용자에게 도달하고, 이들의 참여를 유도하며, 궁극적으로 경험의 가치를 높일 수 있는가?"에 대한 해답을 제시합니다.
@@ -1059,7 +1059,7 @@ Ads Manager는 사용자 유입 퍼널(Funnel)의 다양한 단계에서 크리�
 
 # Roblox 광고 시스템 심층 분석: 새로운 Ads Manager 활용 전략
 
-**URL:** https://www.youtube.com/watch?v=D_YmdVZxIZw
+**** https://www.youtube.com/watch?v=D_YmdVZxIZw
 
 ## 1. 개요
 이 문서는 Roblox의 새로운 광고 관리자(Ads Manager) 시스템의 주요 기능, 변화된 광고 전략, 그리고 유기적 발견(Organic Discovery)과의 관계를 심층적으로 다룹니다. 특히, 기존 시스템과의 차이점, 새로운 입찰 방식, 타겟팅 옵션, 그리고 광고 성과 측정 방법에 초점을 맞춥니다. 이 자료는 Roblox 플랫폼에서 자신의 경험(게임)을 효과적으로 홍보하고 성장시키고자 하는 개발자, 크리에이터, 마케터를 대상으로 하며, 새로운 광고 시스템을 최대한 활용하기 위한 실질적인 지식과 전략을 제공합니다.
@@ -1201,7 +1201,7 @@ Ads Manager는 사용자 유입 퍼널(Funnel)의 다양한 단계에서 크리�
 
 # Luau에서 객체 지향 프로그래밍(OOP) 구현 가이드
 ## How to use OOP with Luau on Roblox
-**URL:** https://www.youtube.com/watch?v=fByFKZarNiI
+**** https://www.youtube.com/watch?v=fByFKZarNiI
 
 ## 1. 개요
 이 문서는 Luau 언어에서 객체 지향 프로그래밍(OOP) 패러다임을 구현하는 방법을 심층적으로 다룹니다. Luau는 내장된 OOP 지원이 없지만, 테이블과 메타테이블이라는 강력한 기능을 활용하여 OOP의 핵심 개념인 클래스, 객체, 상속, 메서드 오버라이딩 등을 효과적으로 구현할 수 있습니다. 이 자료는 OOP의 기본 개념부터 Luau에서의 실제 구현 방식, 그리고 정적 타입 시스템 적용까지 포괄적으로 설명하여, 독자들이 Luau 환경에서 재사용 가능하고 구조화된 코드를 작성하는 데 필요한 지식과 통찰력을 제공하는 것을 목표로 합니다.
@@ -1672,7 +1672,7 @@ Roblox 환경에서 객체 지향 프로그래밍을 할 때, Roblox 리소스(�
 
 # 모듈 스크립트를 활용한 코드 재사용 및 유지보수성 향상 가이드
 ## How to use module scripts on Roblox
-**URL:** https://www.youtube.com/watch?v=foKFpXZYXPk
+**** https://www.youtube.com/watch?v=foKFpXZYXPk
 
 ## 1. 개요
 이 문서는 YouTube 영상 "Introducing module scripts"의 내용을 기반으로, 모듈 스크립트(Module Scripts)의 개념과 활용법을 심층적으로 다룹니다. 영상은 코드 중복(Duplicate Code)으로 인해 발생하는 유지보수 문제를 해결하고, 효율적인 코드 재사용을 가능하게 하는 모듈 스크립트의 중요성을 강조합니다. 이 학습 자료는 모듈 스크립트의 기본 원리부터 실제 적용 사례, 그리고 고급 활용법까지 체계적으로 설명하여, 개발자들이 보다 견고하고 관리하기 쉬운 코드를 작성할 수 있도록 돕는 것을 목적으로 합니다.
@@ -1881,7 +1881,7 @@ print(evenNumbers) -- {2, 4}
 
 # Roblox에서 데이터 스토어를 활용한 MMO 개발: 6분 만에 영속성 구현하기
 ## How to make an MMO on Roblox in 6 minutes
-**URL:** https://www.youtube.com/watch?v=PeIZN7tPutg
+**** https://www.youtube.com/watch?v=PeIZN7tPutg
 
 ## 1. 개요
 이 문서는 Roblox 플랫폼에서 대규모 멀티플레이어 온라인(MMO) 게임을 단시간 내에 개발하는 핵심 원리와 기술을 다룹니다. 특히, 플레이어의 진행 상황과 데이터를 영구적으로 저장하는 '데이터 스토어(Data Store)'의 개념과 실제 적용 방법에 초점을 맞춥니다. 이 자료는 Roblox 스튜디오를 사용하여 게임을 개발하고자 하는 초급 및 중급 개발자를 대상으로 하며, 게임 내 경제 시스템과 플레이어 위치 영속성 구현에 대한 실질적인 지식을 제공합니다. 핵심 질문은 "어떻게 하면 Roblox에서 플레이어의 데이터를 효율적이고 안정적으로 저장하여 영속적인 게임 경험을 제공할 수 있는가?"입니다.
@@ -2004,7 +2004,7 @@ Roblox는 MMO 개발의 복잡성을 상당 부분 줄여줍니다.
 
 # Roblox UI 스타일링 심층 가이드: Stylesheets, Tokens, Themes, 그리고 Tags
 ## How to style your UI on Roblox
-**URL:** https://www.youtube.com/watch?v=_k1ea0OIKaU
+**** https://www.youtube.com/watch?v=_k1ea0OIKaU
 
 ## 1. 개요
 이 문서는 Roblox Studio에서 제공하는 새로운 UI 스타일링 시스템에 대한 심층적인 학습 자료입니다. 영상의 주요 내용은 UI 인스턴스 속성에 시각적 스타일을 생성하고 전역적으로 적용하는 방법을 다루며, 웹 개발의 CSS와 유사한 기능을 제공합니다. 이 가이드는 UI 제작 워크플로우를 간소화하고 프로토타이핑 속도를 높이는 데 중점을 둡니다.
@@ -2193,7 +2193,7 @@ Roblox UI 스타일링은 개발자가 UI의 시각적 요소를 보다 효율�
 
 # Roblox UGC 신발 제작 가이드: 심층 학습 자료
 ## How to make shoes for Roblox
-**URL:** https://www.youtube.com/watch?v=NHgYM78afqc
+**** https://www.youtube.com/watch?v=NHgYM78afqc
 
 ## 1. 개요
 이 문서는 Roblox 플랫폼에서 사용자 제작 콘텐츠(UGC) 신발을 만드는 기본적인 과정을 심층적으로 다룹니다. 특히 블록형 아바타 바디 타입에 최적화된 신발을 Blender에서 모델링하고, Roblox Studio에서 테스트하며, 최종적으로 마켓플레이스에 게시하는 전반적인 워크플로우를 상세하게 설명합니다. 이 자료는 이미 3D 모델링에 익숙하고 다른 유형의 레이어드 의류를 제작해 본 경험이 있는 UGC 크리에이터를 대상으로 하며, Roblox UGC 신발 제작의 복잡성을 이해하고 성공적으로 아이템을 출시하는 데 필요한 핵심 지식과 실용적인 팁을 제공하는 것을 목적으로 합니다.
@@ -2413,7 +2413,7 @@ Blender에서 완성된 모델을 Roblox Studio로 가져와 최종적으로 아
 
 # 포스트 프로세싱 효과로 경험의 분위기 연출하기
 ## How to use post processing effects on Roblox
-**URL:** https://www.youtube.com/watch?v=_vByVrhQX6w
+**** https://www.youtube.com/watch?v=_vByVrhQX6w
 
 ## 1. 개요
 이 문서는 YouTube 영상 "Post-Processing Effects"의 내용을 바탕으로, 게임 및 인터랙티브 경험 개발에서 **포스트 프로세싱 효과(Post-Processing Effects)**를 활용하여 시각적 분위기와 몰입도를 향상시키는 방법을 상세하게 다룹니다. 영상의 핵심 목적은 개발자들이 포스트 프로세싱 효과의 종류와 적용 방법을 이해하고, 이를 통해 사용자 경험의 시각적 품질을 극대화하는 데 있습니다. 주요 내용은 다양한 효과의 기능 설명과 적용 시 고려사항을 포함하며, 궁극적으로는 개발자가 창의적인 시각 효과를 구현할 수 있도록 돕는 것을 목표로 합니다. 이 자료는 게임 개발 초보자부터 중급 개발자까지, 특히 Roblox Studio와 같은 플랫폼에서 시각적 표현력을 높이고자 하는 이들에게 유용합니다. 기본적인 3D 그래픽스 개념에 대한 이해가 있다면 더욱 효과적으로 학습할 수 있습니다.
@@ -2508,7 +2508,7 @@ Blender에서 완성된 모델을 Roblox Studio로 가져와 최종적으로 아
 
 # Roblox Studio: 글로벌 바람(Global Wind) 기능 심층 학습 자료
 ## How to use global wind on Roblox
-**URL:** https://www.youtube.com/watch?v=IlM7wCiTOIo
+**** https://www.youtube.com/watch?v=IlM7wCiTOIo
 
 ## 1. 개요
 이 학습 자료는 Roblox Studio의 `Workspace` 내 `Global Wind` 속성을 활용하여 게임 환경에 생동감 있는 바람 효과를 구현하는 방법을 상세히 설명합니다. 영상의 핵심 주제는 `Global Wind`가 지형 잔디, 동적 구름, 파티클 등 다양한 요소에 미치는 영향과 이를 설정하고 제어하는 구체적인 방법입니다. 이 자료는 `Global Wind`의 기본 개념부터 스크립트를 활용한 고급 제어까지 다루며, 게임 환경의 몰입도를 높이고자 하는 Roblox 개발자들을 대상으로 합니다. Roblox Studio의 기본적인 사용법을 아는 독자라면 누구나 이 자료를 통해 역동적인 세계를 만드는 데 필요한 지식을 얻을 수 있습니다.
@@ -2619,7 +2619,7 @@ Blender에서 완성된 모델을 Roblox Studio로 가져와 최종적으로 아
 
 # Roblox Studio: 동적 구름으로 사실적인 하늘 연출하기
 ## How to use dynamic clouds on Roblox
-**URL:** https://www.youtube.com/watch?v=GbO89Hz3PjE
+**** https://www.youtube.com/watch?v=GbO89Hz3PjE
 
 ## 1. 개요
 이 학습 자료는 Roblox Studio에서 `Clouds` 객체를 활용하여 역동적이고 사실적인 구름을 추가하고 커스터마이징하는 방법을 상세히 설명합니다. 영상의 주요 목적은 개발자들이 자신의 Roblox 경험에 시각적인 깊이와 분위기를 더할 수 있도록 구름 객체의 기본 사용법과 핵심 속성들을 이해시키는 것입니다. 우리는 "어떻게 하면 Roblox 환경에 생동감 있는 하늘을 구현할 수 있을까?"라는 핵심 질문에 답하며, 구름의 양, 밀도, 색상을 조절하여 다양한 분위기를 연출하는 방법을 다룹니다. 이 자료는 Roblox Studio의 기본적인 사용법을 아는 초급 및 중급 개발자를 대상으로 하며, 게임 환경의 시각적 품질을 향상시키고자 하는 모든 이들에게 유용합니다.
@@ -2703,7 +2703,7 @@ Blender에서 완성된 모델을 Roblox Studio로 가져와 최종적으로 아
 
 # Roblox 환경 스타일링 심화 학습 자료
 ## How to use lighting and effects on Roblox
-**URL:** https://www.youtube.com/watch?v=UPMWq2viV5I
+**** https://www.youtube.com/watch?v=UPMWq2viV5I
 
 ## 1. 개요
 이 학습 자료는 Roblox Studio에서 제공하는 다양한 환경 스타일링 기능을 심층적으로 탐구합니다. 특히, 글로벌 조명, 대기 효과, 구름, 스카이박스, 그리고 후처리 효과를 사용하여 Roblox 경험의 시각적 분위기와 느낌을 어떻게 변화시킬 수 있는지에 초점을 맞춥니다. 이 자료는 개발자가 자신의 월드를 더욱 몰입감 있고 시각적으로 매력적으로 만드는 데 필요한 핵심 지식과 실용적인 팁을 제공합니다.
@@ -2827,7 +2827,7 @@ Roblox는 실제와 같은 3D 구름을 하늘에 추가할 수 있는 기능을
 *   **주의사항:** 스크립트를 통한 빈번한 속성 변경은 성능에 영향을 줄 수 있습니다. `RunService.Heartbeat`와 같은 이벤트에 연결하여 부드러운 전환을 구현하
 
 # What are objects?
-**URL:** https://www.youtube.com/watch?v=FzmFAm00A8g
+**** https://www.youtube.com/watch?v=FzmFAm00A8g
 
 ## 1. 개요
 이 문서는 Roblox Studio에서 게임 및 경험을 개발하는 데 필수적인 '오브젝트(Objects)'와 '에셋(Assets)'의 개념을 심층적으로 다룹니다. 영상의 주요 목적은 Roblox 환경을 구성하고 상호작용을 구현하는 핵심 요소들을 이해하고, 이를 효과적으로 활용하는 방법을 학습하는 것입니다. 우리는 "Roblox 오브젝트는 무엇이며 어떻게 작동하는가?", "오브젝트를 에셋으로 전환하여 재사용하는 방법은 무엇인가?"와 같은 핵심 질문에 답하며, Roblox 개발의 기초를 다지는 데 중점을 둡니다. 이 자료는 Roblox Studio를 처음 접하거나 기본적인 사용법은 알지만 오브젝트와 에셋의 심화된 이해를 원하는 개발자 및 학습자를 대상으로 합니다. 프로그래밍에 대한 기본적인 이해가 있다면 학습에 더욱 도움이 될 것입니다.
@@ -2952,7 +2952,7 @@ Roblox는 오브젝트를 가져오고 에셋으로 관리하기 위한 다양�
 *   **주의사항:** 에셋을 게시하기 전에 항상 Roblox의 커뮤니티 규칙과 이용 약관을 숙지하고 준수해야 합니다. 위반 시 에셋 삭제뿐만 아니라 계정 제재로 이어질 수 있습니다.
 
 # What are experiences?
-**URL:** https://www.youtube.com/watch?v=_RxK6l2y7Ac
+**** https://www.youtube.com/watch?v=_RxK6l2y7Ac
 
 # Roblox Studio를 활용한 경험(Experience) 개발 심층 가이드
 
@@ -3111,7 +3111,7 @@ Roblox Studio로 개발한 경험은 개인 포트폴리오에 추가하여 게�
 # Roblox 데이터 모델 심층 분석: 경험의 작동 원리 이해
 
 ## What are data models?
-**URL:** https://www.youtube.com/watch?v=3Q0R1-Xkw9U
+**** https://www.youtube.com/watch?v=3Q0R1-Xkw9U
 
 ## 1. 개요
 
@@ -3248,7 +3248,7 @@ Roblox에는 다양한 용도의 많은 객체 유형이 있지만, 개발자는
 
 # Roblox UGC: 바디 케이지와 의류 케이지 변환 심층 가이드
 ## How to turn Body Cages into Clothing Cages (and back again!)
-**URL:** https://www.youtube.com/watch?v=vATGE-2xhcw
+**** https://www.youtube.com/watch?v=vATGE-2xhcw
 
 ## 1. 개요
 이 문서는 Roblox UGC(User-Generated Content) 크리에이터를 위해 3D 레이어드 의류 액세서리 제작 시 필수적인 '케이지(Cage)'의 개념과, '바디 케이지'를 '의류 케이지'로, 또는 그 반대로 변환하는 상세한 과정을 다룹니다. 특히 Blender 4.0 이상 버전을 활용한 실질적인 작업 방법을 제시하여, 사용자가 특정 바디 타입에 맞는 의류를 디자인하거나 기존 케이지를 재활용하는 데 필요한 기술적 지식을 제공하는 것을 목적으로 합니다. 이 가이드는 Roblox 레이어드 의류 및 3D 모델링의 기본 원리를 이해하고 있는 크리에이터를 대상으로 하며, 케이지의 중요성과 올바른 설정 방법을 심도 있게 다룹니다.
@@ -3428,7 +3428,7 @@ Roblox에는 다양한 용도의 많은 객체 유형이 있지만, 개발자는
 # Roblox 경험 성능 최적화 가이드
 
 ## How to optimize performance on Roblox
-**URL:** https://www.youtube.com/watch?v=VDO_amtWfDw
+**** https://www.youtube.com/watch?v=VDO_amtWfDw
 
 ## 1. 개요
 이 문서는 Roblox 경험(게임) 개발 시 흔히 발생하는 성능 문제를 진단하고 해결하기 위한 전략을 상세하게 다룹니다. 특히 드로우 콜(Draw Calls) 관리, 스트리밍(Streaming) 활용, 그리고 CPU 부하를 유발하는 스크립트, 물리, 조명 최적화에 중점을 둡니다. 이 가이드의 목적은 개발자가 자신의 예술적 비전을 유지하면서도 더 넓은 범위의 기기에서 원활하게 실행되는 고성능 경험을 구축할 수 있도록 돕는 것입니다. 이 문서는 Roblox 개발 경험이 있는 중급 개발자를 대상으로 하며, 기본적인 Roblox Studio 사용법과 게임 개발 개념에 대한 사전 지식을 가정합니다.
@@ -3540,7 +3540,7 @@ Roblox에는 다양한 용도의 많은 객체 유형이 있지만, 개발자는
 
 # Roblox 친구 초대 보상 시스템 배너 생성 및 게시
 ## Learn how to create a custom experience banner
-**URL:** https://www.youtube.com/watch?v=rVFmc8gxu4s
+**** https://www.youtube.com/watch?v=rVFmc8gxu4s
 
 ## 1. 개요
 이 문서는 Roblox 플랫폼에서 친구 초대 보상 시스템을 위한 맞춤형 경험치 배너를 생성하고 게시하는 방법에 대해 상세하게 설명합니다. 영상은 Roblox의 시니어 풀스택 엔지니어인 NP Gamer가 제공하는 튜토리얼의 두 번째 시리즈로, 플레이어가 보상을 획득하는 방법을 명확히 인지할 수 있도록 배너의 아이콘과 텍스트를 맞춤 설정하는 단계별 지침을 다룹니다. 이 자료는 Roblox 경험치 개발자, 게임 디자이너, 또는 플레이어 참여를 유도하는 마케팅 전략에 관심 있는 분들을 대상으로 하며, 기본적인 Roblox Studio 사용 경험이 있는 독자에게 가장 유용합니다.
@@ -3676,7 +3676,7 @@ Roblox에는 다양한 용도의 많은 객체 유형이 있지만, 개발자는
 
 # Roblox UGC 아이템 텍스처링 및 퍼블리싱 심화 학습 가이드: 오리 어깨 친구 만들기
 ## Intro to texturing for UGC (feat. Madison_Hatter2)
-**URL:** https://www.youtube.com/watch?v=MlyJD_ix9CE
+**** https://www.youtube.com/watch?v=MlyJD_ix9CE
 
 ## 1. 개요
 이 학습 자료는 텍스처링 경험이 전혀 없는 초보자를 위해 Roblox UGC(User Generated Content) 아이템을 처음부터 텍스처링하고 Roblox 플랫폼에 퍼블리싱하는 과정을 상세하게 안내합니다. 특히 Blender에서 모델링된 '오리 어깨 친구' 아이템을 예시로 들어, UV 언래핑된 모델에 색상을 입히고, 고급 텍스처링 기법을 적용하며, 최종적으로 Roblox Studio를 통해 아이템을 업로드하는 전반적인 워크플로우를 다룹니다.

@@ -102,7 +102,7 @@
 ---
 
 ## 752. 10대는 그냥 흘러가는 시간이 아니다 | 고등쉐프 김옥현
-**URL:** https://www.youtube.com/watch?v=AmjMcp9BJYk    (
+**** https://www.youtube.com/watch?v=AmjMcp9BJYk    (
 
 # 10대는 그냥 흘러가는 시간이 아니다 | 고등쉐프 김옥현
 
@@ -197,7 +197,7 @@
 ---
 
 ## 753. 시각 장애인은 스마트폰에서 어떻게 글을 읽고 쓸까? | 밸류컴포짓 대표 임승혁
-**URL:** https://www.youtube.com/watch?v=a7ZmWg4CTjk    (
+**** https://www.youtube.com/watch?v=a7ZmWg4CTjk    (
 
 # 시각 장애인은 스마트폰에서 어떻게 글을 읽고 쓸까? | 밸류컴포짓 대표 임승혁
 
@@ -339,7 +339,7 @@
 ---
 
 ## 754. 실리콘밸리 엔지니어가 말하는 한국 기업 문화가 달라져야 하는 이유
-**URL:** https://www.youtube.com/watch?v=rORYcBrtZ2A    (
+**** https://www.youtube.com/watch?v=rORYcBrtZ2A    (
 
 # 실리콘밸리 엔지니어가 말하는 한국 기업 문화가 달라져야 하는 이유
 
@@ -465,7 +465,7 @@
 ---
 
 ## 755. 마켓컬리 샛별배송 풀콜드 물류의 모든 것
-**URL:** https://www.youtube.com/watch?v=eWoiRwvs17A    (
+**** https://www.youtube.com/watch?v=eWoiRwvs17A    (
 
 # 마켓컬리 샛별배송 풀콜드 물류의 모든 것
 
@@ -597,7 +597,7 @@
 ---
 
 ## 756. 6억 펀딩, 대중을 사로잡을 수밖에 없는 디자인의 비결
-**URL:** https://www.youtube.com/watch?v=tg-1bZGQRb0    (
+**** https://www.youtube.com/watch?v=tg-1bZGQRb0    (
 
 # 6억 펀딩, 대중을 사로잡을 수밖에 없는 디자인의 비결
 
@@ -726,7 +726,7 @@
 ---
 
 ## 757. 하버드, 케임브리지, 서울대에서 연구하며 생각한 미래 교육 | 울산과학기술원 교수 박종화
-**URL:** https://www.youtube.com/watch?v=tbjBSYthRY4    (
+**** https://www.youtube.com/watch?v=tbjBSYthRY4    (
 
 # 하버드, 케임브리지, 서울대에서 연구하며 생각한 미래 교육 | 울산과학기술원 교수 박종화
 
@@ -822,7 +822,7 @@
 ---
 
 ## 758. 1년에 콘텐츠 100만 따봉 받는 청하 오빠
-**URL:** https://www.youtube.com/watch?v=dJhZeUnwGng    (
+**** https://www.youtube.com/watch?v=dJhZeUnwGng    (
 
 # 1년에 콘텐츠 100만 따봉 받는 청하 오빠
 
@@ -941,7 +941,7 @@ B급 감성은 신중하게 접근해야 합니다. 타겟에 대한 이해 없�
 ---
 
 ## 759. 여행작가와 화가를 직업으로 선택할 수 있었던 이유 | 여행작가 김물길
-**URL:** https://www.youtube.com/watch?v=nFqu7BGn1Xg    (
+**** https://www.youtube.com/watch?v=nFqu7BGn1Xg    (
 
 # 여행작가와 화가를 직업으로 선택할 수 있었던 이유 | 여행작가 김물길
 
@@ -1087,7 +1087,7 @@ B급 감성은 신중하게 접근해야 합니다. 타겟에 대한 이해 없�
 ---
 
 ## 760. 유튜브 출신 CEO가 이끄는 플레이리스트가 돈 버는 법
-**URL:** https://www.youtube.com/watch?v=DfQWJ81ht4U    (
+**** https://www.youtube.com/watch?v=DfQWJ81ht4U    (
 
 # 유튜브 출신 CEO가 이끄는 플레이리스트가 돈 버는 법
 
@@ -1217,7 +1217,7 @@ B급 감성은 신중하게 접근해야 합니다. 타겟에 대한 이해 없�
 ---
 
 ## 761. 직업반 고등학생에서 국내 최고 기술자가 되기까지 | 대목수 김승직
-**URL:** https://www.youtube.com/watch?v=yzAUBnA0hy8    (
+**** https://www.youtube.com/watch?v=yzAUBnA0hy8    (
 
 # 직업반 고등학생에서 국내 최고 기술자가 되기까지 | 대목수 김승직
 
@@ -1357,7 +1357,7 @@ B급 감성은 신중하게 접근해야 합니다. 타겟에 대한 이해 없�
 ---
 
 ## 762. 작년 매출 7억 올해 목표 매출 20억 원의 베이커리 회사에서 투자자를 찾습니다
-**URL:** https://www.youtube.com/watch?v=ztQ-HBSoUDw    (
+**** https://www.youtube.com/watch?v=ztQ-HBSoUDw    (
 
 # 작년 매출 7억, 올해 목표 20억 원의 베이커리 회사에서 투자자를 찾습니다 - 더 브레드 블루 성공 전략 분석
 
@@ -1487,7 +1487,7 @@ B급 감성은 신중하게 접근해야 합니다. 타겟에 대한 이해 없�
 ---
 
 ## 763. 상장 준비 중인 29세 CEO 오상훈이 생각하는 교육의 미래 | 럭스로보 대표 오상훈
-**URL:** https://www.youtube.com/watch?v=HQcO1HpFNCI    (
+**** https://www.youtube.com/watch?v=HQcO1HpFNCI    (
 
 # 상장 준비 중인 29세 CEO 오상훈이 생각하는 교육의 미래 | 럭스로보 대표 오상훈
 
@@ -1594,7 +1594,7 @@ B급 감성은 신중하게 접근해야 합니다. 타겟에 대한 이해 없�
 ---
 
 ## 764. 화이트해커, 그들이 해킹을 하는 진짜 이유 | 라온화이트햇 화이트해커 지한별
-**URL:** https://www.youtube.com/watch?v=WuChMihKVeM    (
+**** https://www.youtube.com/watch?v=WuChMihKVeM    (
 
 # 화이트해커, 그들이 해킹을 하는 진짜 이유 | 라온화이트햇 화이트해커 지한별
 
@@ -1727,7 +1727,7 @@ B급 감성은 신중하게 접근해야 합니다. 타겟에 대한 이해 없�
 ---
 
 ## 765. 기업은 돈을 버는 곳이 아니라 가치를 만드는 곳이다 | 오이씨랩 CEO 장영화
-**URL:** https://www.youtube.com/watch?v=HNTJRvUY2Vs    (
+**** https://www.youtube.com/watch?v=HNTJRvUY2Vs    (
 
 # 기업은 돈을 버는 곳이 아니라 가치를 만드는 곳이다 | 오이씨랩 CEO 장영화
 
@@ -1850,7 +1850,7 @@ B급 감성은 신중하게 접근해야 합니다. 타겟에 대한 이해 없�
 ---
 
 ## 766. 고3, 대학에 가지 않고 스타트업에 취업한 이유 | 나우버스킹 개발자 전채원
-**URL:** https://www.youtube.com/watch?v=YLkKaJtas98    (
+**** https://www.youtube.com/watch?v=YLkKaJtas98    (
 
 # 고3, 대학에 가지 않고 스타트업에 취업한 이유 | 나우버스킹 개발자 전채원
 
@@ -1987,7 +1987,7 @@ B급 감성은 신중하게 접근해야 합니다. 타겟에 대한 이해 없�
 ---
 
 ## 767. 일자리 창출을 위해 대기업이 되려는 어느 기업가의 이야기 | 두핸즈(품고) 대표 박찬재
-**URL:** https://www.youtube.com/watch?v=vcbCagyTP6s    (
+**** https://www.youtube.com/watch?v=vcbCagyTP6s    (
 
 # 일자리 창출을 위해 대기업이 되려는 어느 기업가의 이야기 | 두핸즈(품고) 대표 박찬재
 
@@ -2119,7 +2119,7 @@ B급 감성은 신중하게 접근해야 합니다. 타겟에 대한 이해 없�
 ---
 
 ## 768. 티몬 창업자 신현성이 블록체인 산업에 뛰어든 이유
-**URL:** https://www.youtube.com/watch?v=fnxM37hDsts    (
+**** https://www.youtube.com/watch?v=fnxM37hDsts    (
 
 # 티몬 창업자 신현성이 블록체인 산업에 뛰어든 이유: 금융 인프라 혁신을 향한 도전
 
@@ -2249,7 +2249,7 @@ B급 감성은 신중하게 접근해야 합니다. 타겟에 대한 이해 없�
 ---
 
 ## 769. 기술로 바꾸는 부동산 산업, 프롭테크 스타트업 홈버튼 창업기
-**URL:** https://www.youtube.com/watch?v=7k3iT4N2zIE    (
+**** https://www.youtube.com/watch?v=7k3iT4N2zIE    (
 
 # 기술로 바꾸는 부동산 산업, 프롭테크 스타트업 홈버튼 창업기
 
@@ -2390,7 +2390,7 @@ B급 감성은 신중하게 접근해야 합니다. 타겟에 대한 이해 없�
 ---
 
 ## 770. 로봇은 인간의 친구가 될 수 있을까? | 한양대학교 로봇공학과 한재권 교수
-**URL:** https://www.youtube.com/watch?v=42yZK5D_NuQ    (
+**** https://www.youtube.com/watch?v=42yZK5D_NuQ    (
 
 # 로봇은 인간의 친구가 될 수 있을까? | 한양대학교 로봇공학과 한재권 교수
 
@@ -2520,7 +2520,7 @@ AI와 로봇 기술의 발전으로 인간에게 요구되는 '경쟁력'의 정
 ---
 
 ## 771. 고등학생 CEO가 말하는 청소년 창업 | 칠명바이오 대표 공희준
-**URL:** https://www.youtube.com/watch?v=t0ipWpY4YD8    (
+**** https://www.youtube.com/watch?v=t0ipWpY4YD8    (
 
 # 고등학생 CEO가 말하는 청소년 창업 | 칠명바이오 대표 공희준
 
@@ -2612,7 +2612,7 @@ AI와 로봇 기술의 발전으로 인간에게 요구되는 '경쟁력'의 정
 ---
 
 ## 772. 실리콘밸리 회사들이 직원들을 평가하는 법
-**URL:** https://www.youtube.com/watch?v=CZwZ9oim5vs    (
+**** https://www.youtube.com/watch?v=CZwZ9oim5vs    (
 
 # 실리콘밸리 회사들이 직원들을 평가하는 법
 
@@ -2707,7 +2707,7 @@ AI와 로봇 기술의 발전으로 인간에게 요구되는 '경쟁력'의 정
 ---
 
 ## 773. 데이터를 활용해 효과적으로 마케팅하는 법
-**URL:** https://www.youtube.com/watch?v=7TIuA4UeY1s    (
+**** https://www.youtube.com/watch?v=7TIuA4UeY1s    (
 
 # 데이터를 활용해 효과적으로 마케팅하는 법: '그로스 마인드셋'의 모든 것
 
@@ -2850,7 +2850,7 @@ AI와 로봇 기술의 발전으로 인간에게 요구되는 '경쟁력'의 정
 ---
 
 ## 774. 삼성전자를 나와 전세계에서 팔리는 스마트벨트를 만들기까지
-**URL:** https://www.youtube.com/watch?v=b6NuS5ynMgs    (
+**** https://www.youtube.com/watch?v=b6NuS5ynMgs    (
 
 # 삼성전자를 나와 전세계에서 팔리는 스마트벨트를 만들기까지: WELT 성공 사례 분석
 
@@ -2958,7 +2958,7 @@ AI와 로봇 기술의 발전으로 인간에게 요구되는 '경쟁력'의 정
 ---
 
 ## 775. 삼진어묵 25억에서 960억 매출 회사가 되기까지
-**URL:** https://www.youtube.com/watch?v=A98ZLElauiM    (
+**** https://www.youtube.com/watch?v=A98ZLElauiM    (
 
 다음은 제공해주신 유튜브 자막을 바탕으로 요청하신 구조와 가이드라인에 맞춰 작성한 심층 학습 자료입니다.
 
@@ -3083,7 +3083,7 @@ AI와 로봇 기술의 발전으로 인간에게 요구되는 '경쟁력'의 정
 ---
 
 ## 776. 데이터를 활용한 마케팅, 그로스해킹이 뜬다
-**URL:** https://www.youtube.com/watch?v=UxnpntYV3Co    (
+**** https://www.youtube.com/watch?v=UxnpntYV3Co    (
 
 # 데이터를 활용한 마케팅, 그로스 해킹이 뜬다
 
@@ -3224,7 +3224,7 @@ AI와 로봇 기술의 발전으로 인간에게 요구되는 '경쟁력'의 정
 ---
 
 ## 777. 아마존 제국은 우연히 이루어진 게 아니다
-**URL:** https://www.youtube.com/watch?v=sQ0Cd0mcWAk    (
+**** https://www.youtube.com/watch?v=sQ0Cd0mcWAk    (
 
 # 아마존 제국은 우연히 이루어진 게 아니다
 
@@ -3321,7 +3321,7 @@ AI와 로봇 기술의 발전으로 인간에게 요구되는 '경쟁력'의 정
 ---
 
 ## 778. 에이틴 제작사 사장님이 말하는 좋은 컨텐츠를 만드는 법
-**URL:** https://www.youtube.com/watch?v=VprbC2htr4I    (
+**** https://www.youtube.com/watch?v=VprbC2htr4I    (
 
 # 에이틴 제작사 사장님이 말하는 좋은 컨텐츠를 만드는 법
 
@@ -3427,7 +3427,7 @@ AI와 로봇 기술의 발전으로 인간에게 요구되는 '경쟁력'의 정
 ---
 
 ## 779. 온라인으로 주문한 딸기가 3시간 만에 우리 집까지 올 수 있는 이유
-**URL:** https://www.youtube.com/watch?v=1C1Wpktw9q8    (
+**** https://www.youtube.com/watch?v=1C1Wpktw9q8    (
 
 # 온라인으로 주문한 딸기가 3시간 만에 우리 집까지 올 수 있는 이유: 첨단 물류 시스템 NE.O의 모든 것
 
@@ -3548,7 +3548,7 @@ tel [음악] 집에서 주문하면 우리 집단이 도착하는데 걸리는 �
 ---
 
 ## 780. 당신의 일상을 바꿔줄 데이터 사이언스 이야기 | 스냅 데이터과학자 김진영 [리얼밸리 시즌2 EP 22]
-**URL:** https://www.youtube.com/watch?v=4BhmpyDK5j8    (
+**** https://www.youtube.com/watch?v=4BhmpyDK5j8    (
 ---
 
 # 데이터, 문제 해결의 본질을 탐구하다
@@ -3630,7 +3630,7 @@ tel [음악] 집에서 주문하면 우리 집단이 도착하는데 걸리는 �
 ---
 
 ## 781. 29CM 카피라이터 이유미의 남다른 카피와 공감의 마케팅
-**URL:** https://www.youtube.com/watch?v=2OxQGIjwH-8    (
+**** https://www.youtube.com/watch?v=2OxQGIjwH-8    (
 
 다음은 YouTube 영상의 자막 내용을 바탕으로 깊이 있는 학습 자료로 재구성한 것입니다.
 
@@ -3703,7 +3703,7 @@ tel [음악] 집에서 주문하면 우리 집단이 도착하는데 걸리는 �
 ---
 
 ## 782. 나이키 본사 디렉터 정욱진이 말하는 나이키의 문화 | 나이키 머천다이징 디렉터 정욱진 [리얼밸리 시즌2 EP 21]
-**URL:** https://www.youtube.com/watch?v=jU3wNUgYry4    (
+**** https://www.youtube.com/watch?v=jU3wNUgYry4    (
 ---
 
 # 나이키 본사 직원이 말하는 기업 문화와 글로벌 커리어 전략
@@ -3836,5 +3836,5 @@ tel [음악] 집에서 주문하면 우리 집단이 도착하는데 걸리는 �
 ---
 
 ## 783. 콘텐츠 마케터가 핫할 수 밖에 없는 이유
-**URL:** https://www.youtube.com/watch?v=-3E7bvFbns0    (
+**** https://www.youtube.com/watch?v=-3E7bvFbns0    (
 ---

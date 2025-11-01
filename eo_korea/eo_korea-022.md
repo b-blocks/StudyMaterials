@@ -114,7 +114,7 @@
 ---
 
 ## 721. 다음 커뮤니케이션 창업자 이택경의 창업과 투자 이야기
-**URL:** https://www.youtube.com/watch?v=EczOfNHDB7s    (
+**** https://www.youtube.com/watch?v=EczOfNHDB7s    (
 
 # 다음 커뮤니케이션 창업자 이택경의 창업과 투자 이야기
 
@@ -354,7 +354,7 @@ IMF 시기, 다음은 B2B 매출 감소와 서버 증설 비용으로 인한 심
 ---
 
 ## 722. 4,500억 매출 아이리버 디자이너 김영세가 말하는 디자인의 미래
-**URL:** https://www.youtube.com/watch?v=bN3ig6T630E    (
+**** https://www.youtube.com/watch?v=bN3ig6T630E    (
 
 # 4,500억 매출 아이리버 디자이너 김영세가 말하는 디자인의 미래
 
@@ -439,7 +439,7 @@ IMF 시기, 다음은 B2B 매출 감소와 서버 증설 비용으로 인한 심
 ---
 
 ## 723. 밀레니얼의 쇼핑을 바꾸다, 패션산업의 미래
-**URL:** https://www.youtube.com/watch?v=-unlo0J6a3g    (
+**** https://www.youtube.com/watch?v=-unlo0J6a3g    (
 
 # 밀레니얼의 쇼핑을 바꾸다, 패션산업의 미래
 
@@ -575,7 +575,7 @@ IMF 시기, 다음은 B2B 매출 감소와 서버 증설 비용으로 인한 심
 ---
 
 ## 724. 중국에서 두 번의 사업 실패 후 연매출 20억 앞둔 꽃차 브랜드를 만들기까지
-**URL:** https://www.youtube.com/watch?v=GM48nSpK2sM    (
+**** https://www.youtube.com/watch?v=GM48nSpK2sM    (
 
 # 중국에서 두 번의 사업 실패 후 연매출 20억 앞둔 꽃차 브랜드를 만들기까지
 
@@ -712,7 +712,7 @@ IMF 시기, 다음은 B2B 매출 감소와 서버 증설 비용으로 인한 심
 ---
 
 ## 725. 배민 출신 창업가가 자영업자들을 위해 만든 공유주방 플랫폼
-**URL:** https://www.youtube.com/watch?v=BpBmImFqMxg    (
+**** https://www.youtube.com/watch?v=BpBmImFqMxg    (
 
 # 배민 출신 창업가가 자영업자들을 위해 만든 공유주방 플랫폼
 
@@ -844,7 +844,7 @@ IMF 시기, 다음은 B2B 매출 감소와 서버 증설 비용으로 인한 심
 ---
 
 ## 726. 인텔이 350억에 인수한 스타트업 창업가가 테크 전문 투자 회사를 만든 이유
-**URL:** https://www.youtube.com/watch?v=qNd18juwqes    (
+**** https://www.youtube.com/watch?v=qNd18juwqes    (
 
 # 인텔이 350억에 인수한 스타트업 창업가가 테크 전문 투자 회사를 만든 이유
 
@@ -952,7 +952,7 @@ IMF 시기, 다음은 B2B 매출 감소와 서버 증설 비용으로 인한 심
 ---
 
 ## 727. (필수) 스타트업과 예술, 미래에 관심이 있다면 꼭 와야하는 페스티벌
-**URL:** https://www.youtube.com/watch?v=5EwFZAgWXKQ    (
+**** https://www.youtube.com/watch?v=5EwFZAgWXKQ    (
 
   - `마케팅 전략 실패 사례 연구`
     - `브랜드 전략 실패 사례 연구`
@@ -2404,7 +2404,7 @@ IMF 시기, 다음은 B2B 매출 감소와 서버 증설 비용으로 인한 심
 ---
 
 ## 728. 스타트업과 예술가, 슈카월드, 빈지노, 혁오, 이센스, 이디오테잎 등 아티스트가 함께하는 축제 제로원데이
-**URL:** https://www.youtube.com/watch?v=2s5XiAJF7Ek    (
+**** https://www.youtube.com/watch?v=2s5XiAJF7Ek    (
 
 브랜드 충성도 성공 요인 분석`
     - `마케팅 퍼널 성공 요인 분석`
@@ -3971,4 +3971,4 @@ IMF 시기, 다음은 B2B 매출 감소와 서버 증설 비용으로 인한 심
 ---
 
 ## 729. 야놀자 마케터들이 1억 조회수 육성재 초특가 정신을 만든 비결
-**URL:** https://www.youtube.com/watch?v=_OxGsSB_raI    (
+**** https://www.youtube.com/watch?v=_OxGsSB_raI    (

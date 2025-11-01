@@ -12,7 +12,7 @@
 ---
 
 ## 167. 사업의 모든 것 (ㄷㄷ)
-**URL:** https://www.youtube.com/watch?v=Hu0UWWrIVnA    (
+**** https://www.youtube.com/watch?v=Hu0UWWrIVnA    (
 
 ## 1. 핵심 요약
 
@@ -152,7 +152,7 @@ Reasoning 과정 2회 수행
 ---
 
 ## 168. 아마존 창업자 10일전 인터뷰 (제프베조스)
-**URL:** https://www.youtube.com/watch?v=fLYhSRGEVYI    (
+**** https://www.youtube.com/watch?v=fLYhSRGEVYI    (
 
 ## 1. 핵심 요약
 
@@ -250,7 +250,7 @@ Reasoning 과정 2회 수행
 ---
 
 ## 169. 구글! 믿고 있었다구
-**URL:** https://www.youtube.com/watch?v=J0IjKn1slU4    (
+**** https://www.youtube.com/watch?v=J0IjKn1slU4    (
 
 ## 1. 핵심 요약
 
@@ -365,7 +365,7 @@ AI 기술의 급속한 발전과 구글의 AI 우선 전략에서 영감을 받�
 ---
 
 ## 170. 샘알트먼 OpenAI 1주일전 인터뷰
-**URL:** https://www.youtube.com/watch?v=UTUsmzI0jBA    (
+**** https://www.youtube.com/watch?v=UTUsmzI0jBA    (
 
 ## 1. 핵심 요약
 
@@ -463,7 +463,7 @@ AI 기술의 급속한 발전과 구글의 AI 우선 전략에서 영감을 받�
 ---
 
 ## 171. 인생11가지 조언
-**URL:** https://www.youtube.com/watch?v=7rZ3qFC-omc    (
+**** https://www.youtube.com/watch?v=7rZ3qFC-omc    (
 
 ## 1. 핵심 요약
 
@@ -665,7 +665,7 @@ AI 기술의 급속한 발전과 구글의 AI 우선 전략에서 영감을 받�
 ---
 
 ## 172. 잡스와 일하기 간접체험
-**URL:** https://www.youtube.com/watch?v=F5ewOFl42E4    (
+**** https://www.youtube.com/watch?v=F5ewOFl42E4    (
 
 ## 1. 핵심 요약
 
@@ -886,7 +886,7 @@ NeXT의 3,000달러 가격 제한 사례는 시장의 요구를 정확히 파악
 ---
 
 ## 173. GPT o1 프로 출시 시연영상 (한글번역)
-**URL:** https://www.youtube.com/watch?v=LKK3Lp0E2mk    (
+**** https://www.youtube.com/watch?v=LKK3Lp0E2mk    (
 
 ## OpenAI의 새로운 시대: `01` 모델과 `ChatGPT Pro` 심층 분석
 
@@ -1023,7 +1023,7 @@ OpenAI는 개발자들을 위해 `01` 모델의 API를 개방할 예정입니다
 ---
 
 ## 174. 실리콘밸리의 현자
-**URL:** https://www.youtube.com/watch?v=pJ-zmU92xJk    (
+**** https://www.youtube.com/watch?v=pJ-zmU92xJk    (
 
 ## 1. 핵심 요약
 
@@ -1097,7 +1097,7 @@ OpenAI는 개발자들을 위해 `01` 모델의 API를 개방할 예정입니다
 ---
 
 ## 175. 실리콘밸리 + 무기산업 = 안두릴
-**URL:** https://www.youtube.com/watch?v=-chlIr41w8M    (
+**** https://www.youtube.com/watch?v=-chlIr41w8M    (
 
 ## 1. 핵심 요약
 
@@ -1210,7 +1210,7 @@ Anduril은 현재 `고성장 단계`에 있지만, 아직 `수익성 있는 사�
 ---
 
 ## 176. 현시점 가장 주목받는 회사 (팔란티어)
-**URL:** https://www.youtube.com/watch?v=q_pQtkumIVo    (
+**** https://www.youtube.com/watch?v=q_pQtkumIVo    (
 
 ## 1. 핵심 요약
 
@@ -1301,7 +1301,7 @@ Alex Karp는 Paler Technologies의 공동 창립자이자 CEO입니다. 회사�
 ---
 
 ## 177. 일론머스크, 뉴럴링크, 매트릭스
-**URL:** https://www.youtube.com/watch?v=OFNTyEdGkGQ    (
+**** https://www.youtube.com/watch?v=OFNTyEdGkGQ    (
 
 ## 뉴럴링크: 디지털 초지능 시대의 인간 확장과 뇌-기계 인터페이스의 미래
 
@@ -1496,7 +1496,7 @@ ALS나 척수 손상과 같은 질병으로 인해 신체 활동에 제약을 �
 ---
 
 ## 178. 일론 머스크 트럼프 조합
-**URL:** https://www.youtube.com/watch?v=TdXr8oFvVZ4    (
+**** https://www.youtube.com/watch?v=TdXr8oFvVZ4    (
 
 ## 1. 핵심 요약
 
@@ -1604,7 +1604,7 @@ ALS나 척수 손상과 같은 질병으로 인해 신체 활동에 제약을 �
 ---
 
 ## 179. 유발 하라리가 바라보는 인공지능
-**URL:** https://www.youtube.com/watch?v=u8YkL5YMoRc    (
+**** https://www.youtube.com/watch?v=u8YkL5YMoRc    (
 
 ## 1. 핵심 요약
 
@@ -1686,7 +1686,7 @@ ALS나 척수 손상과 같은 질병으로 인해 신체 활동에 제약을 �
 ---
 
 ## 180. 대표가 직접합니다 (에어비엔비)
-**URL:** https://www.youtube.com/watch?v=kY-JRxaRuh4    (
+**** https://www.youtube.com/watch?v=kY-JRxaRuh4    (
 
 ## 1. 핵심 요약
 
@@ -1835,7 +1835,7 @@ CEO가 `최고 제품 책임자` 역할을 수행하기 위해서는 끊임없�
 ---
 
 ## 181. 일론이 트럼프를 지지하는 이유
-**URL:** https://www.youtube.com/watch?v=nTsgPhtZRYs    (
+**** https://www.youtube.com/watch?v=nTsgPhtZRYs    (
 
 ## 1. 핵심 요약
 
@@ -1932,7 +1932,7 @@ CEO가 `최고 제품 책임자` 역할을 수행하기 위해서는 끊임없�
 ---
 
 ## 182. 쓸데없는거 하지 말기
-**URL:** https://www.youtube.com/watch?v=u7uImursnoQ    (
+**** https://www.youtube.com/watch?v=u7uImursnoQ    (
 
 ## 생산성 역설을 넘어: 당신의 목표를 달성하는 실용 전략
 
@@ -2081,7 +2081,7 @@ OHIO 원칙의 핵심은 `즉각성`입니다. 중요한 이메일을 미루는 
 ---
 
 ## 183. 저걸 사람 혼자서 다해?
-**URL:** https://www.youtube.com/watch?v=lE3PlPhjy-w    (
+**** https://www.youtube.com/watch?v=lE3PlPhjy-w    (
 
 ## 1. 핵심 요약
 
@@ -2238,7 +2238,7 @@ um 내 친구 U x Colossus는 온라인으로 122 일 온라인으로 꽤 두 �
 ---
 
 ## 184. 인공지능, 인공지능, 그리고 인공지능
-**URL:** https://www.youtube.com/watch?v=KngpQjadhek    (
+**** https://www.youtube.com/watch?v=KngpQjadhek    (
 
 ## 1. 핵심 요약
 
@@ -2326,7 +2326,7 @@ um 내 친구 U x Colossus는 온라인으로 122 일 온라인으로 꽤 두 �
 ---
 
 ## 185. 사업은 이렇게 하는거다
-**URL:** https://www.youtube.com/watch?v=w5BhMyT_GEk    (
+**** https://www.youtube.com/watch?v=w5BhMyT_GEk    (
 
 ## 1. 핵심 요약
 
@@ -2505,7 +2505,7 @@ um 내 친구 U x Colossus는 온라인으로 122 일 온라인으로 꽤 두 �
 ---
 
 ## 186. OpenAI가 엔젤투자한 회사 (커서)
-**URL:** https://www.youtube.com/watch?v=7P-9i208LHw    (
+**** https://www.youtube.com/watch?v=7P-9i208LHw    (
 
 ## 1. 핵심 요약
 
@@ -2809,7 +2809,7 @@ AI의 도움으로 프로그래밍은 `더욱 즐겁고` `매력적인` 활동�
 ---
 
 ## 187. 브랜드 하는 사람 꼭 보세요 (새티스파이 러닝)
-**URL:** https://www.youtube.com/watch?v=mZmxEinXR-Q    (
+**** https://www.youtube.com/watch?v=mZmxEinXR-Q    (
 
 ## 1. 핵심 요약
 
@@ -2921,7 +2921,7 @@ Satisfy의 철학과 성공 사례를 바탕으로, 유사한 가치를 추구�
 ---
 
 ## 188. 노벨 화학상 딥마인드 데미스 하사비스 인터뷰 (알파폴드)
-**URL:** https://www.youtube.com/watch?v=zObbPScxWuk    (
+**** https://www.youtube.com/watch?v=zObbPScxWuk    (
 
 ## 1. 핵심 요약
 
@@ -3007,7 +3007,7 @@ AlphaFold의 성공은 단백질 구조 예측을 넘어 다양한 분야에서 
 ---
 
 ## 189. ??? : 돈 더벌어서 뭐할래
-**URL:** https://www.youtube.com/watch?v=cTV-pv4aI20    (
+**** https://www.youtube.com/watch?v=cTV-pv4aI20    (
 
 ## 1. 핵심 요약
 
@@ -3145,7 +3145,7 @@ AlphaFold의 성공은 단백질 구조 예측을 넘어 다양한 분야에서 
 ---
 
 ## 190. 앞으로 일할 방식
-**URL:** https://www.youtube.com/watch?v=D-y8d7ksfbA    (
+**** https://www.youtube.com/watch?v=D-y8d7ksfbA    (
 
 ## 1. 핵심 요약
 
@@ -3341,7 +3341,7 @@ The content seems to meet all requirements.## 1. 핵심 요약
 ---
 
 ## 191. 더 높은 수준 (릭 루빈)
-**URL:** https://www.youtube.com/watch?v=Omh2mOj2p3U    (
+**** https://www.youtube.com/watch?v=Omh2mOj2p3U    (
 
 ## 자기다움의 힘: 진정한 수용과 창조를 위한 안내서
 
@@ -3477,7 +3477,7 @@ The content seems to meet all requirements.## 1. 핵심 요약
 ---
 
 ## 192. ??? : 메타는 SNS회사 아닙니다
-**URL:** https://www.youtube.com/watch?v=4dx-tsjG0y0    (
+**** https://www.youtube.com/watch?v=4dx-tsjG0y0    (
 
 ## 1. 핵심 요약
 
@@ -3636,7 +3636,7 @@ The content seems to meet all requirements.## 1. 핵심 요약
 ---
 
 ## 193. 구글 전 대표의 한 마디
-**URL:** https://www.youtube.com/watch?v=ZC1z2YTVvhg    (
+**** https://www.youtube.com/watch?v=ZC1z2YTVvhg    (
 
 ## 1. 핵심 요약
 

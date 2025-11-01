@@ -121,7 +121,7 @@
 ---
 
 ## 208. 자기계발서에 휘둘리지 마세요 | 최성운의 사고실험 [타일러] 3부
-**URL:** https://www.youtube.com/watch?v=dNSLmJz_zGY    (
+**** https://www.youtube.com/watch?v=dNSLmJz_zGY    (
 
 # 자기계발서에 휘둘리지 마세요 | 최성운의 사고실험 [타일러] 3부
 
@@ -212,7 +212,7 @@
 ---
 
 ## 209. 모은 돈 500만 원뿐이던 내가 여기까지 올 수 있었던 이유 | 청춘닭꼬치 박진완
-**URL:** https://www.youtube.com/watch?v=UEG_68FePJ0    (
+**** https://www.youtube.com/watch?v=UEG_68FePJ0    (
 
 # 모은 돈 500만 원뿐이던 내가 여기까지 올 수 있었던 이유 | 청춘닭꼬치 박진완
 
@@ -327,7 +327,7 @@
 ---
 
 ## 210. 나한테 도움되는 조언과 쓸모없는 조언 구별하는 법 | 최성운의 사고실험 [타일러] 2부
-**URL:** https://www.youtube.com/watch?v=TEuXF0BwoOc    (
+**** https://www.youtube.com/watch?v=TEuXF0BwoOc    (
 
 # 나한테 도움되는 조언과 쓸모없는 조언 구별하는 법 | 최성운의 사고실험 [타일러] 2부
 
@@ -415,7 +415,7 @@
 ---
 
 ## 211. 시니어 개발자가 주니어에게 바라는 딱 한 가지 | 오늘의집 최진한 개발자
-**URL:** https://www.youtube.com/watch?v=p-VP3pT8GEg    (
+**** https://www.youtube.com/watch?v=p-VP3pT8GEg    (
 
 # 시니어 개발자가 주니어에게 바라는 딱 한 가지 | 오늘의집 최진한 개발자
 
@@ -520,7 +520,7 @@
 ---
 
 ## 212. 구글 애플 출신 한국인들이 전세계 유일무이한 번역 엔진을 만들기까지
-**URL:** https://www.youtube.com/watch?v=ajPYIgXma4g    (
+**** https://www.youtube.com/watch?v=ajPYIgXma4g    (
 
 # 구글 애플 출신 한국인들이 전세계 유일무이한 번역 엔진을 만들기까지
 
@@ -644,7 +644,7 @@
 ---
 
 ## 213. 타일러가 직접 고쳐보겠다는 한국 엔터산업의 문제점들 | 최성운의 사고실험 [타일러] 1부
-**URL:** https://www.youtube.com/watch?v=HGK2NTf6xOo    (
+**** https://www.youtube.com/watch?v=HGK2NTf6xOo    (
 
 # 타일러가 직접 고쳐보겠다는 한국 엔터산업의 문제점들 | 최성운의 사고실험 [타일러] 1부
 
@@ -758,7 +758,7 @@
 ---
 
 ## 214. 방황하던 시간을 나만의 무기로 바꾸는 스토리텔링 기술 | 구글 UX리서처 제니 허
-**URL:** https://www.youtube.com/watch?v=wVy2VNBWtkI    (
+**** https://www.youtube.com/watch?v=wVy2VNBWtkI    (
 
 # 방황하던 시간을 나만의 무기로 바꾸는 스토리텔링 기술 | 구글 UX리서처 제니 허
 
@@ -861,7 +861,7 @@
 ---
 
 ## 215. 브랜드를 만들 때 착각하기 쉬운 한 가지 사실 | 더쎄를라잇브루잉 전동근
-**URL:** https://www.youtube.com/watch?v=1vJVZYdv9I0    (
+**** https://www.youtube.com/watch?v=1vJVZYdv9I0    (
 
 # 브랜드를 만들 때 착각하기 쉬운 한 가지 사실 | 더쎄를라잇브루잉 전동근
 
@@ -962,7 +962,7 @@
 ---
 
 ## 216. 미국 생활 20년, 오랫동안 내 성장을 만든 원동력 | 미국변호사 존청
-**URL:** https://www.youtube.com/watch?v=iGuKqFHSFKI    (
+**** https://www.youtube.com/watch?v=iGuKqFHSFKI    (
 
 # 미국 생활 20년, 오랫동안 내 성장을 만든 원동력 | 미국변호사 존청
 
@@ -1073,7 +1073,7 @@ KPMG에서 파트너 트랙을 고민하던 중, `내가 하고 싶은 일을 �
 ---
 
 ## 217. 아무도 손대지 않는 비과학적인 산업에서 발견한 독점의 기회 | 천명 유현재
-**URL:** https://www.youtube.com/watch?v=J6HK3h5xoDE    (
+**** https://www.youtube.com/watch?v=J6HK3h5xoDE    (
 
 # 아무도 손대지 않는 비과학적인 산업에서 발견한 독점의 기회 | 천명 유현재
 
@@ -1217,7 +1217,7 @@ KPMG에서 파트너 트랙을 고민하던 중, `내가 하고 싶은 일을 �
 ---
 
 ## 218. 사업계획서 '잘' 쓰는 법ㅣ이택경의 스타트업 투자 전략 EP 03
-**URL:** https://www.youtube.com/watch?v=kgnMAyQYsL8    (
+**** https://www.youtube.com/watch?v=kgnMAyQYsL8    (
 
 # 사업계획서 '잘' 쓰는 법ㅣ이택경의 스타트업 투자 전략 EP 03
 
@@ -1389,7 +1389,7 @@ KPMG에서 파트너 트랙을 고민하던 중, `내가 하고 싶은 일을 �
 ---
 
 ## 219. 스물일곱 살에 90명이 다니는 회사를 만들면서 배운 것 | 최성운의 사고실험 [장지호] 2부
-**URL:** https://www.youtube.com/watch?v=fl2t6OM1owM    (
+**** https://www.youtube.com/watch?v=fl2t6OM1owM    (
 
 # 스물일곱 살에 90명이 다니는 회사를 만들면서 배운 것 | 최성운의 사고실험 [장지호] 2부
 
@@ -1542,7 +1542,7 @@ KPMG에서 파트너 트랙을 고민하던 중, `내가 하고 싶은 일을 �
 ---
 
 ## 220. 실리콘밸리 구글 이벤트에 다녀와서 느낀 점 (feat. AI, Bard)
-**URL:** https://www.youtube.com/watch?v=cJGKrsjhxr4    (
+**** https://www.youtube.com/watch?v=cJGKrsjhxr4    (
 
 # 실리콘밸리 구글 이벤트에 다녀와서 느낀 점 (feat. AI, Bard)
 
@@ -1660,7 +1660,7 @@ Google I/O는 전 세계 테크 및 스타트업의 중심지인 실리콘밸리
 ---
 
 ## 221. YC에게 투자 받고, 루이비통모엣헤네시와 일하는 한국 회사 | Marqvision
-**URL:** https://www.youtube.com/watch?v=dJWU2vc2UJc    (
+**** https://www.youtube.com/watch?v=dJWU2vc2UJc    (
 
 # YC에게 투자 받고, 루이비통모엣헤네시와 일하는 한국 회사 | Marqvision
 
@@ -1762,7 +1762,7 @@ Google I/O는 전 세계 테크 및 스타트업의 중심지인 실리콘밸리
 ---
 
 ## 222. 1300만 명이 썼지만 다음주에 사라질 수도 있는 산업 | 최성운의 사고실험 [장지호] 1부
-**URL:** https://www.youtube.com/watch?v=jK3T_245ssY    (
+**** https://www.youtube.com/watch?v=jK3T_245ssY    (
 
 # 1300만 명이 썼지만 다음주에 사라질 수도 있는 산업 | 최성운의 사고실험 [장지호] 1부
 
@@ -1848,7 +1848,7 @@ Google I/O는 전 세계 테크 및 스타트업의 중심지인 실리콘밸리
 ---
 
 ## 223. 선배 창업자들이 쉽게 말해주지 않는 창업의 현실 | 스푼라디오 최혁재
-**URL:** https://www.youtube.com/watch?v=lNWGZvQvu28    (
+**** https://www.youtube.com/watch?v=lNWGZvQvu28    (
 
 # 선배 창업자들이 쉽게 말해주지 않는 창업의 현실 | 스푼라디오 최혁재
 
@@ -1976,7 +1976,7 @@ Google I/O는 전 세계 테크 및 스타트업의 중심지인 실리콘밸리
 ---
 
 ## 224. 이런 식으로 회사 연명하는게 의미가 있어요? [실리콘밸리댄스 마지막화]
-**URL:** https://www.youtube.com/watch?v=wFbLliyLN9I    (
+**** https://www.youtube.com/watch?v=wFbLliyLN9I    (
 
 # 이런 식으로 회사 연명하는게 의미가 있어요? [실리콘밸리댄스 마지막화]
 
@@ -2061,7 +2061,7 @@ Google I/O는 전 세계 테크 및 스타트업의 중심지인 실리콘밸리
 ---
 
 ## 225. 실리콘밸리에서 받은 충격을 한국으로 가져오고 싶었어요 | 센드버드 이은창
-**URL:** https://www.youtube.com/watch?v=rFh21zGLqfw    (
+**** https://www.youtube.com/watch?v=rFh21zGLqfw    (
 
 # 실리콘밸리에서 받은 충격을 한국으로 가져오고 싶었어요 | 센드버드 이은창
 
@@ -2162,7 +2162,7 @@ Google I/O는 전 세계 테크 및 스타트업의 중심지인 실리콘밸리
 ---
 
 ## 226. 아시아 1위 수학 학습앱을 만든 대표에게 물어보았다 | 최성운의 사고실험 [이수인] 2부
-**URL:** https://www.youtube.com/watch?v=YdzgYuICj8o    (
+**** https://www.youtube.com/watch?v=YdzgYuICj8o    (
 
 # 아시아 1위 수학 학습앱을 만든 대표에게 물어보았다 | 최성운의 사고실험 [이수인] 2부
 
@@ -2306,7 +2306,7 @@ AI 기술이 사회적 불평등을 심화시키지 않도록, 윤리적이고 �
 ---
 
 ## 227. 나서는 걸 좋아하지 않는 게 장점이 될 수도 있어요ㅣGlassdome
-**URL:** https://www.youtube.com/watch?v=K1ZSQBsi148    (
+**** https://www.youtube.com/watch?v=K1ZSQBsi148    (
 
 # 나서는 걸 좋아하지 않는 게 장점이 될 수도 있어요ㅣGlassdome
 
@@ -2398,7 +2398,7 @@ mbti로 보면 저는 isfj 형이고요 간호사 디펜더형이더라구요 �
 ---
 
 ## 228. 사회생활 처음 해보는 인턴 특징 [실리콘밸리댄스 EP.04]
-**URL:** https://www.youtube.com/watch?v=e0H4BMMxljo    (
+**** https://www.youtube.com/watch?v=e0H4BMMxljo    (
 
 # 사회생활 처음 해보는 인턴 특징 [실리콘밸리댄스 EP.04]
 
@@ -2517,7 +2517,7 @@ mbti로 보면 저는 isfj 형이고요 간호사 디펜더형이더라구요 �
 ---
 
 ## 229. 투자자가 생각하는 초기창업가에게 중요한 4가지 요소들
-**URL:** https://www.youtube.com/watch?v=y0mOOiuG0K0    (
+**** https://www.youtube.com/watch?v=y0mOOiuG0K0    (
 
 # 투자자가 생각하는 초기창업가에게 중요한 4가지 요소들
 
@@ -2648,7 +2648,7 @@ mbti로 보면 저는 isfj 형이고요 간호사 디펜더형이더라구요 �
 ---
 
 ## 230. 전세계 1300만 명의 아이들을 실패에서 구한 창업가 | 최성운의 사고실험 [이수인] 1부
-**URL:** https://www.youtube.com/watch?v=9fNM_-VhiAY    (
+**** https://www.youtube.com/watch?v=9fNM_-VhiAY    (
 
 # 전세계 1300만 명의 아이들을 실패에서 구한 창업가 | 최성운의 사고실험 [이수인] 1부
 
@@ -2752,7 +2752,7 @@ mbti로 보면 저는 isfj 형이고요 간호사 디펜더형이더라구요 �
 ---
 
 ## 231. 우리 어제 월급 들어오는 날 아니었나? [실리콘밸리댄스 EP.03]
-**URL:** https://www.youtube.com/watch?v=fc7jBbjzFlk    (
+**** https://www.youtube.com/watch?v=fc7jBbjzFlk    (
 
 # 우리 어제 월급 들어오는 날 아니었나? [실리콘밸리댄스 EP.03]
 
@@ -2856,7 +2856,7 @@ mbti로 보면 저는 isfj 형이고요 간호사 디펜더형이더라구요 �
 ---
 
 ## 232. 입양아에서 장관, 7개 유니콘 스타트업 투자자가 되기까지ㅣ플뢰르 펠르랭
-**URL:** https://www.youtube.com/watch?v=GR5PuqbyA50    (
+**** https://www.youtube.com/watch?v=GR5PuqbyA50    (
 
 # 입양아에서 장관, 7개 유니콘 스타트업 투자자가 되기까지ㅣ플뢰르 펠르랭
 
@@ -2990,7 +2990,7 @@ mbti로 보면 저는 isfj 형이고요 간호사 디펜더형이더라구요 �
 ---
 
 ## 233. 어차피 실패확률 99%, 큰 꿈이 더 유리합니다 | 라이너 김진우
-**URL:** https://www.youtube.com/watch?v=O6SZz583eN8    (
+**** https://www.youtube.com/watch?v=O6SZz583eN8    (
 
 # 어차피 실패확률 99%, 큰 꿈이 더 유리합니다 | 라이너 김진우
 
@@ -3074,7 +3074,7 @@ mbti로 보면 저는 isfj 형이고요 간호사 디펜더형이더라구요 �
 ---
 
 ## 234. 오늘도 개발자는 안 된다고 말했다 [실리콘밸리댄스 EP.02]
-**URL:** https://www.youtube.com/watch?v=ag1mOTiG4fE    (
+**** https://www.youtube.com/watch?v=ag1mOTiG4fE    (
 
 # 오늘도 개발자는 안 된다고 말했다 [실리콘밸리댄스 EP.02]
 
@@ -3163,7 +3163,7 @@ mbti로 보면 저는 isfj 형이고요 간호사 디펜더형이더라구요 �
 ---
 
 ## 235. 한국인 모두가 알지만 아무도 모르는 산업에서 이뤄낸 기록ㅣ컨텍
-**URL:** https://www.youtube.com/watch?v=_JLR22zs3WQ    (
+**** https://www.youtube.com/watch?v=_JLR22zs3WQ    (
 
 # 한국인 모두가 알지만 아무도 모르는 산업에서 이뤄낸 기록ㅣ컨텍
 
@@ -3292,7 +3292,7 @@ mbti로 보면 저는 isfj 형이고요 간호사 디펜더형이더라구요 �
 ---
 
 ## 236. 막내 사원이 최연소 대표가 되어 돌아보는 23년 커리어 | 한국P&G 이지영
-**URL:** https://www.youtube.com/watch?v=co1XxpfaG7g    (
+**** https://www.youtube.com/watch?v=co1XxpfaG7g    (
 
 # 막내 사원이 최연소 대표가 되어 돌아보는 23년 커리어 | 한국P&G 이지영
 
@@ -3365,7 +3365,7 @@ mbti로 보면 저는 isfj 형이고요 간호사 디펜더형이더라구요 �
 ---
 
 ## 237. 스타트업에 무조건 있는 빌런 특징 [실리콘밸리댄스 EP.01]
-**URL:** https://www.youtube.com/watch?v=A5TUTSR083M    (
+**** https://www.youtube.com/watch?v=A5TUTSR083M    (
 
 # 스타트업에 무조건 있는 빌런 특징 [실리콘밸리댄스 EP.01]
 
@@ -3456,7 +3456,7 @@ mbti로 보면 저는 isfj 형이고요 간호사 디펜더형이더라구요 �
 ---
 
 ## 238. 인공지능이 만들어내고 있는 새로운 기회들
-**URL:** https://www.youtube.com/watch?v=GE0TM9-ZrWk    (
+**** https://www.youtube.com/watch?v=GE0TM9-ZrWk    (
 
 # 인공지능이 만들어내고 있는 새로운 기회들
 
@@ -3540,7 +3540,7 @@ mbti로 보면 저는 isfj 형이고요 간호사 디펜더형이더라구요 �
 ---
 
 ## 239. 1조 기업 창업자가 선택한 미래의 유니콘ㅣ센드버드 김동신, Yess 장지원
-**URL:** https://www.youtube.com/watch?v=P4_XCtW696U    (
+**** https://www.youtube.com/watch?v=P4_XCtW696U    (
 
 # 1조 기업 창업자가 선택한 미래의 유니콘ㅣ센드버드 김동신, Yess 장지원
 
@@ -3692,7 +3692,7 @@ Yess.io는 다음 라운드(Series A)를 목표로 하며, 함께 성장할 인�
 ---
 
 ## 240. 최선을 다했지만 실패한 당신에게 들려주고픈 이야기 | 스탠포드 돌돌콩
-**URL:** https://www.youtube.com/watch?v=Cj_S9oAKU08    (
+**** https://www.youtube.com/watch?v=Cj_S9oAKU08    (
 
 # 최선을 다했지만 실패한 당신에게 들려주고픈 이야기 | 스탠포드 돌돌콩
 
@@ -3804,4 +3804,4 @@ Yess.io는 다음 라운드(Series A)를 목표로 하며, 함께 성장할 인�
 ---
 
 ## 241. 스타트업 환상 본격 파괴하는 현실 웹드라마 | 실리콘밸리댄스 예고편
-**URL:** https://www.youtube.com/watch?v=Fu69mxDBrX8    (
+**** https://www.youtube.com/watch?v=Fu69mxDBrX8    (

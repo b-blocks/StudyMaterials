@@ -1,5 +1,5 @@
 ## 145. (좋은말로 할때) 막차타라
-**URL:** https://www.youtube.com/watch?v=hjFRF36xnQM    (
+**** https://www.youtube.com/watch?v=hjFRF36xnQM    (
 
 ## 1. 핵심 요약
 
@@ -199,7 +199,7 @@ The document looks solid and meets all the requirements.## 1. 핵심 요약
 ---
 
 ## 146. 일론머스크가 일하는 방식
-**URL:** https://www.youtube.com/watch?v=UPFsxCJkDT4    (
+**** https://www.youtube.com/watch?v=UPFsxCJkDT4    (
 
 ## 1. 핵심 요약
 
@@ -347,7 +347,7 @@ Elon은 어떻게 생산 적인가? 실제로 나는 실제로 엘론을 오랫�
 ---
 
 ## 147. 그록 발표회
-**URL:** https://www.youtube.com/watch?v=zIbSh2cUzKI    (
+**** https://www.youtube.com/watch?v=zIbSh2cUzKI    (
 
 ## 1. 핵심 요약
 
@@ -434,7 +434,7 @@ Xai와 Gro의 사명은 우주를 이해하는 것이 우주의 본질을 이해
 ---
 
 ## 148. 트럼프가 그리는 세계질서 (반스 부통령)
-**URL:** https://www.youtube.com/watch?v=uIejsx1jjdQ    (
+**** https://www.youtube.com/watch?v=uIejsx1jjdQ    (
 
 ## 인공지능(AI) 시대의 기회: 혁신, 성장, 그리고 미국의 리더십
 
@@ -535,7 +535,7 @@ AI 시대의 기회를 최대한 활용하고 잠재적 위험을 관리하기 �
 ---
 
 ## 149. 68개의 인생 조언 (WIRED 편집장 케빈켈리)
-**URL:** https://www.youtube.com/watch?v=cIvsdpkWd1w    (
+**** https://www.youtube.com/watch?v=cIvsdpkWd1w    (
 
 ## 1. 핵심 요약
 
@@ -935,7 +935,7 @@ The content looks good and meets all the requirements.## 1. 핵심 요약
 ---
 
 ## 150. 팔란티어 2024 어닝콜 번역
-**URL:** https://www.youtube.com/watch?v=dHUtFUGXfPU    (
+**** https://www.youtube.com/watch?v=dHUtFUGXfPU    (
 
 ## 1. 핵심 요약
 
@@ -1202,7 +1202,7 @@ DeepSeek R1의 정교한 엔지니어링과 최적화는 중국이 단순히 기
 ---
 
 ## 151. 피터틸 올인 팟캐스트 인터뷰 | 인공지능, 대학, 미국, 미래, 기술, 혁신의 시작, 틸펠로십
-**URL:** https://www.youtube.com/watch?v=ng7YfntyuoU    (
+**** https://www.youtube.com/watch?v=ng7YfntyuoU    (
 
 ## AI 시대의 본질적 이해: 버즈워드를 넘어선 통찰과 미래 전략
 
@@ -1318,7 +1318,7 @@ AI의 발전은 `노동 시장`의 재편을 넘어, `인간이란 무엇인가`
 ---
 
 ## 152. 캐시우드가 바라보는 세상 | 테슬라, 엔비디아, 딥시크, 바이오, 빅테크
-**URL:** https://www.youtube.com/watch?v=ENc_9o73Rww    (
+**** https://www.youtube.com/watch?v=ENc_9o73Rww    (
 
 ## 1. 핵심 요약
 
@@ -1521,7 +1521,7 @@ AI 혁신과 관련된 기회를 사업화하기 위한 구체적인 액션 아�
 ---
 
 ## 153. 기술이 곧 권력이다 (알렉스카프 of Palantir)
-**URL:** https://www.youtube.com/watch?v=2A-qyVWHq7A    (
+**** https://www.youtube.com/watch?v=2A-qyVWHq7A    (
 
 ## 1. 핵심 요약
 
@@ -1712,7 +1712,7 @@ Now, I will output the final learning material in Markdown format.
 ---
 
 ## 154. 빌게이츠의 생각들 | 트럼프, 일론머스크, 앱스타인, 재단, 미래, 기술
-**URL:** https://www.youtube.com/watch?v=5Mh2S0FupOA    (
+**** https://www.youtube.com/watch?v=5Mh2S0FupOA    (
 
 ## 1. 핵심 요약
 
@@ -1945,7 +1945,7 @@ I've reviewed the content for clarity, conciseness, and adherence to the prompt'
 ---
 
 ## 155. 돈줘도 못듣는 이야기들 (젠슨황 of NVIDIA)
-**URL:** https://www.youtube.com/watch?v=YEAJ9Ew4Tvk    (
+**** https://www.youtube.com/watch?v=YEAJ9Ew4Tvk    (
 
 ## 1. 핵심 요약
 
@@ -2028,7 +2028,7 @@ I've reviewed the content for clarity, conciseness, and adherence to the prompt'
 ---
 
 ## 156. 서양을 왜 따라가야 합니까? (리콴유)
-**URL:** https://www.youtube.com/watch?v=NSwqb56YQAY    (
+**** https://www.youtube.com/watch?v=NSwqb56YQAY    (
 
 ## 1. 핵심 요약
 
@@ -2110,7 +2110,7 @@ I've reviewed the content for clarity, conciseness, and adherence to the prompt'
 ---
 
 ## 157. 그냥 존재하기 | just exist bro
-**URL:** https://www.youtube.com/watch?v=as1ZiGIzyJI    (
+**** https://www.youtube.com/watch?v=as1ZiGIzyJI    (
 
 ## 1. 핵심 요약
 
@@ -2246,7 +2246,7 @@ I've reviewed the content for clarity, conciseness, and adherence to the prompt'
 ---
 
 ## 158. 안두릴 창업 이야기 (팔마 럭키)
-**URL:** https://www.youtube.com/watch?v=g6QBIvYE4sc    (
+**** https://www.youtube.com/watch?v=g6QBIvYE4sc    (
 
 ## 1. 핵심 요약
 
@@ -2351,7 +2351,7 @@ I've reviewed the content for clarity, conciseness, and adherence to the prompt'
 ---
 
 ## 159. 일론의 5단계 법칙
-**URL:** https://www.youtube.com/watch?v=-iNgdvXXaR0    (
+**** https://www.youtube.com/watch?v=-iNgdvXXaR0    (
 
 ## 1. 핵심 요약
 
@@ -2595,7 +2595,7 @@ The rest of the content and formatting seems to align with the requirements.## 1
 ---
 
 ## 160. DOGE (정부효율부) 만든 이유
-**URL:** https://www.youtube.com/watch?v=6-jxGuno8xk    (
+**** https://www.youtube.com/watch?v=6-jxGuno8xk    (
 
 ## 1. 핵심 요약
 
@@ -2722,7 +2722,7 @@ Doge 프로젝트는 정부가 불필요하게 확장되는 것을 막고, 본�
 ---
 
 ## 161. 알면 알수록 어려운 세상 (데이비드 도이치)
-**URL:** https://www.youtube.com/watch?v=f4a1TO4YRxE    (
+**** https://www.youtube.com/watch?v=f4a1TO4YRxE    (
 
 ## 미래 예측의 역설: 지식 성장이 가져온 새로운 지평선
 
@@ -2797,7 +2797,7 @@ Doge 프로젝트는 정부가 불필요하게 확장되는 것을 막고, 본�
 ---
 
 ## 162. 2025년 첫 영상 (넷플릭스 창업자 풀 인터뷰)
-**URL:** https://www.youtube.com/watch?v=yT5lDKcH5qM    (
+**** https://www.youtube.com/watch?v=yT5lDKcH5qM    (
 
 ## 1. 핵심 요약
 
@@ -2921,7 +2921,7 @@ CEO의 역할 변화는 조직의 성장 단계에 맞춰 필수적입니다. �
 ---
 
 ## 163. 초보 창업가들 위한 강의 (Y-combinator)
-**URL:** https://www.youtube.com/watch?v=iJUFA51_iuM    (
+**** https://www.youtube.com/watch?v=iJUFA51_iuM    (
 
 ## 1. 핵심 요약
 
@@ -3042,7 +3042,7 @@ CEO의 역할 변화는 조직의 성장 단계에 맞춰 필수적입니다. �
 ---
 
 ## 164. 이 반대로 생각하십쇼 (나발)
-**URL:** https://www.youtube.com/watch?v=w6IP_817gk0    (
+**** https://www.youtube.com/watch?v=w6IP_817gk0    (
 
 ## 1. 핵심 요약
 
@@ -3351,7 +3351,7 @@ NIM TB는 또한 가장 큰 중독자 헤로인과 월 급여가 두 가지 있�
 ---
 
 ## 165. 성공하는 자세 (짐도노반 of 골드만삭스)
-**URL:** https://www.youtube.com/watch?v=gcVClKGgcA4    (
+**** https://www.youtube.com/watch?v=gcVClKGgcA4    (
 
 ## 1. 핵심 요약
 
@@ -3713,7 +3713,7 @@ M&A 거래에서 변호사는 거래가 길어질수록 더 많은 수수료를 
 ---
 
 ## 166. 일론머스크가 그리는 미래
-**URL:** https://www.youtube.com/watch?v=rS8BBJttdBw    (
+**** https://www.youtube.com/watch?v=rS8BBJttdBw    (
 
 ## 1. 핵심 요약
 

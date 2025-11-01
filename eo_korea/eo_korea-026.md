@@ -103,7 +103,7 @@
 ---
 
 ## 821. 첫 야외 라이브 장비 세팅부터 촬영까지
-**URL:** https://www.youtube.com/watch?v=P_cBhidWv9o    (
+**** https://www.youtube.com/watch?v=P_cBhidWv9o    (
 ---
 
 # 스타트업, 창업 그리고 혁신
@@ -196,7 +196,7 @@
 ---
 
 ## 822. 누구나 한 번에 이해할 수 있는 블록체인 강의 | 샌프란시스코 대학 부교수 정은진 [리얼밸리 시즌 2 EP 10]
-**URL:** https://www.youtube.com/watch?v=kl5pkhbqz3k    (
+**** https://www.youtube.com/watch?v=kl5pkhbqz3k    (
 ---
 
 # 블록체인 심층 이해: 분산 합의와 응용
@@ -409,7 +409,7 @@
 ---
 
 ## 823. 4차 산업혁명 시대를 만드는 해커톤의 진행자 이야기
-**URL:** https://www.youtube.com/watch?v=EcCfMQDI_tg    (
+**** https://www.youtube.com/watch?v=EcCfMQDI_tg    (
 
 ## 해커톤을 통한 합의와 정책 반영의 힘
 
@@ -468,7 +468,7 @@
 ---
 
 ## 824. 전교 꼴찌에서 피자집 사장님을 거쳐 실리콘밸리 디자이너로 | SAP 디자이너 김희준 [리얼밸리 시즌 2 EP 09]
-**URL:** https://www.youtube.com/watch?v=OWH6NPyF_Ao    (
+**** https://www.youtube.com/watch?v=OWH6NPyF_Ao    (
 
 다음은 YouTube 영상의 자막 내용을 바탕으로 깊이 있는 학습 자료로 재구성한 것입니다.
 
@@ -560,7 +560,7 @@
 ---
 
 ## 825. 미친 축제 기획자가 만든 예술과 스타트업의 놀이터
-**URL:** https://www.youtube.com/watch?v=xtuml4nVoyw    (
+**** https://www.youtube.com/watch?v=xtuml4nVoyw    (
 ---
 
 # 혁신과 창조의 놀이터, 제로원(ZERO-ONE)의 철학
@@ -638,7 +638,7 @@
 ---
 
 ## 826. 실리콘밸리의 단점들 | EO 태용
-**URL:** https://www.youtube.com/watch?v=IjvbTr8rsSM    (
+**** https://www.youtube.com/watch?v=IjvbTr8rsSM    (
 ---
 
 # 실리콘밸리: 혁신의 빛과 그림자, 그리고 우리가 배워야 할 것
@@ -720,7 +720,7 @@
 ---
 
 ## 827. 명문대에 가면 취업과 창업에 유리한 점
-**URL:** https://www.youtube.com/watch?v=1KYSVTuMiy0    (
+**** https://www.youtube.com/watch?v=1KYSVTuMiy0    (
 
 다음은 YouTube 영상의 자막 내용을 깊이 있는 학습 자료로 상세하게 재구성한 것입니다.
 
@@ -809,7 +809,7 @@
 ---
 
 ## 828. 버려진 공장에서 아티스트와 스타트업이 함께하는 축제
-**URL:** https://www.youtube.com/watch?v=QajdGzWpsSs    (
+**** https://www.youtube.com/watch?v=QajdGzWpsSs    (
 ---
 
 # 제로원 데이: 버려진 공간에서 피어나는 예술과 기술의 융합
@@ -887,7 +887,7 @@
 ---
 
 ## 829. 디즈니의 한국인 디자이너 이야기 | 디즈니 프로덕트 디자이너 한승헌 [리얼밸리 시즌 2 EP 08]
-**URL:** https://www.youtube.com/watch?v=7oKNo5S6exU    (
+**** https://www.youtube.com/watch?v=7oKNo5S6exU    (
 
 다음은 YouTube 영상의 자막 내용을 깊이 있는 학습 자료로 상세하게 재구성한 것입니다.
 
@@ -1004,7 +1004,7 @@
 ---
 
 ## 830. 페이스북 본사에서 디자이너로 일하기까지 | 페이스북 디자이너 이근배 [리얼밸리 시즌 2 EP 07]
-**URL:** https://www.youtube.com/watch?v=pDdRe_gYfqM    (
+**** https://www.youtube.com/watch?v=pDdRe_gYfqM    (
 
 다음은 YouTube 영상의 자막 내용을 바탕으로 깊이 있는 학습 자료로 재구성한 것입니다.
 
@@ -1092,7 +1092,7 @@
 ---
 
 ## 831. 초기 스타트업에 취업할 때 주의할 점
-**URL:** https://www.youtube.com/watch?v=2czgoTBf3fc    (
+**** https://www.youtube.com/watch?v=2czgoTBf3fc    (
 
 다음은 YouTube 영상 "스타트업 취업, 어떤 단계의 스타트업에 가야 할까?"의 내용을 바탕으로 재구성한 상세 학습 자료입니다.
 
@@ -1210,7 +1210,7 @@
 ---
 
 ## 832. 대기업 VS 스타트업, 어디에 취업하면 좋을까?
-**URL:** https://www.youtube.com/watch?v=gDNRuRATj5U    (
+**** https://www.youtube.com/watch?v=gDNRuRATj5U    (
 ---
 
 # 대기업 vs. 스타트업, 당신의 커리어 선택은?
@@ -1298,7 +1298,7 @@
 ---
 
 ## 833. 실리콘밸리를 그리다 컨퍼런스 공지
-**URL:** https://www.youtube.com/watch?v=1QOgQ50MSzk    (
+**** https://www.youtube.com/watch?v=1QOgQ50MSzk    (
 
 다음은 YouTube 영상의 자막 내용을 바탕으로 깊이 있는 학습 자료로 재구성한 것입니다.
 
@@ -1361,7 +1361,7 @@
 ---
 
 ## 834. 10년차 월 1000만원 프리랜서의 생존 비결
-**URL:** https://www.youtube.com/watch?v=xtbq4BxqG1A    (
+**** https://www.youtube.com/watch?v=xtbq4BxqG1A    (
 ---
 
 # 프리랜서 시대, 나만의 가치를 만드는 법
@@ -1524,7 +1524,7 @@
 ---
 
 ## 835. 국내 최대의 스타트업 축제 IF 2018에 여러분을 초대합니다
-**URL:** https://www.youtube.com/watch?v=V-Fr1mirOI0    (
+**** https://www.youtube.com/watch?v=V-Fr1mirOI0    (
 
 다음은 YouTube 영상의 자막 내용을 바탕으로 깊이 있는 학습 자료로 재구성한 것입니다.
 
@@ -1601,7 +1601,7 @@ IF 2018은 기존의 딱딱하고 전문적인 스타트업 행사와 달리, �
 ---
 
 ## 836. 세계 최고의 인재들이 실리콘밸리에 모이는 이유, '지식자본주의' | 코너그룹 IPO전문 컨설턴트 박정리 [리얼밸리 시즌 2 EP 06]
-**URL:** https://www.youtube.com/watch?v=ORMrdCqet8c    (
+**** https://www.youtube.com/watch?v=ORMrdCqet8c    (
 
 다음은 YouTube 영상의 자막 내용을 바탕으로 깊이 있는 학습 자료로 재구성한 것입니다.
 
@@ -1689,7 +1689,7 @@ IF 2018은 기존의 딱딱하고 전문적인 스타트업 행사와 달리, �
 ---
 
 ## 837. 실리콘밸리 매니저가 일하는 방법 | 오라클 엔지니어 송창걸 [리얼밸리 시즌 2 EP 05]
-**URL:** https://www.youtube.com/watch?v=IpCvOgiD1Qk    (
+**** https://www.youtube.com/watch?v=IpCvOgiD1Qk    (
 
 다음은 YouTube 영상의 자막 내용을 깊이 있는 학습 자료로 상세하게 재구성한 것입니다.
 
@@ -1801,7 +1801,7 @@ IF 2018은 기존의 딱딱하고 전문적인 스타트업 행사와 달리, �
 ---
 
 ## 838. 에어비앤비 엔지니어가 행복하게 일할 수 있는 이유 | 에어비앤비 엔지니어 유호현 [리얼밸리 시즌 2 EP 04]
-**URL:** https://www.youtube.com/watch?v=iaNl6zKTBfg    (
+**** https://www.youtube.com/watch?v=iaNl6zKTBfg    (
 ---
 
 # 랭크 기반 vs. 역할 기반 조직 문화 분석
@@ -1872,7 +1872,7 @@ IF 2018은 기존의 딱딱하고 전문적인 스타트업 행사와 달리, �
 ---
 
 ## 839. 400만 실리콘밸리 인터뷰 콘텐츠를 만드는데 도움을 준 책 | EO 태용
-**URL:** https://www.youtube.com/watch?v=TQ24VGwTECI    (
+**** https://www.youtube.com/watch?v=TQ24VGwTECI    (
 
 다음은 YouTube 영상의 자막 내용을 바탕으로 깊이 있는 학습 자료로 상세하게 재구성한 것입니다.
 
@@ -1962,7 +1962,7 @@ IF 2018은 기존의 딱딱하고 전문적인 스타트업 행사와 달리, �
 ---
 
 ## 840. 전교 꼴찌 출신 스탠포드 교수의 교육 이야기 | 스탠포드 교육대학원 부학장 폴킴 [리얼밸리 시즌 2 EP 03]
-**URL:** https://www.youtube.com/watch?v=2VGarthGzOM    (
+**** https://www.youtube.com/watch?v=2VGarthGzOM    (
 
 다음은 YouTube 영상의 자막 내용을 바탕으로 깊이 있는 학습 자료로 상세하게 재구성한 것입니다.
 
@@ -2072,7 +2072,7 @@ IF 2018은 기존의 딱딱하고 전문적인 스타트업 행사와 달리, �
 ---
 
 ## 841. 넷플릭스 영상이 사라진 이유
-**URL:** https://www.youtube.com/watch?v=kK5te1qvvk8    (
+**** https://www.youtube.com/watch?v=kK5te1qvvk8    (
 ---
 
 # 넷플릭스 문화 영상 재구성: 과거, 현재, 그리고 미래
@@ -2137,7 +2137,7 @@ IF 2018은 기존의 딱딱하고 전문적인 스타트업 행사와 달리, �
 ---
 
 ## 842. 실리콘밸리로 날아간 이베이 코리아 개발자들 | 이베이 개발자 강경구, 조유준 [리얼밸리 시즌 2 EP 02]
-**URL:** https://www.youtube.com/watch?v=pAIpmjc_z0w    (
+**** https://www.youtube.com/watch?v=pAIpmjc_z0w    (
 ---
 
 # 한국과 글로벌 개발 문화 비교 및 성장 전략
@@ -2254,7 +2254,7 @@ IF 2018은 기존의 딱딱하고 전문적인 스타트업 행사와 달리, �
 ---
 
 ## 843. 아마존 본사 엔지니어 방호남 | 아마존 엔지니어 방호남 [리얼밸리 시즌 2 EP 01]
-**URL:** https://www.youtube.com/watch?v=BJdpoh695D4    (
+**** https://www.youtube.com/watch?v=BJdpoh695D4    (
 
 다음은 YouTube 영상의 자막 내용을 바탕으로 깊이 있는 학습 자료로 재구성한 것입니다.
 
@@ -2354,7 +2354,7 @@ IF 2018은 기존의 딱딱하고 전문적인 스타트업 행사와 달리, �
 ---
 
 ## 844. [리얼밸리 시즌 2 시작] 내가 스타트업 영상을 만드는 이유 | EO 태용
-**URL:** https://www.youtube.com/watch?v=4JIgLNZPodQ    (
+**** https://www.youtube.com/watch?v=4JIgLNZPodQ    (
 ---
 
 # '리얼 밸리'를 통해 본 창업과 성공의 본질
@@ -2437,7 +2437,7 @@ IF 2018은 기존의 딱딱하고 전문적인 스타트업 행사와 달리, �
 ---
 
 ## 845. [EP15_노정석_2] 연쇄 창업가 노정석의 창업 이야기
-**URL:** https://www.youtube.com/watch?v=6TyCUeqTEkQ    (
+**** https://www.youtube.com/watch?v=6TyCUeqTEkQ    (
 ---
 
 # 스타트업 창업과 성장의 여정
@@ -2594,7 +2594,7 @@ Relab은 VR 시장의 잠재력을 믿고, 미래를 위한 기술 투자를 지
 ---
 
 ## 846. [EP14_남세동_2] 천재개발자 남세동의 인공지능(딥러닝) 이야기
-**URL:** https://www.youtube.com/watch?v=kMGEpIYPCiM    (
+**** https://www.youtube.com/watch?v=kMGEpIYPCiM    (
 
 다음은 YouTube 영상의 자막 내용을 깊이 있는 학습 자료로 상세하게 재구성한 것입니다.
 
@@ -2693,7 +2693,7 @@ Relab은 VR 시장의 잠재력을 믿고, 미래를 위한 기술 투자를 지
 ---
 
 ## 847. [EP13_알토스벤처스_한킴] 쿠팡, 배달의 민족 투자자 한킴의 투자 이야기
-**URL:** https://www.youtube.com/watch?v=0ejYC8wDbxo    (
+**** https://www.youtube.com/watch?v=0ejYC8wDbxo    (
 
 다음은 YouTube 영상의 자막 내용을 바탕으로 깊이 있는 학습 자료로 재구성한 것입니다.
 
@@ -2794,7 +2794,7 @@ Relab은 VR 시장의 잠재력을 믿고, 미래를 위한 기술 투자를 지
 ---
 
 ## 848. [EP12_토스_이승건_2] 토스가 유니콘이 될 수 있었던 이유
-**URL:** https://www.youtube.com/watch?v=82W9lBFT0-c    (
+**** https://www.youtube.com/watch?v=82W9lBFT0-c    (
 
 다음은 YouTube 영상의 자막 내용을 바탕으로 깊이 있는 학습 자료로 재구성한 것입니다.
 
@@ -2871,7 +2871,7 @@ Relab은 VR 시장의 잠재력을 믿고, 미래를 위한 기술 투자를 지
 ---
 
 ## 849. [EP11_토스_이승건_1] 1000만 명이 쓰는 간편 송금 앱 토스 창업부터 지금까지
-**URL:** https://www.youtube.com/watch?v=uPhHPO98M84    (
+**** https://www.youtube.com/watch?v=uPhHPO98M84    (
 ---
 
 # 초기 창업가의 성공 전략과 토스(Toss)의 여정
@@ -2967,7 +2967,7 @@ Relab은 VR 시장의 잠재력을 믿고, 미래를 위한 기술 투자를 지
 ---
 
 ## 850. [EP10_이노마드_박혜린] 세상에서 가장 작은 수력 발전기를 만드는 사람
-**URL:** https://www.youtube.com/watch?v=XsRFENXFYcs    (
+**** https://www.youtube.com/watch?v=XsRFENXFYcs    (
 
 다음은 YouTube 영상의 자막 내용을 바탕으로 깊이 있는 학습 자료로 상세하게 재구성한 것입니다.
 
@@ -3086,7 +3086,7 @@ Relab은 VR 시장의 잠재력을 믿고, 미래를 위한 기술 투자를 지
 ---
 
 ## 851. [EP09_럭스로보_오상훈] 스물여덟 로봇 덕후 오상훈이 1000억 회사를 만들기까지
-**URL:** https://www.youtube.com/watch?v=0oJJjA8aoQU    (
+**** https://www.youtube.com/watch?v=0oJJjA8aoQU    (
 ---
 
 # 어스로(Usro) 대표의 창업 스토리와 마이크로 OS 비전
@@ -3197,7 +3197,7 @@ Relab은 VR 시장의 잠재력을 믿고, 미래를 위한 기술 투자를 지
 ---
 
 ## 852. [EP08_블라인드_김성겸] 실리콘밸리 직장인들이 쓰는 한국산 어플
-**URL:** https://www.youtube.com/watch?v=bt-aPvNK0oU    (
+**** https://www.youtube.com/watch?v=bt-aPvNK0oU    (
 ---
 
 # 블라인드(Blind)의 성공 전략과 글로벌 확장: 직장인 익명 커뮤니케이션의 힘
@@ -3288,7 +3288,7 @@ Relab은 VR 시장의 잠재력을 믿고, 미래를 위한 기술 투자를 지
 ---
 
 ## 853. [EP05_신혜성] 크라우드펀딩 와디즈 대표 신혜성의 이야기
-**URL:** https://www.youtube.com/watch?v=9qUVni-JfQc    (
+**** https://www.youtube.com/watch?v=9qUVni-JfQc    (
 ---
 
 # 크라우드펀딩과 새로운 투자/소비 트렌드
@@ -3410,7 +3410,7 @@ Relab은 VR 시장의 잠재력을 믿고, 미래를 위한 기술 투자를 지
 ---
 
 ## 854. [EP07_이미나] 스타트업 PR 20년차 '꼬날'의 업무 노하우
-**URL:** https://www.youtube.com/watch?v=kmkGNXFTGTo    (
+**** https://www.youtube.com/watch?v=kmkGNXFTGTo    (
 
 다음은 YouTube 영상의 자막 내용을 바탕으로 깊이 있는 학습 자료로 재구성한 것입니다.
 
@@ -3544,7 +3544,7 @@ Relab은 VR 시장의 잠재력을 믿고, 미래를 위한 기술 투자를 지
 ---
 
 ## 855. [EP06_임지훈] 백수가 된 카카오 전 CEO가 대학생들에게
-**URL:** https://www.youtube.com/watch?v=Sdh_-bNwzWY    (
+**** https://www.youtube.com/watch?v=Sdh_-bNwzWY    (
 
 다음은 YouTube 영상의 자막 내용을 깊이 있는 학습 자료로 상세하게 재구성한 것입니다.
 
@@ -3669,7 +3669,7 @@ Relab은 VR 시장의 잠재력을 믿고, 미래를 위한 기술 투자를 지
 ---
 
 ## 856. 4차 산업혁명 시대에 사회적으로 해결해야 하는 과제
-**URL:** https://www.youtube.com/watch?v=KStf-67SVTY    (
+**** https://www.youtube.com/watch?v=KStf-67SVTY    (
 ---
 
 # 4차 산업혁명 시대, 창조적 사회로의 전환을 위한 심층 가이드
@@ -3813,7 +3813,7 @@ Relab은 VR 시장의 잠재력을 믿고, 미래를 위한 기술 투자를 지
 ---
 
 ## 857. 4차 산업혁명 시대에 필요한 능력과 기회
-**URL:** https://www.youtube.com/watch?v=r-5RStrYip4    (
+**** https://www.youtube.com/watch?v=r-5RStrYip4    (
 
 ## 1. 개요
 
@@ -3881,7 +3881,7 @@ Relab은 VR 시장의 잠재력을 믿고, 미래를 위한 기술 투자를 지
 ---
 
 ## 858. 4차 산업혁명 시대에 직장 생활, 일자리는 어떻게 바뀔까?
-**URL:** https://www.youtube.com/watch?v=XaHvvtavvHI    (
+**** https://www.youtube.com/watch?v=XaHvvtavvHI    (
 
 다음은 YouTube 영상의 자막 내용을 바탕으로 깊이 있는 학습 자료로 재구성한 것입니다.
 

@@ -122,7 +122,7 @@
 ---
 
 ## 784. 아마존에서 가장 오래 일한 한국인 박정준
-**URL:** https://www.youtube.com/watch?v=AhXP03kV36c    (
+**** https://www.youtube.com/watch?v=AhXP03kV36c    (
 ---
 
 # 아마존의 성장 비결과 혁신 문화: 12년 경험자의 통찰
@@ -196,7 +196,7 @@
 ---
 
 ## 785. 열정에 기름붓기 100만 구독 콘텐츠 제작 노하우 대공개
-**URL:** https://www.youtube.com/watch?v=YNT1GGL_Has    (
+**** https://www.youtube.com/watch?v=YNT1GGL_Has    (
 
 다음은 YouTube 영상의 자막 내용을 깊이 있는 학습 자료로 상세하게 재구성한 것입니다.
 
@@ -340,7 +340,7 @@
 ---
 
 ## 786. 한국형 웹툰 플랫폼이 미국에서 자리잡기까지 | 타파스미디어 대표 김창원 [리얼밸리 시즌2 EP 20]
-**URL:** https://www.youtube.com/watch?v=MOURGoqfMnM    (
+**** https://www.youtube.com/watch?v=MOURGoqfMnM    (
 
 다음은 YouTube 영상의 자막 내용을 깊이 있는 학습 자료로 상세하게 재구성한 것입니다.
 
@@ -448,7 +448,7 @@
 ---
 
 ## 787. 스타트업 콜버스가 전세버스 카풀 서비스를 규제 때문에 접기까지
-**URL:** https://www.youtube.com/watch?v=Fpb3Ej1rxgQ    (
+**** https://www.youtube.com/watch?v=Fpb3Ej1rxgQ    (
 
 # 콜버스 사례를 통해 본 스타트업 혁신과 규제의 역설
 
@@ -554,7 +554,7 @@
 ---
 
 ## 788. 해외 진출을 꿈꾸는 스타트업을 위한 최대 3000만 원 정부지원사업
-**URL:** https://www.youtube.com/watch?v=qVoWuYjerzM    (
+**** https://www.youtube.com/watch?v=qVoWuYjerzM    (
 
 # 스타트업 해외 진출 바우처 심층 분석
 
@@ -641,7 +641,7 @@
 ---
 
 ## 789. 행정고시를 합격했지만 실리콘밸리에서 창업한 이유 | 어웨어 부사장 백산 [리얼밸리 시즌2 EP 19]
-**URL:** https://www.youtube.com/watch?v=kyVks3NfzEs    (
+**** https://www.youtube.com/watch?v=kyVks3NfzEs    (
 
 ## 1. 개요
 이 학습 자료는 기획재정부 공무원에서 스타트업 전략 및 운영 총괄로 커리어를 전환한 한 개인의 깊이 있는 여정을 다룹니다. 연사는 안정적인 공직 생활에서 느꼈던 허무함과 좌절을 극복하고, 미국 MBA 유학, 다양한 인턴십, 그리고 얼리 스테이지 스타트업 합류에 이르기까지 겪었던 시행착오와 성장의 과정을 생생하게 공유합니다. 이 자료는 '남들이 좋다고 하는 것이 나에게도 좋은가?', '어떻게 나만의 길을 찾아갈 것인가?'라는 핵심 질문을 탐구하며, 커리어 전환을 고민하거나 새로운 도전을 앞둔 이들에게 실질적인 통찰과 용기를 제공하는 것을 목적으로 합니다. 대상 독자는 커리어 전환을 고려하는 직장인, 진로를 탐색하는 학생, 그리고 스타트업 생태계에 관심 있는 모든 이들이며, 특별한 사전 지식 없이도 이해할 수 있도록 구성되었습니다.
@@ -705,7 +705,7 @@
 ---
 
 ## 790. 영어 첨삭 플랫폼으로 실리콘밸리에서 살아남기 | 에디캣 대표 김민규 [리얼밸리 시즌2 EP 18]
-**URL:** https://www.youtube.com/watch?v=_DCSvDJ5sa4    (
+**** https://www.youtube.com/watch?v=_DCSvDJ5sa4    (
 ---
 
 # 실리콘밸리 스타트업 도전기 - 에티켓(Ettiquette) 김민규 CEO
@@ -790,7 +790,7 @@
 ---
 
 ## 791. 누적투자 2000억, 세계 1위 채팅 솔루션 기업 센드버드 창업기 | 센드버드 대표 김동신 [리얼밸리 시즌2 EP 17]
-**URL:** https://www.youtube.com/watch?v=CjJUJheMLVA    (
+**** https://www.youtube.com/watch?v=CjJUJheMLVA    (
 
 다음은 YouTube 영상의 자막 내용을 깊이 있는 학습 자료로 상세하게 재구성한 것입니다.
 
@@ -883,7 +883,7 @@
 ---
 
 ## 792. 아프리카TV 창업자였던 정보화진흥원장 문용식이 말하는 디지털 혁신의 현재와 미래
-**URL:** https://www.youtube.com/watch?v=6HnHQqTn0Ps    (
+**** https://www.youtube.com/watch?v=6HnHQqTn0Ps    (
 
 다음은 YouTube 영상의 자막 내용을 깊이 있는 학습 자료로 상세하게 재구성한 것입니다.
 
@@ -971,7 +971,7 @@
 ---
 
 ## 793. SNS 100만 구독 열정에 기름붓기의 6년 생존기
-**URL:** https://www.youtube.com/watch?v=s0pPiIZKHVw    (
+**** https://www.youtube.com/watch?v=s0pPiIZKHVw    (
 
 다음은 YouTube 영상 자막을 바탕으로 재구성한 상세 학습 자료입니다.
 
@@ -1086,7 +1086,7 @@
 ---
 
 ## 794. 왓챠가 넷플릭스와 경쟁할 수 있는 건 데이터에 미쳤기 때문이다 (ENG/JPN SUB)
-**URL:** https://www.youtube.com/watch?v=jT-LJidbG5U    (
+**** https://www.youtube.com/watch?v=jT-LJidbG5U    (
 ---
 
 # 와챠(Watcha)의 데이터 기반 콘텐츠 혁신 전략
@@ -1153,7 +1153,7 @@
 ---
 
 ## 795. [재도전 문화 확산 프로젝트 EP07] 삼분의일 매트리스 창업기
-**URL:** https://www.youtube.com/watch?v=lyyWOdMyc_Y    (
+**** https://www.youtube.com/watch?v=lyyWOdMyc_Y    (
 
 다음은 YouTube 영상의 자막 내용을 깊이 있는 학습 자료로 상세하게 재구성한 것입니다.
 
@@ -1277,7 +1277,7 @@
 ---
 
 ## 796. 어벤저스 CG를 만드는 회사에 엔지니어로 취업하기까지 | ILM R&D엔지니어 장유진 [리얼밸리 시즌2 EP 16]
-**URL:** https://www.youtube.com/watch?v=B2M9MpAD6mg    (
+**** https://www.youtube.com/watch?v=B2M9MpAD6mg    (
 
 다음은 YouTube 영상의 자막 내용을 깊이 있는 학습 자료로 상세하게 재구성한 것입니다.
 
@@ -1402,7 +1402,7 @@
 ---
 
 ## 797. 인공지능 비서를 만드는 코노랩스의 글로벌 창업기
-**URL:** https://www.youtube.com/watch?v=2OR7ckKuNNs    (
+**** https://www.youtube.com/watch?v=2OR7ckKuNNs    (
 ---
 
 # 인공지능, 산업이 아닌 전기가 되다
@@ -1494,7 +1494,7 @@
 ---
 
 ## 798. [재도전 문화 확산 프로젝트 EP06] 5년 간의 실패 후 모바일 식권 1위 기업 식권대장을 창업하기까지
-**URL:** https://www.youtube.com/watch?v=DuxCh-S-wRU    (
+**** https://www.youtube.com/watch?v=DuxCh-S-wRU    (
 ---
 
 # 실패를 통한 성장, 식권대장 창업 스토리
@@ -1565,7 +1565,7 @@
 ---
 
 ## 799. 혁신적인 스타트업 생태계를 만들기 위해 필요한 것
-**URL:** https://www.youtube.com/watch?v=lAU6if5tofw    (
+**** https://www.youtube.com/watch?v=lAU6if5tofw    (
 
 다음은 YouTube 영상의 자막 내용을 바탕으로 깊이 있는 학습 자료로 재구성한 것입니다.
 
@@ -1673,7 +1673,7 @@
 ---
 
 ## 800. [재도전 문화 확산 프로젝트 EP05] 헤이조이스 CEO 이나리가 리더가 되고 싶은 여성들에게
-**URL:** https://www.youtube.com/watch?v=HJ38uLfFEIY    (
+**** https://www.youtube.com/watch?v=HJ38uLfFEIY    (
 ---
 
 # 여성의 커리어와 자아실현: 사회적 기대와 용기 있는 선택
@@ -1778,7 +1778,7 @@
 ---
 
 ## 801. 미래에는 우리 모두 농부가 된다
-**URL:** https://www.youtube.com/watch?v=63-LvHmy0X8    (
+**** https://www.youtube.com/watch?v=63-LvHmy0X8    (
 ---
 
 # 모두가 농부가 되는 세상, 스마트팜의 현재와 미래
@@ -1859,7 +1859,7 @@
 ---
 
 ## 802. 디즈니 겨울왕국 VFX 아티스트에서 게임 제작자로 | TGC 게임제작자 유재현 [리얼밸리 시즌2 EP 15]
-**URL:** https://www.youtube.com/watch?v=e9iydsPopj4    (
+**** https://www.youtube.com/watch?v=e9iydsPopj4    (
 ---
 
 # 창작자의 코딩 여정 - 통제와 감성적 소통을 향한 탐구
@@ -1923,7 +1923,7 @@
 ---
 
 ## 803. [재도전 문화 확산 프로젝트 EP04] 산타토익 창업자가 말하는 공동 창업할 때 주의할 점
-**URL:** https://www.youtube.com/watch?v=-C_wt58EwK8    (
+**** https://www.youtube.com/watch?v=-C_wt58EwK8    (
 
 다음은 YouTube 영상의 자막 내용을 바탕으로 깊이 있는 학습 자료로 재구성한 것입니다.
 
@@ -2080,7 +2080,7 @@
 ---
 
 ## 804. 실리콘밸리에서 일하며 아이를 키운다는 것 | 바이오테크회사 경영진 비서 김혜진 [리얼밸리 시즌2 EP 14]
-**URL:** https://www.youtube.com/watch?v=XCArzakM3to    (
+**** https://www.youtube.com/watch?v=XCArzakM3to    (
 
 다음은 YouTube 영상의 자막 내용을 바탕으로 깊이 있는 학습 자료로 재구성한 것입니다.
 
@@ -2152,7 +2152,7 @@
 ---
 
 ## 805. 우버 엔지니어가 말하는 실리콘밸리 개발자의 삶 | 우버 엔지니어 강태훈 [리얼밸리 시즌2 EP 13]
-**URL:** https://www.youtube.com/watch?v=anua-taEpvY    (
+**** https://www.youtube.com/watch?v=anua-taEpvY    (
 ---
 
 # 한국 개발자의 실리콘밸리 도전과 혁신
@@ -2237,7 +2237,7 @@
 ---
 
 ## 806. 인공지능을 만드는 고등학생 개발자 김윤기
-**URL:** https://www.youtube.com/watch?v=8kVJdV7qmNc    (
+**** https://www.youtube.com/watch?v=8kVJdV7qmNc    (
 
 ## 1. 개요
 
@@ -2346,7 +2346,7 @@ AI는 완벽하지 않으며, 특히 생명과 직결될 수 있는 보조 시�
 ---
 
 ## 807. 틴더 CEO와 함께하는 호텔 파티에 초대합니다
-**URL:** https://www.youtube.com/watch?v=ogM4TmJp_VU    (
+**** https://www.youtube.com/watch?v=ogM4TmJp_VU    (
 ---
 
 # 팀더(Tinder) CEO 한국 방문과 새로운 네트워킹의 기회
@@ -2418,7 +2418,7 @@ AI는 완벽하지 않으며, 특히 생명과 직결될 수 있는 보조 시�
 ---
 
 ## 808. 사회 혁신가들을 위한 데뷔무대 The Debut 더 데뷰를 소개합니다.
-**URL:** https://www.youtube.com/watch?v=zO0UD1LjB2U    (
+**** https://www.youtube.com/watch?v=zO0UD1LjB2U    (
 ---
 
 # 사회적 혁신과 창업 생태계의 재정의
@@ -2493,7 +2493,7 @@ AI는 완벽하지 않으며, 특히 생명과 직결될 수 있는 보조 시�
 ---
 
 ## 809. 렌딧 김성준 대표가 스탠포드 창업 교육과 사업 실패를 통해 배운 것들
-**URL:** https://www.youtube.com/watch?v=cL9W75uMFDE    (
+**** https://www.youtube.com/watch?v=cL9W75uMFDE    (
 ---
 
 # 문제 공감에서 시작하는 연쇄 창업가의 여정
@@ -2651,7 +2651,7 @@ AI는 완벽하지 않으며, 특히 생명과 직결될 수 있는 보조 시�
 ---
 
 ## 810. 기업가치 1조 원 유니콘 스타트업 토스의 규제 혁신 이야기
-**URL:** https://www.youtube.com/watch?v=rmZ-NUmqM30    (
+**** https://www.youtube.com/watch?v=rmZ-NUmqM30    (
 
 다음은 YouTube 영상의 자막 내용을 깊이 있는 학습 자료로 상세하게 재구성한 것입니다.
 
@@ -2792,7 +2792,7 @@ AI는 완벽하지 않으며, 특히 생명과 직결될 수 있는 보조 시�
 ---
 
 ## 811. 총 상금 7억 원의 대박 공모전 위워크 크리에이터 어워즈
-**URL:** https://www.youtube.com/watch?v=CU6dRdK-pew    (
+**** https://www.youtube.com/watch?v=CU6dRdK-pew    (
 ---
 
 # 위워크 크리에이터 어워즈 심층 분석
@@ -2952,7 +2952,7 @@ DDP는 서울의 대표적인 디자인 및 문화 복합 공간으로, 혁신�
 ---
 
 ## 812. [재도전 문화 확산 프로젝트 EP02] 두 번 사업 실패 후 생리컵으로 CES 혁신상을 받기까지
-**URL:** https://www.youtube.com/watch?v=cKtN0RDoU2M    (
+**** https://www.youtube.com/watch?v=cKtN0RDoU2M    (
 
 # 스마트 생리컵 '눈랩' 창업 여정
 
@@ -3056,7 +3056,7 @@ DDP는 서울의 대표적인 디자인 및 문화 복합 공간으로, 혁신�
 ---
 
 ## 813. [재도전 문화 확산 프로젝트 EP01] 100억 원의 빚, 집닥 박성민의 재창업기
-**URL:** https://www.youtube.com/watch?v=aemaP14WFQU    (
+**** https://www.youtube.com/watch?v=aemaP14WFQU    (
 ---
 
 # 실패를 넘어선 창업가의 여정 – 박성민 대표의 '집닥' 이야기
@@ -3140,7 +3140,7 @@ DDP는 서울의 대표적인 디자인 및 문화 복합 공간으로, 혁신�
 ---
 
 ## 814. 12월 29일 게임나잇 Press Start 공지
-**URL:** https://www.youtube.com/watch?v=Nm1BABVJjM4    (
+**** https://www.youtube.com/watch?v=Nm1BABVJjM4    (
 ---
 
 # 게임 라이프스타일 나이트 (Game Life Style Night)
@@ -3223,7 +3223,7 @@ DDP는 서울의 대표적인 디자인 및 문화 복합 공간으로, 혁신�
 ---
 
 ## 815. 키네마스터 개발자의 모바일 모션그래픽 어플 창업기
-**URL:** https://www.youtube.com/watch?v=vEkOb4vxfVc    (
+**** https://www.youtube.com/watch?v=vEkOb4vxfVc    (
 ---
 
 # 모바일 영상 편집 스타트업 'Alike Creative'의 비전과 전략
@@ -3331,7 +3331,7 @@ Alike Creative는 현재의 Alike Motion을 넘어, 미래에는 더욱 혁신�
 ---
 
 ## 816. 500만원으로 실리콘밸리에서 창업하기 | 파운틴 대표 류기백 [리얼밸리 시즌 2 EP 12]
-**URL:** https://www.youtube.com/watch?v=SuOlb0zSmWY    (
+**** https://www.youtube.com/watch?v=SuOlb0zSmWY    (
 ---
 
 # 실리콘밸리 스타트업 창업가의 도전과 통찰
@@ -3424,7 +3424,7 @@ Alike Creative는 현재의 Alike Motion을 넘어, 미래에는 더욱 혁신�
 ---
 
 ## 817. 넷플릭스 싱가폴 행사 후기 (킹덤 먼저 보고 옴)
-**URL:** https://www.youtube.com/watch?v=Ut5s1JpmrHA    (
+**** https://www.youtube.com/watch?v=Ut5s1JpmrHA    (
 ---
 
 # 넷플릭스 아시아 콘텐츠 전략과 비즈니스 인사이트
@@ -3532,7 +3532,7 @@ lee [음악] 으 5 으 으 전 지금 심각 섭외 1 마리나베이 트리즈 
 ---
 
 ## 818. 미미박스, 망고플레이트 투자자 김유진의 투자 철학
-**URL:** https://www.youtube.com/watch?v=inGCsPgEeyo    (
+**** https://www.youtube.com/watch?v=inGCsPgEeyo    (
 
 다음은 제공된 YouTube 자막 내용을 바탕으로 재구성한 상세 학습 자료입니다.
 
@@ -3595,7 +3595,7 @@ lee [음악] 으 5 으 으 전 지금 심각 섭외 1 마리나베이 트리즈 
 ---
 
 ## 819. 실패를 통해 배운 비즈니스 모델의 중요성
-**URL:** https://www.youtube.com/watch?v=SGrSOMLHGUE    (
+**** https://www.youtube.com/watch?v=SGrSOMLHGUE    (
 
 다음은 YouTube 영상의 자막 내용을 깊이 있는 학습 자료로 상세하게 재구성한 것입니다.
 
@@ -3712,5 +3712,5 @@ lee [음악] 으 5 으 으 전 지금 심각 섭외 1 마리나베이 트리즈 
 ---
 
 ## 820. 10년 뒤에도 블록체인은 떡상하고 있을까 | 샌프란시스코 대학 부교수 정은진 [리얼밸리 시즌2 EP 11]
-**URL:** https://www.youtube.com/watch?v=hOdFmCeh_B4    (
+**** https://www.youtube.com/watch?v=hOdFmCeh_B4    (
 ---

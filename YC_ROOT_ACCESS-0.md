@@ -1,7 +1,7 @@
 # ycrootaccess
 
 ## RevenueCat: Powering Subscriptions for the App Economy
-**URL:** https://www.youtube.com/watch?v=gz4AKzSBwTk
+**** https://www.youtube.com/watch?v=gz4AKzSBwTk
 
 # **RevenueCat 창업기: 고통에서 기회를 찾아 1조 기업으로**
 
@@ -180,7 +180,7 @@ RevenueCat은 코로나19 이전부터 베이 에어리어의 치열한 인재 �
 3.  **고객과 대화하기**: 당신의 제품/서비스를 사용하는 고객(혹은 잠재 고객) 1명에게 연락하여, 어떤 점이 좋고 어떤 점이 불편한지 직접 물어보세요. Jacob처럼 "언제든 미팅 요청을 수락한다"는 자세를 실천해보는 것입니다.
 
 ## Alex: Your AI Recruiting Partner
-**URL:** https://www.youtube.com/watch?v=3FJV-Gmrpa8
+**** https://www.youtube.com/watch?v=3FJV-Gmrpa8
 
 ## 1. 개요
 
@@ -355,7 +355,7 @@ Alex는 최근 1,700만 달러(약 230억 원) 규모의 시리즈 A 투자를 �
 - **미래 역할 상상하기:** 자신의 직무에서 AI에 의해 자동화될 수 있는 부분과, 반대로 인간의 고유한 강점이 더 중요해질 부분을 구분하여 5년 후 자신의 역할 변화를 예측해보기.
 
 ## Juicebox: AI Agents for the Hiring Process
-**URL:** https://www.youtube.com/watch?v=Tm5NbHUblkA
+**** https://www.youtube.com/watch?v=Tm5NbHUblkA
 
 # Juicebox 성공 사례 분석
 
@@ -548,7 +548,7 @@ Juicebox의 제품 로드맵은 채용 담당자의 워크플로우를 면밀히
 | 용어 (영문)
 
 ## Greptile: AI That Actually Understands Codebases
-**URL:** https://www.youtube.com/watch?v=vRt4ng9V9qA
+**** https://www.youtube.com/watch?v=vRt4ng9V9qA
 
 # Grapile - AI 기반 코드 리뷰 및 코드베이스 이해
 
@@ -649,7 +649,7 @@ Juicebox의 제품 로드맵은 채용 담당자의 워크플로우를 면밀히
 *   **주의사항:** 무료 체험은 제품의 가치를 직접 경험하게 하여 유료 전환을 유도하는 효과적인 전략
 
 ## Numeral: Building the Global Tax Platform
-**URL:** https://www.youtube.com/watch?v=5jHWBQqiylo
+**** https://www.youtube.com/watch?v=5jHWBQqiylo
 
 # Numeral 창업 스토리와 Sales Tax Compliance
 
@@ -873,7 +873,7 @@ Sam은 20대 초반의 자신에게 어떤 조언을 해줄 것인지에 대한 
 ## 4. 용어 해설 (Gloss
 
 ## Recall.ai: Unlocking the World’s Conversations
-**URL:** https://www.youtube.com/watch?v=IGXKIL57uwc
+**** https://www.youtube.com/watch?v=IGXKIL57uwc
 
 # Recall.ai 창업 스토리 및 AI 인프라의 미래
 
@@ -992,7 +992,7 @@ Recall.ai는 30명 미만의 팀으로 높은 성과를 내는 비결로 `very s
 ## 4. 용어 해
 
 ## Motion: Redefining How Work Gets Done
-**URL:** https://www.youtube.com/watch?v=wbeHAVonbmw
+**** https://www.youtube.com/watch?v=wbeHAVonbmw
 
 # Motion의 성공 스토리와 AI 에이전트 전략
 
@@ -1076,7 +1076,7 @@ Recall.ai는 30명 미만의 팀으로 높은 성과를 내는 비결로 `very s
 *   **주의사항:** 이러한 인재상은 높은
 
 ## Exa: Organizing the World’s Knowledge
-**URL:** https://www.youtube.com/watch?v=9ZQP7PfHnuI
+**** https://www.youtube.com/watch?v=9ZQP7PfHnuI
 
 # # Exa.ai의 AI 네이티브 검색 엔진 혁신
 
@@ -1195,7 +1195,7 @@ Recall.ai는 30명 미만의 팀으로 높은 성과를 내는 비결로 `very s
 *   **주의사항:** "경쟁자 불신"은 무관심이 아니라, 경쟁자의 움직임에 과도하게 반응하기
 
 ## HappyRobot: Automating the Work That Moves the World
-**URL:** https://www.youtube.com/watch?v=W_UgM6iT7Do
+**** https://www.youtube.com/watch?v=W_UgM6iT7Do
 
 # Happy Robot: AI 에이전트를 통한 실세계 운영의 디지털 전환 심층 학습 자료
 
@@ -1331,7 +1331,7 @@ Happy Robot은 초기에는 화물 중개인이라는 특정 수직 시장에 �
 *   **주의사항:** 빠른 확장은 새로운 도전과 복잡성을 수반합니다. 각 산업의 고유한 요구사항을 이해하고, 확장 가능한 기술 아키텍처와
 
 ## Advanced Context Engineering for Agents
-**URL:** https://www.youtube.com/watch?v=IS_y40zY-hc
+**** https://www.youtube.com/watch?v=IS_y40zY-hc
 
 # YouTube 자막 기반 학습 자료: 고급 컨텍스트 엔지니어링 (Advanced Context Engineering)
 
@@ -1431,7 +1431,7 @@ LLM의 컨텍스트 창은 제한된 자원이므로, 이를 어떻게 효율적
 | 용어 (한글)
 
 ## Using LongMemEval to Improve Agent Memory
-**URL:** https://www.youtube.com/watch?v=FTokJt1ioeg
+**** https://www.youtube.com/watch?v=FTokJt1ioeg
 
 # AI 에이전트 메모리 최적화 전략
 
@@ -1548,7 +1548,7 @@ Mastra는 `Long Mem Eval` 벤치마크에서 초기 67%의 결과에 만족하�
 *   **데이터 분석의 중요성:** 데이터를 면밀히 분석하면 예상치 못한 버그나 개선점을
 
 ## Context Engineering for Engineers
-**URL:** https://www.youtube.com/watch?v=3jN77Aw7Utk
+**** https://www.youtube.com/watch?v=3jN77Aw7Utk
 
 # 컨텍스트 엔지니어링 (Context Engineering)
 
@@ -1667,7 +1667,7 @@ Mastra는 `Long Mem Eval` 벤치마크에서 초기 67%의 결과에 만족하�
 *   **주의사항:** 에이전트 학습을 위한 컨텍스트 구성 시, 실패 사례를 통해 학습 기회를 제공하고, 성공 사례는 신
 
 ## Context Engineering: Lessons Learned from Scaling CoCounsel
-**URL:** https://www.youtube.com/watch?v=sLFv3RSj_d8
+**** https://www.youtube.com/watch?v=sLFv3RSj_d8
 
 # # AI 제품 개발을 위한 프롬프트 엔지니어링 전략
 
@@ -1792,7 +1792,7 @@ AI 애플리케이션, 특히 LLM 기반 제품을 개발할 때 Co-Counsel 팀�
 | 용어 (영문)
 
 ## Salient: The Fintech Startup Processing $1B+ in Loans with AI
-**URL:** https://www.youtube.com/watch?v=LX_wvUMxVsk
+**** https://www.youtube.com/watch?v=LX_wvUMxVsk
 
 # Salient의 AI 대출 서비스 혁신과 성장 전략
 
@@ -1886,7 +1886,7 @@ AI 애플리케이션, 특히 LLM 기반 제품을 개발할 때 Co-Counsel 팀�
 | 용어 (
 
 ## How Diode Is 10x-ing Hardware Design
-**URL:** https://www.youtube.com/watch?v=ryHJuYzUejs
+**** https://www.youtube.com/watch?v=ryHJuYzUejs
 
 ## 1. 개요
 
@@ -1964,7 +1964,7 @@ AI 애플리케이션, 특히 LLM 기반 제품을 개발할 때 Co-Counsel 팀�
 *   **주의사항:** 하드웨어 산업은 항공우주, 의료 기기 등 보수적인 분야가 많으므로, 새로운 기술을
 
 ## The Startup Powering Billions In Trades Every Day
-**URL:** https://www.youtube.com/watch?v=AmXE9Gsuw_Q
+**** https://www.youtube.com/watch?v=AmXE9Gsuw_Q
 
 # One Kronos와 조합 경매의 혁신
 
@@ -2125,7 +2125,7 @@ One Kronos의 궁극적인 사명은 '거래 매칭의 한계 비용을 0으로 
 *   **심화 설명:** One Kronos는 자신들이 해결한 수많은 '하위 문제(sub-problems)' 외에도 여전히 많은 문제들이 남아있으며, 다른 혁
 
 ## Infisical: The Open Source Security Stack
-**URL:** https://www.youtube.com/watch?v=qDumDlXcMkg
+**** https://www.youtube.com/watch?v=qDumDlXcMkg
 
 # Infisical: 오픈소스 시크릿 관리 플랫폼 심층 분석
 
@@ -2265,7 +2265,7 @@ Infisical은 빠르게 성장하는 회사로서 다양한 분야에서 인재�
 *   **주의사항:** 빠르게 성장하는 스타트업은 변화에 유연하게 대응하고, 다양한 역할을 수행할 수 있는 인재
 
 ## David AI: Powering the Voice Era of AI
-**URL:** https://www.youtube.com/watch?v=q8TOaXBzcJw
+**** https://www.youtube.com/watch?v=q8TOaXBzcJw
 
 # David AI 사례 분석
 
@@ -2347,7 +2347,7 @@ Infisical은 빠르게 성장하는 회사로서 다양한 분야에서 인재�
 *   **주의사항:** 급격한 성장을 위해서는 기술
 
 ## How Onebrief Is Fixing Military Planning With Software
-**URL:** https://www.youtube.com/watch?v=_-ARm9FTFAM
+**** https://www.youtube.com/watch?v=_-ARm9FTFAM
 
 # One Brief - 국방 기술 혁신의 최전선
 
@@ -2430,7 +2430,7 @@ Infisical은 빠르게 성장하는 회사로서 다양한 분야에서 인재�
 *   **궁극적인 목표:** 전 세계 동맹국의 대대부터 합동 참모본부에 이르기까지 모든 군사 참모 조직이 `One Brief`를 통해 운영되도록 하는 것입니다. 이는 값비싼 하드웨어 대신 소프트웨어의 확장성을 활용하여, 전 세계 군사 작전 결정의 거의
 
 ## Hightouch: Revolutionizing Personalized Marketing With The First Agentic Marketer
-**URL:** https://www.youtube.com/watch?v=Y4FUaVvBmzg
+**** https://www.youtube.com/watch?v=Y4FUaVvBmzg
 
 # Hightouch의 성공 스토리와 혁신 전략
 
@@ -2525,7 +2525,7 @@ Infisical은 빠르게 성장하는 회사로서 다양한 분야에서 인재�
 *   **예시/사례:** Hightouch는 빠르게 성장하고 있음에도 불구하고, "우리는 항상 실패하고 있다고 생각한다"고 말합니다. 이는 그들이 현재의 성공에 만족하지 않고, AI 의사결정(AI decisioning)과 같은 새로운 제품 영역에서 더 큰 목표를 달성하기 위해 끊임없이 노력하고 있음을 보여줍니다. 이러한 사고방식은 Hightouch가 지속적으로 혁신하고 시장
 
 ## Reducto: Making Human Data LLM-Ready With State-of-the-Art Accuracy
-**URL:** https://www.youtube.com/watch?v=QBC_cViA7j8
+**** https://www.youtube.com/watch?v=QBC_cViA7j8
 
 # Reducto: 복잡한 문서를 AI를 위한 구조화된 데이터로 전환하는 혁신
 
@@ -2620,7 +2620,7 @@ Reducto는 최근 Series A 투자를 유치하며 빠르게 성장하고 있으�
     *   **예시:** 첫 머신러닝 연구원이 수천 페이지의 문서를 직접 클릭하며 모델을 훈련시키는
 
 ## Fireside with Abigail Slater, Assistant Attorney General for the Antitrust Division, US DOJ
-**URL:** https://www.youtube.com/watch?v=Hk6A1WcJtPs
+**** https://www.youtube.com/watch?v=Hk6A1WcJtPs
 
 # 현대 반독점법 집행의 변화와 방향성
 
@@ -2721,7 +2721,7 @@ Reducto는 최근 Series A 투자를 유치하며 빠르게 성장하고 있으�
 ## 4. 용어 해설 (Glossary
 
 ## Founder Demo: David Gobaud, Founder & CEO of Freedom
-**URL:** https://www.youtube.com/watch?v=Nt6mWetw0ak
+**** https://www.youtube.com/watch?v=Nt6mWetw0ak
 
 # 오픈소스 AI의 중요성
 
@@ -2803,7 +2803,7 @@ AI는 이미 우리 삶의 모든 영역에 깊숙이 침투하고 있으며, �
 궁극적으로, 우리는 **오픈소스 AI를 지원하고, 보호하며, 자금을 지원해야 합니다.** 이는 단순히 기술 발전을 넘어, 자유와 민주주의라는 근본적인 가치를 수호하는 행위입니다. 강연자의 스타트업 'Freedom'이 추구하는 바와 같이, 오픈소스 및 로컬 AI를 통해 개인은 거대 기술 기업의 클라우드에서 벗어나 자신
 
 ## How Should Little Tech Approach D.C. and Brussels?
-**URL:** https://www.youtube.com/watch?v=Aw_qfill_fo
+**** https://www.youtube.com/watch?v=Aw_qfill_fo
 
 # 'Little Tech'과 정책 입안자 간의 소통 전략
 
@@ -2881,7 +2881,7 @@ AI는 이미 우리 삶의 모든 영역에 깊숙이 침투하고 있으며, �
 *   **주의사항:** 개발자들은 자신들이 무엇을 필요로 하는지, 그리고 '게이트키퍼' 기업들의 준수 솔루션에 문제가 없는지 EC에 적극적으로 알려야 합니다. DMA의 기술적 의무(상호운용
 
 ## US Senator Cory Booker
-**URL:** https://www.youtube.com/watch?v=A6tFPd4bclE
+**** https://www.youtube.com/watch?v=A6tFPd4bclE
 
 # YouTube 영상 학습 자료 재구성
 
@@ -2962,7 +2962,7 @@ AI는 이미 우리 삶의 모든 영역에 깊숙이 침투하고 있으며, �
 *   **주의사항:** 과학 연구와 교육에 대한 투자는 단기적인 성과를 넘어 장기적인 국가 경쟁력과 인류의 삶의 질 향상에 필수적입니다.
 
 ## Founder Demo: David Molot, Co-founder of hotglue
-**URL:** https://www.youtube.com/watch?v=UrdN6k1CZBc
+**** https://www.youtube.com/watch?v=UrdN6k1CZBc
 
 # 데이터 운용성(Data Operability)이 혁신과 경쟁에 미치는 영향
 
@@ -3065,7 +3065,7 @@ AI는 이미 우리 삶의 모든 영역에 깊숙이 침투하고 있으며, �
 | 용어
 
 ## Fireside with United States Senator Josh Hawley
-**URL:** https://www.youtube.com/watch?v=QcCPQSd36vQ
+**** https://www.youtube.com/watch?v=QcCPQSd36vQ
 
 # AI 정책, 경쟁, 그리고 미국의 미래
 
@@ -3160,7 +3160,7 @@ AI는 이미 우리 삶의 모든 영역에 깊숙이 침투하고 있으며, �
 *   **주의사항:** 유럽의 규제 모델
 
 ## Lightning Talk with Wharton's Leon Musolff
-**URL:** https://www.youtube.com/watch?v=F-Y4hDX4nmY
+**** https://www.youtube.com/watch?v=F-Y4hDX4nmY
 
 # 웹 검색 시장의 시장 지배력 원천 및 경쟁 정책 연구: 심층 학습 자료
 
@@ -3317,7 +3317,7 @@ Google의 높은 시장 점유율은 단일 요인이 아닌 여러 복합적인
     *   **원리:** 사용자는 기본 설정 변경을 통해 새로운 검색 엔진을 '경험'하고, 이 경험을 통해 품질에 대한 '오해'를 해소합니다. 그 후 '지연된 선택 화면'을 통해 '부주의'를 해결하고, 자신의 진정한 선호에 따라 '
 
 ## Fireside with Former FTC Chair Lina Khan
-**URL:** https://www.youtube.com/watch?v=2SbBE9sxyYE
+**** https://www.youtube.com/watch?v=2SbBE9sxyYE
 
 # 독점적 권력과 시장 경쟁: 레나 칸의 통찰
 
@@ -3430,7 +3430,7 @@ Google의 높은 시장 점유율은 단일 요인이 아닌 여러 복합적인
 *   **주의사항:** 소통은 일방적이어서는 안 되며, 정책 입안자들은 다양한 이해관계자들의 목소리를 균형 있게 듣고 반영
 
 ## Fireside with Epic Games Founder & CEO Tim Sweeney
-**URL:** https://www.youtube.com/watch?v=MhsjuJaGLK4
+**** https://www.youtube.com/watch?v=MhsjuJaGLK4
 
 # 에픽게임즈와 빅테크 독점의 싸움
 
@@ -3565,7 +3565,7 @@ Google의 높은 시장 점유율은 단일 요인이 아닌 여러 복합적인
 *   **주의사항:** 과징금이나 형사 처벌은 강력
 
 ## Fireside with Teresa Ribiera, EVP, European Commission for Clean, Just & Competitive Transition
-**URL:** https://www.youtube.com/watch?v=p3L5zATA_HY
+**** https://www.youtube.com/watch?v=p3L5zATA_HY
 
 # 디지털 시장법(DMA)과 미래 경쟁 정책
 
@@ -3647,7 +3647,7 @@ DMA와 같은 새로운 규제의 성공을 측정하고, 필요에 따라 정�
 *   **주의사항**: 부위원장은 "우리는 배우고 있다"고 강조하며, 아무도 미래가 어떻게 전개될지 정확히 알 수 없으므로, "겸손하고 투명하게 배우고 조정하여 개선해야 한다"고 말합니다. 이는 "
 
 ## Founder Demo: Matt Bolous, Head of Policy & Safety of Imbue
-**URL:** https://www.youtube.com/watch?v=JgFE5wrUL6A
+**** https://www.youtube.com/watch?v=JgFE5wrUL6A
 
 # AI 에이전트와 디지털 미래
 
@@ -3745,7 +3745,7 @@ AI 에이전트는 특정 목표를 달성하기 위해 자율적으로 행동�
 ## 4. 용어 해설 (
 
 ## Founder Demo: Trevor Mckendrick, Co-founder & CEO of Seis
-**URL:** https://www.youtube.com/watch?v=EJbhzlqgoYs
+**** https://www.youtube.com/watch?v=EJbhzlqgoYs
 
 # # Zelle 카르텔과 미국의 즉시 결제 시스템
 
@@ -3810,7 +3810,7 @@ Zelle은 미국 내에서 가장 널리 사용되는 P2P 결제 인프라로서,
 | 용어 (영문 원어)             | 한글 설명
 
 ## Are Techno Optimism and Populism Incompatible?
-**URL:** https://www.youtube.com/watch?v=dpHBSGS6W5c
+**** https://www.youtube.com/watch?v=dpHBSGS6W5c
 
 # 미국 기술 정책, 반독점, 포퓰리즘의 교차점
 
@@ -3885,7 +3885,7 @@ Zelle은 미국 내에서 가장 널리 사용되는 P2P 결제 인프라로서,
 *   **주의사항:** 세금 및 국방비 정책은 매우 민감한 사안이며, 다양한 이해
 
 ## Founder Demo: AJ Forsythe & Jordan Barnes of Coop
-**URL:** https://www.youtube.com/watch?v=ToTAnPW70Us
+**** https://www.youtube.com/watch?v=ToTAnPW70Us
 
 # AI 기반 분산형 식품 생산 시스템 'Coupe'
 

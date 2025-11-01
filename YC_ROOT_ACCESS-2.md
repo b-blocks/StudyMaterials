@@ -1,5 +1,5 @@
 ## YC Tech Talks: Climate Tech with Charge Robotics (S21), Wright Electric (W17) and Impossible Mining
-**URL:** https://www.youtube.com/watch?v=2OPhFqmdLQc
+**** https://www.youtube.com/watch?v=2OPhFqmdLQc
 
 # YouTube 테크 토크 및 피치: 미래 기술과 지속 가능성
 
@@ -123,7 +123,7 @@
 #### 예시/사례
 
 ## 
-**URL:** https://www.youtube.com/watch?v=2OPhFqmdLQc
+**** https://www.youtube.com/watch?v=2OPhFqmdLQc
 
 # 첨단 제조 및 탄소 포집 기술
 
@@ -231,7 +231,7 @@ Noya는 현재 첫 번째 빌드를 완료했으며, 기술 개발 및 상용화
 | 영
 
 ## YC Startup Talks: Understanding Equity with Jordan Gonen, CEO & Co-founder of Compound
-**URL:** https://www.youtube.com/watch?v=F2cuzkQ9kBA
+**** https://www.youtube.com/watch?v=F2cuzkQ9kBA
 
 ## 스타트업 주식 보상 완벽 이해
 
@@ -404,7 +404,7 @@ Noya는 현재 첫 번째 빌드를 완료했으며, 기술 개발 및 상용화
 | 용
 
 ## 
-**URL:** https://www.youtube.com/watch?v=F2cuzkQ9kBA
+**** https://www.youtube.com/watch?v=F2cuzkQ9kBA
 
 ## 주식 옵션 및 지분 관리 전략
 
@@ -514,7 +514,7 @@ Noya는 현재 첫 번째 빌드를 완료했으며, 기술 개발 및 상용화
     *   **기
 
 ## YC Startup Job Hunt Bootcamp, September 14, 2022
-**URL:** https://www.youtube.com/watch?v=Bw9XaB3aQm4
+**** https://www.youtube.com/watch?v=Bw9XaB3aQm4
 
 ## YC 잡 헌팅 부트캠프
 
@@ -585,7 +585,7 @@ Noya는 현재 첫 번째 빌드를 완료했으며, 기술 개발 및 상용화
     *   거절당하더라도 낙담하지 않고, 긍정적인 태도를 유지합니다.
 
 ## AMA with YC: Job Searching During an Economic Downturn (Event Summary)
-**URL:** https://www.youtube.com/watch?v=Ir62zhDol9c
+**** https://www.youtube.com/watch?v=Ir62zhDol9c
 
 # 경기 침체기 스타트업 취업 전략
 
@@ -692,7 +692,7 @@ YC 스타트업은 설립 시기에 따라 초기 단계(Seed Stage)와 성장 �
 *   **정보 부족:** 각 단계별 스타트업의 특징과 자신의 선호도를 명확히 파악하지 않고 지원하는 것은 시간 낭비로 이어질 수 있습니다. 충분한 정보 탐색과 자기 성찰이 필요합니다.
 
 # YC's Summer 2022 Startup Job Expo - Pitches from 30 YC founders & find your next startup
-**URL:** https://www.youtube.com/watch?v=JS_2EQsXkgY
+**** https://www.youtube.com/watch?v=JS_2EQsXkgY
 
 ## 1. 개요
 본 문서는 Y Combinator(YC) Summer 2022 Jobs Expo에서 발표된 30개 스타트업의 피칭 내용을 분석하여, 최신 기술 트렌드, 스타트업 생태계, 그리고 유망 직무에 대한 심층적인 학습 자료를 제공합니다. 이 행사는 YC가 투자한 유망 스타트업들이 잠재적 인재들에게 자신들의 비전, 기술, 비즈니스 기회, 그리고 채용 포지션을 소개하는 자리였습니다.
@@ -973,7 +973,7 @@ YC 스타트업은 설립 시기에 따라 초기 단계(Seed Stage)와 성장 �
 *   **특징:** 뉴욕 본사의 원격 팀,
 
 ## Lecture 20 - Later-stage Advice (Sam Altman)
-**URL:** https://www.youtube.com/watch?v=59ZQ-rf6iIc
+**** https://www.youtube.com/watch?v=59ZQ-rf6iIc
 
 ## 스타트업 스케일링 전략 (제품-시장 적합성 이후)
 
@@ -1143,7 +1143,7 @@ YC 스타트업은 설립 시기에 따라 초기 단계(Seed Stage)와 성장 �
 ### 4. 용어 해설 (Glossary
 
 ## 
-**URL:** https://www.youtube.com/watch?v=59ZQ-rf6iIc
+**** https://www.youtube.com/watch?v=59ZQ-rf6iIc
 
 # 스타트업 성공을 위한 실질적 조언
 
@@ -1266,7 +1266,7 @@ YC 스타트업은 설립 시기에 따라 초기 단계(Seed Stage)와 성장 �
 *   **주의사항:** 초기 자본이 필요한 경우, 10만~20만 달러 정도의 소액은 괜찮지만, 이상적으로는 아이디어가 작동하기 시작할 때까지 외부 자본 없이 버티는 것이 가장
 
 ## Lecture 19 - Sales and Marketing; How to Talk to Investors (Tyler Bosmeny; YC Partners)
-**URL:** https://www.youtube.com/watch?v=SHAh6WKBgiE
+**** https://www.youtube.com/watch?v=SHAh6WKBgiE
 
 # 초기 스타트업 세일즈 및 투자 유치 전략
 
@@ -1423,7 +1423,7 @@ YC 스타트업은 설립 시기에 따라 초기 단계(Seed Stage)와 성장 �
 | 용어 (영문)                 | 용어 (한글
 
 ## 
-**URL:** https://www.youtube.com/watch?v=SHAh6WKBgiE
+**** https://www.youtube.com/watch?v=SHAh6WKBgiE
 
 # 성공적인 투자 유치 피칭 전략
 
@@ -1554,7 +1554,7 @@ YC 스타트업은 설립 시기에 따라 초기 단계(Seed Stage)와 성장 �
 ## 4
 
 ## Lecture 18 - Legal and Accounting Basics for Startups (Kirsty Nathoo, Carolynn Levy)
-**URL:** https://www.youtube.com/watch?v=EHzvmyMJEK4
+**** https://www.youtube.com/watch?v=EHzvmyMJEK4
 
 # 스타트업 재무 및 법률 메커니즘: 성공적인 창업을 위한 필수 지식
 
@@ -1846,7 +1846,7 @@ YC 스타트업은 설립 시기에 따라 초기 단계(Seed Stage)와 성장 �
 | 용어 (영문 원어)             | 한글 설명
 
 ## 
-**URL:** https://www.youtube.com/watch?v=EHzvmyMJEK4
+**** https://www.youtube.com/watch?v=EHzvmyMJEK4
 
 # 스타트업 운영의 핵심 원칙
 
@@ -1962,7 +1962,7 @@ YC 스타트업은 설립 시기에 따라 초기 단계(Seed Stage)와 성장 �
 ## 4. 용
 
 ## Lecture 17 - How to Design Hardware Products (Hosain Rahman)
-**URL:** https://www.youtube.com/watch?v=F4K_qVlYQkg
+**** https://www.youtube.com/watch?v=F4K_qVlYQkg
 
 # Jawbone의 제품 개발 철학과 전략
 
@@ -2082,7 +2082,7 @@ Jawbone은 제품 개발의 가장 중요한 질문으로 **'Why(왜)'**를 강�
 ## 4. 용어 해설 (
 
 ## 
-**URL:** https://www.youtube.com/watch?v=F4K_qVlYQkg
+**** https://www.youtube.com/watch?v=F4K_qVlYQkg
 
 ## 1. 개요
 
@@ -2234,7 +2234,7 @@ Jawbone은 중국 시장의 중요성을 인지하고 있었으며, Apple Store�
 사용자의 감성 상태와 개인 데이터를 활용하는 것은 강력한 잠재력을 가지지만, 동시에 프라이버시 보호 및 데이터 윤리에 대한 깊
 
 ## Lecture 16 - How to Run a User Interview (Emmett Shear)
-**URL:** https://www.youtube.com/watch?v=qAws7eXItMk
+**** https://www.youtube.com/watch?v=qAws7eXItMk
 
 ## 1. 개요
 이 학습 자료는 Twitch의 CEO인 Emmett Shear의 강연을 바탕으로, 스타트업이 성공적인 제품을 만들기 위해 사용자 인터뷰를 어떻게 효과적으로 수행해야 하는지에 대한 심층적인 통찰을 제공합니다. 영상은 초기 스타트업의 실패 사례와 성공 사례를 비교하며, 사용자 인터뷰의 중요성, 올바른 대상 선정, 그리고 인터뷰 과정에서 피해야 할 함정들을 구체적인 예시와 함께 설명합니다. 이 자료는 제품 개발자, 스타트업 창업가, UX/UI 디자이너, 그리고 사용자 중심의 사고방식을 배우고자 하는 모든 이들을 대상으로 하며, 사용자 경험에 대한 기본적인 이해가 있는 독자에게 가장 유용할 것입니다.
@@ -2345,7 +2345,7 @@ Twitch는 세 가지 주요 사용자 그룹으로부터 피드백을 수집하�
 *   **심화 설명:** 사용자 인터뷰는 종종 `애정하는 기능`에 대한 `부정적인 소식`을 가져다줄 수 있습니다. 하지만 이는 4개월 후에 아무도 사용하지 않을 기능을 만드는 것보다 훨씬
 
 ## 
-**URL:** https://www.youtube.com/watch?v=qAws7eXItMk
+**** https://www.youtube.com/watch?v=qAws7eXItMk
 
 ## 1. 개요
 
@@ -2435,7 +2435,7 @@ Twitch는 세 가지 주요 사용자 그룹으로부터 피드백을 수집하�
 *   **주의사항:** 피드백을 제공할 때 너무 간결하게 핵심만 말하려고 하기보다는, 자신의 생각과 경험을 '
 
 ## Lecture 15 - How to Manage (Ben Horowitz)
-**URL:** https://www.youtube.com/watch?v=uVhTvQXfibU
+**** https://www.youtube.com/watch?v=uVhTvQXfibU
 
 # 다각적 관점의 의사결정 – CEO의 가장 중요한 역량
 
@@ -2555,7 +2555,7 @@ Twitch는 세 가지 주요 사용자 그룹으로부터 피드백을 수집하�
     *   **통제 가능한 것에 집중:** 발생한 일에 연연하기보다, 자신이 할 수 있는 일에 집중하는 것이 중요합니다
 
 ## 
-**URL:** https://www.youtube.com/watch?v=uVhTvQXfibU
+**** https://www.youtube.com/watch?v=uVhTvQXfibU
 
 # 위기 속 리더십과 조직 문화 구축
 
@@ -2614,7 +2614,7 @@ Twitch는 세 가지 주요 사용자 그룹으로부터 피드백을 수집하�
 *   **주의사항:** '멈춤'은 회피가 아니라, 더 나은 해결책을 찾기 위한 전략적 숙고의 시간이어
 
 ## Lecture 14 - How to Operate (Keith Rabois)
-**URL:** https://www.youtube.com/watch?v=6fQHLK1aIBs
+**** https://www.youtube.com/watch?v=6fQHLK1aIBs
 
 # 성공적인 회사 운영 전략
 
@@ -2768,7 +2768,7 @@ Twitch는 세 가지 주요 사용자 그룹으로부터 피드백을 수집하�
 | 용어
 
 ## 
-**URL:** https://www.youtube.com/watch?v=6fQHLK1aIBs
+**** https://www.youtube.com/watch?v=6fQHLK1aIBs
 
 # 성공적인 스타트업 문화, 리더십, 그리고 성장 전략
 
@@ -2865,7 +2865,7 @@ Twitch는 세 가지 주요 사용자 그룹으로부터 피드백을 수집하�
     *   **주의사항:** VC의
 
 ## Lecture 13 - How to be a Great Founder (Reid Hoffman)
-**URL:** https://www.youtube.com/watch?v=dQ7ZvO5DpIw
+**** https://www.youtube.com/watch?v=dQ7ZvO5DpIw
 
 # 위대한 창업가의 조건
 
@@ -2981,7 +2981,7 @@ Twitch는 세 가지 주요 사용자 그룹으로부터 피드백을 수집하�
 ## 4
 
 ## 
-**URL:** https://www.youtube.com/watch?v=dQ7ZvO5DpIw
+**** https://www.youtube.com/watch?v=dQ7ZvO5DpIw
 
 # 성공적인 스타트업을 위한 통찰
 
@@ -3081,7 +3081,7 @@ Twitch는 세 가지 주요 사용자 그룹으로부터 피드백을 수집하�
 | 용어 (영문)
 
 ## Lecture 12 - Building for the Enterprise (Aaron Levie)
-**URL:** https://www.youtube.com/watch?v=tFVDjrvQJdw
+**** https://www.youtube.com/watch?v=tFVDjrvQJdw
 
 # 엔터프라이즈 소프트웨어 회사 구축하기
 
@@ -3153,7 +3153,7 @@ Twitch는 세 가지 주요 사용자 그룹으로부터 피드백을 수집하�
 ## 4. 용어
 
 ## 
-**URL:** https://www.youtube.com/watch?v=tFVDjrvQJdw
+**** https://www.youtube.com/watch?v=tFVDjrvQJdw
 
 # 성공적인 엔터프라이즈 소프트웨어 기업 구축 전략
 
@@ -3241,7 +3241,7 @@ Twitch는 세 가지 주요 사용자 그룹으로부터 피드백을 수집하�
 | 용어 (영문 원어)           | 한글 설명
 
 ## Lecture 11 - Hiring and Culture, Part 2 (Patrick and John Collison, Ben Silbermann)
-**URL:** https://www.youtube.com/watch?v=H8Dl8rZ6qwE
+**** https://www.youtube.com/watch?v=H8Dl8rZ6qwE
 
 # 문화와 팀 빌딩
 
@@ -3380,7 +3380,7 @@ Stripe의 초기 10명에게서 발견된 중요한 특성입니다.
 ##
 
 ## 
-**URL:** https://www.youtube.com/watch?v=H8Dl8rZ6qwE
+**** https://www.youtube.com/watch?v=H8Dl8rZ6qwE
 
 ## 1. 개요
 이 영상은 스타트업의 성장 과정에서 발생하는 조직 문화, 커뮤니케이션 방식, 인재 채용 및 리더십 개발에 대한 심층적인 논의를 담고 있습니다. 특히 정보 투명성이 가져오는 장점과 도전 과제, 그리고 회사가 성장함에 따라 이러한 요소들이 어떻게 변화하고 적응해야 하는지에 초점을 맞춥니다. 핵심 질문은 "어떻게 하면 효율적인 내부 소통을 유지하면서 조직을 확장하고, 동시에 인재를 효과적으로 육성하고 유치할 수 있는가?"입니다. 이 자료는 스타트업 창업가, 초기 멤버, 조직 문화 담당자, 그리고 성장하는 기업의 운영 방식에 관심 있는 모든 이들을 대상으로 하며, 기본적인 스타트업 및 조직 운영에 대한 이해를 전제로 합니다.
@@ -3448,7 +3448,7 @@ Stripe의 초기 10명에게서 발견된 중요한 특성입니다.
 ## 4. 용어 해설
 
 ## Lecture 10 - Culture (Brian Chesky, Alfred Lin)
-**URL:** https://www.youtube.com/watch?v=RfWgVWGEuGE
+**** https://www.youtube.com/watch?v=RfWgVWGEuGE
 
 # 성공적인 기업 문화 구축 전략
 
@@ -3585,7 +3585,7 @@ Stripe의 초기 10명에게서 발견된 중요한 특성입니다.
     *   **스
 
 ## 
-**URL:** https://www.youtube.com/watch?v=RfWgVWGEuGE
+**** https://www.youtube.com/watch?v=RfWgVWGEuGE
 
 # 성공적인 기업의 비전, 문화, 스케일링 전략
 
@@ -3664,7 +3664,7 @@ CEO는 기업의 방향성을 제시하고, 그 방향으로 나아가기 위한
 ## 4
 
 ## Lecture 9 - How to Raise Money (Marc Andreessen, Ron Conway, Parker Conrad)
-**URL:** https://www.youtube.com/watch?v=uFX95HahaUs
+**** https://www.youtube.com/watch?v=uFX95HahaUs
 
 # 벤처 투자 유치 전략
 
@@ -3776,7 +3776,7 @@ CEO는 기업의 방향성을 제시하고, 그 방향으로 나아가기 위한
 | 용어 (
 
 ## 
-**URL:** https://www.youtube.com/watch?v=uFX95HahaUs
+**** https://www.youtube.com/watch?v=uFX95HahaUs
 
 # 창업가와 투자자의 관계 이해
 
@@ -3832,7 +3832,7 @@ CEO는 기업의 방향성을 제시하고, 그 방향으로 나아가기 위한
 *   **주의사항:** 법적 조항이나 이사회 구성에만 매달리기보다는, 투자자와의 관계에서 신뢰를 구축하고 투명하게 소통하는 것이 훨씬
 
 ## Lecture 8 - How to Get Started, Doing Things that Don't Scale, Press
-**URL:** https://www.youtube.com/watch?v=oQOC-qy-GDY
+**** https://www.youtube.com/watch?v=oQOC-qy-GDY
 
 # 스타트업 성공 전략
 
@@ -3870,7 +3870,7 @@ CEO는 기업의 방향성을 제시하고, 그 방향으로 나아가기 위한
     *   **첫 주문과 직접 배달:** 첫 전화 주문(태국 음식)을 받고, 팀원들이 직접 팟타이를 픽업하여 배달했습니다. 이 과정에서 배달의
 
 ## 
-**URL:** https://www.youtube.com/watch?v=oQOC-qy-GDY
+**** https://www.youtube.com/watch?v=oQOC-qy-GDY
 
 # 스타트업을 위한 효과적인 언론 홍보(PR) 전략
 

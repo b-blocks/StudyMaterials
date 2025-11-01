@@ -108,7 +108,7 @@
 ---
 
 ## 412. 네팔 대지진에 드론을 날린 대학생
-**URL:** https://www.youtube.com/watch?v=adC53dq-VUA    (
+**** https://www.youtube.com/watch?v=adC53dq-VUA    (
 
 # 네팔 대지진에 드론을 날린 대학생
 
@@ -235,7 +235,7 @@
 ---
 
 ## 413. 3주 동안 대체 뭘 하셨나요? | 유니콘하우스 EP.7 1:1배틀 이너시아vs커버링
-**URL:** https://www.youtube.com/watch?v=iNev5EqEwKw    (
+**** https://www.youtube.com/watch?v=iNev5EqEwKw    (
 
 # 3주 동안 대체 뭘 하셨나요? | 유니콘하우스 EP.7 1:1배틀 이너시아vs커버링
 
@@ -394,7 +394,7 @@
 ---
 
 ## 414. 성공하고 싶어서 3년 동안 하루 18시간씩 개발했습니다
-**URL:** https://www.youtube.com/watch?v=auV5aBLvXMU    (
+**** https://www.youtube.com/watch?v=auV5aBLvXMU    (
 
 # 성공하고 싶어서 3년 동안 하루 18시간씩 개발했습니다
 
@@ -536,7 +536,7 @@ Y이론 기반의 자율적인 문화는 팀원들의 높은 책임감과 성숙
 ---
 
 ## 415. 옷에 진심인 회사들의 패션대첩 | 유니콘하우스 EP.6 1:1배틀 온더룩vs블랙탠저린
-**URL:** https://www.youtube.com/watch?v=KcECfC4U9QY    (
+**** https://www.youtube.com/watch?v=KcECfC4U9QY    (
 
 # 옷에 진심인 회사들의 패션대첩 | 유니콘하우스 EP.6 1:1배틀 온더룩vs블랙탠저린
 
@@ -653,7 +653,7 @@ Y이론 기반의 자율적인 문화는 팀원들의 높은 책임감과 성숙
 ---
 
 ## 416. 네카라쿠배 목표라면 유리한 전략은 이미 정해져있다? | 개발자 특집 3편
-**URL:** https://www.youtube.com/watch?v=cryp8dAbsOQ    (
+**** https://www.youtube.com/watch?v=cryp8dAbsOQ    (
 
 # 네카라쿠배 목표라면 유리한 전략은 이미 정해져있다? | 개발자 특집 3편
 
@@ -771,7 +771,7 @@ Y이론 기반의 자율적인 문화는 팀원들의 높은 책임감과 성숙
 ---
 
 ## 417. 반복되는 실패경험에 또 다른 기회를 드리고자 했어요
-**URL:** https://www.youtube.com/watch?v=KqCNkH21-kI    (
+**** https://www.youtube.com/watch?v=KqCNkH21-kI    (
 
 # 반복되는 실패경험에 또 다른 기회를 드리고자 했어요
 
@@ -890,7 +890,7 @@ AI 데이터 구축 과정은 복잡하고 전문적인 지식을 요구합니�
 ---
 
 ## 418. 심사위원이 알려준 생각지도 못한 성장방법 | 유니콘하우스 EP.5 1:1배틀 한달어스vs아루
-**URL:** https://www.youtube.com/watch?v=eaTKZ0ZjtlU    (
+**** https://www.youtube.com/watch?v=eaTKZ0ZjtlU    (
 
 # 심사위원이 알려준 생각지도 못한 성장방법 | 유니콘하우스 EP.5 1:1배틀 한달어스vs아루
 
@@ -1002,7 +1002,7 @@ AI 데이터 구축 과정은 복잡하고 전문적인 지식을 요구합니�
 ---
 
 ## 419. 라면 주는 PC방 처음 만들었지만 결국 망했죠ㅣ라이트브라더스 김희수 대표
-**URL:** https://www.youtube.com/watch?v=jReS6eBTETE    (
+**** https://www.youtube.com/watch?v=jReS6eBTETE    (
 
 # 라면 주는 PC방 처음 만들었지만 결국 망했죠ㅣ라이트브라더스 김희수 대표
 
@@ -1094,7 +1094,7 @@ AI 데이터 구축 과정은 복잡하고 전문적인 지식을 요구합니�
 ---
 
 ## 420. 한국에서 떠오르는 메타버스 스타트업의 사업 아이템
-**URL:** https://www.youtube.com/watch?v=ntzsOIy8biM    (
+**** https://www.youtube.com/watch?v=ntzsOIy8biM    (
 
 # 한국에서 떠오르는 메타버스 스타트업의 사업 아이템
 
@@ -1240,7 +1240,7 @@ AI 데이터 구축 과정은 복잡하고 전문적인 지식을 요구합니�
 ---
 
 ## 421. 누구나 공짜로 이용할 수 있는데 잘 모른다
-**URL:** https://www.youtube.com/watch?v=KUCwmFMXJJU    (
+**** https://www.youtube.com/watch?v=KUCwmFMXJJU    (
 
 # 누구나 공짜로 이용할 수 있는데 잘 모른다
 
@@ -1345,7 +1345,7 @@ AI 데이터 구축 과정은 복잡하고 전문적인 지식을 요구합니�
 ---
 
 ## 422. 전기차 구매 때 꼭 알아야 할 스타트업
-**URL:** https://www.youtube.com/watch?v=d_4kYDBwfzc    (
+**** https://www.youtube.com/watch?v=d_4kYDBwfzc    (
 
 # 전기차 구매 때 꼭 알아야 할 스타트업: 일렉베리 (Elecvery)
 
@@ -1449,7 +1449,7 @@ AI 데이터 구축 과정은 복잡하고 전문적인 지식을 요구합니�
 ---
 
 ## 423. 도둑에게 털리고 구상한 사업 아이템, 700억 투자받다
-**URL:** https://www.youtube.com/watch?v=GeSR4hmYB1M    (
+**** https://www.youtube.com/watch?v=GeSR4hmYB1M    (
 
 # 도둑에게 털리고 구상한 사업 아이템, 700억 투자받다
 
@@ -1536,7 +1536,7 @@ AI 데이터 구축 과정은 복잡하고 전문적인 지식을 요구합니�
 ---
 
 ## 424. 베테랑 개발자들이 인정한 필살 이력서 大공개 | 개발자 특집 2편
-**URL:** https://www.youtube.com/watch?v=fv5pIa_l7ns    (
+**** https://www.youtube.com/watch?v=fv5pIa_l7ns    (
 
 # 베테랑 개발자들이 인정한 필살 이력서 大공개 | 개발자 특집 2편
 
@@ -1648,7 +1648,7 @@ AI 데이터 구축 과정은 복잡하고 전문적인 지식을 요구합니�
 ---
 
 ## 425. 조끼에 ‘이걸’ 붙였더니 아이들이 좋아하더라고요
-**URL:** https://www.youtube.com/watch?v=kwe6VMJq79Q    (
+**** https://www.youtube.com/watch?v=kwe6VMJq79Q    (
 
 # 조끼에 ‘이걸’ 붙였더니 아이들이 좋아하더라고요
 
@@ -1779,7 +1779,7 @@ AI 데이터 구축 과정은 복잡하고 전문적인 지식을 요구합니�
 ---
 
 ## 426. 투자자가 선택하지 않는 CEO들은? | 유니콘하우스 EP.4 개별 미션 발표
-**URL:** https://www.youtube.com/watch?v=wHciWebLR-Q    (
+**** https://www.youtube.com/watch?v=wHciWebLR-Q    (
 
 # 투자자가 선택하지 않는 CEO들은? | 유니콘하우스 EP.4 개별 미션 발표
 
@@ -1909,7 +1909,7 @@ AI 데이터 구축 과정은 복잡하고 전문적인 지식을 요구합니�
 ---
 
 ## 427. 코드리스 세상을 꿈꾸는 스타트업
-**URL:** https://www.youtube.com/watch?v=YvD1heWqkqU    (
+**** https://www.youtube.com/watch?v=YvD1heWqkqU    (
 
 # 코드리스 세상을 꿈꾸는 스타트업
 
@@ -2007,7 +2007,7 @@ AI 데이터 구축 과정은 복잡하고 전문적인 지식을 요구합니�
 ---
 
 ## 428. 배달의민족 리드 개발자 출신 이력서 까보기 (feat. 개발자 연봉 이야기) | 개발자 특집 1편
-**URL:** https://www.youtube.com/watch?v=wfInwxT0UUA    (
+**** https://www.youtube.com/watch?v=wfInwxT0UUA    (
 
 # 배달의민족 리드 개발자 출신 이력서 까보기 (feat. 개발자 연봉 이야기) | 개발자 특집 1편
 
@@ -2104,7 +2104,7 @@ AI 데이터 구축 과정은 복잡하고 전문적인 지식을 요구합니�
 ---
 
 ## 429. 시장 점유율 빼앗긴 요기요의 속사정과 앞으로의 계획
-**URL:** https://www.youtube.com/watch?v=57Ox9qwRm54    (
+**** https://www.youtube.com/watch?v=57Ox9qwRm54    (
 
 # 시장 점유율 빼앗긴 요기요의 속사정과 앞으로의 계획
 
@@ -2241,7 +2241,7 @@ GS리테일은 한국 최고의 유통 및 편의점 네트워크를 보유한 �
 ---
 
 ## 430. 탑티어 투자자들의 사업 노하우를 공개합니다ㅣ유니콘하우스 EP.3 하우스 육성
-**URL:** https://www.youtube.com/watch?v=JA7z7Yp83L4    (
+**** https://www.youtube.com/watch?v=JA7z7Yp83L4    (
 
 # 탑티어 투자자들의 사업 노하우를 공개합니다ㅣ유니콘하우스 EP.3 하우스 육성
 
@@ -2401,7 +2401,7 @@ GS리테일은 한국 최고의 유통 및 편의점 네트워크를 보유한 �
 ---
 
 ## 431. 1년 만에 5억뷰📈 아나운서 때려치고 만든 틱톡 MCN
-**URL:** https://www.youtube.com/watch?v=D7UIP27vydA    (
+**** https://www.youtube.com/watch?v=D7UIP27vydA    (
 
 # 1년 만에 5억뷰📈 아나운서 때려치고 만든 틱톡 MCN
 
@@ -2527,7 +2527,7 @@ MCN은 크리에이터의 콘텐츠 제작, 마케팅, 수익 창출 등을 지�
 ---
 
 ## 432. 인공지능에게 세상의 깊이를 보여주는 스타트업
-**URL:** https://www.youtube.com/watch?v=CZ4_rgxxtwg    (
+**** https://www.youtube.com/watch?v=CZ4_rgxxtwg    (
 
 # 인공지능에게 세상의 깊이를 보여주는 스타트업: 딥센스(Deepense)
 
@@ -2602,7 +2602,7 @@ MCN은 크리에이터의 콘텐츠 제작, 마케팅, 수익 창출 등을 지�
 ---
 
 ## 433. 빅테크 기업의 화려한 무대 뒤에 숨겨진 조력자
-**URL:** https://www.youtube.com/watch?v=rRwuLsp-BFY    (
+**** https://www.youtube.com/watch?v=rRwuLsp-BFY    (
 
 # 빅테크 기업의 화려한 무대 뒤에 숨겨진 조력자: 모델 솔루션의 혁신적인 프로토타이핑 전략
 
@@ -2699,7 +2699,7 @@ MCN은 크리에이터의 콘텐츠 제작, 마케팅, 수익 창출 등을 지�
 ---
 
 ## 434. 1억 연봉 개발자가 이커머스에 뛰어든 이유
-**URL:** https://www.youtube.com/watch?v=NL6tpG0hhDs    (
+**** https://www.youtube.com/watch?v=NL6tpG0hhDs    (
 
 # 1억 연봉 개발자가 이커머스에 뛰어든 이유
 
@@ -2819,7 +2819,7 @@ MCN은 크리에이터의 콘텐츠 제작, 마케팅, 수익 창출 등을 지�
 ---
 
 ## 435. (무삭제) 연세대학교 치의대 4학년의 도전! 이노바이드 3분 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=oYt1n6REy2A    (
+**** https://www.youtube.com/watch?v=oYt1n6REy2A    (
 
 # (무삭제) 연세대학교 치의대 4학년의 도전! 이노바이드 3분 피칭, Q&A
 
@@ -2980,7 +2980,7 @@ MCN은 크리에이터의 콘텐츠 제작, 마케팅, 수익 창출 등을 지�
 ---
 
 ## 436. 판이 바뀌었다, 이제 스타트업이 투자자를 선택한다 | 유니콘하우스 EP.2 하우스 매칭
-**URL:** https://www.youtube.com/watch?v=3OAs0-b7B78    (
+**** https://www.youtube.com/watch?v=3OAs0-b7B78    (
 
 # 판이 바뀌었다, 이제 스타트업이 투자자를 선택한다 | 유니콘하우스 EP.2 하우스 매칭
 
@@ -3070,7 +3070,7 @@ MCN은 크리에이터의 콘텐츠 제작, 마케팅, 수익 창출 등을 지�
 ---
 
 ## 437. (무삭제) 나무 유통 시장을 바꾸는 스타트업 루트릭스 3분 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=Mqx3F9AlOUQ    (
+**** https://www.youtube.com/watch?v=Mqx3F9AlOUQ    (
 
 # (무삭제) 나무 유통 시장을 바꾸는 스타트업 루트릭스 3분 피칭, Q&A
 
@@ -3179,7 +3179,7 @@ MCN은 크리에이터의 콘텐츠 제작, 마케팅, 수익 창출 등을 지�
 ---
 
 ## 438. 5년만에 매출 1,200억📈젝시믹스 성장 비결
-**URL:** https://www.youtube.com/watch?v=dY3X-hpnssw    (
+**** https://www.youtube.com/watch?v=dY3X-hpnssw    (
 
 # 5년만에 매출 1,200억📈젝시믹스 성장 비결
 
@@ -3311,7 +3311,7 @@ MCN은 크리에이터의 콘텐츠 제작, 마케팅, 수익 창출 등을 지�
 ---
 
 ## 439. (무삭제) 쓰레기 치우는 스타트업 커버링 3분 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=fWlAtNe0ID0    (
+**** https://www.youtube.com/watch?v=fWlAtNe0ID0    (
 
 # (무삭제) 쓰레기 치우는 스타트업 커버링 3분 피칭, Q&A
 
@@ -3467,7 +3467,7 @@ MCN은 크리에이터의 콘텐츠 제작, 마케팅, 수익 창출 등을 지�
 ---
 
 ## 440. (무삭제) 교육 스타트업 한달어스 3분 피칭, Q&Aㅣ유니콘하우스 1R
-**URL:** https://www.youtube.com/watch?v=yVHn-M5DALk    (
+**** https://www.youtube.com/watch?v=yVHn-M5DALk    (
 
 # (무삭제) 교육 스타트업 한달어스 3분 피칭, Q&Aㅣ유니콘하우스 1R
 
@@ -3597,7 +3597,7 @@ MCN은 크리에이터의 콘텐츠 제작, 마케팅, 수익 창출 등을 지�
 ---
 
 ## 441. 빚 갚으려고 농촌 내려가서 발견한 아이템
-**URL:** https://www.youtube.com/watch?v=cRdgpQrOEyc    (
+**** https://www.youtube.com/watch?v=cRdgpQrOEyc    (
 
 # 빚 갚으려고 농촌 내려가서 발견한 아이템
 
@@ -3716,7 +3716,7 @@ MCN은 크리에이터의 콘텐츠 제작, 마케팅, 수익 창출 등을 지�
 ---
 
 ## 442. 30대 1의 경쟁을 뚫고 투자자의 선택을 받아라ㅣ유니콘하우스 EP.1 1차 예선
-**URL:** https://www.youtube.com/watch?v=qNskMqur9-A    (
+**** https://www.youtube.com/watch?v=qNskMqur9-A    (
 
 # 30대 1의 경쟁을 뚫고 투자자의 선택을 받아라ㅣ유니콘하우스 EP.1 1차 예선
 
@@ -3897,4 +3897,4 @@ MCN은 크리에이터의 콘텐츠 제작, 마케팅, 수익 창출 등을 지�
 ---
 
 ## 443. 유니콘하우스 공개합니다
-**URL:** https://www.youtube.com/watch?v=Q6ZJ0xn_vao    (
+**** https://www.youtube.com/watch?v=Q6ZJ0xn_vao    (

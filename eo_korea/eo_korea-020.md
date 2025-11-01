@@ -93,7 +93,7 @@
 ---
 
 ## 650. 카카오 김범수, 네이버 이해진이 투자한 미래학교
-**URL:** https://www.youtube.com/watch?v=koafbl6zRh8    (
+**** https://www.youtube.com/watch?v=koafbl6zRh8    (
 
 # 카카오 김범수, 네이버 이해진이 투자한 미래학교
 
@@ -181,7 +181,7 @@
 ---
 
 ## 651. 20년차 자영업 고수에게 배우는 사업의 지혜
-**URL:** https://www.youtube.com/watch?v=COvqZaq092I    (
+**** https://www.youtube.com/watch?v=COvqZaq092I    (
 
 # 20년차 자영업 고수에게 배우는 사업의 지혜
 
@@ -298,7 +298,7 @@
 ---
 
 ## 652. 대형마트가 도입을 진지하게 검토중인 서비스
-**URL:** https://www.youtube.com/watch?v=z5D-ldqFbFQ    (
+**** https://www.youtube.com/watch?v=z5D-ldqFbFQ    (
 
 # 대형마트가 도입을 진지하게 검토중인 서비스
 
@@ -381,7 +381,7 @@
 ---
 
 ## 653. 64,000,000건의 데이터를 EO는 이렇게 활용했다
-**URL:** https://www.youtube.com/watch?v=uM1YC3XFCUM    (
+**** https://www.youtube.com/watch?v=uM1YC3XFCUM    (
 
 # 64,000,000건의 데이터를 EO는 이렇게 활용했다
 
@@ -475,7 +475,7 @@
 ---
 
 ## 654. 커피 자판기로 500억을 벌겠다는 경희대생의 논리
-**URL:** https://www.youtube.com/watch?v=B3AiuRlonGk    (
+**** https://www.youtube.com/watch?v=B3AiuRlonGk    (
 
 # 커피 자판기로 500억을 벌겠다는 경희대생의 논리
 
@@ -597,7 +597,7 @@
 ---
 
 ## 655. 전 직원이 집에서 근무해도 괜찮은 이유
-**URL:** https://www.youtube.com/watch?v=Cgny72HT6aI    (
+**** https://www.youtube.com/watch?v=Cgny72HT6aI    (
 
 # 전 직원이 집에서 근무해도 괜찮은 이유
 
@@ -712,7 +712,7 @@
 ---
 
 ## 656. 이지스자산운용이 준비하는 10년 뒤 부동산의 미래
-**URL:** https://www.youtube.com/watch?v=pgd4Ssioe1s    (
+**** https://www.youtube.com/watch?v=pgd4Ssioe1s    (
 
 # 이지스자산운용이 준비하는 10년 뒤 부동산의 미래
 
@@ -814,7 +814,7 @@
 ---
 
 ## 657. 당근마켓, 컬리에 '이 관점'으로 투자했다.
-**URL:** https://www.youtube.com/watch?v=mZglxn32nlY    (
+**** https://www.youtube.com/watch?v=mZglxn32nlY    (
 
 # 당근마켓, 컬리에 '이 관점'으로 투자했다.
 
@@ -917,7 +917,7 @@
 ---
 
 ## 658. 왜 4.8조 기업이 순식간에 무너졌을까? (옐로모바일 2부)
-**URL:** https://www.youtube.com/watch?v=say4FN0SHgs    (
+**** https://www.youtube.com/watch?v=say4FN0SHgs    (
 
 # 왜 4.8조 기업이 순식간에 무너졌을까? (옐로모바일 2부)
 
@@ -1007,7 +1007,7 @@
 ---
 
 ## 659. 최고의 직장에서 깨달은 내 몸값을 높이는 스킬 | 커리어 액셀러레이터 김나이
-**URL:** https://www.youtube.com/watch?v=4w7087s87Wg    (
+**** https://www.youtube.com/watch?v=4w7087s87Wg    (
 
 # 최고의 직장에서 깨달은 내 몸값을 높이는 스킬 | 커리어 액셀러레이터 김나이
 
@@ -1109,7 +1109,7 @@
 ---
 
 ## 660. 이 시국에 열리는 초대형 스타트업 축제 (Feat. 언택트)
-**URL:** https://www.youtube.com/watch?v=R8Uh3JQvKSE    (
+**** https://www.youtube.com/watch?v=R8Uh3JQvKSE    (
 
 # 이 시국에 열리는 초대형 스타트업 축제 (Feat. 언택트)
 
@@ -1181,7 +1181,7 @@
 ---
 
 ## 661. SK와 LG 직원들을 가르치는 교육 스타트업
-**URL:** https://www.youtube.com/watch?v=Rn0Ji2EIa_8    (
+**** https://www.youtube.com/watch?v=Rn0Ji2EIa_8    (
 
 # SK와 LG 직원들을 가르치는 교육 스타트업
 
@@ -1281,7 +1281,7 @@
 ---
 
 ## 662. 어떻게 4.8조 기업이 될 수 있었을까? (옐로모바일 1부)
-**URL:** https://www.youtube.com/watch?v=qvMnb69u3Nw    (
+**** https://www.youtube.com/watch?v=qvMnb69u3Nw    (
 
 # 어떻게 4.8조 기업이 될 수 있었을까? (옐로모바일 1부)
 
@@ -1400,7 +1400,7 @@
 ---
 
 ## 663. 사업 성공 8개 실패 2개, 패스트트랙아시아 창업부터 지금까지
-**URL:** https://www.youtube.com/watch?v=5ZGsrbQbcbE    (
+**** https://www.youtube.com/watch?v=5ZGsrbQbcbE    (
 
 # 사업 성공 8개 실패 2개, 패스트트랙아시아 창업부터 지금까지
 
@@ -1503,7 +1503,7 @@
 ---
 
 ## 664. 교육에 금융을 접목해 만든 40억의 매출 가치
-**URL:** https://www.youtube.com/watch?v=8vjrRiN3Pw4    (
+**** https://www.youtube.com/watch?v=8vjrRiN3Pw4    (
 
 # 교육에 금융을 접목해 만든 40억의 매출 가치
 
@@ -1604,7 +1604,7 @@
 ---
 
 ## 665. 대기업과 경쟁하다 너무 잘돼서 망할 뻔한 스타트업
-**URL:** https://www.youtube.com/watch?v=NEi5uNo4TC0    (
+**** https://www.youtube.com/watch?v=NEi5uNo4TC0    (
 
 # 대기업과 경쟁하다 너무 잘돼서 망할 뻔한 스타트업
 
@@ -1710,7 +1710,7 @@ Y-Gillette는 면도기를 넘어 `생활 소비재 시장` 전반의 불합리�
 ---
 
 ## 666. SK는 이 신생 종이컵 회사에 5억을 투자했다
-**URL:** https://www.youtube.com/watch?v=AlC16sd9MYs    (
+**** https://www.youtube.com/watch?v=AlC16sd9MYs    (
 
 # SK는 이 신생 종이컵 회사에 5억을 투자했다
 
@@ -1791,7 +1791,7 @@ Y-Gillette는 면도기를 넘어 `생활 소비재 시장` 전반의 불합리�
 ---
 
 ## 667. 0원에서 1100억까지, 아이디어스 '초고속 성장의 비밀 [Hyper Growth]'
-**URL:** https://www.youtube.com/watch?v=91EFUOtnAF4    (
+**** https://www.youtube.com/watch?v=91EFUOtnAF4    (
 
 # 0원에서 1100억까지, 아이디어스 '초고속 성장의 비밀 [Hyper Growth]'
 
@@ -1894,7 +1894,7 @@ Y-Gillette는 면도기를 넘어 `생활 소비재 시장` 전반의 불합리�
 ---
 
 ## 668. 흙수저 대학생에서 데드풀 신드롬을 일으킨 영화 번역가가 되다 [번역가 황석희]
-**URL:** https://www.youtube.com/watch?v=8zfYINYNS38    (
+**** https://www.youtube.com/watch?v=8zfYINYNS38    (
 
 # 흙수저 대학생에서 데드풀 신드롬을 일으킨 영화 번역가가 되다 [번역가 황석희]
 
@@ -1985,7 +1985,7 @@ Y-Gillette는 면도기를 넘어 `생활 소비재 시장` 전반의 불합리�
 ---
 
 ## 669. 고상한 꿈보다 솔직한 욕망이 돈을 버는 이유
-**URL:** https://www.youtube.com/watch?v=0nX9Vc7JoT8    (
+**** https://www.youtube.com/watch?v=0nX9Vc7JoT8    (
 
 # 고상한 꿈보다 솔직한 욕망이 돈을 버는 이유
 
@@ -2077,7 +2077,7 @@ Y-Gillette는 면도기를 넘어 `생활 소비재 시장` 전반의 불합리�
 ---
 
 ## 670. 초고속 성장기업의 비밀 : 아이디어스(idus) [예고편] | EO Documentary Series : Hyper Growth
-**URL:** https://www.youtube.com/watch?v=y1rZMsWt3_4    (
+**** https://www.youtube.com/watch?v=y1rZMsWt3_4    (
 
 # 초고속 성장기업의 비밀 : 아이디어스(idus) [예고편] | EO Documentary Series : Hyper Growth
 
@@ -2134,7 +2134,7 @@ Y-Gillette는 면도기를 넘어 `생활 소비재 시장` 전반의 불합리�
 ---
 
 ## 671. 천재개발자가 전하는 사업의 성공 확률을 높이는 방법
-**URL:** https://www.youtube.com/watch?v=hjRREPOERVc    (
+**** https://www.youtube.com/watch?v=hjRREPOERVc    (
 
 # 천재개발자가 전하는 사업의 성공 확률을 높이는 방법
 
@@ -2246,7 +2246,7 @@ Y-Gillette는 면도기를 넘어 `생활 소비재 시장` 전반의 불합리�
 ---
 
 ## 672. IMF가 낳고 대통령이 상을 준 토종 인공지능 회사
-**URL:** https://www.youtube.com/watch?v=wXnZTsY14Nc    (
+**** https://www.youtube.com/watch?v=wXnZTsY14Nc    (
 
 # IMF가 낳고 대통령이 상을 준 토종 인공지능 회사
 
@@ -2373,7 +2373,7 @@ SJYP와의 협업 성공 이전, '디자인 오 브 래'는 기술력을 알리�
 ---
 
 ## 673. 구글과 중소벤처기업부가 손 잡고 밀어주는 스타트업 지원 사업 '창구 프로그램'
-**URL:** https://www.youtube.com/watch?v=efpIhATLWL4    (
+**** https://www.youtube.com/watch?v=efpIhATLWL4    (
 
 # 구글과 중소벤처기업부가 손 잡고 밀어주는 스타트업 지원 사업 '창구 프로그램'
 
@@ -2459,7 +2459,7 @@ SJYP와의 협업 성공 이전, '디자인 오 브 래'는 기술력을 알리�
 ---
 
 ## 674. 유럽과 아마존을 제패한 불광동 보드게임 마스터
-**URL:** https://www.youtube.com/watch?v=qI3GMzWN5aw    (
+**** https://www.youtube.com/watch?v=qI3GMzWN5aw    (
 
 # 유럽과 아마존을 제패한 불광동 보드게임 마스터
 
@@ -2562,7 +2562,7 @@ SJYP와의 협업 성공 이전, '디자인 오 브 래'는 기술력을 알리�
 ---
 
 ## 675. 주얼리 산업의 역사를 새로 쓰고 있는 금은방집 아들
-**URL:** https://www.youtube.com/watch?v=o4Wtmu5taiE    (
+**** https://www.youtube.com/watch?v=o4Wtmu5taiE    (
 
 # 주얼리 산업의 역사를 새로 쓰고 있는 금은방집 아들
 
@@ -2660,7 +2660,7 @@ SJYP와의 협업 성공 이전, '디자인 오 브 래'는 기술력을 알리�
 ---
 
 ## 676. 넷플릭스가 한국에서 왓챠를 쓰러뜨리지 못하는 이유
-**URL:** https://www.youtube.com/watch?v=SzvDwdu-DuU    (
+**** https://www.youtube.com/watch?v=SzvDwdu-DuU    (
 
 # 넷플릭스가 한국에서 왓챠를 쓰러뜨리지 못하는 이유
 
@@ -2740,7 +2740,7 @@ SJYP와의 협업 성공 이전, '디자인 오 브 래'는 기술력을 알리�
 ---
 
 ## 677. 잘나가던 미용실 원장님, 강아지에 인생을 걸다
-**URL:** https://www.youtube.com/watch?v=ebPQtAkjXT4    (
+**** https://www.youtube.com/watch?v=ebPQtAkjXT4    (
 
 # 잘나가던 미용실 원장님, 강아지에 인생을 걸다
 
@@ -2829,7 +2829,7 @@ SJYP와의 협업 성공 이전, '디자인 오 브 래'는 기술력을 알리�
 ---
 
 ## 678. 해당되는 대표님들 꼭 신청하세요
-**URL:** https://www.youtube.com/watch?v=Ko5GF9BSDvw    (
+**** https://www.youtube.com/watch?v=Ko5GF9BSDvw    (
 
 # 해당되는 대표님들 꼭 신청하세요
 
@@ -2945,7 +2945,7 @@ SJYP와의 협업 성공 이전, '디자인 오 브 래'는 기술력을 알리�
 ---
 
 ## 679. 실리콘밸리가 주목한 카이스트 단톡방ㅣ클라썸 이채린 대표
-**URL:** https://www.youtube.com/watch?v=Cty3T3n5cP0    (
+**** https://www.youtube.com/watch?v=Cty3T3n5cP0    (
 
 # 실리콘밸리가 주목한 카이스트 단톡방ㅣ클라썸 이채린 대표
 
@@ -3048,7 +3048,7 @@ SJYP와의 협업 성공 이전, '디자인 오 브 래'는 기술력을 알리�
 ---
 
 ## 680. 사업 실패가 만든 한국 1위, 미국 2위 방구석 클럽 게임
-**URL:** https://www.youtube.com/watch?v=oTDeHxkewtg    (
+**** https://www.youtube.com/watch?v=oTDeHxkewtg    (
 
 # 사업 실패가 만든 한국 1위, 미국 2위 방구석 클럽 게임
 
@@ -3154,7 +3154,7 @@ SJYP와의 협업 성공 이전, '디자인 오 브 래'는 기술력을 알리�
 ---
 
 ## 681. 물 장사가 쉽다고요? 수백억의 투자를 받고 법도 바꿔야 했습니다.
-**URL:** https://www.youtube.com/watch?v=_poZNaXtjA4    (
+**** https://www.youtube.com/watch?v=_poZNaXtjA4    (
 
 # 물 장사가 쉽다고요? 수백억의 투자를 받고 법도 바꿔야 했습니다.
 
@@ -3282,7 +3282,7 @@ SJYP와의 협업 성공 이전, '디자인 오 브 래'는 기술력을 알리�
 ---
 
 ## 682. 업계 정상에서 실패 후 지금에 이르기까지
-**URL:** https://www.youtube.com/watch?v=B_XTwoW5Im4    (
+**** https://www.youtube.com/watch?v=B_XTwoW5Im4    (
 
 # 업계 정상에서 실패 후 지금에 이르기까지
 
@@ -3388,7 +3388,7 @@ SJYP와의 협업 성공 이전, '디자인 오 브 래'는 기술력을 알리�
 ---
 
 ## 683. 대기업과 함께 일하고 싶나요? 창업자들 주목
-**URL:** https://www.youtube.com/watch?v=Kp0bjg9KvnI    (
+**** https://www.youtube.com/watch?v=Kp0bjg9KvnI    (
 
 # 대기업과 함께 일하고 싶나요? 창업자들 주목
 
@@ -3465,7 +3465,7 @@ SJYP와의 협업 성공 이전, '디자인 오 브 래'는 기술력을 알리�
 ---
 
 ## 684. 리니지 개발자가 8년 공들인 100만 다운로드 교육 앱
-**URL:** https://www.youtube.com/watch?v=yhZHdznJc3Q    (
+**** https://www.youtube.com/watch?v=yhZHdznJc3Q    (
 
 # 리니지 개발자가 8년 공들인 100만 다운로드 교육 앱
 
@@ -3560,7 +3560,7 @@ SJYP와의 협업 성공 이전, '디자인 오 브 래'는 기술력을 알리�
 ---
 
 ## 685. 32살, 직장을 그만두고 논밭에서 일하는 이유
-**URL:** https://www.youtube.com/watch?v=UVosOA19qdA    (
+**** https://www.youtube.com/watch?v=UVosOA19qdA    (
 
 # 32살, 직장을 그만두고 논밭에서 일하는 이유
 
@@ -3675,7 +3675,7 @@ SJYP와의 협업 성공 이전, '디자인 오 브 래'는 기술력을 알리�
 ---
 
 ## 686. 40명으로 3000억 가치의 회사를 만든 방법
-**URL:** https://www.youtube.com/watch?v=9qN86ooMTuo    (
+**** https://www.youtube.com/watch?v=9qN86ooMTuo    (
 
 # 40명으로 3000억 가치의 회사를 만든 방법
 
@@ -3795,4 +3795,4 @@ SJYP와의 협업 성공 이전, '디자인 오 브 래'는 기술력을 알리�
 ---
 
 ## 687. 롯데가 투자한 물류 스타트업 '나우픽'이 쿠팡, 배민과 경쟁할 수 있을까?
-**URL:** https://www.youtube.com/watch?v=L7rYVSjsg-I    (
+**** https://www.youtube.com/watch?v=L7rYVSjsg-I    (

@@ -106,7 +106,7 @@
 ---
 
 ## 108. 30살 중반 모든 커리어를 버리고 700억 매출 브랜드를 만든 마인드셋 | 준앤굿 브랜딩 디렉터 허준
-**URL:** https://www.youtube.com/watch?v=W-XltW9k128    (
+**** https://www.youtube.com/watch?v=W-XltW9k128    (
 
 # 30살 중반 모든 커리어를 버리고 700억 매출 브랜드를 만든 마인드셋 | 준앤굿 브랜딩 디렉터 허준
 
@@ -199,7 +199,7 @@
 ---
 
 ## 109. 40년 간 우주를 관측했던 과학자가 말하는 외계인이 실존하는 이유 | 최성운의 사고실험 [이명현] 1부
-**URL:** https://www.youtube.com/watch?v=TQpLxzJ4Efw    (
+**** https://www.youtube.com/watch?v=TQpLxzJ4Efw    (
 
 # 40년 간 우주를 관측했던 과학자가 말하는 외계인이 실존하는 이유 | 최성운의 사고실험 [이명현] 1부
 
@@ -318,7 +318,7 @@ SETI 프로젝트는 순수한 과학적 열망만으로 이루어지지 않습�
 ---
 
 ## 110. ‘올해의 신인상’ 아이돌 디렉터가 말하는 K팝 산업 공략법 | 최성운의 사고실험 [이해인] 2부
-**URL:** https://www.youtube.com/watch?v=FB_Lh9vq4Wc    (
+**** https://www.youtube.com/watch?v=FB_Lh9vq4Wc    (
 
 # ‘올해의 신인상’ 아이돌 디렉터가 말하는 K팝 산업 공략법 | 최성운의 사고실험 [이해인] 2부
 
@@ -450,7 +450,7 @@ K팝 팬덤은 더 이상 무대 위 퍼포먼스만 소비하지 않는다. 아
 ---
 
 ## 111. 프로듀스101 아이돌이 독기 품고 10년 공부했더니 벌어진 일 | 최성운의 사고실험 [이해인] 1부
-**URL:** https://www.youtube.com/watch?v=DnwbrjqQNTU    (
+**** https://www.youtube.com/watch?v=DnwbrjqQNTU    (
 
 # 프로듀스101 아이돌이 독기 품고 10년 공부했더니 벌어진 일 | 최성운의 사고실험 [이해인] 1부
 
@@ -551,7 +551,7 @@ K팝 팬덤은 더 이상 무대 위 퍼포먼스만 소비하지 않는다. 아
 ---
 
 ## 112. 글로벌에서도 인정받은 배민 개발자 교육의 비밀
-**URL:** https://www.youtube.com/watch?v=JTUIOC2QmR0    (
+**** https://www.youtube.com/watch?v=JTUIOC2QmR0    (
 
 # 글로벌에서도 인정받은 배민 개발자 교육의 비밀
 
@@ -654,7 +654,7 @@ IT 기술의 발전 속도는 대학 교육 시스템이 따라가기 어려울 
 ---
 
 ## 113. 의사 관두고 [중증외상센터] 원작 집필한 작가의 글쓰기 비법 | 최성운의 사고실험 [이낙준] 2부
-**URL:** https://www.youtube.com/watch?v=QeLozOllSlg    (
+**** https://www.youtube.com/watch?v=QeLozOllSlg    (
 
 # 의사 관두고 [중증외상센터] 원작 집필한 작가의 글쓰기 비법 | 최성운의 사고실험 [이낙준] 2부
 
@@ -758,7 +758,7 @@ IT 기술의 발전 속도는 대학 교육 시스템이 따라가기 어려울 
 ---
 
 ## 114. 마크 주커버그의 제안을 거절했던 그가 다시 페이스북 면접을 보러 간 이유 | Meta 다니엘 킴
-**URL:** https://www.youtube.com/watch?v=3-1kfqoUcpo    (
+**** https://www.youtube.com/watch?v=3-1kfqoUcpo    (
 
 # 마크 주커버그의 제안을 거절했던 그가 다시 페이스북 면접을 보러 간 이유 | Meta 다니엘 킴
 
@@ -860,7 +860,7 @@ Facebook의 메타에서 가르치는 한 가지는 세 가지 다른 채널을 
 ---
 
 ## 115. 전교 1등 출신 삼성병원 의사가 SSS급 필력을 숨김 | 최성운의 사고실험 [이낙준] 1부
-**URL:** https://www.youtube.com/watch?v=fz6EXAW4lRE    (
+**** https://www.youtube.com/watch?v=fz6EXAW4lRE    (
 
 # 전교 1등 출신 삼성병원 의사가 SSS급 필력을 숨김 | 최성운의 사고실험 [이낙준] 1부
 
@@ -941,7 +941,7 @@ Facebook의 메타에서 가르치는 한 가지는 세 가지 다른 채널을 
 ---
 
 ## 116. 한국의 스페이스 X' 국내 최고의 로켓 사업가가 15가지 질문에 답하다
-**URL:** https://www.youtube.com/watch?v=eaCTO_lLgx0    (
+**** https://www.youtube.com/watch?v=eaCTO_lLgx0    (
 
 # '한국의 스페이스 X' 국내 최고의 로켓 사업가가 15가지 질문에 답하다
 
@@ -1057,7 +1057,7 @@ Facebook의 메타에서 가르치는 한 가지는 세 가지 다른 채널을 
 ---
 
 ## 117. 야쿠르트 명예의 전당' 영업왕에게 배우는 꾸준함과 고객정신 | 최성운의 사고실험 [서윤정]
-**URL:** https://www.youtube.com/watch?v=vVzLd9Zf4ks    (
+**** https://www.youtube.com/watch?v=vVzLd9Zf4ks    (
 
 # 야쿠르트 명예의 전당' 영업왕에게 배우는 꾸준함과 고객정신 | 최성운의 사고실험 [서윤정]
 
@@ -1146,7 +1146,7 @@ Facebook의 메타에서 가르치는 한 가지는 세 가지 다른 채널을 
 ---
 
 ## 118. 실리콘밸리 외노자가 꿈이었던 30대 K직장인의 치열한 삽질 | CISCO 김세희
-**URL:** https://www.youtube.com/watch?v=0X6sJgStXPc    (
+**** https://www.youtube.com/watch?v=0X6sJgStXPc    (
 
 # 실리콘밸리 외노자가 꿈이었던 30대 K직장인의 치열한 삽질 | CISCO 김세희
 
@@ -1249,7 +1249,7 @@ Facebook의 메타에서 가르치는 한 가지는 세 가지 다른 채널을 
 ---
 
 ## 119. 8개 국어 배우는 미국인 작가가 말하는 언어학습의 비결 | 최성운의 사고실험 [콜린 마샬] 2부
-**URL:** https://www.youtube.com/watch?v=K9Fs_vS4yNk    (
+**** https://www.youtube.com/watch?v=K9Fs_vS4yNk    (
 
 # 8개 국어 배우는 미국인 작가가 말하는 언어학습의 비결 | 최성운의 사고실험 [콜린 마샬] 2부
 
@@ -1343,7 +1343,7 @@ Facebook의 메타에서 가르치는 한 가지는 세 가지 다른 채널을 
 ---
 
 ## 120. 40조를 다루는 투자자가 찾는 스타트업의 조건ㅣDawood Al Shezawi
-**URL:** https://www.youtube.com/watch?v=xoxQL6moHvA    (
+**** https://www.youtube.com/watch?v=xoxQL6moHvA    (
 
 물론입니다. 제공해주신 자막의 내용을 바탕으로, 전문 작가의 시각에서 깊이 있는 학습 자료를 작성해 드리겠습니다. 출판을 목적으로 하는 만큼, 체계적이고 상세한 내용으로 구성했습니다.
 
@@ -1486,7 +1486,7 @@ Dawood Al Shezawi는 스타트업을 발굴하고 투자하기 위해 다음 3�
 ---
 
 ## 121. 뉴요커' 작가가 한글로 '한국 요약 금지'라는 책을 쓴 이유 | 최성운의 사고실험 [콜린 마샬] 1부
-**URL:** https://www.youtube.com/watch?v=LHmp-ajhOB4    (
+**** https://www.youtube.com/watch?v=LHmp-ajhOB4    (
 
 # 뉴요커' 작가가 한글로 '한국 요약 금지'라는 책을 쓴 이유 | 최성운의 사고실험 [콜린 마샬] 1부
 
@@ -1585,7 +1585,7 @@ Dawood Al Shezawi는 스타트업을 발굴하고 투자하기 위해 다음 3�
 ---
 
 ## 122. 좋은 리더가 될 수 있을지 막막하다면 | 메타 서은아 상무
-**URL:** https://www.youtube.com/watch?v=goQY0hcFwKo    (
+**** https://www.youtube.com/watch?v=goQY0hcFwKo    (
 
 # 좋은 리더가 될 수 있을지 막막하다면 | 메타 서은아 상무
 
@@ -1683,7 +1683,7 @@ MBTI에서 `T(사고형)` 성향의 리더들은 종종 공감 능력 부족으�
 ---
 
 ## 123. 항상 뒤처지고 있다는 생각이 드는 기업의 임원이라면
-**URL:** https://www.youtube.com/watch?v=uu0KgmD5mx0    (
+**** https://www.youtube.com/watch?v=uu0KgmD5mx0    (
 
 물론입니다. 제공해주신 유튜브 영상 자막을 바탕으로, 요청하신 구조와 가이드라인에 맞춰 깊이 있는 학습 자료를 작성해 드리겠습니다.
 
@@ -1799,7 +1799,7 @@ AI가 언어와 정보의 장벽을 허물면서, 이제 모든 비즈니스는 
 ---
 
 ## 124. 10년 차 커리어 내려놓고 미국에 날아가 깨달은 직업의 본질 | 구글 UX 디자이너 이정영
-**URL:** https://www.youtube.com/watch?v=A3h4tA7kE-4    (
+**** https://www.youtube.com/watch?v=A3h4tA7kE-4    (
 
 # 10년 차 커리어 내려놓고 미국에 날아가 깨달은 직업의 본질 | 구글 UX 디자이너 이정영
 
@@ -1894,7 +1894,7 @@ AI가 언어와 정보의 장벽을 허물면서, 이제 모든 비즈니스는 
 ---
 
 ## 125. 인류의 수명을 늘리겠다는 26세 의사 창업가의 도전 | 윤희상
-**URL:** https://www.youtube.com/watch?v=mA1n38SKzr8    (
+**** https://www.youtube.com/watch?v=mA1n38SKzr8    (
 
 # 인류의 수명을 늘리겠다는 26세 의사 창업가의 도전 | 윤희상
 
@@ -2004,7 +2004,7 @@ AI가 언어와 정보의 장벽을 허물면서, 이제 모든 비즈니스는 
 ---
 
 ## 126. 조롱과 무관심을 이겨낸 비주류 학자의 집념에 대하여 | 최성운의 사고실험 [곽민수] 2부
-**URL:** https://www.youtube.com/watch?v=n7o_CDQgS0M    (
+**** https://www.youtube.com/watch?v=n7o_CDQgS0M    (
 
 # 조롱과 무관심을 이겨낸 비주류 학자의 집념에 대하여 | 최성운의 사고실험 [곽민수] 2부
 
@@ -2116,7 +2116,7 @@ AI가 언어와 정보의 장벽을 허물면서, 이제 모든 비즈니스는 
 ---
 
 ## 127. 픽사 출신’ 떼고 한국 애니 최초 오스카 후보에 오르기까지 | 에릭 오 감독
-**URL:** https://www.youtube.com/watch?v=SavWXOns0k8    (
+**** https://www.youtube.com/watch?v=SavWXOns0k8    (
 
 # '픽사 출신' 떼고 한국 애니 최초 오스카 후보에 오르기까지 | 에릭 오 감독
 
@@ -2249,7 +2249,7 @@ AI가 언어와 정보의 장벽을 허물면서, 이제 모든 비즈니스는 
 ---
 
 ## 128. 30년 넘게 이집트에 미쳐있는 학자가 발굴해낸 공부의 비밀 | 최성운의 사고실험 [곽민수] 1부
-**URL:** https://www.youtube.com/watch?v=TZRvZFPI3iw    (
+**** https://www.youtube.com/watch?v=TZRvZFPI3iw    (
 
 # 30년 넘게 이집트에 미쳐있는 학자가 발굴해낸 공부의 비밀 | 최성운의 사고실험 [곽민수] 1부
 
@@ -2356,7 +2356,7 @@ AI가 언어와 정보의 장벽을 허물면서, 이제 모든 비즈니스는 
 ---
 
 ## 129. 악천후에도 '라이다'를 계속 개발하는 이유 | SOSLAB 정지성
-**URL:** https://www.youtube.com/watch?v=3Q5MtT-tBhA    (
+**** https://www.youtube.com/watch?v=3Q5MtT-tBhA    (
 
 # 악천후에도 '라이다'를 계속 개발하는 이유 | SOSLAB 정지성
 
@@ -2403,7 +2403,7 @@ AI가 언어와 정보의 장벽을 허물면서, 이제 모든 비즈니스는 
 ---
 
 ## 130. 실리콘밸리가 한국보다 10년 먼저 뽑기 시작한 ‘이 직군’ㅣ구글 UXR 백원희
-**URL:** https://www.youtube.com/watch?v=oarvYX4Nsqs    (
+**** https://www.youtube.com/watch?v=oarvYX4Nsqs    (
 
 네, 알겠습니다. 제공해주신 자막과 가이드라인에 따라, 출판 가능한 수준의 상세하고 체계적인 학습 자료를 작성하겠습니다.
 
@@ -2528,7 +2528,7 @@ UX 리서처는 사용자가 겪는 문제와 경험을 깊이 있게 파악하�
 ---
 
 ## 131. 성공한 부자의 자랑보다 노련한 선배의 실패가 도움되는 이유 | 최성운의 사고실험 [한기용] 2부
-**URL:** https://www.youtube.com/watch?v=wQsCCOnwU8E    (
+**** https://www.youtube.com/watch?v=wQsCCOnwU8E    (
 
 # 성공한 부자의 자랑보다 노련한 선배의 실패가 도움되는 이유 | 최성운의 사고실험 [한기용] 2부
 
@@ -2677,7 +2677,7 @@ UX 리서처는 사용자가 겪는 문제와 경험을 깊이 있게 파악하�
 ---
 
 ## 132. AI로 나라 지키던 공대생들, 400억 투자 받고 세계 1위에 도전하다 | 트웰브랩스 이재성
-**URL:** https://www.youtube.com/watch?v=nCULYQQdz_Q    (
+**** https://www.youtube.com/watch?v=nCULYQQdz_Q    (
 
 # AI로 나라 지키던 공대생들, 400억 투자 받고 세계 1위에 도전하다 | 트웰브랩스 이재성
 
@@ -2791,7 +2791,7 @@ UX 리서처는 사용자가 겪는 문제와 경험을 깊이 있게 파악하�
 ---
 
 ## 133. 실리콘밸리 최고의 커리어 코치가 꼽은 ‘인생을 바꾸는 질문’ | 최성운의 사고실험 [한기용] 1부
-**URL:** https://www.youtube.com/watch?v=HfBP0JvSNX0    (
+**** https://www.youtube.com/watch?v=HfBP0JvSNX0    (
 
 # 실리콘밸리 최고의 커리어 코치가 꼽은 ‘인생을 바꾸는 질문’ | 최성운의 사고실험 [한기용] 1부
 
@@ -2939,7 +2939,7 @@ UX 리서처는 사용자가 겪는 문제와 경험을 깊이 있게 파악하�
 ---
 
 ## 134. 마케터라면 둘 중 한 명은 읽어본 '그로스해킹'의 창시자, 한국에 오다ㅣ션 앨리스
-**URL:** https://www.youtube.com/watch?v=TMYaTkOyV4Y    (
+**** https://www.youtube.com/watch?v=TMYaTkOyV4Y    (
 
 # 마케터라면 둘 중 한 명은 읽어본 '그로스해킹'의 창시자, 한국에 오다ㅣ션 앨리스
 
@@ -3070,7 +3070,7 @@ PMF는 정성적, 정량적 지표를 통해 측정할 수 있습니다.
 ---
 
 ## 135. 직원 60%가 육아 중인 CEO가 전하는 워킹맘의 현실과 위로 | 최성운의 사고실험 [임이랑] 2부
-**URL:** https://www.youtube.com/watch?v=8-rP-O1_yZA    (
+**** https://www.youtube.com/watch?v=8-rP-O1_yZA    (
 
 # 직원 60%가 육아 중인 CEO가 전하는 워킹맘의 현실과 위로 | 최성운의 사고실험 [임이랑] 2부
 
@@ -3175,7 +3175,7 @@ PMF는 정성적, 정량적 지표를 통해 측정할 수 있습니다.
 ---
 
 ## 136. 탑티어 기업에서 배운 귀납적 성공 방정식 | 모요 안동건
-**URL:** https://www.youtube.com/watch?v=mqJ5YKlMIaM    (
+**** https://www.youtube.com/watch?v=mqJ5YKlMIaM    (
 
 # 탑티어 기업에서 배운 귀납적 성공 방정식 | 모요 안동건
 
@@ -3275,7 +3275,7 @@ PMF는 정성적, 정량적 지표를 통해 측정할 수 있습니다.
 ---
 
 ## 137. 당신의 사업 아이템의 유통기한은 생각보다 짧습니다 | 최성운의 사고실험 [임이랑] 1부
-**URL:** https://www.youtube.com/watch?v=vhKTdHyjUTo    (
+**** https://www.youtube.com/watch?v=vhKTdHyjUTo    (
 
 물론입니다. 제공해주신 유튜브 영상 자막을 바탕으로, 요청하신 구조와 가이드라인에 맞춰 깊이 있는 학습 자료를 작성해 드리겠습니다.
 
@@ -3389,7 +3389,7 @@ PMF는 정성적, 정량적 지표를 통해 측정할 수 있습니다.
 ---
 
 ## 138. 실리콘밸리 30년 차가 요즘 세대에게 꼭 해주고 싶은 이야기ㅣ테일트리 임수미
-**URL:** https://www.youtube.com/watch?v=wPIm4cDTPO0    (
+**** https://www.youtube.com/watch?v=wPIm4cDTPO0    (
 
 # 실리콘밸리 30년 차가 요즘 세대에게 꼭 해주고 싶은 이야기ㅣ테일트리 임수미
 
@@ -3481,7 +3481,7 @@ PMF는 정성적, 정량적 지표를 통해 측정할 수 있습니다.
 ---
 
 ## 139. 불안과 억울함을 다루는 방법과 지적호기심이 필요한 이유 | 최성운의 사고실험 [김지윤] 2부
-**URL:** https://www.youtube.com/watch?v=rjZZcgpYYVA    (
+**** https://www.youtube.com/watch?v=rjZZcgpYYVA    (
 
 # 불안과 억울함을 다루는 방법과 지적 호기심이 필요한 이유 | 최성운의 사고실험 [김지윤] 2부
 
@@ -3585,7 +3585,7 @@ PMF는 정성적, 정량적 지표를 통해 측정할 수 있습니다.
 ---
 
 ## 140. 홀로서기 끝에 샌프란시스코 최고의 한국인 타투이스트가 되었습니다 | Paw Tattoo 김지아
-**URL:** https://www.youtube.com/watch?v=isugOAstGSY    (
+**** https://www.youtube.com/watch?v=isugOAstGSY    (
 
 # 홀로서기 끝에 샌프란시스코 최고의 한국인 타투이스트가 되었습니다 | Paw Tattoo 김지아
 
@@ -3697,7 +3697,7 @@ PMF는 정성적, 정량적 지표를 통해 측정할 수 있습니다.
 ---
 
 ## 141. 화려한 커리어 뒤의 절박함과 달리기에서 배운 삶의 지혜 | 최성운의 사고실험 [김지윤] 1부
-**URL:** https://www.youtube.com/watch?v=X27D5wWW9eA    (
+**** https://www.youtube.com/watch?v=X27D5wWW9eA    (
 
 # 화려한 커리어 뒤의 절박함과 달리기에서 배운 삶의 지혜 | 최성운의 사고실험 [김지윤] 1부
 
@@ -3799,7 +3799,7 @@ MIT 박사라는 이력은 흔히 '엘리트 코스'로 여겨지지만, 정작 
 ---
 
 ## 142. 미국인들도 줄 서서 먹는 1300억 푸드트럭 회사를 만든 한국인 이야기 | CUPBOP 컵밥
-**URL:** https://www.youtube.com/watch?v=fWLXwuwrXUQ    (
+**** https://www.youtube.com/watch?v=fWLXwuwrXUQ    (
 
 다음은 요청하신 내용에 따라 작성된 학습 자료입니다.
 

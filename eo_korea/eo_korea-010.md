@@ -178,7 +178,7 @@
 ---
 
 ## 310. 이력서 40번 넣고 35번 탈락한 개발자의 사연 | 워키토키 x 센드버드 ep3
-**URL:** https://www.youtube.com/watch?v=i1HPaGDnocM    (
+**** https://www.youtube.com/watch?v=i1HPaGDnocM    (
 
 # 이력서 40번 넣고 35번 탈락한 개발자의 사연 | 워키토키 x 센드버드 ep3
 
@@ -300,7 +300,7 @@
 ---
 
 ## 311. 실패하고 싶지 않은 창업자를 위한 조언
-**URL:** https://www.youtube.com/watch?v=MLjFjtVJqVc    (
+**** https://www.youtube.com/watch?v=MLjFjtVJqVc    (
 
 # 실패하고 싶지 않은 창업자를 위한 조언
 
@@ -420,7 +420,7 @@
 ---
 
 ## 312. 어느 날 들어온 천재 개발자가 지분 7%를 요구했다
-**URL:** https://www.youtube.com/watch?v=FBBHIzkbkC8    (
+**** https://www.youtube.com/watch?v=FBBHIzkbkC8    (
 
 # 어느 날 들어온 천재 개발자가 지분 7%를 요구했다
 
@@ -530,7 +530,7 @@
 ---
 
 ## 313. 기세가 꺾였던 조직을 다시 일으킨 리더십 이야기 [박재욱] 2편
-**URL:** https://www.youtube.com/watch?v=QqAxbxcVxUE    (
+**** https://www.youtube.com/watch?v=QqAxbxcVxUE    (
 
 # 기세가 꺾였던 조직을 다시 일으킨 리더십 이야기 [박재욱] 2편
 
@@ -633,7 +633,7 @@ M&A는 복잡한 과정이며, 단순히 금전적 이득만을 추구할 경우
 ---
 
 ## 314. 유병재가 만든 시트콤 속 '스타트업' 세계관 리뷰(with 현직 CEO, 투자자)
-**URL:** https://www.youtube.com/watch?v=J2U3UYJc_Xg    (
+**** https://www.youtube.com/watch?v=J2U3UYJc_Xg    (
 
 # 유병재가 만든 시트콤 속 '스타트업' 세계관 리뷰(with 현직 CEO, 투자자)
 
@@ -731,7 +731,7 @@ M&A는 복잡한 과정이며, 단순히 금전적 이득만을 추구할 경우
 ---
 
 ## 315. 5년 만에 다시 만난 그는 픽사에서 리드가 되어 있었다
-**URL:** https://www.youtube.com/watch?v=d5ZwJHbWk4E    (
+**** https://www.youtube.com/watch?v=d5ZwJHbWk4E    (
 
 # 5년 만에 다시 만난 그는 픽사에서 리드가 되어 있었다
 
@@ -825,7 +825,7 @@ M&A는 복잡한 과정이며, 단순히 금전적 이득만을 추구할 경우
 ---
 
 ## 316. 한국의 전설적인 펀드이야기
-**URL:** https://www.youtube.com/watch?v=XVsz6JZOIEo    (
+**** https://www.youtube.com/watch?v=XVsz6JZOIEo    (
 
 # 한국의 전설적인 펀드이야기
 
@@ -938,7 +938,7 @@ M&A는 복잡한 과정이며, 단순히 금전적 이득만을 추구할 경우
 ---
 
 ## 317. 10년차 개발자가 말하는 신입 시절 알았으면 좋았을 것들 | 워키토키 x 센드버드 ep2
-**URL:** https://www.youtube.com/watch?v=1t6rzoi4vfA    (
+**** https://www.youtube.com/watch?v=1t6rzoi4vfA    (
 
 # 10년차 개발자가 말하는 신입 시절 알았으면 좋았을 것들 | 워키토키 x 센드버드 ep2
 
@@ -1010,7 +1010,7 @@ M&A는 복잡한 과정이며, 단순히 금전적 이득만을 추구할 경우
 ---
 
 ## 318. 더 이상 기회가 없다는 시장에서 탄생한 1조 기업
-**URL:** https://www.youtube.com/watch?v=ETnROJe4OfA    (
+**** https://www.youtube.com/watch?v=ETnROJe4OfA    (
 
 # 더 이상 기회가 없다는 시장에서 탄생한 1조 기업
 
@@ -1144,7 +1144,7 @@ M&A는 복잡한 과정이며, 단순히 금전적 이득만을 추구할 경우
 ---
 
 ## 319. 대기업? 스타트업? 개발자 커리어 시작 어떻게 해야 할까? | 워키토키 x 센드버드 ep1
-**URL:** https://www.youtube.com/watch?v=RD-ljQYXx_Q    (
+**** https://www.youtube.com/watch?v=RD-ljQYXx_Q    (
 
 # 대기업? 스타트업? 개발자 커리어 시작 어떻게 해야 할까? | 워키토키 x 센드버드 ep1
 
@@ -1293,7 +1293,7 @@ M&A는 복잡한 과정이며, 단순히 금전적 이득만을 추구할 경우
 ---
 
 ## 320. 스타트업 사람들의 다소 놀라운(?) 연애&욕망 이야기 | Work On the Beach Ep.3
-**URL:** https://www.youtube.com/watch?v=hPDBvwU-GEg    (
+**** https://www.youtube.com/watch?v=hPDBvwU-GEg    (
 
 # 스타트업 사람들의 다소 놀라운(?) 연애&욕망 이야기 | Work On the Beach Ep.3
 
@@ -1383,7 +1383,7 @@ M&A는 복잡한 과정이며, 단순히 금전적 이득만을 추구할 경우
 ---
 
 ## 321. 불황에도 채용을 늘리는 ‘일부’ 스타트업 이야기
-**URL:** https://www.youtube.com/watch?v=cKLo3oyGefc    (
+**** https://www.youtube.com/watch?v=cKLo3oyGefc    (
 
 # 불황에도 채용을 늘리는 ‘일부’ 스타트업 이야기
 
@@ -1501,7 +1501,7 @@ CTO의 역할은 회사의 규모와 성장 단계에 따라 변화하므로 유
 ---
 
 ## 322. 갓생들이 말하는 일도 잘하고 쉼도 잘하는 법 | Work On the Beach Ep.2
-**URL:** https://www.youtube.com/watch?v=eK2qqaFMOYA    (
+**** https://www.youtube.com/watch?v=eK2qqaFMOYA    (
 
 # 갓생들이 말하는 일도 잘하고 쉼도 잘하는 법 | Work On the Beach Ep.2
 
@@ -1599,7 +1599,7 @@ CTO의 역할은 회사의 규모와 성장 단계에 따라 변화하므로 유
 ---
 
 ## 323. 사업에서 시장이 중요한 이유ㅣ82 STARTUP 액셀러레이팅 프로그램 모집
-**URL:** https://www.youtube.com/watch?v=GJ6Sw4T5gAI    (
+**** https://www.youtube.com/watch?v=GJ6Sw4T5gAI    (
 
 # 사업에서 시장이 중요한 이유ㅣ82 STARTUP 액셀러레이팅 프로그램 모집
 
@@ -1764,7 +1764,7 @@ CTO의 역할은 회사의 규모와 성장 단계에 따라 변화하므로 유
 ---
 
 ## 324. 면접관이 스펙보다 더 중요하게 보는 것? | 워키토키 x 타다 ep3
-**URL:** https://www.youtube.com/watch?v=P5eGT9liXdg    (
+**** https://www.youtube.com/watch?v=P5eGT9liXdg    (
 
 # 면접관이 스펙보다 더 중요하게 보는 것? | 워키토키 x 타다 ep3
 
@@ -1882,7 +1882,7 @@ CTO의 역할은 회사의 규모와 성장 단계에 따라 변화하므로 유
 ---
 
 ## 325. 주7일 일하는 사람들은 무슨 생각으로 살까? | Work On the Beach Ep.1
-**URL:** https://www.youtube.com/watch?v=wvBIyzFploI    (
+**** https://www.youtube.com/watch?v=wvBIyzFploI    (
 
 # 주7일 일하는 사람들은 무슨 생각으로 살까? | Work On the Beach Ep.1
 
@@ -1991,7 +1991,7 @@ CTO의 역할은 회사의 규모와 성장 단계에 따라 변화하므로 유
 ---
 
 ## 326. 피드백의 핵심은 ‘솔직함’이 아니에요 | 워키토키 x 타다 ep2
-**URL:** https://www.youtube.com/watch?v=zLJD5ycwn3U    (
+**** https://www.youtube.com/watch?v=zLJD5ycwn3U    (
 
 # 피드백의 핵심은 ‘솔직함’이 아니에요 | 워키토키 x 타다 ep2
 
@@ -2098,7 +2098,7 @@ CTO의 역할은 회사의 규모와 성장 단계에 따라 변화하므로 유
 ---
 
 ## 327. 이런 얘기를 하면 화내는 사람도 있죠 [한기용] 3부 최종화
-**URL:** https://www.youtube.com/watch?v=3U0cbzmwSYc    (
+**** https://www.youtube.com/watch?v=3U0cbzmwSYc    (
 
 # 이런 얘기를 하면 화내는 사람도 있죠 [한기용] 3부 최종화
 
@@ -2216,7 +2216,7 @@ CTO의 역할은 회사의 규모와 성장 단계에 따라 변화하므로 유
 ---
 
 ## 328. 5개의 사업 중 성공한 사업과 실패한 사업의 차이 [박재욱] 1편
-**URL:** https://www.youtube.com/watch?v=3Jx6dmF-nRk    (
+**** https://www.youtube.com/watch?v=3Jx6dmF-nRk    (
 
 # 5개의 사업 중 성공한 사업과 실패한 사업의 차이 [박재욱] 1편
 
@@ -2347,7 +2347,7 @@ CTO의 역할은 회사의 규모와 성장 단계에 따라 변화하므로 유
 ---
 
 ## 329. [티저] 갓생 사는 스타트업 직장인들의 일과 삶 엿보기 | Work On the Beach Ep.0
-**URL:** https://www.youtube.com/watch?v=-fdnYORFIzo    (
+**** https://www.youtube.com/watch?v=-fdnYORFIzo    (
 
 # [티저] 갓생 사는 스타트업 직장인들의 일과 삶 엿보기 | Work On the Beach Ep.0
 
@@ -2424,7 +2424,7 @@ CTO의 역할은 회사의 규모와 성장 단계에 따라 변화하므로 유
 ---
 
 ## 330. 타다금지법부터 토스 인수까지 모든 과정을 겪은 직원들 이야기 | 워키토키 x 타다 ep1
-**URL:** https://www.youtube.com/watch?v=VnDhn9GPiXY    (
+**** https://www.youtube.com/watch?v=VnDhn9GPiXY    (
 
 # 타다금지법부터 토스 인수까지 모든 과정을 겪은 직원들 이야기 | 워키토키 x 타다 ep1
 
@@ -2526,7 +2526,7 @@ CTO의 역할은 회사의 규모와 성장 단계에 따라 변화하므로 유
 ---
 
 ## 331. 실리콘밸리 인턴에서 대표까지 14년 동안 깨달은 ‘인생에서 가장 중요한 것’
-**URL:** https://www.youtube.com/watch?v=W3F8I0GNuFg    (
+**** https://www.youtube.com/watch?v=W3F8I0GNuFg    (
 
 # 실리콘밸리 인턴에서 대표까지 14년 동안 깨달은 ‘인생에서 가장 중요한 것’
 
@@ -2619,7 +2619,7 @@ CTO의 역할은 회사의 규모와 성장 단계에 따라 변화하므로 유
 ---
 
 ## 332. 요즘 개발자를 꿈꾸는 학생들은 어떤 사람들일까?
-**URL:** https://www.youtube.com/watch?v=ZIjoi3yp06w    (
+**** https://www.youtube.com/watch?v=ZIjoi3yp06w    (
 
 # 요즘 개발자를 꿈꾸는 학생들은 어떤 사람들일까?
 
@@ -2716,7 +2716,7 @@ SSAFY를 통해 얻는 실질적인 개발 역량과 더불어, 이러한 채용
 ---
 
 ## 333. 50세 한국인의 실리콘밸리 도전기
-**URL:** https://www.youtube.com/watch?v=CcWIwaCy5dE    (
+**** https://www.youtube.com/watch?v=CcWIwaCy5dE    (
 
 # 50세 한국인의 실리콘밸리 도전기
 
@@ -2812,7 +2812,7 @@ SSAFY를 통해 얻는 실질적인 개발 역량과 더불어, 이러한 채용
 ---
 
 ## 334. 콘텐츠 스타트업 모두가 봐야 하는 영상ㅣ한국콘텐츠진흥원 스타트업콘
-**URL:** https://www.youtube.com/watch?v=pzRPnCV2-Q4    (
+**** https://www.youtube.com/watch?v=pzRPnCV2-Q4    (
 
 # 콘텐츠 스타트업 모두가 봐야 하는 영상ㅣ한국콘텐츠진흥원 스타트업콘
 
@@ -2932,7 +2932,7 @@ KOCCA 스타트업콘 프로그램은 콘텐츠와 관련된 다양한 스타트
 ---
 
 ## 335. 세계 최고의 게임 제작자가 되기까지 마인드셋
-**URL:** https://www.youtube.com/watch?v=uzMQ3NFlT5k    (
+**** https://www.youtube.com/watch?v=uzMQ3NFlT5k    (
 
 # 세계 최고의 게임 제작자가 되기까지 마인드셋
 
@@ -3036,7 +3036,7 @@ Riot Games는 "세계에서 가장 플레이어 중심적인 회사"를 지향�
 ---
 
 ## 336. 저는 재활 전문가도 의사도 아닙니다 하지만
-**URL:** https://www.youtube.com/watch?v=oDpTki2yJQ8    (
+**** https://www.youtube.com/watch?v=oDpTki2yJQ8    (
 
 # 저는 재활 전문가도 의사도 아닙니다 하지만
 
@@ -3144,7 +3144,7 @@ Riot Games는 "세계에서 가장 플레이어 중심적인 회사"를 지향�
 ---
 
 ## 337. 350억 매출 내는 회사를 팔고 뛰어든 기회
-**URL:** https://www.youtube.com/watch?v=7msCgM5Codo    (
+**** https://www.youtube.com/watch?v=7msCgM5Codo    (
 
 # 350억 매출 내는 회사를 팔고 뛰어든 기회
 
@@ -3236,7 +3236,7 @@ Riot Games는 "세계에서 가장 플레이어 중심적인 회사"를 지향�
 ---
 
 ## 338. 고객의 진짜 목소리를 듣고 싶다면 이 기술이 필요합니다
-**URL:** https://www.youtube.com/watch?v=pVALtGcpL_0    (
+**** https://www.youtube.com/watch?v=pVALtGcpL_0    (
 
 # 고객의 진짜 목소리를 듣고 싶다면 이 기술이 필요합니다
 
@@ -3302,7 +3302,7 @@ Riot Games는 "세계에서 가장 플레이어 중심적인 회사"를 지향�
 ---
 
 ## 339. 사람이 더 가치 있게 일하는 미래를 만들 겁니다
-**URL:** https://www.youtube.com/watch?v=x141f6DCM7Q    (
+**** https://www.youtube.com/watch?v=x141f6DCM7Q    (
 
 # 사람이 더 가치 있게 일하는 미래를 만들 겁니다
 
@@ -3407,7 +3407,7 @@ CMS는 2014년에 `3차원 비전 기반 자동화`라는 아이템으로 사업
 ---
 
 ## 340. 트럭커들이 '외로움'을 '안전'하게 해결하는 법
-**URL:** https://www.youtube.com/watch?v=oSBoy_vI-nw    (
+**** https://www.youtube.com/watch?v=oSBoy_vI-nw    (
 
 # 트럭커들이 '외로움'을 '안전'하게 해결하는 법
 
@@ -3495,7 +3495,7 @@ CMS는 2014년에 `3차원 비전 기반 자동화`라는 아이템으로 사업
 ---
 
 ## 341. 40대 중반이 돼서야 깨닫고 실천할 수 있게 된 것  [한기용] 2부
-**URL:** https://www.youtube.com/watch?v=XKqLz6WJSRA    (
+**** https://www.youtube.com/watch?v=XKqLz6WJSRA    (
 
 # 40대 중반이 돼서야 깨닫고 실천할 수 있게 된 것 [한기용] 2부
 
@@ -3579,7 +3579,7 @@ CMS는 2014년에 `3차원 비전 기반 자동화`라는 아이템으로 사업
 ---
 
 ## 342. 17년째 한 우물만 파고 있는 대표의 부끄러운 고백
-**URL:** https://www.youtube.com/watch?v=qB6aBBa-K4I    (
+**** https://www.youtube.com/watch?v=qB6aBBa-K4I    (
 
 # 17년째 한 우물만 파고 있는 대표의 부끄러운 고백
 
@@ -3655,7 +3655,7 @@ CMS는 2014년에 `3차원 비전 기반 자동화`라는 아이템으로 사업
 ---
 
 ## 343. 급증하는 젊은 사장님들 사이에서 발견한 1조원 짜리 기회
-**URL:** https://www.youtube.com/watch?v=mRhnWUzsCjo    (
+**** https://www.youtube.com/watch?v=mRhnWUzsCjo    (
 
 # 급증하는 젊은 사장님들 사이에서 발견한 1조원 짜리 기회
 
@@ -3807,4 +3807,4 @@ POS는 사라지지 않을 개념이지만, `얼마나 더 똑똑하게 일할 �
 ---
 
 ## 344. 영상 하나로 외국인들을 줄세운 실시간 화질개선 서비스
-**URL:** https://www.youtube.com/watch?v=08Q2ZJutLqI    (
+**** https://www.youtube.com/watch?v=08Q2ZJutLqI    (

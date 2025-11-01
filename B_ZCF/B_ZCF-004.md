@@ -27,7 +27,7 @@
 ---
 
 ## 90. 97년생 메타 총괄 (알렉산더 왕)
-**URL:** https://www.youtube.com/watch?v=G9F1bGrnx1Y    (
+**** https://www.youtube.com/watch?v=G9F1bGrnx1Y    (
 
 ## 1. 핵심 요약
 
@@ -127,7 +127,7 @@ AI는 두려워할 대상이 아니라, 우리의 삶을 더 나은 방향으로
 ---
 
 ## 91. 욕심 버리면 행복하다
-**URL:** https://www.youtube.com/watch?v=10wkcWY4tbk    (
+**** https://www.youtube.com/watch?v=10wkcWY4tbk    (
 
 ## 1. 핵심 요약
 
@@ -234,7 +234,7 @@ AI는 두려워할 대상이 아니라, 우리의 삶을 더 나은 방향으로
 ---
 
 ## 92. 다같이 미국을 지킵시다
-**URL:** https://www.youtube.com/watch?v=Wg0Afj677bI    (
+**** https://www.youtube.com/watch?v=Wg0Afj677bI    (
 
 ## 1. 핵심 요약
 
@@ -379,7 +379,7 @@ AI가 전쟁의 패러다임을 바꾸고 민주주의를 위협하는 이 중�
 ---
 
 ## 93. 정치 이제 안합니다
-**URL:** https://www.youtube.com/watch?v=PVZ4b1zCS88    (
+**** https://www.youtube.com/watch?v=PVZ4b1zCS88    (
 
 ## 1. 핵심 요약
 
@@ -477,7 +477,7 @@ AI가 전쟁의 패러다임을 바꾸고 민주주의를 위협하는 이 중�
 ---
 
 ## 94. 
-**URL:** https://www.youtube.com/watch?v=PVZ4b1zCS88    (
+**** https://www.youtube.com/watch?v=PVZ4b1zCS88    (
 
 ```
 아마도 API 라인 아래 대신 만들고있는 사람들? 글쎄, 그들은 우리가 그다지 미래에 무슨 일이 일어날 지 모르기 때문에 그것을 이유의 특이점이라고 부릅니다. 인간 인 지능의 비율은 상당히 작을 것입니다. 어느 시점에서 인간 지능의 집단적 합은 모든 지능의 1% 미만일 것입니다. 음과 만약 카르타프 수준에 도달한다면, 우리는 인간 지능에 대해 이야기하고 있습니다. 그 상황에서도 UH 집단 인간 지능은 아마도 UH 디지털 지능의 10 억 분의 1 일 일 것입니다. 어쨌든, 디지털 슈퍼 인텔리전스의 생물학적 부트 로더는 어디에 있습니까? 우리는 여기서 어떻게 갈 수 있습니까? 나는이 모든 것이이 방에있는 사람들이 지을 수있는 꽤 야생 공상 과학 자료라는 것을 의미합니다. 이 세대의 가장 현명한 기술인에 대한 마감 생각이 있다면? 그들은 무엇을해야합니까? 그들은 무엇을 해야하는지 무엇을해야합니까? 오늘 밤 저녁 식사를 할 때 그들은 무엇을 생각해야합니까? 글쎄, 나는 시작했을 때, 당신이 유용한 일을한다면 훌륭하다고 생각합니다. 음, 만약 당신이 단지 당신의 동료 인간에게 가능한 한 유용하게 노력하고 있다면, 당신은 좋은 일을하고 있습니다. 음, 나는 AI 안전에 가장 중요한 일인 슈퍼 진실한 AI에 초점을 맞추는 것처럼 이것에 대해 계속해서 고려합니다. 음, 당신은 분명히 당신이 xai에서 일하는 데 관심이 있다는 것을 알고 있다면, 내 말은, 우리에게 알려주십시오. 음 우리는 록 UM을 최대한 진실로 만들고자하는 것을 목표로하고 있습니다. 음, 그게는 매우 중요한 것입니다. 우리는 우주의 본질을 이해할 수 있기를 바랍니다. 그것은 정말로 AI가 희망적으로 우리에게 말할 수있는 것 같아요. 어쩌면 Ai ai는 외계인이 어디에 있고 우주가 실제로 어떻게 시작되었는지 알 수 있을까요? 어떻게 끝날까요? 우리가 묻는 것을 모르는 질문은 무엇입니까? 그리고 우리는 시뮬레이션에 있습니까? 아니면 어떤 수준의 시뮬레이션에 있습니까? 글쎄, 나는 우리가 알게 될 것이라고 생각합니다. NPC. 엘론, 우리와 함께 해주셔서 감사합니다. 모두, 엘론 머스크를 위해 포기하십시오. 감사하다
@@ -485,7 +485,7 @@ AI가 전쟁의 패러다임을 바꾸고 민주주의를 위협하는 이 중�
 ---
 
 ## 95. 하고 있어요 진짜 (애플)
-**URL:** https://www.youtube.com/watch?v=99Ak0rjEk2U    (
+**** https://www.youtube.com/watch?v=99Ak0rjEk2U    (
 
 ## 1. 핵심 요약
 
@@ -614,7 +614,7 @@ Apple은 현재 iPhone, Mac, iPad 등 주요 제품들이 각 카테고리에서
 ---
 
 ## 96. 계속하려면 계속해야 한다
-**URL:** https://www.youtube.com/watch?v=U0j7Njgxr5s    (
+**** https://www.youtube.com/watch?v=U0j7Njgxr5s    (
 
 ## 1. 핵심 요약
 
@@ -694,7 +694,7 @@ Apple은 현재 iPhone, Mac, iPad 등 주요 제품들이 각 카테고리에서
 ---
 
 ## 97. 일론은 왜 빡쳣을까?
-**URL:** https://www.youtube.com/watch?v=CUK56nwjm4g    (
+**** https://www.youtube.com/watch?v=CUK56nwjm4g    (
 
 ## 1. 핵심 요약
 
@@ -805,7 +805,7 @@ Apple은 현재 iPhone, Mac, iPad 등 주요 제품들이 각 카테고리에서
 ---
 
 ## 98. 그냥 팔란티어 쓰세요
-**URL:** https://www.youtube.com/watch?v=R-R7DnzNBE8    (
+**** https://www.youtube.com/watch?v=R-R7DnzNBE8    (
 
 ## 1. 핵심 요약
 
@@ -891,7 +891,7 @@ Palantir는 고객과의 관계를 단순한 판매자가 아닌, 가치를 함�
 ---
 
 ## 99. 미국 육사강연 - 일론머스크
-**URL:** https://www.youtube.com/watch?v=Ht4mkBPYNrE    (
+**** https://www.youtube.com/watch?v=Ht4mkBPYNrE    (
 
 ## 1. 핵심 요약
 
@@ -1023,7 +1023,7 @@ AI가 인간의 통제 능력을 빠르게 넘어설 것이라는 예측은 `인
 ---
 
 ## 100. 중국 정말 너무 빠르다
-**URL:** https://www.youtube.com/watch?v=TzjzUnyw0_U    (
+**** https://www.youtube.com/watch?v=TzjzUnyw0_U    (
 
 ## 1. 핵심 요약
 
@@ -1311,7 +1311,7 @@ NVIDIA는 `Tesla` 및 `XAI`와 긴밀한 협력 관계를 유지하고 있으며
 ---
 
 ## 101. 찰리멍거 중국 인터뷰
-**URL:** https://www.youtube.com/watch?v=WzBn41pZ8Xw    (
+**** https://www.youtube.com/watch?v=WzBn41pZ8Xw    (
 
 ## 1. 핵심 요약
 
@@ -1385,7 +1385,7 @@ NVIDIA는 `Tesla` 및 `XAI`와 긴밀한 협력 관계를 유지하고 있으며
 ---
 
 ## 102. 일론 : 사업 전혀 문제 없다
-**URL:** https://www.youtube.com/watch?v=Z1xUKTN4m4k    (
+**** https://www.youtube.com/watch?v=Z1xUKTN4m4k    (
 
 # 일론 머스크의 비전: 우주, AI, 인간의 미래를 묻다
 
@@ -1529,7 +1529,7 @@ NVIDIA는 `Tesla` 및 `XAI`와 긴밀한 협력 관계를 유지하고 있으며
 ---
 
 ## 103. 망가진 서구사회 - 알렉스 카프
-**URL:** https://www.youtube.com/watch?v=0sTnIvSKBhk    (
+**** https://www.youtube.com/watch?v=0sTnIvSKBhk    (
 
 ## 1. 핵심 요약
 
@@ -1627,7 +1627,7 @@ NVIDIA는 `Tesla` 및 `XAI`와 긴밀한 협력 관계를 유지하고 있으며
 ---
 
 ## 104. 도파민 없는 SNS (레트로 창업자 풀인터뷰)
-**URL:** https://www.youtube.com/watch?v=G--iDYWeV2c    (
+**** https://www.youtube.com/watch?v=G--iDYWeV2c    (
 
 ## 1. 핵심 요약
 
@@ -1788,7 +1788,7 @@ Jeff Bezos의 "미래에 무엇이 변할 것인가가 아니라, 무엇이 변�
 ---
 
 ## 105. 
-**URL:** https://www.youtube.com/watch?v=G--iDYWeV2c    (
+**** https://www.youtube.com/watch?v=G--iDYWeV2c    (
 
 ```
 그리고 당신은 제품이 5 년 또는 10 년 안에 오늘처럼 보이지 않을 수도 있지만, 친구를 가까이하게 유지하는 것과 같은 사명은 다소 보편적이고 장기적이고 상록수가 될 것임을 알고 있습니다. 응. 어쨌든, 그것은 우리에게 우리에게 정보를 제공하고 레트로 뒤의 유스 케이스에 들어가도록 용기를 준 많은 것입니다. 젊은 창업자들에게 막 시작한 조언이 있다면 무엇이 될까요? 이게 될 것입니다. 그것은 당신이 생각하는 것보다 어려울 것이고 아마도 당신이 생각하는 것보다 오래 걸릴 것이기 때문에 당신이 건축하고있는 것들이 깊이 투자하고 있는지 확인합니다. 그리고 실제로 매일 매일 건설하는 과정을 즐기지 않는다면, 물건을 만드는 것의 갈기는 오랫동안 불행 할 것입니다. 음 Sergey Bran이 Google 이전에 한 번 말한 재미있는 일화가 있었는데, 그는 팩스 기계를 통해 인터넷을 통해 피자를 주문한다는이 아이디어에 대해 정말로 흥분했습니다. 그리고 그는 시작했고 그는 스타트 업을 시작하고 있었고 피자 레스토랑에 피자 주문을 보낼 수있는 것처럼 제품이 일했습니다. 그러나 피자가 결코 거기에 도착한 것처럼 밝혀졌으며 피자 레스토랑의 노동자들이 팩스 기계를 확인하지 않았기 때문입니다. 그리고 그의 재밌는 점은 그가 작동하지 않았고 팩스 기계를 확인하고 피자 주문 회사를 시작했을 수도 있고 팩스 주문 회사를 시작했을 수도 있고 Google은 시작되지 않았을 수도있는 것처럼 피자 주문이 시작되었을 수도 있기 때문에 효과가 없었던 신에게 감사하고 감사합니다. 설립자들에 대한 나의 조언은 그것이 성공할 수 있다는 것이 아니라, 그것이 실패 할 수도 있다고 생각합니다. 그래서 당신은 당신이 달성하려는 모든 것을 향해 배우는 것들에 관심을 갖게되므로 때로는 2 년에서 10 년을 가장 잘 사용하는 것과 같을 것입니다. 레트로가 지금 직면하고있는 가장 큰 도전은 무엇입니까? 그리고 어떻게 해결 하시겠습니까? 큰 도전은 인식입니다. 나는 새로운 앱이 너무 많아서 사람들이 지난 10 년 동안 많은 사진 공유 앱이 나오는 것을 보았을 때, 새로운 사진 공유 앱 UM이 "아, 그것에 대해 더 많이 말해주십시오. 사진 공유 앱입니다." 가장 큰 앱 중 하나가 사진 공유 앱 일 때마다. 그래서 우리가 시간이 지남에 따라 가장 어려운 일은 모든 소음을 뚫고 레트로가 사진 공유 앱인지를 사람들에게 알려주는 것입니다. 앱을 식당을 좋아하는 것과 비교했다면, "여기 와서 음식은 건강하다"와 같은 식당이 있습니다. 나는 그것이 실제로 예처럼 어떤 사람들에게 효과가 있다고 생각합니다. 정말로 전용 건강 견과. 그러나 평범한 사람의 경우 식당에 가서 맛이 좋기 때문에 음식을 먹습니다. 그리고 우리가 물건을 마케팅 할 때, 그것이 침착하고, 집중하고, 당신을 산만하게하지는 않지만, 우리는 그것이 맛이 좋고 재미 있다는 것을 강조하고 싶다고 생각합니다. 레트로에 대한 댓글과 같이 내가 웃고 죽어가는 곳과 같은 시간이 있고 두 가지가 마스크 오프에 초점을 맞출 것입니다. 그래, 완전히. 인터뷰 전에 말하고 싶었지만 우리가 묻지 않은 마지막 의견이 있습니까? 알다시피, 나는 그렇게 생각하지 않습니다. 나는 우리가 앱 자체로 많은 다른 것들을 쳤다고 생각합니다. 음, 그리고 우리의 배경으로, 우리가 어떻게 여기에 왔는지, 내 자신의 개인적인 동기와 함께 일합니다. 음, 나는 내 팀에 감사해야한다고 생각하고 실제로 그렇게하지 못했습니다. 나는 우리가 어떻게 함께 왔는지에 대해 조금 이야기했다고 생각하지만, 정직하게는 복고풍과 같은 것은 팀의 모든 사람과 같은 사랑의 일과 같으며, 다음 큰 소셜 네트워크를 구축하는이 모든 어려운 일을 제작하는이 정말 어려운 일을하기 위해 크고 끔찍한 일을 떠나고, 나는 그들이 제품과 레트로 네트워크를 구축하는 데 부어주는 모든 열심히 일하는 것에 대해 감사하고 싶어합니다. 나는 당신이 레트로가 가진 문화를 좋아합니다. 응. 감사해요. 그래서 Nathan, 우리에게 시간을 주고이 대화를 나누어 주셔서 감사합니다. 응. 그리고 우리는이 대화를 닫을 것입니다. 응. 응. 매우 감사합니다. 물론. 나에게 감사합니다. 오 세상에, 여기에있어서 너무 좋다. 너무 굉장합니다.
@@ -1796,7 +1796,7 @@ Jeff Bezos의 "미래에 무엇이 변할 것인가가 아니라, 무엇이 변�
 ---
 
 ## 106. 수준 높은 미국청문회 (에릭슈미트 구글 전 대표)
-**URL:** https://www.youtube.com/watch?v=CELKzueqEwA    (
+**** https://www.youtube.com/watch?v=CELKzueqEwA    (
 
 ## AI 시대, 국가 안보와 에너지 패러다임의 대전환: 미래를 위한 심층 분석
 
@@ -1951,7 +1951,7 @@ AI 시대의 도래는 국가 안보, 경제, 사회 전반에 걸쳐 전례 없
 ---
 
 ## 107. 마지막 산업혁명
-**URL:** https://www.youtube.com/watch?v=FjKqy_31ce0    (
+**** https://www.youtube.com/watch?v=FjKqy_31ce0    (
 
 **1. 핵심 요약**
 
@@ -2131,7 +2131,7 @@ AI 시대의 선두 주자가 되기 위해 다음과 같은 구체적인 액션
 ---
 
 ## 108. 외국에서 보는 한국 저출산
-**URL:** https://www.youtube.com/watch?v=ood8W_MXSqg    (
+**** https://www.youtube.com/watch?v=ood8W_MXSqg    (
 
 ## 1. 핵심 요약
 
@@ -2235,7 +2235,7 @@ AI 시대의 선두 주자가 되기 위해 다음과 같은 구체적인 액션
 ---
 
 ## 109. 버크셔 2025 주주총회
-**URL:** https://www.youtube.com/watch?v=soMk3D3ATDM    (
+**** https://www.youtube.com/watch?v=soMk3D3ATDM    (
 
 ## 1. 핵심 요약
 
@@ -2339,7 +2339,7 @@ AI 시대의 선두 주자가 되기 위해 다음과 같은 구체적인 액션
 ---
 
 ## 110. 메타 + 마이크로소프트 CEO 대화 (라마콘 2025)
-**URL:** https://www.youtube.com/watch?v=wHjQlZA1-18    (
+**** https://www.youtube.com/watch?v=wHjQlZA1-18    (
 
 ## 1. 핵심 요약
 
@@ -2471,7 +2471,7 @@ AI 시대의 거대한 변화 속에서 새로운 가치를 창출하고 시장�
 ---
 
 ## 111. 3차전쟁을 막아라 - 팔마 럭키
-**URL:** https://www.youtube.com/watch?v=iftdkB3ZIV8    (
+**** https://www.youtube.com/watch?v=iftdkB3ZIV8    (
 
 ## 1. 핵심 요약
 
@@ -2654,7 +2654,7 @@ Palmer Luckey는 `IVAS(Integrated Visual Augmentation System)` 프로그램을 �
 ---
 
 ## 112. 실리콘밸리 망가졌다 - 알렉스카프
-**URL:** https://www.youtube.com/watch?v=ZrMqvKctSN4    (
+**** https://www.youtube.com/watch?v=ZrMqvKctSN4    (
 
 ## 1. 핵심 요약
 
@@ -2733,7 +2733,7 @@ Palmer Luckey는 `IVAS(Integrated Visual Augmentation System)` 프로그램을 �
 ---
 
 ## 113. 사람 바꾸려고 하지마 - 나발 라비칸트
-**URL:** https://www.youtube.com/watch?v=XInSMjuxCAY    (
+**** https://www.youtube.com/watch?v=XInSMjuxCAY    (
 
 ## 1. 핵심 요약
 
@@ -2826,7 +2826,7 @@ Palmer Luckey는 `IVAS(Integrated Visual Augmentation System)` 프로그램을 �
 ---
 
 ## 114. 피터틸 30분 전체번역 : 반골, 엘리트, 테크, 정치, 관세, 팔란티어, 벤처, 실리콘밸리
-**URL:** https://www.youtube.com/watch?v=c31aRSOfSaA    (
+**** https://www.youtube.com/watch?v=c31aRSOfSaA    (
 
 ## 1. 핵심 요약
 
@@ -2948,7 +2948,7 @@ Palmer Luckey는 `IVAS(Integrated Visual Augmentation System)` 프로그램을 �
 ---
 
 ## 115. 
-**URL:** https://www.youtube.com/watch?v=c31aRSOfSaA    (
+**** https://www.youtube.com/watch?v=c31aRSOfSaA    (
 
 ```
 Peter, Peter, 그것을 끝내기 위해 매우 낙관적 인 메모입니다. 오늘 여기에와 주셔서 대단히 감사합니다. 나에게 감사합니다.
@@ -2956,7 +2956,7 @@ Peter, Peter, 그것을 끝내기 위해 매우 낙관적 인 메모입니다. �
 ---
 
 ## 116. 사업 개어려워요
-**URL:** https://www.youtube.com/watch?v=W7oRhS8L6n8    (
+**** https://www.youtube.com/watch?v=W7oRhS8L6n8    (
 
 ## 1. 핵심 요약
 
@@ -3037,7 +3037,7 @@ Peter, Peter, 그것을 끝내기 위해 매우 낙관적 인 메모입니다. �
 ---
 
 ## 117. how to get rich (부자되는 법) - 나발
-**URL:** https://www.youtube.com/watch?v=Tct5FaP8I5o    (
+**** https://www.youtube.com/watch?v=Tct5FaP8I5o    (
 
 ## 1. 핵심 요약
 
@@ -3270,7 +3270,7 @@ The content seems to meet all the requirements.## 1. 핵심 요약
 ---
 
 ## 118. 부채중독
-**URL:** https://www.youtube.com/watch?v=syQhjJk-xt0    (
+**** https://www.youtube.com/watch?v=syQhjJk-xt0    (
 
 ## 1. 핵심 요약
 
@@ -3412,7 +3412,7 @@ MMT는 정부 부채의 긍정적 측면을 강조하지만, `민간 부채` 문
 ---
 
 ## 119. 로켓 AI회사 '커서(CURSOR)' 인터뷰
-**URL:** https://www.youtube.com/watch?v=oK-Skn4v4Cs    (
+**** https://www.youtube.com/watch?v=oK-Skn4v4Cs    (
 
 ## 1. 핵심 요약
 
@@ -3520,7 +3520,7 @@ Cursor의 성공 사례와 비전은 AI 시대의 소프트웨어 개발 및 비
 ---
 
 ## 120. 3자대면 (빌게이츠, 스티브발머, 사티아나델라)
-**URL:** https://www.youtube.com/watch?v=mYDy7_RL4Jk    (
+**** https://www.youtube.com/watch?v=mYDy7_RL4Jk    (
 
 ## 1. 핵심 요약
 
@@ -3617,7 +3617,7 @@ Cursor의 성공 사례와 비전은 AI 시대의 소프트웨어 개발 및 비
 ---
 
 ## 121. 달러, 위안화, 비트코인
-**URL:** https://www.youtube.com/watch?v=BoHKf6h_axU    (
+**** https://www.youtube.com/watch?v=BoHKf6h_axU    (
 
 ## 1. 핵심 요약
 
@@ -3761,7 +3761,7 @@ Bitcoin의 무허가성과 결제 수단으로서의 잠재력을 활용하여 �
 ---
 
 ## 122. 스콧 베선트 미국 재무부장관 인터뷰 번역
-**URL:** https://www.youtube.com/watch?v=eUt-SlQErdI    (
+**** https://www.youtube.com/watch?v=eUt-SlQErdI    (
 
 ## 1. 핵심 요약
 

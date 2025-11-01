@@ -99,7 +99,7 @@
 ---
 
 ## 688. 일상에서 발견한 스마트한 사업의 기회
-**URL:** https://www.youtube.com/watch?v=ytxQIfBUijE    (
+**** https://www.youtube.com/watch?v=ytxQIfBUijE    (
 
 # 일상에서 발견한 스마트한 사업의 기회
 
@@ -228,7 +228,7 @@
 ---
 
 ## 689. 지금, 디자이너에게 새로운 역할이 요구되고 있다
-**URL:** https://www.youtube.com/watch?v=XuHzDrAx-Tc    (
+**** https://www.youtube.com/watch?v=XuHzDrAx-Tc    (
 
 # 지금, 디자이너에게 새로운 역할이 요구되고 있다
 
@@ -454,7 +454,7 @@ B2B 디자인은 B2C와 달리 사용자 수가 적고, 사용자 패스가 복�
 ---
 
 ## 690. 하버드 유학생이 동대문에서 사업하는 이유
-**URL:** https://www.youtube.com/watch?v=F5-DwGp9jmI    (
+**** https://www.youtube.com/watch?v=F5-DwGp9jmI    (
 
 # 하버드 유학생이 동대문에서 사업하는 이유
 
@@ -556,7 +556,7 @@ B2B 디자인은 B2C와 달리 사용자 수가 적고, 사용자 패스가 복�
 ---
 
 ## 691. 지역 상권을 혁신하는 창업가를 지원합니다
-**URL:** https://www.youtube.com/watch?v=BkBfou_queQ    (
+**** https://www.youtube.com/watch?v=BkBfou_queQ    (
 
 # 지역 상권을 혁신하는 창업가를 지원합니다
 
@@ -661,7 +661,7 @@ B2B 디자인은 B2C와 달리 사용자 수가 적고, 사용자 패스가 복�
 ---
 
 ## 692. 전직 초등교사가 수백억에 회사를 매각하고 깨달은 것 | 데일리호텔 신재식
-**URL:** https://www.youtube.com/watch?v=TTE1EKKGTM8    (
+**** https://www.youtube.com/watch?v=TTE1EKKGTM8    (
 
 # 전직 초등교사가 수백억에 회사를 매각하고 깨달은 것 | 데일리호텔 신재식
 
@@ -749,7 +749,7 @@ B2B 디자인은 B2C와 달리 사용자 수가 적고, 사용자 패스가 복�
 ---
 
 ## 693. 직장인이 성취감을 느끼는 순간의 비밀
-**URL:** https://www.youtube.com/watch?v=69_97VXsYfQ    (
+**** https://www.youtube.com/watch?v=69_97VXsYfQ    (
 
 # 직장인이 성취감을 느끼는 순간의 비밀
 
@@ -870,7 +870,7 @@ B2B 디자인은 B2C와 달리 사용자 수가 적고, 사용자 패스가 복�
 ---
 
 ## 694. 타다가 혁신적인 모빌리티 플랫폼인 이유
-**URL:** https://www.youtube.com/watch?v=02vlEtV_7W4    (
+**** https://www.youtube.com/watch?v=02vlEtV_7W4    (
 
 # 타다가 혁신적인 모빌리티 플랫폼인 이유
 
@@ -982,7 +982,7 @@ B2B 디자인은 B2C와 달리 사용자 수가 적고, 사용자 패스가 복�
 ---
 
 ## 695. 극초기 스타트업을 위한 2,000만 원 마케팅비 + 역세권 사무실 지원 사업
-**URL:** https://www.youtube.com/watch?v=ubA-dV_2H-k    (
+**** https://www.youtube.com/watch?v=ubA-dV_2H-k    (
 
 # 극초기 스타트업을 위한 2,000만 원 마케팅비 + 역세권 사무실 지원 사업
 
@@ -1073,7 +1073,7 @@ B2B 디자인은 B2C와 달리 사용자 수가 적고, 사용자 패스가 복�
 ---
 
 ## 696. 지속가능성을 추구하는 회사에 투자합니다
-**URL:** https://www.youtube.com/watch?v=lOOpxNuc6Fo    (
+**** https://www.youtube.com/watch?v=lOOpxNuc6Fo    (
 
 # 지속가능성을 추구하는 회사에 투자합니다
 
@@ -1175,7 +1175,7 @@ B2B 디자인은 B2C와 달리 사용자 수가 적고, 사용자 패스가 복�
 ---
 
 ## 697. 이렇게 대박칠 줄 어떻게 알았을까?
-**URL:** https://www.youtube.com/watch?v=bIkGsA-4pYs    (
+**** https://www.youtube.com/watch?v=bIkGsA-4pYs    (
 
 # 이렇게 대박칠 줄 어떻게 알았을까?
 
@@ -1281,7 +1281,7 @@ B2B 디자인은 B2C와 달리 사용자 수가 적고, 사용자 패스가 복�
 ---
 
 ## 698. 토스, 직방이 거쳐간 명문 창업 사관학교 입교생 모집
-**URL:** https://www.youtube.com/watch?v=qwZ0yAQA-QI    (
+**** https://www.youtube.com/watch?v=qwZ0yAQA-QI    (
 
 # 토스, 직방이 거쳐간 명문 창업 사관학교 입교생 모집
 
@@ -1386,7 +1386,7 @@ B2B 디자인은 B2C와 달리 사용자 수가 적고, 사용자 패스가 복�
 ---
 
 ## 699. 교실에서 선생님, 수업, 경쟁을 없앴다. 결과는 어땠을까?
-**URL:** https://www.youtube.com/watch?v=fcIEbPYLXlA    (
+**** https://www.youtube.com/watch?v=fcIEbPYLXlA    (
 
 # 교실에서 선생님, 수업, 경쟁을 없앴다. 결과는 어땠을까?
 
@@ -1463,7 +1463,7 @@ B2B 디자인은 B2C와 달리 사용자 수가 적고, 사용자 패스가 복�
 ---
 
 ## 700. 테슬라 CEO 일론 머스크가 건 현상금 50억의 주인공ㅣ에누마 이수인 대표
-**URL:** https://www.youtube.com/watch?v=BECyWP-op9M    (
+**** https://www.youtube.com/watch?v=BECyWP-op9M    (
 
 # 테슬라 CEO 일론 머스크가 건 현상금 50억의 주인공ㅣ에누마 이수인 대표
 
@@ -1566,7 +1566,7 @@ no 많은 학습이 어려운 아이들도 혼자서 사용할 수있는 최고�
 ---
 
 ## 701. 서울 사람들은 모르는 조용한 유통혁명
-**URL:** https://www.youtube.com/watch?v=NS69EkYad84    (
+**** https://www.youtube.com/watch?v=NS69EkYad84    (
 
 # 서울 사람들은 모르는 조용한 유통혁명
 
@@ -1733,7 +1733,7 @@ no 많은 학습이 어려운 아이들도 혼자서 사용할 수있는 최고�
 ---
 
 ## 702. 강남 아파트 불패신화를 자율주행이 끝낸다?
-**URL:** https://www.youtube.com/watch?v=yCF99VVGQ08    (
+**** https://www.youtube.com/watch?v=yCF99VVGQ08    (
 
 # 강남 아파트 불패신화를 자율주행이 끝낸다?
 
@@ -1859,7 +1859,7 @@ no 많은 학습이 어려운 아이들도 혼자서 사용할 수있는 최고�
 ---
 
 ## 703. 200조 푸드테크 시장에서 미래 먹거리를 엿보다
-**URL:** https://www.youtube.com/watch?v=IieK-ON56Eo    (
+**** https://www.youtube.com/watch?v=IieK-ON56Eo    (
 
 # 200조 푸드테크 시장에서 미래 먹거리를 엿보다
 
@@ -1985,7 +1985,7 @@ no 많은 학습이 어려운 아이들도 혼자서 사용할 수있는 최고�
 ---
 
 ## 704. ‘편의점 4캔 만원’보다 더 혁신이라 불릴 맥주시장의 변화
-**URL:** https://www.youtube.com/watch?v=KGuoTPvYBIQ    (
+**** https://www.youtube.com/watch?v=KGuoTPvYBIQ    (
 
 # ‘편의점 4캔 만원’보다 더 혁신이라 불릴 맥주시장의 변화
 
@@ -2130,7 +2130,7 @@ OB의 'OB 라거' 레트로 마케팅이나 하이트진로의 '테라'와 같�
 ---
 
 ## 705. 90년생 CEO가 말하는 명품 산업의 미래
-**URL:** https://www.youtube.com/watch?v=3kg6VuoKb3M    (
+**** https://www.youtube.com/watch?v=3kg6VuoKb3M    (
 
 # 90년생 CEO가 말하는 명품 산업의 미래
 
@@ -2251,7 +2251,7 @@ T-Code는 프리오더 기반의 성장을 지속하며, 패션 D2C 플랫폼으
 ---
 
 ## 706. 매달 170만 외국인에게 진짜 한국을 소개하는 스타트업
-**URL:** https://www.youtube.com/watch?v=x6e20tomSW8    (
+**** https://www.youtube.com/watch?v=x6e20tomSW8    (
 
 # 매달 170만 외국인에게 진짜 한국을 소개하는 스타트업
 
@@ -2337,7 +2337,7 @@ T-Code는 프리오더 기반의 성장을 지속하며, 패션 D2C 플랫폼으
 ---
 
 ## 707. 사업에서 중요한 건 기술이 아니다
-**URL:** https://www.youtube.com/watch?v=89w1hIerlJA    (
+**** https://www.youtube.com/watch?v=89w1hIerlJA    (
 
 # 사업에서 중요한 건 기술이 아니다
 
@@ -2435,7 +2435,7 @@ Socar, 우아한형제들, 야놀자 등 국내 주요 스타트업들의 M&A �
 ---
 
 ## 708. 인공지능 신대륙을 개척하는 한국의 탐험가들
-**URL:** https://www.youtube.com/watch?v=MhyE59TVWok    (
+**** https://www.youtube.com/watch?v=MhyE59TVWok    (
 
 # 인공지능 신대륙을 개척하는 한국의 탐험가들
 
@@ -2605,7 +2605,7 @@ VoyagerX는 단순한 연구 개발을 넘어, 딥러닝 기술을 통해 최종
 ---
 
 ## 709. 삼겹살 가격 30% 낮추는 서비스
-**URL:** https://www.youtube.com/watch?v=6B7v3mJxW0Y    (
+**** https://www.youtube.com/watch?v=6B7v3mJxW0Y    (
 
 # 삼겹살 가격 30% 낮추는 서비스: 미트박스의 혁신적인 육류 유통 플랫폼
 
@@ -2693,7 +2693,7 @@ VoyagerX는 단순한 연구 개발을 넘어, 딥러닝 기술을 통해 최종
 ---
 
 ## 710. 지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지
-**URL:** https://www.youtube.com/watch?v=V9AGvwPmnZU    (
+**** https://www.youtube.com/watch?v=V9AGvwPmnZU    (
 
 # 지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지
 
@@ -2783,7 +2783,7 @@ VoyagerX는 단순한 연구 개발을 넘어, 딥러닝 기술을 통해 최종
 ---
 
 ## 711. 4차 산업혁명을 준비하는 우리에게 필요한 것
-**URL:** https://www.youtube.com/watch?v=2in4rj3_ErM    (
+**** https://www.youtube.com/watch?v=2in4rj3_ErM    (
 
 # 4차 산업혁명을 준비하는 우리에게 필요한 것
 
@@ -2894,7 +2894,7 @@ VoyagerX는 단순한 연구 개발을 넘어, 딥러닝 기술을 통해 최종
 ---
 
 ## 712. 잡스, 일론 머스크, 제프 베조스 모두 실패 위에서 혁신했다
-**URL:** https://www.youtube.com/watch?v=_8NtizvEvko    (
+**** https://www.youtube.com/watch?v=_8NtizvEvko    (
 
 # 잡스, 일론 머스크, 제프 베조스 모두 실패 위에서 혁신했다
 
@@ -2982,7 +2982,7 @@ VoyagerX는 단순한 연구 개발을 넘어, 딥러닝 기술을 통해 최종
 ---
 
 ## 713. 연탄 좀 기부한다고 착한 기업이 되는 것은 아니다
-**URL:** https://www.youtube.com/watch?v=PjDAUYy-59Q    (
+**** https://www.youtube.com/watch?v=PjDAUYy-59Q    (
 
 # 연탄 좀 기부한다고 착한 기업이 되는 것은 아니다
 
@@ -3113,7 +3113,7 @@ VoyagerX는 단순한 연구 개발을 넘어, 딥러닝 기술을 통해 최종
 ---
 
 ## 714. 장애인 예술가는 돈을 벌 수 있을까?
-**URL:** https://www.youtube.com/watch?v=vRE2wO2BAEs    (
+**** https://www.youtube.com/watch?v=vRE2wO2BAEs    (
 
 # 장애인 예술가는 돈을 벌 수 있을까?
 
@@ -3262,7 +3262,7 @@ D-SAVED는 작가들의 작품을 절대 무료로 사용하지 않습니다. "�
 ---
 
 ## 715. 수의사가 매년 5천 마리 입양을 돕는 유기동물 입양 플랫폼을 만든 이유
-**URL:** https://www.youtube.com/watch?v=5NE4n0WsYh0    (
+**** https://www.youtube.com/watch?v=5NE4n0WsYh0    (
 
 # 수의사가 매년 5천 마리 입양을 돕는 유기동물 입양 플랫폼을 만든 이유
 
@@ -3411,7 +3411,7 @@ D-SAVED는 작가들의 작품을 절대 무료로 사용하지 않습니다. "�
 ---
 
 ## 716. 강남역의 쓰레기 더미에서 떠올린 10억 매출의 아이디어
-**URL:** https://www.youtube.com/watch?v=kYmTykE-oTM    (
+**** https://www.youtube.com/watch?v=kYmTykE-oTM    (
 
 # 강남역의 쓰레기 더미에서 떠올린 10억 매출의 아이디어
 
@@ -3500,7 +3500,7 @@ D-SAVED는 작가들의 작품을 절대 무료로 사용하지 않습니다. "�
 ---
 
 ## 717. 배달의민족 창업부터 3조 유니콘 스타트업이 되기까지
-**URL:** https://www.youtube.com/watch?v=e4lctv5VFuQ    (
+**** https://www.youtube.com/watch?v=e4lctv5VFuQ    (
 
 # 배달의민족 창업부터 3조 유니콘 스타트업이 되기까지
 
@@ -3595,7 +3595,7 @@ D-SAVED는 작가들의 작품을 절대 무료로 사용하지 않습니다. "�
 ---
 
 ## 718. 삼성 출신 컨설턴트가 만든 10억 매출 시각장애인 서비스
-**URL:** https://www.youtube.com/watch?v=tYHmHyCQzzU    (
+**** https://www.youtube.com/watch?v=tYHmHyCQzzU    (
 
 # 삼성 출신 컨설턴트가 만든 10억 매출 시각장애인 서비스
 
@@ -3709,7 +3709,7 @@ LBS Tech는 직원 성장을 최우선으로 하는 독특한 기업 문화를 �
 ---
 
 ## 719. 100억 매출 반려동물 펫테크 스타트업 핏펫 창업 이야기
-**URL:** https://www.youtube.com/watch?v=zA49oxQKBfM    (
+**** https://www.youtube.com/watch?v=zA49oxQKBfM    (
 
 # 100억 매출 반려동물 펫테크 스타트업 핏펫 창업 이야기
 
@@ -3839,4 +3839,4 @@ LBS Tech는 직원 성장을 최우선으로 하는 독특한 기업 문화를 �
 ---
 
 ## 720. 유전자 DNA 연구자 박종화 교수의 게놈과 인생 이야기
-**URL:** https://www.youtube.com/watch?v=jdwRPGXbWYc    (
+**** https://www.youtube.com/watch?v=jdwRPGXbWYc    (

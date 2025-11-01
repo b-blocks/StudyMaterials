@@ -1531,7 +1531,7 @@
 ---
 
 ## 730. 15년에 걸쳐 월거래액 300억 링크샵스를 만들기까지
-**URL:** https://www.youtube.com/watch?v=W-tfiDM27mo    (
+**** https://www.youtube.com/watch?v=W-tfiDM27mo    (
 
 # 15년에 걸쳐 월거래액 300억 링크샵스를 만들기까지: 한 창업가의 실패, 생존, 그리고 혁신에 대한 기록
 
@@ -1625,7 +1625,7 @@
 ---
 
 ## 731. 대학생 스타트업으로 시작해 피봇 후 120억 투자를 받기까지
-**URL:** https://www.youtube.com/watch?v=j_NdPp_yebY    (
+**** https://www.youtube.com/watch?v=j_NdPp_yebY    (
 
 # 대학생 스타트업으로 시작해 피봇 후 120억 투자를 받기까지: 클래스101 성공 사례 분석
 
@@ -1745,7 +1745,7 @@
 ---
 
 ## 732. [2024 카카오 신임 대표] 카카오벤처스 정신아 대표의 이야기
-**URL:** https://www.youtube.com/watch?v=2dAuX6e7xO0    (
+**** https://www.youtube.com/watch?v=2dAuX6e7xO0    (
 
 # [2024 카카오 신임 대표] 카카오벤처스 정신아 대표의 이야기
 
@@ -1843,7 +1843,7 @@
 ---
 
 ## 733. 20대가 창업한 100억가치 농업 스타트업 | 록야 공동대표 박영민, 권민수
-**URL:** https://www.youtube.com/watch?v=QNCy0nbsRLU    (
+**** https://www.youtube.com/watch?v=QNCy0nbsRLU    (
 
 # 20대가 창업한 100억 가치 농업 스타트업 | 록야 공동대표 박영민, 권민수
 
@@ -1929,7 +1929,7 @@
 ---
 
 ## 734. 억대 빚 실패에서 만든 글로벌 1,000만 다운로드 어플
-**URL:** https://www.youtube.com/watch?v=w2UrmIbd5Ow    (
+**** https://www.youtube.com/watch?v=w2UrmIbd5Ow    (
 
 물론입니다. 제공해주신 유튜브 영상 자막을 바탕으로, 단순한 요약을 넘어 깊이 있는 학습과 성찰을 제공하는 교육 자료를 작성해 드리겠습니다. 출판에 적합한 수준의 완성도를 목표로, 요청하신 구조와 가이드라인을 철저히 준수하여 작성했습니다.
 
@@ -2058,7 +2058,7 @@
 ---
 
 ## 735. 그럼에도 불구하고 블록체인에 주목해야 하는 이유 | 블록체인 전문 투자사 해시드 대표 김서준
-**URL:** https://www.youtube.com/watch?v=fc_NLGLSb4k    (
+**** https://www.youtube.com/watch?v=fc_NLGLSb4k    (
 
 # 그럼에도 불구하고 블록체인에 주목해야 하는 이유 | 블록체인 전문 투자사 해시드 대표 김서준
 
@@ -2184,7 +2184,7 @@
 ---
 
 ## 736. 사업 실패 후 독서실 프렌차이즈 2년 만에 연 매출 160억
-**URL:** https://www.youtube.com/watch?v=k8KeSooxtzg    (
+**** https://www.youtube.com/watch?v=k8KeSooxtzg    (
 
 # 사업 실패 후 독서실 프렌차이즈 2년 만에 연 매출 160억
 
@@ -2305,7 +2305,7 @@
 ---
 
 ## 737. 실리콘밸리가 혁신하는 이유, 한국 스타트업에게 필요한 것
-**URL:** https://www.youtube.com/watch?v=TKUIHMe4Xbo    (
+**** https://www.youtube.com/watch?v=TKUIHMe4Xbo    (
 
 # 실리콘밸리가 혁신하는 이유, 한국 스타트업에게 필요한 것
 
@@ -2395,7 +2395,7 @@
 ---
 
 ## 738. 우리가 한 번도 생각해 본 적 없는 미래도시 이야기 | 녹색도시연구소 연구소장 김유민
-**URL:** https://www.youtube.com/watch?v=PvLO2URM9Fw    (
+**** https://www.youtube.com/watch?v=PvLO2URM9Fw    (
 
 # 우리가 한 번도 생각해 본 적 없는 미래도시 이야기 | 녹색도시연구소 연구소장 김유민
 
@@ -2518,7 +2518,7 @@
 ---
 
 ## 739. 삼성전자가 1억 원을 지원하는 스타트업 공모전 씨랩
-**URL:** https://www.youtube.com/watch?v=Zl70LRkK6iY    (
+**** https://www.youtube.com/watch?v=Zl70LRkK6iY    (
 
 # 삼성전자가 1억 원을 지원하는 스타트업 공모전 씨랩 (C-Lab)
 
@@ -2628,7 +2628,7 @@ C-Lab이 제시하는 4가지 모집 분야는 삼성전자가 어떤 미래 기
 ---
 
 ## 740. 우리가 이미 인류 진화의 중심에 있는 이유 | 성균관대학교 기계공학부 교수 최재붕
-**URL:** https://www.youtube.com/watch?v=0Kb4WBQAfW0    (
+**** https://www.youtube.com/watch?v=0Kb4WBQAfW0    (
 
 # 우리가 이미 인류 진화의 중심에 있는 이유 | 성균관대학교 기계공학부 교수 최재붕
 
@@ -2737,7 +2737,7 @@ C-Lab이 제시하는 4가지 모집 분야는 삼성전자가 어떤 미래 기
 ---
 
 ## 741. 아마존으로 2,600억 매출 회사가 되기까지ㅣ슈피겐 CEO 김대영
-**URL:** https://www.youtube.com/watch?v=McMpXYZhZt4    (
+**** https://www.youtube.com/watch?v=McMpXYZhZt4    (
 
 # 아마존으로 2,600억 매출 회사가 되기까지ㅣ슈피겐 CEO 김대영
 
@@ -2861,7 +2861,7 @@ C-Lab이 제시하는 4가지 모집 분야는 삼성전자가 어떤 미래 기
 ---
 
 ## 742. 지금까지 1인 미디어 태용을 시청해주셔서 감사합니다
-**URL:** https://www.youtube.com/watch?v=zEQW6esmouQ    (
+**** https://www.youtube.com/watch?v=zEQW6esmouQ    (
 
 # 1인 크리에이터, 어떻게 10만 구독자를 넘어 미디어 스타트업으로 진화하는가
 
@@ -2952,7 +2952,7 @@ EO의 성장에 결정적인 역할을 한 것은 광고주-매체의 관계를 
 ---
 
 ## 743. 사업 7번 실패, 창업에 대한 솔직한 생각 | 미텔슈탄트 대표 조동인
-**URL:** https://www.youtube.com/watch?v=LWdAO_A5B4g    (
+**** https://www.youtube.com/watch?v=LWdAO_A5B4g    (
 
 # 사업 7번 실패, 창업에 대한 솔직한 생각 | 미텔슈탄트 대표 조동인
 
@@ -3073,7 +3073,7 @@ EO의 성장에 결정적인 역할을 한 것은 광고주-매체의 관계를 
 ---
 
 ## 744. 26살 9년 차 크리에이터 이신혁이 만드는 영상 (feat.티키틱)
-**URL:** https://www.youtube.com/watch?v=pQDmZQw2moQ    (
+**** https://www.youtube.com/watch?v=pQDmZQw2moQ    (
 
 # 26살 9년 차 크리에이터 이신혁이 만드는 영상 (feat.티키틱)
 
@@ -3165,7 +3165,7 @@ EO의 성장에 결정적인 역할을 한 것은 광고주-매체의 관계를 
 ---
 
 ## 745. 스탠퍼드 대학교 한국인 부학장 폴 킴의 '혁신을 위한 질문' | 스탠퍼드 대학교 부학장 폴 킴
-**URL:** https://www.youtube.com/watch?v=pVL7nm74y4w    (
+**** https://www.youtube.com/watch?v=pVL7nm74y4w    (
 
 # 스탠퍼드 대학교 한국인 부학장 폴 킴의 '혁신을 위한 질문' | 스탠퍼드 대학교 부학장 폴 킴
 
@@ -3260,7 +3260,7 @@ EO의 성장에 결정적인 역할을 한 것은 광고주-매체의 관계를 
 ---
 
 ## 746. 전세계 100만 명이 쓰는 어플을 만든 대학생 창업가 | 비트바이트 대표 안서형
-**URL:** https://www.youtube.com/watch?v=iUPirj5exbs    (
+**** https://www.youtube.com/watch?v=iUPirj5exbs    (
 
 # 전세계 100만 명이 쓰는 어플을 만든 대학생 창업가 | 비트바이트 대표 안서형
 
@@ -3382,7 +3382,7 @@ EO의 성장에 결정적인 역할을 한 것은 광고주-매체의 관계를 
 ---
 
 ## 747. 고려대 법대를 졸업한 박남주가 유튜브 크리에이터가 된 이유
-**URL:** https://www.youtube.com/watch?v=yKAm0R6yeo0    (
+**** https://www.youtube.com/watch?v=yKAm0R6yeo0    (
 
 # 고려대 법대를 졸업한 박남주가 유튜브 크리에이터가 된 이유
 
@@ -3482,7 +3482,7 @@ EO의 성장에 결정적인 역할을 한 것은 광고주-매체의 관계를 
 ---
 
 ## 748. 구글 5년차 매니저가 말하는 “가상이 현실이 된 세상”
-**URL:** https://www.youtube.com/watch?v=pzOKiuJuDcQ    (
+**** https://www.youtube.com/watch?v=pzOKiuJuDcQ    (
 
 # 구글 5년차 매니저가 말하는 “가상이 현실이 된 세상”
 
@@ -3604,7 +3604,7 @@ EO의 성장에 결정적인 역할을 한 것은 광고주-매체의 관계를 
 ---
 
 ## 749. 항상 대학입시로 귀결되는 한국사회를 바꾸려면 | 유쓰망고 대표 김하늬
-**URL:** https://www.youtube.com/watch?v=-CNBRj3Tykc    (
+**** https://www.youtube.com/watch?v=-CNBRj3Tykc    (
 
 # 항상 대학입시로 귀결되는 한국사회를 바꾸려면 | 유쓰망고 대표 김하늬
 
@@ -3726,7 +3726,7 @@ EO의 성장에 결정적인 역할을 한 것은 광고주-매체의 관계를 
 ---
 
 ## 750. 서울대 인문학 교수가 프랑스에서 느낀 인문학 교육의 중요성 | 서울대학교 인문학연구원 교수 김헌
-**URL:** https://www.youtube.com/watch?v=SJNpJfPOuA4    (
+**** https://www.youtube.com/watch?v=SJNpJfPOuA4    (
 
 # 서울대 인문학 교수가 프랑스에서 느낀 인문학 교육의 중요성 | 서울대학교 인문학연구원 교수 김헌
 
@@ -3835,4 +3835,4 @@ EO의 성장에 결정적인 역할을 한 것은 광고주-매체의 관계를 
 ---
 
 ## 751. 20Kg 살을 빼며 정립한 다이어트 철학, 50만 고객 스타트업이 되다
-**URL:** https://www.youtube.com/watch?v=e3zp2yWO6t0    (
+**** https://www.youtube.com/watch?v=e3zp2yWO6t0    (

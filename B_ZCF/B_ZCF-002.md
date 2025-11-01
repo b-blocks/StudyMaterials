@@ -138,7 +138,7 @@
 ---
 
 ## 36. 99년생 투자회사 대표 인터뷰
-**URL:** https://www.youtube.com/watch?v=DhDQMkZfGUI    (
+**** https://www.youtube.com/watch?v=DhDQMkZfGUI    (
 
 ## 1. 핵심 요약
 
@@ -293,7 +293,7 @@ GD Ventures는 펀드 규모나 직접적인 조언 능력에서 한계가 있�
 ---
 
 ## 37. 안경이 미래다 (마크 저커버그)
-**URL:** https://www.youtube.com/watch?v=3lMHvM5NVYc    (
+**** https://www.youtube.com/watch?v=3lMHvM5NVYc    (
 
 ## 1. 핵심 요약
 
@@ -421,7 +421,7 @@ Meta의 스마트 글래스 및 메타버스 기술은 다양한 사업화 기�
 ---
 
 ## 38. 오라클 주가 터졌다
-**URL:** https://www.youtube.com/watch?v=hwyRJ5955Pk    (
+**** https://www.youtube.com/watch?v=hwyRJ5955Pk    (
 
 ## 1. 핵심 요약
 
@@ -623,7 +623,7 @@ Oracle의 사례는 AI 시대의 비즈니스 기회와 전략적 중요성을 �
 ---
 
 ## 39. 원자력 할거야
-**URL:** https://www.youtube.com/watch?v=5VDJ1W4UTAc    (
+**** https://www.youtube.com/watch?v=5VDJ1W4UTAc    (
 
 ## 1. 핵심 요약
 
@@ -768,7 +768,7 @@ Oracle의 사례는 AI 시대의 비즈니스 기회와 전략적 중요성을 �
 ---
 
 ## 40. 일론머스크 30분 전문번역
-**URL:** https://www.youtube.com/watch?v=3TMnDCv4IN0    (
+**** https://www.youtube.com/watch?v=3TMnDCv4IN0    (
 
 ## 1. 핵심 요약
 
@@ -864,7 +864,7 @@ Oracle의 사례는 AI 시대의 비즈니스 기회와 전략적 중요성을 �
 ---
 
 ## 41. 훈수질좀 하지마 (팔란티어)
-**URL:** https://www.youtube.com/watch?v=87f_V8rs36w    (
+**** https://www.youtube.com/watch?v=87f_V8rs36w    (
 
 ## 1. 핵심 요약
 
@@ -972,7 +972,7 @@ Oracle의 사례는 AI 시대의 비즈니스 기회와 전략적 중요성을 �
 ---
 
 ## 42. 아침 5시에 일어나 (고긴스)
-**URL:** https://www.youtube.com/watch?v=nvi_wl39Mx0    (
+**** https://www.youtube.com/watch?v=nvi_wl39Mx0    (
 
 ## 1. 핵심 요약
 
@@ -1069,7 +1069,7 @@ Oracle의 사례는 AI 시대의 비즈니스 기회와 전략적 중요성을 �
 ---
 
 ## 43. 전문직 하지마
-**URL:** https://www.youtube.com/watch?v=-m6qFP4Tk30    (
+**** https://www.youtube.com/watch?v=-m6qFP4Tk30    (
 
 ## 1. 핵심 요약
 
@@ -1275,7 +1275,7 @@ AI 시대의 급변하는 환경 속에서 개인의 성장과 성공을 위한 
 ---
 
 ## 44. 그냥 팔란티어 쓰라니까 (알렉스 카프)
-**URL:** https://www.youtube.com/watch?v=lDtEJQ57VVQ    (
+**** https://www.youtube.com/watch?v=lDtEJQ57VVQ    (
 
 ## 1. 핵심 요약
 
@@ -1373,7 +1373,7 @@ LLM 시대에는 숙련된 인력의 가치가 더욱 높아집니다. 특히 '�
 ---
 
 ## 45. 중국 인공지능 무섭다
-**URL:** https://www.youtube.com/watch?v=QRqCyh0qAi8    (
+**** https://www.youtube.com/watch?v=QRqCyh0qAi8    (
 
 ## 닥터 웡이 말하는 AI의 진화와 미래: 실제 문제 해결을 위한 기술, 시장, 그리고 인재
 
@@ -1446,7 +1446,7 @@ Wong 박사님, Bloomberg에서 우리와 함께 해주셔서 감사합니다. �
 ---
 
 ## 46. 팔란티어 알렉스카프 (한글번역)
-**URL:** https://www.youtube.com/watch?v=WRPa7XZVnjE    (
+**** https://www.youtube.com/watch?v=WRPa7XZVnjE    (
 
 ## Palantir Alex Karp 연설문 분석: LLM 시대의 기업 혁신 전략
 
@@ -1546,7 +1546,7 @@ Alex Karp 박사 인 Palunteer의 공동 창립자 겸 CEO를 환영하십시오
 ---
 
 ## 47. 나발과 대화, 귀하다
-**URL:** https://www.youtube.com/watch?v=9OPTVHcXrqM    (
+**** https://www.youtube.com/watch?v=9OPTVHcXrqM    (
 
 ## 1. 핵심 요약
 
@@ -1659,7 +1659,7 @@ Alex Karp 박사 인 Palunteer의 공동 창립자 겸 CEO를 환영하십시오
 ---
 
 ## 48. 사장들 다 집합시켜 (트럼프)
-**URL:** https://www.youtube.com/watch?v=w5uT0TANmfE    (
+**** https://www.youtube.com/watch?v=w5uT0TANmfE    (
 
 ## 1. 핵심 요약
 
@@ -1772,7 +1772,7 @@ AI 시대의 도래와 미국의 강력한 리더십을 바탕으로, 다음과 
 ---
 
 ## 49. 메타 채용 멈췄다? (🧊)
-**URL:** https://www.youtube.com/watch?v=_4P5bFsg1pc    (
+**** https://www.youtube.com/watch?v=_4P5bFsg1pc    (
 
 ## 1. 핵심 요약
 
@@ -1865,7 +1865,7 @@ AI 시장의 '건강한 조정'과 수직적 AI의 부상은 새로운 비즈니
 ---
 
 ## 50. 주 4일 근무 (엔비디아)
-**URL:** https://www.youtube.com/watch?v=VvOsNJfcxf0    (
+**** https://www.youtube.com/watch?v=VvOsNJfcxf0    (
 
 ## 1. 핵심 요약
 
@@ -2159,7 +2159,7 @@ Nvidia Wall Street는 어깨에 칩으로 세션 종류를 시작하여 AI Chip 
 ---
 
 ## 51. 1등 엔비디아 2등 테슬라
-**URL:** https://www.youtube.com/watch?v=MDq6Rg_RIQs    (
+**** https://www.youtube.com/watch?v=MDq6Rg_RIQs    (
 
 ## 1. 핵심 요약
 
@@ -2364,7 +2364,7 @@ GPU(Graphics Processing Unit)는 수많은 코어를 통해 병렬 연산을 효
 ---
 
 ## 52. 풀번역 | OpenAI 창업자 30분 대화
-**URL:** https://www.youtube.com/watch?v=Bz5yVhVUk8A    (
+**** https://www.youtube.com/watch?v=Bz5yVhVUk8A    (
 
 ## 1. 핵심 요약
 
@@ -2523,7 +2523,7 @@ AI는 단순한 기술이 아니라, 개인의 생산성, 창의성, 문제 해�
 ---
 
 ## 53. 
-**URL:** https://www.youtube.com/watch?v=Bz5yVhVUk8A    (
+**** https://www.youtube.com/watch?v=Bz5yVhVUk8A    (
 
 ```
 그러나 그 첫 번째를 고수하십시오. 음에 대해 얼마나 많은 사람들이 요청한 지 놀랐고 Google 검색의 더 나은 버전 이외의 다른 방법으로 Chachi PT를 사용해 본 적이 없습니다. 그리고 제가주는 최고의 조언은 도구의 능력에 능통하는 것을 좋아하는 것입니다. 인생에서 이것을 사용하는 것을 좋아하는 방법을 알아 봅니다. 그것으로 무엇을 해야할지 알아 내십시오. 그리고 나는 그것이 아마도 가장 중요한 전술적 조언 일 것이라고 생각합니다. 알다시피, 명상처럼 가고, 탄력적 인 방법을 배우고 많은 변화를 처리합니다. 좋은 것들도 있습니다. 그러나 도구를 사용하는 것만으로도 실제로 도움이됩니다. >> 시간 내 주셔서 감사합니다. >> 대단히 감사합니다.
@@ -2531,7 +2531,7 @@ AI는 단순한 기술이 아니라, 개인의 생산성, 창의성, 문제 해�
 ---
 
 ## 54. 비트코인 시간문제다 (발라지)
-**URL:** https://www.youtube.com/watch?v=LhOcio1Hrr8    (
+**** https://www.youtube.com/watch?v=LhOcio1Hrr8    (
 
 ## 1. 핵심 요약
 
@@ -2690,7 +2690,7 @@ AI는 단순한 기술이 아니라, 개인의 생산성, 창의성, 문제 해�
 ---
 
 ## 55. 인공지능 버블맞다
-**URL:** https://www.youtube.com/watch?v=b5TfjSTZY7Q    (
+**** https://www.youtube.com/watch?v=b5TfjSTZY7Q    (
 
 ## 1. 핵심 요약
 
@@ -2903,7 +2903,7 @@ AI Mania는 이번 주에 약간의 우회를 쳤다. 3-4 일 동안, AI 주식�
 ---
 
 ## 56. 대기업처럼 하지마 (에어비엔비 대표)
-**URL:** https://www.youtube.com/watch?v=cQd8hurOo4Y    (
+**** https://www.youtube.com/watch?v=cQd8hurOo4Y    (
 
 ## 창업가 모드 (Founder Mode): 위기를 기회로 바꾸는 리더십의 재발견
 
@@ -3007,7 +3007,7 @@ AI Mania는 이번 주에 약간의 우회를 쳤다. 3-4 일 동안, AI 주식�
 ---
 
 ## 57. 외국에서 바라보는 삼성
-**URL:** https://www.youtube.com/watch?v=5_CqIDiXrGg    (
+**** https://www.youtube.com/watch?v=5_CqIDiXrGg    (
 
 ## 1. 핵심 요약
 
@@ -3091,7 +3091,7 @@ AI Mania는 이번 주에 약간의 우회를 쳤다. 3-4 일 동안, AI 주식�
 ---
 
 ## 58. 인공지능 한계있다 (얀 르쿤)
-**URL:** https://www.youtube.com/watch?v=k4FcWk7AcYc    (
+**** https://www.youtube.com/watch?v=k4FcWk7AcYc    (
 
 ## 1. 핵심 요약
 
@@ -3161,7 +3161,7 @@ AI Mania는 이번 주에 약간의 우회를 쳤다. 3-4 일 동안, AI 주식�
 ---
 
 ## 59. 주식 지금 고점임 (하워드막스)
-**URL:** https://www.youtube.com/watch?v=1UiU3UWsOYw    (
+**** https://www.youtube.com/watch?v=1UiU3UWsOYw    (
 
 ## 1. 핵심 요약
 
@@ -3243,7 +3243,7 @@ AI Mania는 이번 주에 약간의 우회를 쳤다. 3-4 일 동안, AI 주식�
 ---
 
 ## 60. 경제적 자유 (스콧 갤러웨이)
-**URL:** https://www.youtube.com/watch?v=2_owzZFLxp8    (
+**** https://www.youtube.com/watch?v=2_owzZFLxp8    (
 
 ## 1. 핵심 요약
 
@@ -3364,7 +3364,7 @@ AI Mania는 이번 주에 약간의 우회를 쳤다. 3-4 일 동안, AI 주식�
 ---
 
 ## 61. 억대연봉 포기하고 창업한 이유 (클로브 도은욱 대표)
-**URL:** https://www.youtube.com/watch?v=Fj58zAEomy0    (
+**** https://www.youtube.com/watch?v=Fj58zAEomy0    (
 
 ## 1. 핵심 요약
 
@@ -3482,7 +3482,7 @@ V1C는 11명의 소규모 팀으로 운영됩니다. 이는 '사람이 너무 �
 ---
 
 ## 62. 골드만삭스 부회장 : 일 잘하는 법
-**URL:** https://www.youtube.com/watch?v=ulGLviVsEl0    (
+**** https://www.youtube.com/watch?v=ulGLviVsEl0    (
 
 ## 1. 핵심 요약
 
@@ -3645,7 +3645,7 @@ V1C는 11명의 소규모 팀으로 운영됩니다. 이는 '사람이 너무 �
 ---
 
 ## 63. 세상은 시뮬레이션이다 (구글 딥마인드 CEO)
-**URL:** https://www.youtube.com/watch?v=Gq9JBV48Zmw    (
+**** https://www.youtube.com/watch?v=Gq9JBV48Zmw    (
 
 ## 1. 핵심 요약
 

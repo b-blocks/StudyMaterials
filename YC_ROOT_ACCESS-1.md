@@ -1,5 +1,5 @@
 # Fireside with Boom Founder & CEO Blake Scholl
-**URL:** https://www.youtube.com/watch?v=bk0OWFPqhfU
+**** https://www.youtube.com/watch?v=bk0OWFPqhfU
 
 초음속 비행의 미래와 미국 산업의 재건
 
@@ -92,7 +92,7 @@
 *   **주의사항:** 방어적인 차원에서 최소한의 특허는 유지하지만, 핵심 경쟁
 
 # Fireside with FTC Chairman Andrew Ferguson
-**URL:** https://www.youtube.com/watch?v=hFodoGofMtg
+**** https://www.youtube.com/watch?v=hFodoGofMtg
 
 빅 테크와 반독점법의 미래
 
@@ -172,7 +172,7 @@ FTC의 핵심 임무는 다음과 같습니다.
 또한, 그는 빌더들에게 `FTC에 적극적으로 문제 제기`할 것을 당부합니다. FTC는 시장에서 일어나는 모든 일을 알 수 없으므로, 빌더들이 `독점 문제`, `반경쟁적 행위`, `소비자에게 해를 끼치는 행위`를 발견하면 주저하지 말고 FTC에 알려야 한다고 강조합니다. 비록 모든 문제에 즉각적인 해결책이 없을 수도 있지만, FTC가 시장의 문제점을 인지하는 것이
 
 # Founder Demo: Newsha Ghaeli, Co-founder & President of Biobot Analytics
-**URL:** https://www.youtube.com/watch?v=UouFu6k45lw
+**** https://www.youtube.com/watch?v=UouFu6k45lw
 
 Biobot의 폐수 역학 혁신
 
@@ -240,7 +240,7 @@ Biobot의 폐수 역학 혁신
 *   **교훈:** Biobot의 여정은 가치 있는 새로운 시장을 창출하면 다른 경쟁자들이 뒤따른다는 것을 가르쳐주었습니다. 거대 기술 기업은 스타트업이 가지지 못한 도구와 자원을 가지고 있습니다. 그러나 Biobot은 또한 **집중(focus)**과 **혁신(innovation)**이 성과를 낸다는 것을 직접 경험했습니다. 이는 202
 
 # Founder Demo: Cyril Gorrla, Co-founder & CEO of CTGT
-**URL:** https://www.youtube.com/watch?v=5tluNIMcuTs
+**** https://www.youtube.com/watch?v=5tluNIMcuTs
 
 AI의 불투명성, 편향성, 검열 문제 해결
 
@@ -300,7 +300,7 @@ AI의 불투명성, 편향성, 검열 문제 해결
 *   **CTGT의 비전:** AI의 환각(hallucinations), 편향, 안전성 문제를 `첫 번째 원칙 연구 및 엔지니어링(first principles research and engineering)`을 통해 해결하고자 합니다. AI가 정보를 숨기거나 왜곡하는 것을 당연하게 받아들여서는 안 되며, 투명성,
 
 # Wither Realignment?
-**URL:** https://www.youtube.com/watch?v=p670juDb_5Y
+**** https://www.youtube.com/watch?v=p670juDb_5Y
 
 빅테크 반독점 규제의 초당적 연대
 
@@ -372,7 +372,7 @@ AI의 불투명성, 편향성, 검열 문제 해결
 *   **주의사항:** AI 경쟁에서 개방적이고 활기찬 시장, 반도체 산업 투자, 산업 정책 등이 중요하며, 기술 독점이 인접 산업을 악화시킬 수 있음을 인지해야 합니다.
 
 # Founder Demo: Daniel Vega, Co-Founder & CTO of Inversion Semiconductor
-**URL:** https://www.youtube.com/watch?v=fQvAw5Qj20k
+**** https://www.youtube.com/watch?v=fQvAw5Qj20k
 
 반도체 산업의 미래와 미국의 도전
 
@@ -434,7 +434,7 @@ AI의 불투명성, 편향성, 검열 문제 해결
 *   **핵심 개념:** 미국 내 첨단 반도체 제조 역량을 재건하기 위해서는 정부의 적극적인 '산업 정책(industrial policy)'과 함께, 첨단 칩 설계 기업 및 스타트업과의 긴밀한 협력, 그리고 연구 개발 투자가 필수적입니다.
 
 # The Exit Interview with Jonathan Kanter
-**URL:** https://www.youtube.com/watch?v=NCY0IUaiLOA
+**** https://www.youtube.com/watch?v=NCY0IUaiLOA
 
 독점 금지법과 기술 혁신
 
@@ -508,7 +508,7 @@ AI의 불투명성, 편향성, 검열 문제 해결
 *   **주의사항:** 독점 금지 집행은 끊임없이 변화하는 시장 환경에 맞춰 유연하게 전략을 조정하고, 내부 역량을 강화하는 노력을 지속해야 합니다.
 
 # AI, Startups, & Competition: Shaping California’s Tech Future
-**URL:** https://www.youtube.com/watch?v=pieVtTrbDBs
+**** https://www.youtube.com/watch?v=pieVtTrbDBs
 
 AI 경쟁 및 규제: 혁신과 독점 방지
 
@@ -585,7 +585,7 @@ AI 경쟁 및 규제: 혁신과 독점 방지
     *   **오픈 AGI 연구의 필요성:** 역사적으로 AI 혁신은 호기심, 공유, 새로운 아이디어 탐구를 통해 이루어졌습니다. 마이크는 규제적 포획(regulatory capture)과 현재 AI의 "형편없는 버전"에 대한 속도 제한(rate limit) 대신, 개방형 AGI 연구를 장려하는 정책과 인센티브가 필요하다고 주장합니다.
 
 # AI 시대의 혁신, 경쟁, 그리고 규제: Capital AI와 FTC의 관점
-**URL:** https://www.youtube.com/watch?v=pieVtTrbDBs
+**** https://www.youtube.com/watch?v=pieVtTrbDBs
 
 ## 1. 개요
 이 학습 자료는 AI 기술이 콘텐츠 생성 및 정책 분석에 어떻게 활용되는지, 그리고 이러한 기술 발전이 시장 경쟁과 규제 환경에 미치는 영향에 대해 심층적으로 다룹니다. 특히, Capital AI라는 데이터 기반 설득 콘텐츠 생성 도구의 기능과 활용 사례를 소개하고, 미국 연방거래위원회(FTC) 의장 리나 칸(Lina Khan)의 AI 시대 독점 방지 및 공정 경쟁 촉진에 대한 비전과 정책적 접근을 조명합니다. 이 자료는 AI 기술의 현재와 미래, 그리고 그에 따른 사회적, 경제적, 규제적 함의에 관심 있는 독자들을 대상으로 하며, AI, 정책, 독점금지법에 대한 기본적인 이해가 있는 경우 더욱 효과적으로 학습할 수 있습니다. 핵심 질문은 "AI 혁신을 촉진하면서도 시장의 공정성과 소비자 보호를 어떻게 보장할 것인가?"입니다.
@@ -704,7 +704,7 @@ FTC는 스타트업이 성공하는 데 필요한 자원(인재, 핵심 투입�
 *   **FTC의 입장:** 리나 칸 의장은 이 질문에 대해 직접적인 입장을 표명하기보다는, 현재 법원이 수십 년간 유지되어 온 핵심 원칙들을 재검토하는 불확실성의 시기임을 언급했습니다. 이는 AI 및 기술 규제 환경에도 간접적인 영향을 미칠 수 있는 중요한
 
 # 딥러닝 자료: AI 시대의 규제, 혁신, 그리고 미래
-**URL:** https://www.youtube.com/watch?v=pieVtTrbDBs
+**** https://www.youtube.com/watch?v=pieVtTrbDBs
 
 ## 1. 개요
 본 자료는 AI 기술의 급격한 발전 속에서 제기되는 다양한 규제, 윤리, 그리고 사회적 영향에 대한 심층적인 논의를 다룹니다. 특히, 행정법의 변화, 디지털 시장 규제, 반독점 문제, 데이터 프라이버시, 그리고 AI 안전성 등 핵심적인 정책 및 기술적 쟁점들을 탐구합니다. 이 자료는 AI 기술의 현재와 미래에 대한 이해를 돕고, 정책 입안자, 기술 개발자, 법률 전문가, 그리고 일반 대중이 AI 시대의 복잡한 문제들을 다각도로 조망할 수 있도록 돕는 것을 목적으로 합니다.
@@ -805,7 +805,7 @@ FTC는 스타트업이 성공하는 데 필요한 자원(인재, 핵심 투입�
 *   **주의사항**: AI는 법률 업무의 효율성을 크게 높이지만, 여전히 인간 변호사의 전문적인 판단과 윤리적 책임이 필요합니다. AI의 `환각 현상` 가능성을 완전히 배제할 수 없으므로, AI가 제공하는 정보에 대한 검증은 필수적입니다.
 
 # AI, Startups, & Competition: Shaping California’s Tech Future
-**URL:** https://www.youtube.com/watch?v=pieVtTrbDBs
+**** https://www.youtube.com/watch?v=pieVtTrbDBs
 
 ## 1. 개요
 
@@ -919,7 +919,7 @@ FTC는 스타트업이 성공하는 데 필요한 자원(인재, 핵심 투입�
 *   **주의사항:** 이 논의는 AI 규제가 의도치 않게 시장
 
 # FTC Chair Lina Khan at Y Combinator
-**URL:** https://www.youtube.com/watch?v=9CWbc6pekd8
+**** https://www.youtube.com/watch?v=9CWbc6pekd8
 
 기술 산업과 규제, 그리고 혁신
 
@@ -1008,7 +1008,7 @@ FTC는 크게 두 가지 주요 임무를 수행합니다.
 리나 칸 위원장의 규제 접근 방식에는 "인간의 번영(human flourishing)"과 "더 나은 결과(better outcomes)"를 추구하는 철학이 깔려 있습니다. 이는 경쟁, 비차별, 공정한 경쟁의 장(Level Playing Field)을 통해 사람들이 더 나은 기회를 얻고, 기업이 고객에게 더 나은 가치를 제공하도록 유도하는 것을 목표로 합니다. 정부의 역할은 미래를 예측하는 것이 아니라,
 
 # AI 시대의 경쟁, 프라이버시, 그리고 규제
-**URL:** https://www.youtube.com/watch?v=9CWbc6pekd8
+**** https://www.youtube.com/watch?v=9CWbc6pekd8
 
 ## 1. 개요
 본 학습 자료는 미국 연방거래위원회(FTC) 관계자와의 질의응답을 통해 AI 시대에 새롭게 부상하는 시장 경쟁, 소비자 프라이버시 보호, 그리고 국제적 규제 협력에 대한 심층적인 통찰을 제공합니다. 영상은 특히 대규모 언어 모델(LLM)과 AI 기술의 급속한 발전이 기존의 법적, 윤리적 프레임워크에 어떤 도전 과제를 던지는지, 그리고 규제 당국이 이에 어떻게 대응하고 있는지를 다룹니다. 이 자료는 기술 산업 종사자, 정책 입안자, 법률 전문가, 그리고 AI 시대의 규제 환경에 관심 있는 일반 대중을 대상으로 하며, AI 기술의 사회적 영향과 규제 방향에 대한 이해를 돕는 것을 목적으로 합니다.
@@ -1085,7 +1085,7 @@ FTC는 크게 두 가지 주요 임무를 수행합니다.
     국제적 협력은 중요하지만, 각국의 `주권(sovereignty)`과 `법적 프레임워크(legal framework)`의 차이로 인해 완전한 `조화(harmonization)`는 어렵습니다. 따라서 정보 공유를 통해 상호 이해를 높이고 최
 
 # YC Tech Talks: Machine Learning
-**URL:** https://www.youtube.com/watch?v=9h1dxWDFgTU
+**** https://www.youtube.com/watch?v=9h1dxWDFgTU
 
 YouTube Tech Talks: 머신러닝 심층 학습 자료
 
@@ -1230,7 +1230,7 @@ Avalon은 오픈 소스 Godot 게임 엔진을 기반으로 구축되었습니�
 *   **영향:** 딥페이크는 모든 산업 분야(은행, 보험, 스트리밍, 소셜 미디어, 정부)에 영향을 미치며, 가짜 얼굴, 계정, 주택, 음성 등 다양한 형태로 나타납니다.
 
 # YC Startup Talks: Startup Equity with Compound (YC S19)
-**URL:** https://www.youtube.com/watch?v=Jpem6ZqWHt8
+**** https://www.youtube.com/watch?v=Jpem6ZqWHt8
 
 ## 1. 개요
 
@@ -1418,7 +1418,7 @@ Avalon은 오픈 소스 Godot 게임 엔진을 기반으로 구축되었습니�
 *   **주의사항:** 단기적인 금전적 이익만을 쫓아 잦은 이직을 하거나, 퇴사 시 회사와의 관계를 소홀히 하면 장기적인 경력에 부정적인 영향을 미칠 수 있습니다.
 
 # 스타트업 투자 및 커리어 선택의 지혜
-**URL:** https://www.youtube.com/watch?v=Jpem6ZqWHt8
+**** https://www.youtube.com/watch?v=Jpem6ZqWHt8
 
 ## 1. 개요
 이 학습 자료는 YouTube 영상의 자막 내용을 기반으로, 스타트업 투자 및 커리어 선택 시 고려해야 할 핵심 요소들을 심층적으로 다룹니다. 특히, 성장률과 잠재력 평가, 내부자 정보의 가치, 그리고 스톡옵션과 관련된 재정 및 세금 문제(QSBS, 행사 자금 조달)에 대한 실질적인 조언을 제공합니다. 이 자료는 스타트업에 관심 있는 투자자, 예비 창업가, 그리고 스타트업 합류를 고려하는 직장인들이 현명한 의사결정을 내릴 수 있도록 돕는 것을 목적으로 합니다.
@@ -1521,7 +1521,7 @@ Avalon은 오픈 소스 Godot 게임 엔진을 기반으로 구축되었습니�
     *   "Recourse"와 "Non-Recourse"의 차이를 명확히 이해하고 자신의 재정 상황과 위험 감수 수준에 맞는 선택을 해야 합니다.
 
 # Finding your next role: Tips from YC's Talent team
-**URL:** https://www.youtube.com/watch?v=O4CA2gBKG9Y
+**** https://www.youtube.com/watch?v=O4CA2gBKG9Y
 
 변화하는 채용 시장에서 성공하는 법 (YC 채용 전문가 조언)
 
@@ -1685,7 +1685,7 @@ YC 채용 전문가들이 현재 주목하고 있는 YC 포트폴리오 회사�
 *   **Whatnot:** 라이브 커머스 및 마켓플레이스 플랫폼입니다.
 
 # YC Alumni Lightning Round
-**URL:** https://www.youtube.com/watch?v=MKEblI7yF_8
+**** https://www.youtube.com/watch?v=MKEblI7yF_8
 
 YouTube YC Alumni Demo Day: 혁신적인 스타트업 피치 분석
 
@@ -1776,7 +1776,7 @@ YouTube YC Alumni Demo Day: 혁신적인 스타트업 피치 분석
 *   **예시/사례:** YC 동문들이 30초 미니 데모 데이를 통해 자신의 회사를 소개하고, 서로의 경험을 공유하는 모습은 YC 커뮤니티의 활발한 상호작용을 보여줍니다.
 
 # What VCs Look for When Investing in Bio and Healthcare
-**URL:** https://www.youtube.com/watch?v=t1AHFTCj4yo
+**** https://www.youtube.com/watch?v=t1AHFTCj4yo
 
 바이오 및 헬스케어 투자자의 통찰
 
@@ -1926,7 +1926,7 @@ YouTube YC Alumni Demo Day: 혁신적인 스타트업 피치 분석
 *   **선택권 (Optionality):** 플랫폼은 특정 임상 프로그램의 이진적 위험(binary risk)을 감수하지 않고도 다양한 가치를 창출할 수
 
 # The Past and Future of YC Bio
-**URL:** https://www.youtube.com/watch?v=py4FHUjc-bY
+**** https://www.youtube.com/watch?v=py4FHUjc-bY
 
 ## 1. 개요
 
@@ -2033,7 +2033,7 @@ YC Bio는 과거의 성공에 안주하지 않고, 헬스케어 전문 파트너
 *   **주의사항:** YC Bio의 미래는 궁극적으로 "세상에 긍정적인 영향을 미치고 싶어 하는" 창업가들의 열정과 도전에 달려 있습니다.
 
 # Fireside Chat with Ivana Djuretic of Asher Bio
-**URL:** https://www.youtube.com/watch?v=zgwuPuq7eDM
+**** https://www.youtube.com/watch?v=zgwuPuq7eDM
 
 Asher Bio의 성공 스토리
 
@@ -2135,7 +2135,7 @@ Asher Bio의 성공 스토리
     *   **투자자에 대한 자신감:** 과학적 진실성을 바탕으로 투자자에게 `과도한 자신감(overly confident)`을 가지세요. 겸손할 필요가 없습니다.
 
 # The Right Reason and Way to Approach Strategics
-**URL:** https://www.youtube.com/watch?v=rwFDkJS4tLU
+**** https://www.youtube.com/watch?v=rwFDkJS4tLU
 
 대기업과의 파트너링 전략
 
@@ -2219,7 +2219,7 @@ Asher Bio의 성공 스토리
 *   **주의사항:** 시장의 순환적 특성을 이해하고, 현재의 '침체기'를 양측
 
 # 딥러닝 자료: 바이오 제약 산업의 혁신과 투자 전략
-**URL:** https://www.youtube.com/watch?v=rwFDkJS4tLU
+**** https://www.youtube.com/watch?v=rwFDkJS4tLU
 
 ## 1. 개요
 본 자료는 2021년 이후 바이오 제약(Biopharma) 산업의 변화된 투자 환경과 혁신 소싱(sourcing innovation)의 중요성에 대해 다룹니다. 특히, 시장의 과열(exuberance) 이후 기업 가치 평가의 현실화와 자본 조달(capital sufficiency) 문제에 직면한 상황에서, 초기 단계 혁신(early-stage innovation)에 대한 전략적 접근이 어떻게 가치 창출의 핵심이 되는지 탐구합니다. 이 자료는 바이오 제약 산업의 투자자, 기업 전략가, 그리고 시장 동향에 관심 있는 모든 이들을 대상으로 하며, 기본적인 금융 및 제약 산업 지식을 전제로 합니다.
@@ -2299,7 +2299,7 @@ McKinsey 보고서에서 언급된 바이오 제약 산업의 상위 6개 아웃
 초기 단계 딜 메이킹은 고도의 과학적, 의학적, 법률적, 재무적 전문성을 요구합니다. 기술의 잠재력을 정확히 평가하고, 합
 
 # Fireside Chat with Tanay Tandon of Athelas
-**URL:** https://www.youtube.com/watch?v=D2_ClDSbAEA
+**** https://www.youtube.com/watch?v=D2_ClDSbAEA
 
 ## 1. 개요
 이 영상은 디지털 헬스케어 기업 Othellis의 CEO이자 창업자인 Tanae Tandon과의 인터뷰를 통해, 젊은 나이에 헬스케어 스타트업을 창업하고 성장시킨 여정을 다룹니다. 특히 규제가 심한 헬스케어 분야에서 Y Combinator(YC)의 지원을 받아 임상 시험을 진행하고 미국 식품의약국(FDA) 승인을 획득하며 사업을 확장해 나가는 과정에서의 도전과 전략, 그리고 인재 채용 철학을 조명합니다. 이 영상은 헬스케어 및 바이오테크 분야 창업을 꿈꾸는 예비 창업가, 초기 스타트업 관계자, 그리고 규제 산업에서의 혁신에 관심 있는 이들에게 실질적인 통찰을 제공합니다.
@@ -2362,7 +2362,7 @@ McKinsey 보고서에서 언급된 바이오 제약 산업의 상위 6개 아웃
 | 용어 (
 
 ## Welcome to the YC Health and Bio Summit 2022 with Surbhi Sarna
-**URL:** https://www.youtube.com/watch?v=ix4Ol4e-P7o
+**** https://www.youtube.com/watch?v=ix4Ol4e-P7o
 
 # YC 헬스케어 및 바이오 서밋: 창업가 주도 혁신과 인류의 필요
 
@@ -2424,7 +2424,7 @@ YC는 최고의 혁신, 가장 가치 있는 혁신이 창업가가 주도하는
 *   **심화 설명:** 참석자들이 즐거운 시간을 보내고, 새로운 것을 배우며, 무엇보다 같은 생각을 가진 동료들과 교류할 기회를 갖기를 바랍니다. 이러한 교류는 미래의 협력과 혁신으로 이어질 수 있는 중요한 자산이 됩니다.
 
 # Y Combinator Go-To-Market Jobs Expo, 2022
-**URL:** https://www.youtube.com/watch?v=JHvwEWsbQCg
+**** https://www.youtube.com/watch?v=JHvwEWsbQCg
 
 YC 2022 Go-to-Market Expo: 심층 학습 자료
 
@@ -2588,7 +2588,7 @@ YC 2022 Go-to-Market Expo: 심층 학습 자료
 *   **채용 포지션:** 마케팅, 영업, 영업 운영 등 모든 Go-to-
 
 # Why become a product engineer? -- with Volley (YC W18) & Luminai (YC S20)
-**URL:** https://www.youtube.com/watch?v=pQ9gtaGd-Os
+**** https://www.youtube.com/watch?v=pQ9gtaGd-Os
 
 제품 엔지니어란 무엇인가?
 
@@ -2701,7 +2701,7 @@ Lumini는 반복적이고 수동적인 다단계 프로세스를 '원클릭'으�
     *   **순수 제품 관리자(Pure Product Person):** 엔지니어링 팀을 관리하고, 고객 성공, 영업, 실제 고객 사이에서 '번역 레이어' 역할을 수행하며 제품 전략을 주
 
 ## 
-**URL:** https://www.youtube.com/watch?v=pQ9gtaGd-Os
+**** https://www.youtube.com/watch?v=pQ9gtaGd-Os
 
 ## 1. 개요
 
@@ -2776,7 +2776,7 @@ Volley가 '제품-시장 적합성(product market fit)'을 찾기 위해 '오랜
 *   **주의사항:** 고객 인사이트는 단순히 수집하는 것을 넘어, 이를 분석하고 제품 개발에 효과적으로 반영하는 과정이 중요합니다. 또한, 모든 고객의 의견을 맹목적으로 따르기보다는 핵심적인 니즈를 파악하는 통찰력이 필요합니다.
 
 # Becoming a founding engineer at a YC startup - Finley short
-**URL:** https://www.youtube.com/watch?v=tvNYhwmTal8
+**** https://www.youtube.com/watch?v=tvNYhwmTal8
 
 엔지니어의 유연성과 매몰 비용 오류
 
@@ -2832,7 +2832,7 @@ Volley가 '제품-시장 적합성(product market fit)'을 찾기 위해 '오랜
 *   **주의사항:** 유연성은 무계획적인 개발을 의미하지 않습니다. 명확한 목표 아래에서 변화에 대한 개방성을 유지하되, 핵심 가치와 비전은 흔들리지 않도록 균형을 잡는 것이 중요합니다.
 
 # YC Tech Talks: MMOs in the Instagram Era: Highrise (S18)
-**URL:** https://www.youtube.com/watch?v=8Tpj7bZsUbA
+**** https://www.youtube.com/watch?v=8Tpj7bZsUbA
 
 ## 1. 개요
 이 영상은 모바일 앱 및 소셜 네트워크 시대에 대규모 다중 사용자 온라인(MMO) 게임을 설계하고 구축하는 과정에 대해 다룹니다. 특히, 성공적인 모바일 소셜 MMO 게임인 'Highrise'의 개발 사례를 통해 '소셜 우선(Social-First)' 디자인 철학과 이를 구현하기 위한 하이브리드 아키텍처(네이티브 UI + 게임 엔진)의 중요성을 강조합니다. 영상은 앱과 게임의 특성을 동시에 만족시키는 아키텍처 설계의 핵심 질문을 제시하며, 모바일 게임 개발자, 아키텍트, 그리고 소셜 기능 중심의 제품 개발에 관심 있는 이들을 대상으로 합니다.
@@ -2891,7 +2891,7 @@ Volley가 '제품-시장 적합성(product market fit)'을 찾기 위해 '오랜
     *   이러한 방식으로
 
 # YC Tech Talks: Designing from Day One: Artists as Founders with Multiverse (S20)
-**URL:** https://www.youtube.com/watch?v=50Yz0O1yexY
+**** https://www.youtube.com/watch?v=50Yz0O1yexY
 
 게임 스타트업에서 아티스트의 가치와 역할
 
@@ -2976,7 +2976,7 @@ Volley가 '제품-시장 적합성(product market fit)'을 찾기 위해 '오랜
 *   **주의사항:** 아티스트에게 적절한 보상과 지분(Cap Table) 참여 기회를 제공하는 것은 그들의 헌신과 동기 부여에 매우 중요합니다.
 
 # YC Tech Talks: Designing Game Characters with Deep Learning, from Cory Li at Spellbrush (W18)
-**URL:** https://www.youtube.com/watch?v=2CeRGNhUDYw
+**** https://www.youtube.com/watch?v=2CeRGNhUDYw
 
 딥러닝을 활용한 캐릭터 디자인: Spellbrush 사례 연구
 
@@ -3052,7 +3052,7 @@ Volley가 '제품-시장 적합성(product market fit)'을 찾기 위해 '오랜
 *   **채용:** 소규모 팀(5명)으로 운영되며, 2D 애니메이터, 모션 디자이너, 실시간 VFX 아티스트, AI 연구 인턴 등 다양한 분야의 인재를 채용하여 팀을 확장하고 있습니다.
 
 # YC Tech Talks: Defi and Scalability with Nemil at Coinbase (S12)
-**URL:** https://www.youtube.com/watch?v=3A2neXJIJ2A
+**** https://www.youtube.com/watch?v=3A2neXJIJ2A
 
 DeFi와 확장성, 그리고 암호화폐 산업의 미래
 
@@ -3152,7 +3152,7 @@ DeFi와 확장성, 그리고 암호화폐 산업의 미래
 *   **주의
 
 ## 3 tips for finding a job on YC's Work at a Startup
-**URL:** https://www.youtube.com/watch?v=fB0H_HId6aM
+**** https://www.youtube.com/watch?v=fB0H_HId6aM
 
 ```markdown
 # Y Combinator 'Work at a Startup' 플랫폼 활용 가이드: 스타트업 구직 심층 학습 자료
@@ -3213,7 +3213,7 @@ DeFi와 확장성, 그리고 암호화폐 산업의 미래
 | 용어 (영문 원어)        | 한글 설명
 
 ## Becoming a founding engineer at a YC startup
-**URL:** https://www.youtube.com/watch?v=6W-cu0yp5cA
+**** https://www.youtube.com/watch?v=6W-cu0yp5cA
 
 # YC 스타트업의 창립 엔지니어 경험
 
@@ -3284,7 +3284,7 @@ DeFi와 확장성, 그리고 암호화폐 산업의 미래
 *   **왜 중요한가:** MVP(Minimum Viable Product)를 빠르게
 
 ## 
-**URL:** https://www.youtube.com/watch?v=6W-cu0yp5cA
+**** https://www.youtube.com/watch?v=6W-cu0yp5cA
 
 # 딥러닝 자료: 스타트업 환경에서의 엔지니어 성장과 창업 엔지니어의 자질
 
@@ -3353,7 +3353,7 @@ YC(Y Combinator)와 같은 스타트업 액셀러레이터에서 많은 창업 �
 ## 4. 용어
 
 ## YC Tech Talks: Climate - Charge Robotics short
-**URL:** https://www.youtube.com/watch?v=-5I9lIYZx-A
+**** https://www.youtube.com/watch?v=-5I9lIYZx-A
 
 # 태양광 산업의 로봇 자동화와 로봇 지게차
 
@@ -3416,7 +3416,7 @@ YC(Y Combinator)와 같은 스타트업 액셀러레이터에서 많은 창업 �
 ## 4. 용어 해
 
 ## YC Ultimate Job Guide: Startup Stages
-**URL:** https://www.youtube.com/watch?v=_7bnpjJB9T0
+**** https://www.youtube.com/watch?v=_7bnpjJB9T0
 
 ## 1. 개요
 
@@ -3526,7 +3526,7 @@ YC(Y Combinator)와 같은 스타트업 액셀러레이터에서 많은 창업 �
     *   **왜 중요한가:** 창업가의
 
 ## 
-**URL:** https://www.youtube.com/watch?v=_7bnpjJB9T0
+**** https://www.youtube.com/watch?v=_7bnpjJB9T0
 
 # 스타트업 성장 단계별 특징과 커리어 전략
 
@@ -3607,7 +3607,7 @@ YC(Y Combinator)와 같은 스타트업 액셀러레이터에서 많은 창업 �
 | 용어 (영문 원어)                 | 한글 설명
 
 ## YC Women in Tech: Breaking Into Product
-**URL:** https://www.youtube.com/watch?v=b_R-lIIYR5Q
+**** https://www.youtube.com/watch?v=b_R-lIIYR5Q
 
 # 제품 관리자(PM)의 역할과 성공 전략: 스타트업과 대기업의 PM 경험 비교
 
@@ -3812,7 +3812,7 @@ PM으로서 어떤 회사에서 일할지 결정하는 것은 개인의 경력 �
 |
 
 ## 
-**URL:** https://www.youtube.com/watch?v=b_R-lIIYR5Q
+**** https://www.youtube.com/watch?v=b_R-lIIYR5Q
 
 # 성공적인 PM 커리어 구축 전략
 

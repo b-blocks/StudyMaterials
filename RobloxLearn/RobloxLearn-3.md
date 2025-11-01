@@ -1,6 +1,6 @@
 # Roblox 월드 빌딩 심층 가이드: 몰입감 있는 경험을 위한 환경 아트의 모든 것
 ## Intro to World Building on Roblox
-**URL:** https://www.youtube.com/watch?v=SgPU84AqpkY
+**** https://www.youtube.com/watch?v=SgPU84AqpkY
 
 ## 1. 개요
 
@@ -203,7 +203,7 @@ Roblox Studio에서 월드를 구축하는 데 사용되는 다섯 가지 핵심
 
 # Roblox Studio 고급 빌딩: 재료, 메시, 지형 및 조명 활용 가이드
 
-**URL:** https://www.youtube.com/watch?v=SgPU84AqpkY
+**** https://www.youtube.com/watch?v=SgPU84AqpkY
 
 ## 1. 개요
 이 문서는 Roblox Studio에서 시각적으로 풍부하고 최적화된 환경을 구축하기 위한 고급 빌딩 기술을 다룹니다. 특히 사용자 정의 재료(Material Variants, Surface Appearance), 메시(Meshes)와 파트(Parts)의 효과적인 활용, 지형 편집 도구, 그리고 조명 및 분위기 설정에 중점을 둡니다. 이 가이드는 Roblox 개발자들이 게임의 시각적 품질을 향상시키고, 에셋을 효율적으로 관리하며, 창의적인 비전을 현실화하는 데 필요한 핵심 지식과 실용적인 팁을 제공하는 것을 목표로 합니다.
@@ -406,7 +406,7 @@ Roblox Studio에서 빌딩을 할 때, 메시와 파트는 각각 고유한 장�
 
 # Roblox Studio: 시각 효과, 성능 최적화 및 개발 워크플로우 심층 분석
 
-**URL:** https://www.youtube.com/watch?v=SgPU84AqpkY
+**** https://www.youtube.com/watch?v=SgPU84AqpkY
 
 ## 1. 개요
 이 문서는 Roblox Studio를 활용한 게임 개발 과정에서 마주하는 다양한 기술적, 디자인적 고려사항을 심층적으로 다룹니다. 특히 시각적 효과의 구현, 게임 성능 최적화 기법, 그리고 효율적인 개발 워크플로우 구축에 초점을 맞춥니다. 이 자료는 개발자들이 직면하는 핵심 질문, 즉 "어떻게 하면 시각적 품질을 유지하면서도 최적의 성능을 달성할 수 있는가?"와 "스크립팅과 월드 빌딩의 균형을 어떻게 맞출 것인가?"에 대한 실질적인 해답을 제시합니다.
@@ -522,7 +522,7 @@ Roblox 게임의 성능은 플레이어 경험에 직접적인 영향을 미치�
 
 # Roblox 아바타 및 캐릭터 제작: 최종화 및 최적화 가이드
 ## Finalizing and Importing Custom R15 Characters on Roblox
-**URL:** https://www.youtube.com/watch?v=FR1RiVpoMeM
+**** https://www.youtube.com/watch?v=FR1RiVpoMeM
 
 ## 1. 개요
 이 학습 자료는 Roblox 플랫폼에서 사용자 정의 아바타 및 캐릭터를 제작하고 최적화하는 과정을 심층적으로 다룹니다. Roblox의 3D 제너럴리스트인 Miso Pono의 강연을 바탕으로, 아바타와 캐릭터의 역사적 배경부터 실제 Studio로 가져오기 위한 기술적 요구사항 및 워크플로우까지 상세하게 설명합니다. 이 자료는 Roblox 개발자, 3D 아티스트, 또는 Roblox 플랫폼에서 자신만의 독창적인 캐릭터를 구현하고자 하는 모든 이들을 대상으로 하며, 기본적인 3D 모델링 및 텍스처링 지식을 갖춘 독자에게 가장 유용합니다. 핵심 질문은 "어떻게 하면 Roblox의 기술적 제약과 예술적 요구사항을 모두 충족하는 고품질의 캐릭터를 만들 수 있는가?"입니다.
@@ -729,7 +729,7 @@ Roblox의 아바타 시스템은 강력한 호환성을 제공하지만, 특정 
 
 # YouTube 아바타 및 액세서리 제작 가이드: DCC에서 Roblox Studio까지
 
-**URL:** https://www.youtube.com/watch?v=FR1RiVpoMeM
+**** https://www.youtube.com/watch?v=FR1RiVpoMeM
 
 ## 1. 개요
 이 문서는 디지털 콘텐츠 제작(DCC) 도구에서 생성된 아바타 및 액세서리(레이어드 의류 및 고정형 액세서리)를 Roblox Studio 환경으로 가져와 최종 캐릭터에 적용하는 전반적인 과정을 상세하게 설명합니다. 특히, 투명 PNG 처리, 액세서리 부착, 레이어링 순서 설정, 그리고 최종 테스트에 이르는 각 단계를 심층적으로 다룹니다. 이 가이드는 Roblox 플랫폼에서 자신만의 독특한 아바타와 의상을 제작하고자 하는 개발자 및 크리에이터를 대상으로 하며, 기본적인 3D 모델링 및 Roblox Studio 사용 경험이 있는 독자에게 가장 유용합니다.
@@ -821,7 +821,7 @@ Roblox의 아바타 시스템은 강력한 호환성을 제공하지만, 특정 
 
 # Roblox 커스텀 캐릭터 제작 심화 가이드
 ## What are custom characters on Roblox?
-**URL:** https://www.youtube.com/watch?v=2My8jE47clI
+**** https://www.youtube.com/watch?v=2My8jE47clI
 
 ## 1. 개요
 이 문서는 Roblox 플랫폼에서 자신만의 커스텀 아바타 캐릭터를 제작하는 데 필요한 모든 핵심 지식과 과정을 상세하게 다룹니다. Roblox 아바타의 구성 요소부터 실제 제작 워크플로우까지, 초보자도 쉽게 이해하고 따라 할 수 있도록 체계적으로 설명합니다. 이 가이드는 "어떻게 하면 Roblox에서 나만의 독창적인 캐릭터를 만들 수 있을까?"라는 질문에 대한 명확한 답변을 제공하며, Roblox 개발에 관심 있는 모든 사용자, 특히 3D 모델링 및 게임 개발 초심자를 대상으로 합니다. 기본적인 3D 모델링 소프트웨어 사용 경험이 있다면 더욱 효과적으로 학습할 수 있습니다.
@@ -938,7 +938,7 @@ Roblox 아바타 캐릭터는 단순히 보이는 것 이상의 복잡한 구조
 
 # Roblox 레이어드 의류 제작 심화 학습 자료
 ## What's layered clothing on Roblox?
-**URL:** https://www.youtube.com/watch?v=gXXukd6yOSs
+**** https://www.youtube.com/watch?v=gXXukd6yOSs
 
 ## 1. 개요
 이 문서는 Roblox 플랫폼에서 '레이어드 의류(Layered Clothing)'를 제작하는 데 필요한 모든 핵심 지식과 과정을 상세하게 다룹니다. 기존의 '리지드 액세서리(Rigid Accessories)'와 차별화되는 레이어드 의류의 특징과 구성 요소를 이해하고, 실제 제작 워크플로우를 단계별로 안내하여 독자들이 자신만의 3D 의류 아이템을 만들 수 있도록 돕는 것이 목적입니다. 이 자료는 Roblox 크리에이터, 3D 모델러, 그리고 Roblox 내에서 사용자 정의 가능한 의류 아이템을 만들고자 하는 모든 이들을 대상으로 하며, 기본적인 3D 모델링 소프트웨어 사용 경험이 있다면 더욱 효과적으로 학습할 수 있습니다.
@@ -1056,7 +1056,7 @@ Roblox의 레이어드 의류는 3D 코스메틱 아이템으로, 바지, 티셔
 # Roblox 액세서리 제작 가이드: 기본부터 실전까지
 
 ## What are accessories on Roblox?
-**URL:** https://www.youtube.com/watch?v=tzPn6QvU8Bo
+**** https://www.youtube.com/watch?v=tzPn6QvU8Bo
 
 ## 1. 개요
 이 문서는 Roblox 플랫폼에서 자신만의 3D 액세서리를 제작하는 데 필요한 모든 핵심 지식과 실질적인 워크플로우를 제공합니다. 영상의 주제는 Roblox 액세서리의 정의, 구성 요소, 그리고 제작 과정을 상세히 설명하는 것이며, 궁극적으로 독자들이 직접 액세서리를 만들 수 있도록 돕는 데 목적이 있습니다.
@@ -1229,7 +1229,7 @@ Roblox 액세서리 제작은 일반적으로 다음의 체계적인 단계를 �
 # Roblox 아바타 아이템 제작 및 판매 가이드: 심층 학습 자료
 
 ## What are Avatar Items on Roblox?
-**URL:** https://www.youtube.com/watch?v=EUDSIUmLjxA
+**** https://www.youtube.com/watch?v=EUDSIUmLjxA
 
 ## 1. 개요
 이 문서는 Roblox 플랫폼에서 자신만의 아바타 아이템을 제작하고 판매하는 데 필요한 모든 핵심 정보를 제공합니다. Roblox 크리에이터가 아바타 아이템의 종류를 이해하고, 제작부터 판매까지의 전 과정을 숙지하며, 성공적인 판매를 위한 필수 고려사항(정책, 지적 재산권, 수수료)을 파악하도록 돕는 것이 주된 목적입니다. 이 자료는 Roblox 생태계에서 창의적인 아이디어를 현실화하고 수익을 창출하고자 하는 모든 사용자, 특히 3D 모델링 및 게임 개발에 관심 있는 초보 및 중급 크리에이터를 대상으로 합니다. Roblox 개발 환경에 대한 기본적인 이해가 있다면 더욱 효과적으로 학습할 수 있습니다.
@@ -1320,7 +1320,7 @@ Roblox 마켓플레이스에서 아바타 아이템을 판매하기 위한 과�
 # Roblox Skybox 제작 가이드: 몰입감 있는 환경 디자인을 위한 심층 학습
 
 ## Creating Custom Skyboxes on Roblox
-**URL:** https://www.youtube.com/watch?v=ds9FjZUc2tg
+**** https://www.youtube.com/watch?v=ds9FjZUc2tg
 
 ## 1. 개요
 이 문서는 Roblox 환경에서 'Skybox'를 효과적으로 제작하고 활용하는 방법을 심층적으로 다룹니다. Skybox의 개념 정의부터 시작하여, 고품질 Skybox를 구성하는 요소, 필요한 이미지 형식 및 변환 과정, 그리고 Roblox Studio 내에서의 실제 적용 방법까지 포괄적으로 설명합니다. 이 가이드는 Skybox 제작 시 흔히 발생하는 문제점(gotchas)을 피하고, 시각적으로 매력적이며 몰입감 있는 게임 환경을 구축하는 데 필요한 지식과 실용적인 팁을 제공하는 것을 목적으로 합니다.
@@ -1431,7 +1431,7 @@ Roblox Studio에서 Skybox를 통합하는 과정은 변환 및 처리된 6개�
 7.  **결과 확인:** 모든 Asset ID를 올바르게 연결하면, Roblox 환경에 이음새 없는 360도 Skybox가 적용된 것을 확인할 수 있습니다.
 
 # How to use AI to generate textures on Roblox
-**URL:** https://www.youtube.com/watch?v=CS7bxH4FOzw
+**** https://www.youtube.com/watch?v=CS7bxH4FOzw
 
 ## AI 기반 텍스처 생성기 활용 가이드: 심층 학습 자료
 
@@ -1577,7 +1577,7 @@ Roblox Studio에서 Skybox를 통합하는 과정은 변환 및 처리된 6개�
 # Roblox 스튜디오에서 위험한 레이저 빔 만들기: 충돌 감지, 빔 효과 및 스크립팅 심화 학습
 
 ## How to make a laser beam that damages players on Roblox
-**URL:** https://www.youtube.com/watch?v=WmipiUI1Hlc
+**** https://www.youtube.com/watch?v=WmipiUI1Hlc
 
 ## 1. 개요
 이 학습 자료는 Roblox 스튜디오 환경에서 시각적으로 매력적이며 기능적으로 위험한 레이저 빔을 만드는 과정을 상세하게 안내합니다. 단순히 레이저를 만드는 것을 넘어, 플레이어와의 상호작용을 감지하는 충돌 상자(Collision Box)의 개념과 시각적 효과를 구현하는 빔(Beam) 객체 및 부착점(Attachments)의 활용법, 그리고 플레이어에게 피해를 주는 스크립팅의 기초를 다룹니다. 이 문서는 Roblox 개발에 관심 있는 초보자 및 중급 개발자를 대상으로 하며, 기본적인 Roblox 스튜디오 사용법과 스크립팅 개념에 대한 이해가 있다면 더욱 효과적으로 학습할 수 있습니다.
@@ -1699,7 +1699,7 @@ Roblox 스튜디오에서 레이저 빔을 만들기 위한 첫 단계는 시각
 # Roblox Studio: 코드 없이 슬라이딩 도어 만들기 (물리 엔진 활용)
 
 ## How to make a sliding door without code on Roblox
-**URL:** https://www.youtube.com/watch?v=qRew48qU7K0
+**** https://www.youtube.com/watch?v=qRew48qU7K0
 
 ## 1. 개요
 이 학습 자료는 Roblox Studio에서 코드를 전혀 사용하지 않고 내장된 물리 엔진 기능을 활용하여 슬라이딩 도어를 만드는 방법을 상세히 설명합니다. Roblox의 핵심 개념인 `Attachment`, `Constraint`, 그리고 `DragDetector`를 사용하여 물리 기반의 상호작용 가능한 오브젝트를 구현하는 것이 목표입니다. 이 문서는 Roblox Studio의 기본적인 사용법을 아는 초보자부터 물리 기반 상호작용에 관심 있는 개발자까지, 누구나 쉽게 따라 하며 학습할 수 있도록 구성되었습니다.
@@ -1777,7 +1777,7 @@ Roblox 스튜디오에서 레이저 빔을 만들기 위한 첫 단계는 시각
 7.  **테스트:** `Play Test`를 실행하여 마우스로 문을 드래그하여 슬라이딩 도어가 정상적으로 작동하는지 확인합니다.
 
 # Building with Drag Detectors on Roblox
-**URL:** https://www.youtube.com/watch?v=D7AnUcXqDwo
+**** https://www.youtube.com/watch?v=D7AnUcXqDwo
 
 ## Roblox 드래그 디텍터 상세 학습 자료
 
@@ -1862,7 +1862,7 @@ Roblox 스튜디오에서 레이저 빔을 만들기 위한 첫 단계는 시각
 # Roblox 3D 모델링 심화 학습 가이드: 효율성, 도구 활용, 최적화
 
 ## Introduction to 3D Modeling on Roblox by EvilArtist | Developer Challenge 2024
-**URL:** https://www.youtube.com/watch?v=_BezG_qf0og
+**** https://www.youtube.com/watch?v=_BezG_qf0og
 
 ## 1. 개요
 이 학습 자료는 Roblox 플랫폼에서 3D 모델링을 시작하거나 기존 기술을 향상시키고자 하는 개발자들을 위해 제작되었습니다. 영상은 3D 모델링이 게임을 돋보이게 하는 이유를 설명하고, Blender를 활용한 효율적인 워크플로우, 유용한 도구 및 단축키, 그리고 Roblox 환경에 최적화된 모델을 만드는 방법을 심층적으로 다룹니다. 특히 Blender 사용에 익숙하지만 꾸준히 학습하지 못했거나, 초보자에게 적합한 리소스를 찾고 있는 분들을 대상으로 합니다. 이 가이드를 통해 3D 모델링에 대한 흥미를 다시 불러일으키고, Roblox 게임 개발에 실질적으로 적용할 수 있는 지식을 제공하는 것을 목표로 합니다.
@@ -2056,7 +2056,7 @@ Roblox 스튜디오에서 레이저 빔을 만들기 위한 첫 단계는 시각
 
 # Roblox 프로그래밍 입문: 게임 개발의 첫걸음
 ## Introduction to Programming on Roblox by WooleyWool | Developer Challenge 2024
-**URL:** https://www.youtube.com/watch?v=cvUSE2Q0hcw
+**** https://www.youtube.com/watch?v=cvUSE2Q0hcw
 
 ## 1. 개요
 이 학습 자료는 "Developer Challenge 2024" 워크숍의 두 번째 세션인 "Roblox 프로그래밍 입문"을 기반으로 합니다. 본 자료의 주된 목적은 Roblox Studio 환경에서 Lua 언어를 사용하여 게임을 개발하는 데 필요한 기본적인 프로그래밍 개념과 실용적인 지식을 제공하는 것입니다.
@@ -2351,7 +2351,7 @@ Roblox 프로그래밍 여정을 성공적으로 이어나가기 위한 실용�
 
 # Roblox 개발 커리어 가속화 및 성공 전략
 ## Introduction to Development on Roblox by Myzta | Developer Challenge 2024
-**URL:** https://www.youtube.com/watch?v=wHifocuLZKE
+**** https://www.youtube.com/watch?v=wHifocuLZKE
 
 ## 1. 개요
 이 문서는 Roblox 플랫폼에서 게임 개발 커리어를 가속화하고 성공적인 프로젝트를 만드는 데 필요한 핵심 전략과 실용적인 팁을 제공합니다. 강연자인 Ann Shoemaker(Mya)의 12년간의 게임 개발 경험과 성공 사례를 바탕으로, 게임 개발의 기본 원칙부터 효과적인 리소스 활용, 그리고 프로젝트 관리의 가장 중요한 교훈인 '작게 생각하고 빠르게 실패하라'는 철학까지 심도 있게 다룹니다. 이 자료는 Roblox 개발에 관심 있는 초보자부터 숙련된 개발자까지, 자신의 아이디어를 현실로 만들고 커리어를 성장시키고자 하는 모든 이들에게 유용한 지침이 될 것입니다.
@@ -2536,7 +2536,7 @@ Roblox 개발을 가속화하는 데 도움이 되는 다양한 리소스와 도
 
 # 온보딩 기법: 사용자 경험 최적화를 위한 전략
 ## What are onboarding techniques on Roblox?
-**URL:** https://www.youtube.com/watch?v=dXqZC4x2Vn8
+**** https://www.youtube.com/watch?v=dXqZC4x2Vn8
 
 ## 1. 개요
 이 문서는 사용자(플레이어)가 새로운 애플리케이션이나 게임을 처음 접할 때 겪는 경험, 즉 '온보딩(Onboarding)' 과정을 효율적이고 매끄럽게 만드는 데 사용되는 핵심 기법들을 다룹니다. 특히, 사용자가 이탈하지 않고 제품의 핵심 가치를 빠르게 인지하도록 돕는 세 가지 주요 전략인 시각적 요소, 상황별 튜토리얼, 그리고 시간 기반 힌트에 대해 심층적으로 탐구합니다. 이 자료는 제품 관리자, UX/UI 디자이너, 게임 개발자 및 사용자 온보딩 경험 개선에 관심 있는 모든 이들을 대상으로 하며, 기본적인 사용자 경험(UX) 개념에 대한 이해가 있다면 더욱 효과적으로 학습할 수 있습니다.
@@ -2610,7 +2610,7 @@ Roblox 개발을 가속화하는 데 도움이 되는 다양한 리소스와 도
 
 # 스타터 팩(Starter Pack)의 이해와 효과적인 설계 전략
 ## Clip! Roblox Monetization Playbook - Module 6 (Starter Packs)
-**URL:** https://www.youtube.com/watch?v=G0ZLMT9sHTE
+**** https://www.youtube.com/watch?v=G0ZLMT9sHTE
 
 ## 1. 개요
 이 학습 자료는 게임 및 디지털 서비스에서 신규 사용자 경험의 핵심 요소인 '스타터 팩(Starter Pack)'의 중요성과 효과적인 설계 전략을 심층적으로 다룹니다. 스타터 팩은 단순히 아이템을 묶어 판매하는 것을 넘어, 신규 사용자가 서비스의 가치와 경제 시스템을 이해하고 긍정적인 첫 구매 경험을 형성하도록 돕는 중요한 도구입니다.
@@ -2702,7 +2702,7 @@ Roblox 개발을 가속화하는 데 도움이 되는 다양한 리소스와 도
 
 # 성공적인 구독 모델 구축 전략
 ## What are subscriptions on Roblox?
-**URL:** https://www.youtube.com/watch?v=kumeLD2TtRM
+**** https://www.youtube.com/watch?v=kumeLD2TtRM
 
 ## 1. 개요
 이 학습 자료는 디지털 경험(특히 게임) 내에서 구독 모델을 성공적으로 구현하기 위한 핵심 원칙과 모범 사례를 탐구합니다. 구독이 무엇인지, 그리고 플레이어에게 지속적인 가치를 제공하여 장기적인 성공을 거두는 방법에 초점을 맞춥니다. 이 자료는 구독 모델을 설계하거나 개선하려는 개발자, 프로덕트 매니저, 마케터 및 비즈니스 전략가를 대상으로 하며, 구독 서비스의 본질과 성공 요인에 대한 기본적인 이해를 돕는 것을 목표로 합니다.
@@ -2868,7 +2868,7 @@ Roblox 개발을 가속화하는 데 도움이 되는 다양한 리소스와 도
 
 # 효과적인 머천다이징 전략
 ## Clip! Roblox Monetization Playbook - Module 5 (Merchandising)
-**URL:** https://www.youtube.com/watch?v=qg-hhW21EOw
+**** https://www.youtube.com/watch?v=qg-hhW21EOw
 
 ## 1. 개요
 이 학습 자료는 게임 또는 디지털 콘텐츠 상점에서 사용자의 **주목을 끌고 제품의 가치를 효과적으로 전달하는 '머천다이징(Merchandising)' 전략**에 대해 심층적으로 다룹니다. 영상의 핵심 목적은 개발자들이 자신의 상점과 아이템을 매력적으로 구성하여 사용자 참여를 유도하고, 궁극적으로는 구매 전환율을 높이는 데 필요한 실질적인 지식과 기법을 제공하는 것입니다. 우리는 "어떻게 하면 사용자들이 상점을 자주 방문하고 새로운 아이템에 관심을 갖게 만들 수 있을까?"라는 핵심 질문에 답하며, 다양한 머천다이징 기법과 그 적용 사례를 탐구할 것입니다. 이 자료는 게임 개발자, 콘텐츠 기획자, 마케터 등 디지털 제품의 판매 및 홍보에 관심 있는 모든 분들을 대상으로 하며, 기본적인 상점 운영 및 마케팅 개념에 대한 이해가 있다면 더욱 효과적으로 학습할 수 있습니다.
@@ -2980,7 +2980,7 @@ Roblox 개발을 가속화하는 데 도움이 되는 다양한 리소스와 도
 
 # 게임/경험 내 아이템 상점 디자인 및 활용 전략
 ## Clip! Roblox Monetization Playbook - Module 4 (The Shop)
-**URL:** https://www.youtube.com/watch?v=C3YrGutsuSo
+**** https://www.youtube.com/watch?v=C3YrGutsuSo
 
 ## 1. 개요
 이 문서는 디지털 경험, 특히 게임 내 아이템 상점의 효과적인 디자인과 활용 전략에 대해 심층적으로 다룹니다. 단순히 아이템을 판매하는 공간을 넘어, 사용자 경험을 향상시키고, 경제 시스템을 이해시키며, 새로운 콘텐츠를 소개하는 정보 허브로서 상점의 잠재력을 최대한 활용하는 방법을 모색합니다. 이 자료는 상점 디자인의 핵심 원칙부터 사용자 참여를 유도하는 고급 전략까지 폭넓게 다루며, 개발자, 디자이너, 프로덕트 매니저 등 디지털 경험을 기획하고 운영하는 모든 이들에게 유용한 지침을 제공합니다.
@@ -3082,7 +3082,7 @@ Roblox 개발을 가속화하는 데 도움이 되는 다양한 리소스와 도
 
 # 게임 아이템 디자인: 사용자 경험과 가치 창출 전략
 ## Clip! Roblox Monetization Playbook - Module 3 (Items)
-**URL:** https://www.youtube.com/watch?v=mWtz5UTyZX0
+**** https://www.youtube.com/watch?v=mWtz5UTyZX0
 
 ## 1. 개요
 
@@ -3198,7 +3198,7 @@ Roblox 개발을 가속화하는 데 도움이 되는 다양한 리소스와 도
     *   일부 국가에서는 게임 내 아이템 설명에 대한 법적 규제가 있을 수 있습니다. 또한
 
 # Clip! Roblox Monetization Playbook - Module 2 (Foundations)
-**URL:** https://www.youtube.com/watch?v=rPHlMWSUgGU
+**** https://www.youtube.com/watch?v=rPHlMWSUgGU
 
 ## 1. 개요
 이 문서는 게임 수익화(Monetization)의 핵심적인 기초 개념을 심층적으로 탐구합니다. 특히, '무엇을 판매할 것인가', '어디서 판매할 것인가', '어떻게 판매할 것인가'라는 세 가지 근본적인 질문에 답하며, 게임 내 아이템 및 상점 시스템의 설계 원리를 이해하는 것을 목표로 합니다. 게임 개발자, 프로덕트 매니저, 또는 게임 비즈니스에 관심 있는 분들이 게임의 경제 시스템을 효과적으로 구축하고 최적화하는 데 필요한 통찰력을 제공합니다.
@@ -3293,7 +3293,7 @@ Roblox 개발을 가속화하는 데 도움이 되는 다양한 리소스와 도
 
 # 수익화 지표의 이해와 적용: 디지털 경험의 성공을 위한 핵심 가이드
 ## What are monetization metrics on Roblox?
-**URL:** https://www.youtube.com/watch?v=L6_HXinYTt0
+**** https://www.youtube.com/watch?v=L6_HXinYTt0
 
 ## 1. 개요
 이 문서는 디지털 경험(특히 게임이나 애플리케이션)이 얼마나 많은 수익을 창출하는지 측정하고 개선하는 데 사용되는 핵심 지표인 '수익화 지표(Monetization Metrics)'에 대해 심층적으로 다룹니다. 영상의 주제는 이러한 지표들이 무엇인지 개념적으로 설명하고, 모범 사례를 제시하며, 실제 적용 사례를 통해 이해를 돕는 것입니다. 우리는 '어떻게 디지털 제품의 수익성을 측정하고 최적화할 수 있는가?'라는 핵심 질문에 답하고자 합니다. 이 자료는 게임 개발자, 제품 관리자, 비즈니스 분석가 등 디지털 제품의 경제적 성과에 관심 있는 모든 분들을 대상으로 하며, 기본적인 디지털 비즈니스 모델에 대한 이해가 있다면 더욱 효과적으로 학습할 수 있습니다.
@@ -3378,7 +3378,7 @@ Roblox 개발을 가속화하는 데 도움이 되는 다양한 리소스와 도
 
 # Roblox 모네타이제이션 플레이북: 기초 및 베스트 프랙티스
 ## Clip! Roblox Monetization Playbook - Module 1 (Introduction)
-**URL:** https://www.youtube.com/watch?v=1GKd9euwkuA
+**** https://www.youtube.com/watch?v=1GKd9euwkuA
 
 ## 1. 개요
 이 문서는 Roblox 플랫폼에서 성공적인 게임 또는 경험(Experience)을 구축하고 수익화하기 위한 핵심 전략과 모범 사례를 다룹니다. 특히, 새로운 형식의 "모네타이제이션 플레이북" 시리즈의 첫 번째 자료로서, 개발자들이 사용자 참여를 유도하고 장기적인 수익을 창출할 수 있도록 돕는 기초적인 원칙들을 소개합니다. 이 자료는 Roblox 개발자 커뮤니티를 대상으로 하며, 게임 개발 및 운영에 대한 기본적인 이해를 가진 독자들이 효과적으로 수익 모델을 설계하고 적용하는 데 필요한 지식을 제공하는 것을 목표로 합니다.
@@ -3435,7 +3435,7 @@ Roblox 개발을 가속화하는 데 도움이 되는 다양한 리소스와 도
 
 # 리텐션 지표 이해 및 개선 전략
 ## What are retention metrics on Roblox?
-**URL:** https://www.youtube.com/watch?v=LpAU6TheAZ4
+**** https://www.youtube.com/watch?v=LpAU6TheAZ4
 
 ## 1. 개요
 이 문서는 사용자 경험(특히 게임)에서 **리텐션 지표(Retention Metrics)**가 무엇인지 개념적으로 이해하고, 이를 개선하기 위한 모범 사례를 제시하며, 가상의 사례를 통해 실제 적용 방안을 보여주는 것을 목적으로 합니다. 핵심적으로는 사용자가 서비스에 처음 유입된 후 얼마나 지속적으로 돌아오는지 측정하고, 이탈을 방지하여 장기적인 참여를 유도하는 방법을 다룹니다. 이 자료는 게임 개발자, 프로덕트 매니저, UX/UI 디자이너 등 사용자 참여와 유지에 관심 있는 모든 분들을 대상으로 하며, 기본적인 서비스 운영 및 사용자 행동 분석에 대한 이해가 있다면 더욱 효과적으로 학습할 수 있습니다.
@@ -3534,7 +3534,7 @@ Roblox 개발을 가속화하는 데 도움이 되는 다양한 리소스와 도
 
 # 참여도 지표 이해 및 활용 가이드
 ## What are engagement metrics on Roblox?
-**URL:** https://www.youtube.com/watch?v=N2l0BDgSNtQ
+**** https://www.youtube.com/watch?v=N2l0BDgSNtQ
 
 ## 1. 개요
 이 문서는 디지털 경험, 특히 게임이나 애플리케이션에서 사용자 참여도를 측정하고 개선하는 데 필수적인 '참여도 지표(Engagement Metrics)'에 대해 심층적으로 다룹니다. 영상의 핵심 주제는 참여도 지표의 개념을 정의하고, 주요 지표들을 소개하며, 이를 통해 사용자 경험을 어떻게 분석하고 개선할 수 있는지에 대한 실용적인 접근법을 제시하는 것입니다. 우리는 사용자들이 경험과 얼마나 자주, 그리고 얼마나 오랫동안 상호작용하는지를 파악하는 핵심 질문에 답하고, 참여도 저하의 원인을 진단하며, 효과적인 개선 전략을 모색합니다. 이 자료는 게임 개발자, 프로덕트 매니저, 데이터 분석가 등 사용자 행동 분석을 통해 제품의 성공을 이끌고자 하는 모든 이들을 대상으로 하며, 기본적인 데이터 분석 개념에 대한 이해가 있다면 더욱 효과적으로 활용할 수 있습니다.
@@ -3620,7 +3620,7 @@ Roblox 개발을 가속화하는 데 도움이 되는 다양한 리소스와 도
 
 # Roblox 게임 디자인 심화 학습 자료
 ## What's good game design on Roblox?
-**URL:** https://www.youtube.com/watch?v=EvikDSBtaCc
+**** https://www.youtube.com/watch?v=EvikDSBtaCc
 
 ## 1. 개요
 이 문서는 Roblox 플랫폼에서 성공적인 게임을 개발하기 위한 게임 디자인의 핵심 원칙과 실제 적용 방안을 심층적으로 다룹니다. 게임 디자인의 본질적인 정의부터 플레이어 유입 및 유지, 윤리적인 수익화 모델 구축, 그리고 지속적인 콘텐츠 업데이트 전략에 이르기까지, Roblox 개발자가 자신의 비전을 현실로 구현하는 데 필요한 지식과 도구를 제공하는 것을 목적으로 합니다.
@@ -3727,7 +3727,7 @@ Roblox는 개발자가 상상하는 모든 것을 구현할 수 있는 강력한
 
 # 게임 UI/UX 디자인 원칙 및 실무 가이드
 ## UI/UX Essentials
-**URL:** https://www.youtube.com/watch?v=lOOvOIJoMi4
+**** https://www.youtube.com/watch?v=lOOvOIJoMi4
 
 ## 1. 개요
 이 문서는 게임 개발에서 사용자 인터페이스(UI)와 사용자 경험(UX) 디자인의 핵심 원칙과 실무 적용 방안을 심층적으로 다룹니다. 플레이어와의 효과적인 소통을 통해 일관되고 세련된 게임 경험을 제공하는 것을 목표로 합니다. 게임의 재미와 몰입도를 극대화하기 위해 UI/UX가 어떻게 기능해야 하는지에 대한 근본적인 질문에 답하며, 성공적인 게임 디자인을 위한 필수적인 지식을 제공합니다.

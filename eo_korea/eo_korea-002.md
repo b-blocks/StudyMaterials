@@ -36,7 +36,7 @@
 ---
 
 ## 35. 이 정도 영어는 다들 잘 들리시죠?ㅣ실리콘밸리 영어앱 스픽 창업자
-**URL:** https://www.youtube.com/watch?v=f50jh1rNQSg    (
+**** https://www.youtube.com/watch?v=f50jh1rNQSg    (
 
 # 이 정도 영어는 다들 잘 들리시죠?ㅣ실리콘밸리 영어앱 스픽 창업자
 
@@ -170,7 +170,7 @@ PMF를 찾은 이후, 스픽은 세 가지 핵심 동력을 바탕으로 빠르�
 ---
 
 ## 36. 시드투자 210억 한일합작 로봇회사 리얼월드ㅣ류중희 CEO
-**URL:** https://www.youtube.com/watch?v=7M-qi5i3T1I    (
+**** https://www.youtube.com/watch?v=7M-qi5i3T1I    (
 
 # 시드투자 210억 한일합작 로봇회사 리얼월드ㅣ류중희 CEO
 
@@ -294,7 +294,7 @@ PMF를 찾은 이후, 스픽은 세 가지 핵심 동력을 바탕으로 빠르�
 ---
 
 ## 37. 섬나라 생존 컨텐츠로 인스타그램 팔로워 8만명 달성한 07년생 | Real Youth 6화 with 유빈이tmi
-**URL:** https://www.youtube.com/watch?v=7StYfnKdI0s    (
+**** https://www.youtube.com/watch?v=7StYfnKdI0s    (
 
 다음은 제공된 YouTube 영상 자막을 바탕으로 작성한 상세 학습 자료입니다.
 
@@ -391,7 +391,7 @@ PMF를 찾은 이후, 스픽은 세 가지 핵심 동력을 바탕으로 빠르�
 ---
 
 ## 38. 15억 프로젝트 2번 실패하고 배운 제품 성장 방법론 | 화이트큐브 최혁준
-**URL:** https://www.youtube.com/watch?v=kyievAKkXEU    (
+**** https://www.youtube.com/watch?v=kyievAKkXEU    (
 
 다음은 제공해주신 유튜브 영상 자막을 바탕으로 작성한 상세 학습 자료입니다.
 
@@ -508,7 +508,7 @@ CEO는 영어 공부, 헬스장 등록처럼 '꾸준히 하기 어려운' 행동
 ---
 
 ## 39. 19살 때 에스파, 무신사 등과 함께 작업한 3D 아티스트 | Real Youth 5화 with 김온유
-**URL:** https://www.youtube.com/watch?v=xGY_4S7L1es    (
+**** https://www.youtube.com/watch?v=xGY_4S7L1es    (
 
 다음은 제공해주신 자막을 바탕으로 작성한 심층 학습 자료입니다.
 
@@ -624,7 +624,7 @@ CEO는 영어 공부, 헬스장 등록처럼 '꾸준히 하기 어려운' 행동
 ---
 
 ## 40. 1억 원 이상 아낄 수 있는 미국 진출 팁ㅣ팀블라인드 공동창업자 김성겸 1부
-**URL:** https://www.youtube.com/watch?v=8fZwb_p_jcA    (
+**** https://www.youtube.com/watch?v=8fZwb_p_jcA    (
 
 ## YouTube 인사이트: 한국 스타트업의 미국 시장 실패 원인과 성공 전략 분석
 
@@ -758,7 +758,7 @@ CEO는 영어 공부, 헬스장 등록처럼 '꾸준히 하기 어려운' 행동
 ---
 
 ## 41. 코딩하기 전에 먼저 해야 하는 것들ㅣ씨그로, 리트머스 김응진 대표
-**URL:** https://www.youtube.com/watch?v=W16-6eg6De4    (
+**** https://www.youtube.com/watch?v=W16-6eg6De4    (
 
 다음은 제공해주신 유튜브 영상 자막을 바탕으로, 요청하신 구조와 가이드라인에 맞춰 작성한 심층 학습 자료입니다.
 
@@ -891,7 +891,7 @@ MVP 개발 후가 아닌, 개발 착수 전에 영업을 시작했습니다.
 ---
 
 ## 42. 코딩 공부하지 말라는 말은 틀렸습니다ㅣGitHub CEO 토마스 돔케
-**URL:** https://www.youtube.com/watch?v=xJPjV-1rdEs    (
+**** https://www.youtube.com/watch?v=xJPjV-1rdEs    (
 
 ## GitHub CEO가 말하는 AI 시대의 개발자: 성장, 도구, 그리고 미래
 
@@ -1011,7 +1011,7 @@ AI는 개발자의 역할을 근본적으로 바꾸고 있습니다. 토마스 �
 ---
 
 ## 43. 중학생 때 수백만명이 사용하는 앱을 개발한 카이스트 대학생 | Real Youth 4화 with 최형빈
-**URL:** https://www.youtube.com/watch?v=a_ZOXIikA30    (
+**** https://www.youtube.com/watch?v=a_ZOXIikA30    (
 
 다음은 제공해주신 유튜브 영상 자막을 바탕으로 요청하신 구조와 가이드라인에 맞춰 작성한 학습 자료입니다.
 
@@ -1148,7 +1148,7 @@ AI는 개발자의 역할을 근본적으로 바꾸고 있습니다. 토마스 �
 ---
 
 ## 44. 고등학교 2학년 때 토스 최연소 PO로 입사한 05년생 | Real Youth 3화 with 최형빈
-**URL:** https://www.youtube.com/watch?v=JEAGmrkgmYU    (
+**** https://www.youtube.com/watch?v=JEAGmrkgmYU    (
 
 다음은 제공해주신 유튜브 영상 자막을 바탕으로, 요청하신 구조와 가이드라인에 맞춰 작성한 심층 학습 자료입니다.
 
@@ -1280,7 +1280,7 @@ AI는 개발자의 역할을 근본적으로 바꾸고 있습니다. 토마스 �
 ---
 
 ## 45. 400:1 경쟁률 뚫고 미국으로 날아간 대학생들의 24시간 해커톤 | Hack the Valley 티저
-**URL:** https://www.youtube.com/watch?v=Vd_BM6sGyNw    (
+**** https://www.youtube.com/watch?v=Vd_BM6sGyNw    (
 
 네, 알겠습니다. 제공해주신 유튜브 자막 내용을 바탕으로, 요청하신 구조와 가이드라인에 맞춰 깊이 있는 학습 자료를 작성하겠습니다.
 
@@ -1401,7 +1401,7 @@ AI는 개발자의 역할을 근본적으로 바꾸고 있습니다. 토마스 �
 ---
 
 ## 46. PM인데, 왜 매일 ‘전달만’ 하고 있죠? | 남규한 PM
-**URL:** https://www.youtube.com/watch?v=1XUKDmGtJ4Q    (
+**** https://www.youtube.com/watch?v=1XUKDmGtJ4Q    (
 
 ## 1. 핵심 요약
 
@@ -1573,7 +1573,7 @@ PM으로서 성장하여 팀을 이끄는 리더가 되었을 때, 많은 이들
 ---
 
 ## 47. 20년차 기술리더가 전하는 AI 사용법 | 마이크로소프트 이건복
-**URL:** https://www.youtube.com/watch?v=2jJSXOI16UI    (
+**** https://www.youtube.com/watch?v=2jJSXOI16UI    (
 
 ## AI 시대, 조직의 운명을 가를 성공 방정식: 마이크로소프트 전문가가 말하는 기업 AI 도입 전략
 
@@ -1698,7 +1698,7 @@ AI를 쓰게 되면 우리 회사 정보가 다 밖으로 나가는 거 아니�
 ---
 
 ## 48. 05년생 창업가가 말하는 행복한 삶에 대한 이야기 | Real Youth 2화 with 은우
-**URL:** https://www.youtube.com/watch?v=zgNl8zaoINA    (
+**** https://www.youtube.com/watch?v=zgNl8zaoINA    (
 
 다음은 제공해주신 유튜브 자막을 바탕으로, 요청하신 구조와 가이드라인에 맞춰 작성한 심층 학습 자료입니다.
 
@@ -1839,7 +1839,7 @@ OpenAI의 CEO 샘 알트먼의 이 말은 **"생각의 크기와 상관없이 �
 ---
 
 ## 49. 05년생 창업가가 말하는 꿈꾸는 삶에 대한 이야기 | Real Youth 1화 with 은우
-**URL:** https://www.youtube.com/watch?v=h-GmV8ROAow    (
+**** https://www.youtube.com/watch?v=h-GmV8ROAow    (
 
 다음은 제공해주신 유튜브 영상 자막을 바탕으로 요청하신 구조와 가이드라인에 맞춰 작성한 심층 학습 자료입니다.
 
@@ -1973,7 +1973,7 @@ OpenAI의 CEO 샘 알트먼의 이 말은 **"생각의 크기와 상관없이 �
 ---
 
 ## 50. 3년만에 17배 성장, 퍼플렉시티가 지킨 단 하나의 원칙 | Perplexity AI, 아라빈드 스리니바스
-**URL:** https://www.youtube.com/watch?v=oYW7Z3wF5Bw    (
+**** https://www.youtube.com/watch?v=oYW7Z3wF5Bw    (
 
 다음은 제공된 YouTube 영상 자막을 바탕으로 요청하신 구조와 가이드라인에 맞춰 작성한 학습 자료입니다.
 
@@ -2084,7 +2084,7 @@ Perplexity의 철학과 전략은 다양한 비즈니스 기회에 영감을 줍
 ---
 
 ## 51. 실리콘밸리의 누구나 따라할 수 있는 제품 기획 방법론 | 필 리빈 (2/2)
-**URL:** https://www.youtube.com/watch?v=-SvCGclJ7dI    (
+**** https://www.youtube.com/watch?v=-SvCGclJ7dI    (
 
 ## 필 리빈(Evernote 창업자)에게 배우는 제품, 성장, 그리고 소통의 기술
 
@@ -2228,7 +2228,7 @@ Perplexity의 철학과 전략은 다양한 비즈니스 기회에 영감을 줍
 ---
 
 ## 52. 전 세계 4억 명이 쓴 생산성 앱 '에버노트' 창업자 이야기 | 필 리빈 1편
-**URL:** https://www.youtube.com/watch?v=IFq5YcfuIhI    (
+**** https://www.youtube.com/watch?v=IFq5YcfuIhI    (
 
 다음은 Phil Libin의 강연을 바탕으로 작성한 심층 학습 자료입니다.
 
@@ -2350,7 +2350,7 @@ Phil Libin의 철학을 당신의 비즈니스에 적용하기 위한 구체적�
 ---
 
 ## 53. AI 시대에 지식재산을 보호, 창작자들이 돈 벌 수 있게 합니다ㅣ크리스딕슨과 스토리 빌더들
-**URL:** https://www.youtube.com/watch?v=XvhS1bvKnO8    (
+**** https://www.youtube.com/watch?v=XvhS1bvKnO8    (
 
 ## 1. 핵심 요약
 
@@ -2451,7 +2451,7 @@ Phil Libin의 철학을 당신의 비즈니스에 적용하기 위한 구체적�
 ---
 
 ## 54. 29년 동안 알토스벤처스가 지킨 스탠포드의 3가지 투자원칙 | 알토스벤처스 윤태중 파트너
-**URL:** https://www.youtube.com/watch?v=OMFBXEvSGp8    (
+**** https://www.youtube.com/watch?v=OMFBXEvSGp8    (
 
 ## 1. 핵심 요약
 
@@ -2580,7 +2580,7 @@ Phil Libin의 철학을 당신의 비즈니스에 적용하기 위한 구체적�
 ---
 
 ## 55. 미래의 오피스에서 가장 중요하게 생각해야 하는 것은? | 퍼플식스 스튜디오 세미나 인사이트 요약
-**URL:** https://www.youtube.com/watch?v=7QSnfOjC88g    (
+**** https://www.youtube.com/watch?v=7QSnfOjC88g    (
 
 다음은 제공해주신 유튜브 영상 자막을 바탕으로, 요청하신 구조와 가이드라인에 맞춰 작성한 심층 학습 자료입니다.
 
@@ -2745,7 +2745,7 @@ AI가 '무엇을(What)'과 '어떻게(How)'를 해결해 줄수록, 인간은 '�
 ---
 
 ## 56. 카카오, 쿠팡, 토스 초기투자자가 700번의 투자에서 배운 것 | 굿워터캐피탈 에릭 킴
-**URL:** https://www.youtube.com/watch?v=xWiSJiXjPWg    (
+**** https://www.youtube.com/watch?v=xWiSJiXjPWg    (
 
 ## Goodwater Capital 에릭 킴이 말하는 위대한 투자와 창업의 본질
 
@@ -2854,7 +2854,7 @@ Goodwater Capital의 핵심 철학은 투자를 `예술`과 `과학`의 영역�
 ---
 
 ## 57. 2025년 글로벌 진출, 진짜로 실행하고 싶다면 | 리얼밸리 컨퍼런스 요약
-**URL:** https://www.youtube.com/watch?v=HtMVLneHZR0    (
+**** https://www.youtube.com/watch?v=HtMVLneHZR0    (
 
 다음은 제공해주신 유튜브 영상 자막을 바탕으로, 요청하신 구조와 가이드라인에 맞춰 작성한 심층 학습 자료입니다.
 
@@ -3024,7 +3024,7 @@ OpenAI의 CEO 샘 알트만은 스타트업들에게 매우 직설적인 조언�
 ---
 
 ## 58. 글로벌에서 살아남기 위한 한국 예술 스타트업 대표들의 요즘 고민 🤔
-**URL:** https://www.youtube.com/watch?v=TdY5Ogl_V_w    (
+**** https://www.youtube.com/watch?v=TdY5Ogl_V_w    (
 
 다음은 제공해주신 유튜브 영상 자막을 바탕으로, 요청하신 구조와 가이드라인에 맞춰 작성한 심층 학습 자료입니다.
 
@@ -3145,7 +3145,7 @@ K-콘텐츠의 글로벌 성공 배경에는 '높은 품질을 합리적인 비�
 ---
 
 ## 59. 100만 인터뷰 채널을 키운 노하우를 공개합니다 l EO 김태용
-**URL:** https://www.youtube.com/watch?v=f_kcyYb9RP8    (
+**** https://www.youtube.com/watch?v=f_kcyYb9RP8    (
 
 다음은 제공해주신 유튜브 영상 자막을 바탕으로, 요청하신 구조와 가이드라인에 맞춰 작성한 심층 학습 자료입니다.
 
@@ -3314,7 +3314,7 @@ EO 채널의 성공 전략은 다른 분야에도 충분히 적용 가능한 강
 ---
 
 ## 60. 한국이 세계로 나가기 위해 꼭 고쳐야 할 자세ㅣ타일러, 니디 한글과자 2편
-**URL:** https://www.youtube.com/watch?v=_-ScDEOXe_w    (
+**** https://www.youtube.com/watch?v=_-ScDEOXe_w    (
 
 다음은 전달해주신 YouTube 영상 자막을 바탕으로 요청하신 구조와 가이드라인에 맞춰 작성한 학습 자료입니다.
 
@@ -3436,7 +3436,7 @@ EO 채널의 성공 전략은 다른 분야에도 충분히 적용 가능한 강
 ---
 
 ## 61. 명문대 대기업 직장인들이 월급 깎고 들어가는 회사들ㅣ서울시 약자동행토크콘서트
-**URL:** https://www.youtube.com/watch?v=C8lyFSRRynQ    (
+**** https://www.youtube.com/watch?v=C8lyFSRRynQ    (
 
 다음은 제공된 YouTube 영상 자막을 바탕으로 작성한 심층 학습 자료입니다.
 
@@ -3560,7 +3560,7 @@ EO 채널의 성공 전략은 다른 분야에도 충분히 적용 가능한 강
 ---
 
 ## 62. 한국의 겸손한 문화가 창의력을 막을 수도 있습니다ㅣ타일러, 니디 한글과자 1편
-**URL:** https://www.youtube.com/watch?v=cuhyHl6RtzA    (
+**** https://www.youtube.com/watch?v=cuhyHl6RtzA    (
 
 ## 유튜브 창업 인터뷰: '한글 과자'로 배우는 린 스타트업의 모든 것
 
@@ -3695,7 +3695,7 @@ ABC 초콜릿 외국 건인 줄 알았는데 80년도에 롯데에서 만든 거
 ---
 
 ## 63. 실패하면 안 되는 나라가 된 이유들ㅣ초기투자액셀러레이터협회 전화성 협회장
-**URL:** https://www.youtube.com/watch?v=OMlJrG5ydyw    (
+**** https://www.youtube.com/watch?v=OMlJrG5ydyw    (
 
 다음은 제공해주신 유튜브 자막을 바탕으로 요청하신 구조와 가이드라인에 맞춰 작성한 학습 자료입니다.
 
@@ -3855,7 +3855,7 @@ IMF 시절, 정부는 벤처 투자 조합 출자금의 출처를 묻지 않는 
 ---
 
 ## 64. 프리팁스에 선정된 7개의 스타트업 사업 발표
-**URL:** https://www.youtube.com/watch?v=_UN_F7VPtjk    (
+**** https://www.youtube.com/watch?v=_UN_F7VPtjk    (
 
 다음은 제공된 스크립트를 바탕으로, 두 개의 주요 스타트업 발표(믹스뮤니티, 리바이즈)를 분석하여 작성한 심층 학습 자료입니다. 요청하신 구조와 가이드라인에 따라 출판 가능한 수준의 교육 자료로 구성했습니다.
 

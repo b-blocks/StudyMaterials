@@ -114,7 +114,7 @@
 ---
 
 ## 444. 한국에서 1위하던 이 아이템, 미국에서도 잘 팔릴까?
-**URL:** https://www.youtube.com/watch?v=0QSIZcSyCyg    (
+**** https://www.youtube.com/watch?v=0QSIZcSyCyg    (
 
 # 한국에서 1위하던 이 아이템, 미국에서도 잘 팔릴까?
 
@@ -265,7 +265,7 @@
 ---
 
 ## 445. 지그재그는 어떻게 3000만 앱이 되었을까? | 숏다큐멘터리
-**URL:** https://www.youtube.com/watch?v=TDmzXuma4Lw    (
+**** https://www.youtube.com/watch?v=TDmzXuma4Lw    (
 
 # 지그재그는 어떻게 3000만 앱이 되었을까? | 숏다큐멘터리
 
@@ -363,7 +363,7 @@ c55 으 [음악] 아 잠시 우리의 로켓의 지구에서 새로운 주로 �
 ---
 
 ## 446. 워라밸을 고민하고 번아웃에 고통받는 직장인들에게 | 사이드 프로젝트 특집 3편
-**URL:** https://www.youtube.com/watch?v=hlvYPaWRAmU    (
+**** https://www.youtube.com/watch?v=hlvYPaWRAmU    (
 
 # 워라밸을 고민하고 번아웃에 고통받는 직장인들에게 | 사이드 프로젝트 특집 3편
 
@@ -432,7 +432,7 @@ c55 으 [음악] 아 잠시 우리의 로켓의 지구에서 새로운 주로 �
 ---
 
 ## 447. 구글과 실리콘밸리 셀럽이 함께하는 컨퍼런스 관전 포인트ㅣ2021 신한 스퀘어브릿지 스타트업 콘퍼런스
-**URL:** https://www.youtube.com/watch?v=rYU39LxtgbA    (
+**** https://www.youtube.com/watch?v=rYU39LxtgbA    (
 
 # 구글과 실리콘밸리 셀럽이 함께하는 컨퍼런스 관전 포인트ㅣ2021 신한 스퀘어브릿지 스타트업 콘퍼런스
 
@@ -533,7 +533,7 @@ c55 으 [음악] 아 잠시 우리의 로켓의 지구에서 새로운 주로 �
 ---
 
 ## 448. 미국에서 실패했지만 한국에서 성공한 아이템
-**URL:** https://www.youtube.com/watch?v=kCTq6pQpdiQ    (
+**** https://www.youtube.com/watch?v=kCTq6pQpdiQ    (
 
 The provided YouTube transcript appears to be highly garbled and contains a jumble of unrelated words and phrases. I am unable to extract any coherent information or narrative related to "미국에서 실패했지만 한국에서 성공한 아이템" (Items that failed in the US but succeeded in Korea) from it.
 
@@ -545,7 +545,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 449. 사내정치 슬기롭게 극복하는 법 | 사이드 프로젝트 특집 2편
-**URL:** https://www.youtube.com/watch?v=s8fRd-8OG7Y    (
+**** https://www.youtube.com/watch?v=s8fRd-8OG7Y    (
 
 # 사내정치 슬기롭게 극복하는 법 | 사이드 프로젝트 특집 2편
 
@@ -641,7 +641,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 450. 스타트업 업계 종사자라면 모두가 봐야 하는 영상🔥이택경의 스타트업 투자 전략 EP 01
-**URL:** https://www.youtube.com/watch?v=rXuoqQpOI4U    (
+**** https://www.youtube.com/watch?v=rXuoqQpOI4U    (
 
 # 스타트업 업계 종사자라면 모두가 봐야 하는 영상🔥이택경의 스타트업 투자 전략 EP 01
 
@@ -766,7 +766,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 451. 유니콘 스타트업 CEO가 직접 도와주는 역대급 액셀러레이터 프로그램
-**URL:** https://www.youtube.com/watch?v=aPi99-945YM    (
+**** https://www.youtube.com/watch?v=aPi99-945YM    (
 
 # 유니콘 스타트업 CEO가 직접 도와주는 역대급 액셀러레이터 프로그램
 
@@ -891,7 +891,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 452. 실패한 창업가를 위한 정부지원사업
-**URL:** https://www.youtube.com/watch?v=J3KwY-hgIgk    (
+**** https://www.youtube.com/watch?v=J3KwY-hgIgk    (
 
 # 실패한 창업가를 위한 정부지원사업
 
@@ -1031,7 +1031,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 453. 퇴근 후 딴짓의 나비효과 | 사이드 프로젝트 특집 1편
-**URL:** https://www.youtube.com/watch?v=gl1ScePCAf8    (
+**** https://www.youtube.com/watch?v=gl1ScePCAf8    (
 
 # 퇴근 후 딴짓의 나비효과 | 사이드 프로젝트 특집 1편
 
@@ -1154,7 +1154,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 454. 제작비 5억을 들여 다큐멘터리 영화 '타다'를 만든 이유
-**URL:** https://www.youtube.com/watch?v=kKW0t1_syD4    (
+**** https://www.youtube.com/watch?v=kKW0t1_syD4    (
 
 # 제작비 5억을 들여 다큐멘터리 영화 '타다'를 만든 이유
 
@@ -1258,7 +1258,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 455. 불과 2년 전까지 평범한 직장인이었죠 | 신일류03 이진선
-**URL:** https://www.youtube.com/watch?v=CfPNMpKqN3s    (
+**** https://www.youtube.com/watch?v=CfPNMpKqN3s    (
 
 # 불과 2년 전까지 평범한 직장인이었죠 | 신일류03 이진선
 
@@ -1388,7 +1388,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 456. 목소리를 잃고 연봉 1억을 만든 통찰 | 신일류02 이진선
-**URL:** https://www.youtube.com/watch?v=tgjXZPD2SHk    (
+**** https://www.youtube.com/watch?v=tgjXZPD2SHk    (
 
 # 목소리를 잃고 연봉 1억을 만든 통찰 | 신일류02 이진선
 
@@ -1520,7 +1520,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 457. 스타트업콘 진출팀 사업계획서 리뷰 (갤럭시Z플립 이벤트)
-**URL:** https://www.youtube.com/watch?v=TKI3ktKKzvU    (
+**** https://www.youtube.com/watch?v=TKI3ktKKzvU    (
 
 # 스타트업콘 진출팀 사업계획서 리뷰 (갤럭시Z플립 이벤트)
 
@@ -1642,7 +1642,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 458. 1500억 원의 '숨은 돈'을 찾아준 회사
-**URL:** https://www.youtube.com/watch?v=CHnaq1JQ9-U    (
+**** https://www.youtube.com/watch?v=CHnaq1JQ9-U    (
 
 # 1500억 원의 '숨은 돈'을 찾아준 회사
 
@@ -1750,7 +1750,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 459. 내 ‘브랜드’로 연소득 3억!💵 자면서 돈 버는 시스템을 만들기까지 + 일정관리팁 | 신일류01 드로우앤드류
-**URL:** https://www.youtube.com/watch?v=UwKoLX25wX0    (
+**** https://www.youtube.com/watch?v=UwKoLX25wX0    (
 
 # 내 ‘브랜드’로 연소득 3억!💵 자면서 돈 버는 시스템을 만들기까지 + 일정관리팁 | 신일류01 드로우앤드류
 
@@ -1878,7 +1878,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 460. 모두 망할 거라고 했지만 가장 적극적으로 채용 중인 회사
-**URL:** https://www.youtube.com/watch?v=s9lQHE1KBfw    (
+**** https://www.youtube.com/watch?v=s9lQHE1KBfw    (
 
 # 모두 망할 거라고 했지만 가장 적극적으로 채용 중인 회사
 
@@ -1984,7 +1984,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 461. 세상이 변하는 속도는 오늘이 가장 느리다
-**URL:** https://www.youtube.com/watch?v=EcYHHJKQ58g    (
+**** https://www.youtube.com/watch?v=EcYHHJKQ58g    (
 
 # 세상이 변하는 속도는 오늘이 가장 느리다
 
@@ -2088,7 +2088,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 462. 3년 만에 다시 만난 그는 유니콘이 되어 있었다
-**URL:** https://www.youtube.com/watch?v=ZB63tID2kl0    (
+**** https://www.youtube.com/watch?v=ZB63tID2kl0    (
 
 # 3년 만에 다시 만난 그는 유니콘이 되어 있었다
 
@@ -2212,7 +2212,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 463. 욕망에 집중하면 큰 돈이 보인다 💰
-**URL:** https://www.youtube.com/watch?v=EV9JlDoi_9s    (
+**** https://www.youtube.com/watch?v=EV9JlDoi_9s    (
 
 # 욕망에 집중하면 큰 돈이 보인다 💰
 
@@ -2325,7 +2325,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 464. 이렇게 생각하는 사람이 성공할 수 있을까? l 유니콘하우스 신재식🦄
-**URL:** https://www.youtube.com/watch?v=xELRho1GPdg    (
+**** https://www.youtube.com/watch?v=xELRho1GPdg    (
 
 # 이렇게 생각하는 사람이 성공할 수 있을까? l 유니콘하우스 신재식🦄
 
@@ -2442,7 +2442,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 465. 유기동물 전국 1위, 제주도를 위한 솔루션💡
-**URL:** https://www.youtube.com/watch?v=YqJMh0vIEss    (
+**** https://www.youtube.com/watch?v=YqJMh0vIEss    (
 
 # 유기동물 전국 1위, 제주도를 위한 솔루션💡
 
@@ -2564,7 +2564,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 466. 당신의 아이디어에 정말 사람들이 돈을 쓸까요? | 유니콘하우스 류중희
-**URL:** https://www.youtube.com/watch?v=XEASHIBOItU    (
+**** https://www.youtube.com/watch?v=XEASHIBOItU    (
 
 # 당신의 아이디어에 정말 사람들이 돈을 쓸까요? | 유니콘하우스 류중희
 
@@ -2709,7 +2709,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 467. ESG 이렇게 투자합니다ㅣ유니콘하우스 최경희
-**URL:** https://www.youtube.com/watch?v=tinTQuay60A    (
+**** https://www.youtube.com/watch?v=tinTQuay60A    (
 
 # ESG 이렇게 투자합니다ㅣ유니콘하우스 최경희
 
@@ -2789,7 +2789,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 468. 사람들이 착각하는 ‘성공의 비결’ㅣ유니콘하우스 박지웅
-**URL:** https://www.youtube.com/watch?v=eF_-ELsgAZ0    (
+**** https://www.youtube.com/watch?v=eF_-ELsgAZ0    (
 
 # 사람들이 착각하는 ‘성공의 비결’ㅣ유니콘하우스 박지웅
 
@@ -2891,7 +2891,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 469. 경제적 자유를 얻은 사람은 둘로 나뉜다 | 직장인 연봉 특집 3편
-**URL:** https://www.youtube.com/watch?v=qetG2d5M6pg    (
+**** https://www.youtube.com/watch?v=qetG2d5M6pg    (
 
 # 경제적 자유를 얻은 사람은 둘로 나뉜다 | 직장인 연봉 특집 3편
 
@@ -2989,7 +2989,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 470. 연봉협상 가만히 있으면 가마니 됩니다 | 직장인 연봉 특집 2편
-**URL:** https://www.youtube.com/watch?v=8yzseCSlndo    (
+**** https://www.youtube.com/watch?v=8yzseCSlndo    (
 
 # 연봉협상 가만히 있으면 가마니 됩니다 | 직장인 연봉 특집 2편
 
@@ -3079,7 +3079,7 @@ a 그녀가 당신을 사랑하는 것은 무엇입니까 티파니 한새가 �
 ---
 
 ## 471. 네이버와 카카오 기획자를 거쳐 여행 스타트업 CEO가 되기까지
-**URL:** https://www.youtube.com/watch?v=pd0dQEev2co    (
+**** https://www.youtube.com/watch?v=pd0dQEev2co    (
 
 # 네이버와 카카오 기획자를 거쳐 여행 스타트업 CEO가 되기까지
 
@@ -3219,7 +3219,7 @@ CEO로서 연사는 '왜'라는 본질적인 질문을 던지고, 신뢰를 바�
 ---
 
 ## 472. 회사에서 배운 배관 기술을 사업으로 만들어준 창업 경진 대회
-**URL:** https://www.youtube.com/watch?v=lTbz1z2Yp0Y    (
+**** https://www.youtube.com/watch?v=lTbz1z2Yp0Y    (
 
 # 회사에서 배운 배관 기술을 사업으로 만들어준 창업 경진 대회
 
@@ -3398,7 +3398,7 @@ ICT 기반 스마트팜은 초기 시스템 구축에 상당한 투자가 필요
 ---
 
 ## 473. 당신이 프로가 되기 위해 지켜야 할 기본 to the 기본
-**URL:** https://www.youtube.com/watch?v=dsmtN7FReQU    (
+**** https://www.youtube.com/watch?v=dsmtN7FReQU    (
 
 # 당신이 프로가 되기 위해 지켜야 할 기본 to the 기본
 
@@ -3535,7 +3535,7 @@ ICT 기반 스마트팜은 초기 시스템 구축에 상당한 투자가 필요
 ---
 
 ## 474. 솔직히 회사에서 돈보다 중요한 게 있어요? | 직장인 연봉 특집 1편
-**URL:** https://www.youtube.com/watch?v=5ykqzDCo0is    (
+**** https://www.youtube.com/watch?v=5ykqzDCo0is    (
 
 # 솔직히 회사에서 돈보다 중요한 게 있어요? | 직장인 연봉 특집 1편
 
@@ -3653,7 +3653,7 @@ ICT 기반 스마트팜은 초기 시스템 구축에 상당한 투자가 필요
 ---
 
 ## 475. 스타트업 서바이벌 오디션 🦄유니콘하우스 참가자 모집
-**URL:** https://www.youtube.com/watch?v=-ZdYn7hO81o    (
+**** https://www.youtube.com/watch?v=-ZdYn7hO81o    (
 
 # 스타트업 서바이벌 오디션 🦄유니콘하우스 참가자 모집
 
@@ -3751,7 +3751,7 @@ ICT 기반 스마트팜은 초기 시스템 구축에 상당한 투자가 필요
 ---
 
 ## 476. 세계적으로 인정받은 한국인 디자이너의 관점
-**URL:** https://www.youtube.com/watch?v=gTlhVEIbcYU    (
+**** https://www.youtube.com/watch?v=gTlhVEIbcYU    (
 
 # 세계적으로 인정받은 한국인 디자이너의 관점
 
@@ -3843,4 +3843,4 @@ ICT 기반 스마트팜은 초기 시스템 구축에 상당한 투자가 필요
 ---
 
 ## 477. 요즘 잘나가는 번개장터의 영업 비밀
-**URL:** https://www.youtube.com/watch?v=n75_ZRrngUw    (
+**** https://www.youtube.com/watch?v=n75_ZRrngUw    (

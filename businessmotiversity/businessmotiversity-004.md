@@ -89,7 +89,7 @@
 ---
 
 ## 147. You've Been Trained to be BROKE! | I Did This & Got Rich - Bob Proctor
-**URL:** https://www.youtube.com/watch?v=dEjaj5clBl8    (
+**** https://www.youtube.com/watch?v=dEjaj5clBl8    (
 
 ## 📚 생각의 힘: 성공을 이끄는 마음의 법칙
 
@@ -189,7 +189,7 @@
 ---
 
 ## 148. SACRIFICE = SUCCESS! POWERFUL Motivational Speech
-**URL:** https://www.youtube.com/watch?v=b3Zig0374UQ    (
+**** https://www.youtube.com/watch?v=b3Zig0374UQ    (
 
 ## 📚 성공을 위한 희생: 불편함을 기꺼이 감수하는 용기
 
@@ -286,7 +286,7 @@
 ---
 
 ## 149. DO IT FOR YOU | Powerful Motivational Speeches of 2023
-**URL:** https://www.youtube.com/watch?v=A3nfDTNO_ps    (
+**** https://www.youtube.com/watch?v=A3nfDTNO_ps    (
 
 ## 📚 인생의 주도권을 잡는 법: 책임, 열정, 그리고 지속 가능한 성공
 
@@ -389,7 +389,7 @@
 ---
 
 ## 150. Dave Ramsey: You Only Need These 5 Lessons To Be Successful
-**URL:** https://www.youtube.com/watch?v=KBaY9bwkyKc    (
+**** https://www.youtube.com/watch?v=KBaY9bwkyKc    (
 
 ## 📚 부의 기초를 다지는 지혜: 데이브 램지의 5가지 핵심 재정 원칙
 
@@ -607,7 +607,7 @@
 ---
 
 ## 151. INVEST IN YOUR FUTURE - Learn to Invest like Kevin O'Leary in less then 10 minutes
-**URL:** https://www.youtube.com/watch?v=sk9Nkw13b-U    (
+**** https://www.youtube.com/watch?v=sk9Nkw13b-U    (
 
 ## 📚 성공을 위한 세 가지 핵심 기둥: 기업가 정신, 현명한 재정 관리, 그리고 직관
 
@@ -719,7 +719,7 @@
 ---
 
 ## 152. 10 Minutes for the next 10 years - POWERFUL Motivational Speeches (MUST WATCH)
-**URL:** https://www.youtube.com/watch?v=Svw-oXtXO-c    (
+**** https://www.youtube.com/watch?v=Svw-oXtXO-c    (
 
 ## 📚 성공을 위한 마인드셋: 부의 비밀과 꾸준함의 힘
 
@@ -839,7 +839,7 @@
 ---
 
 ## 153. NO EXCUSES | Powerful Motivational Speeches | Listen Everyday
-**URL:** https://www.youtube.com/watch?v=fTmuxfXhGlI    (
+**** https://www.youtube.com/watch?v=fTmuxfXhGlI    (
 
 ## 📚 성공을 위한 내면의 엔진: 허슬러 정신과 승리자의 태도
 
@@ -933,7 +933,7 @@
 ---
 
 ## 154. 
-**URL:** https://www.youtube.com/watch?v=fTmuxfXhGlI    (
+**** https://www.youtube.com/watch?v=fTmuxfXhGlI    (
 
 ```
 s Vuitton lvmh 세계에서 세 번째로 부유한 사람 Louis Vuitton olds Louis Vuitton on Dior they on Hennessy Moet 예, 좋아하는 것처럼 소유하자고 종종 재고가 제품보다 저렴하므로 폐기물 관리가 영원히 여기에 있을 회사라는 것을 안다면 우리는 물건을 버리는 것을 멈추지 않을 것이기 때문에 그 회사를 소유하는 것이 어떻겠습니까? 코너 때문에 새 휴대전화야 나한테 돈 좀 벌고 싶은 것 같으니 폐기물 관리국이 또 다른 매립지를 위해 40에이커의 일회용 토지를 사들였다는 얘기를 들으면 신나고 주식 시장의 또 다른 좋은 점은 이제 세상에 관심을 갖게 되니 이제 세상에서 무슨 일이 일어나고 있는지 이해하게 됐다는 걸 알게 됐어 비즈니스를 배우기 시작했지 Cycles Market Cycles 너도 알잖아 이제 내가 좋아하는 이유는 이제 알 수 있으니까 괜찮아 이건 망할 것 같아 알았어 우리는 이 사이클에 있어 괜찮아 사람들이 채용하고 있어 괜찮아 우리는 확장 사이클이고 그래서 이제 나는 세계를 이해하지 못한 채 혼자서 경제 수업을 듣기 시작했고 중국에서 무슨 일이 일어나고 있는지 이해하기 시작했습니다. 알았어 중국에서 무슨 일이 일어났기 때문에 내가 소유한 사과 사과는 중국에서 수익의 20%를 차지합니다. 알았어 지금 당장은 약간의 타격을 입을 수도 있습니다. 제가 무슨 말을 하는지 아시겠지만 주식 시장은 제가 세상이 어떻게 펀더멘털을 올바르게 움직이는지 이해하기 시작하는 데 도움이 되었고 그게 감옥에서 중요합니다 음 우리는 4시간 동안 계속해서 싸우고 있습니다. 우리처럼 하나 둘 그냥 싸우고, 음, 나는 독방에 갇히는데 이때 이 모든 죄수들은 미국 최악의 교구 교도소 중 하나로 여겨졌죠. 맞죠. 판매하러 가다가 내 인생의 전환점이 된 백인 남자를 만나서 그 사람을 만나서 나는 좀 짜증이 난 것처럼 좌절했어요. 음, 그 사람이 저를 보고, 그 사람은 이렇게 많은 흑인들이 이 위치에 있다는 생각에 경외감을 느꼈나 봐요. 잘못된 게임 등등 내 생각엔 난 신선해 보이는데 무슨 말을 하는 거야? 형처럼 지금 여기에서 엉덩이를 채찍질하게 만들지 마 그가 마치 아냐아냐 그 사람이 좋아하는 것처럼 들어봐 브로 내 말은 해롭지 않고 무례하다는 뜻은 아니지만 너희 모두 왜 그러는 것 같으니 그 사람은 여기 있는 모든 흑인 남자들의 역동적인 모습에 당황한 것 같아 그리고 나는 남자 같아 남자에 대해 무슨 말을 하는 거야 이건 진짜 게임이 아니야 그래서 그는 이렇게 말해요 그 사람이 한 말 그게 문제야, 너희들은 생각도 안 하는 문제야 그게 게임이라는 걸 알아요 그래서 그가 나에게 그것이 당신이 화가 났을 때와 그 순간의 당신에 관한 것과 같다고 말했을 때 그것은 말이 될 때 그것은 당신에게 엄청난 벽돌처럼 부딪히는 것과 같습니다. 그래서 나는 그가 어떤 사람과 같았습니다. 들어보세요 이 게임이 진행되고 있고 당신은 잠시 이길 수 없는 게임을 하고 있습니다. 나는 단지 내가 알고 있던 사람들에 대해 생각하기 시작합니다. 16시에는 내가 아는 모든 사람이 둘 중 하나를 겪었습니다. 감옥에 갔다가 총에 맞았고 아버지가 죽었고 모두가 같은 운명을 겪었기 때문에 그에 대한 내 반박은 이 정도입니다. 게임이라면 당신은 나와 함께 있는 동안 규칙을 알고 있습니다. 좋은 질문입니다. 맞죠 그는 내가 여기 있다고 하더군요. 280만 달러 횡령으로 배상금 80만 달러를 배상했습니다. 200만 달러를 본 적이 있나요? 난 마치 여기서 나가야 할 것 같아요. 당신은 거짓말을 하고 감옥에 있는 동안 서류를 보여주면 됩니다. 서류만 빼고 원하는 대로 거짓말을 할 수 있는 것처럼 음 그래서 서류 작업일을 보자고 했으니 뉴올리언스에서 빨간색 밴드가 있었는데 빨간색 밴드는 강도 유괴 전화에 대한 살인 미수와 잭이 빨간색과 흰색 밴드에서 행한 폭력 범죄를 의미합니다. 당시 빨간색과 흰색 밴드는 당신이 연방 구금에 있다는 뜻이고 감옥에 있거나 감옥에 갇힌 경우 우리가 당신을 다음 단계에서 알지 못하는 것을 아는 것과 같은 계층 구조와 같은 연방 브랜드를 얻는다면 음 그는 나에게 그의 서류를 보여줬고 그 사람은 바로 거기 흑백으로 있고 즉시 내 관심을 끌었습니다. 왜냐하면 빨간색과 흰색 남자가 내가 16살 때 당신을 다른 수준으로 존중하게 만들었기 때문입니다. 하지만 당신의 서류에서 그것을 볼 때 나는 280만 달러가 아무데도 적힌 것을 본 적이 없었습니다. 그 변화에 대한 적절한 가격은 제 생각입니다. 젠장, 그래서 당신이 하는 일을 어떻게 해야 하는지 말해주세요. 경제적으로 그렇게 강력한 사람이 되는 것이 얼마나 강력한지 깨달았습니다.특히 주식에 투자할 때 중요한 점은 제가 지금 사용하는 모든 것에 대한 소유권이 제가 그 사과를 소유하고 있다면 괜찮다고 말할 수 있게 해준다는 것입니다. 신이시여, Levi's를 입을 거라면 Apple 휴대폰을 사는 데 신경 쓰지 않고 vfc Corp을 소유할 수 있다면 Timberlands를 입을 것입니다. 그런 다음 제가 사는 물건을 소유하게 되면 괜찮습니다. 제 사고방식의 미묘한 변화가 저에게 모든 것을 바꿔 놓았습니다. 허락해줘 그냥 내가 소비하는 모든 것을 소유하면 괜찮을 거예요. 그게 8억 달러에 팔렸기 때문에 제가 돈에 대해 알게 된 이유는 부자 아빠 가난한 아빠가 이런 시대가 온다는 것을 알았기 때문입니다. 감사합니다. 우리는 세상에 한 번도 가본 적이 없어서 으스스한 시대였나요? 태미 그때는 아마 역대 가장 위험한 시대였을 겁니다. 비교할 것이 없습니다. 예를 들어 이전에 세계 경제가 없었기 때문입니다. 100년 전에 주식이 있었다면 영국의 시장 붕괴는 누구에게도 영향을 미치지 않았지만 이제 미국 시장은 하락하고 세계는 하락하고 소셜 미디어와 이 모든 일이 지금 우리가 하고 있기 때문에 우리는 전에 여기에 와본 적이 없으며 어 알다시피 나는 그것에 대해 흥분됩니다. 왜냐하면 폭락이 일어날 때보다 폭락으로 더 많은 돈을 벌기 때문입니다. 하지만 보통 사람의 경우 그들은 전멸될 것입니다. 최악의 경우에는 제가 틀렸기를 바라지만 우리가 글로벌 불황으로 향하고 있는 것 같습니다. 일반 노동자에게는 어떻게 될까요? 중소기업 소유자를 위한 로버트 내 말은 제 2차 세계 대전의 국가 부채는 매일 250억 달러였습니다. 오늘 날 매일 1,250억 달러를 인쇄하고 있습니다. 이는 하루에 2차 세계 대전 5번과 같습니다. 그들은 이 보트를 유지하기 위해 너무 많은 돈을 인쇄하고 있습니다. 이 보트를 유지하기 위해 열기구를 생각하세요. 그것을 찢고 그들은 이 찢어진 부분을 고치기 위해 필사적으로 노력하고 있지만 아무리 노력해도 그 이상은 줄어들고 있으므로 재정적인 용어로 우리의 부채라고 합니다. Deep GDP는 이제 60에서 90으로, 105로 120이 될 것입니다. 우리는 파산했고 그들은 점점 더 많은 돈을 인쇄할 것입니다. 이는 제가 예상했던 것처럼 저축자 또는 패자를 의미합니다. 몇 년 안에 귀하의 돈이 쓸모없게 될 것이라고 예측했기 때문에 제 메시지는 귀하의 다른 손님 중 일부와 동일합니다. 변태형 금융교육 및 부자 아버지의 용어는 정말 재정적 변형이고 변태의 정의는 매우 중요합니다 변태의 정의는 미성숙 형태에서 성체로, 미성숙 형태에서 성체로의 진화 또는 변형입니다. 변태는 애벌레가 나비로 변하는 것과 같고 풀러는 항상 애벌레 안에서 나비가 나올지 예측할 수 있는 것은 아무 것도 없다고 말했으니까 모두 지금 당장 들어보세요 재정적으로 어려움을 겪고 있다면 자신을 조금 작게 생각하세요 애벌레와 이 위기는 당신의 누에고치입니다. 질문은 당신이 피해자로 나타나기 때문에 무엇으로 나타나느냐입니다. 세상이 한 남자에게 자본가는 사기꾼이고 부자는 개자식이고 이 모든 것들이 무엇인지 아십니까? 아니면 아 이게 내 건강과 마찬가지로 나에게 일어난 최고의 일이라고 말합니까? 나는 코로나바이러스의 그라운드 제로입니다. 나는 코로나바이러스의 근원지입니다. 내가 하는 모든 일은 내가 더 건강해지도록 영감을 주는 것뿐입니다. 당신은 더 건강해지고 더 부유해지거나 파산할 것입니다. 당신의 선택은 당신의 귀 사이에 있습니다 당신의 마음 당신의 몸 당신의 마음 당신의 정신 당신의 태도 이것은 당신에게 일어난 최고의 일이 될 수 있습니다 육체적으로 정신적으로 감정적으로 영적으로 당신이 나비로 변하거나 누군가가 작은 벌레처럼 당신을 밟을 경우 그것은 당신의 선택입니다 [음악] 한 번도 기업가가 아니었고 그 사람이 기업가가 되기 위해 믿음의 도약을 생각하고 있는 사람에게 한 가지 말할 수 있다면 무엇을 잘 말해줄 수 있을까요 나도 그들에게 나에게 일어난 것과 같은 일을 말해 줄 것입니다 내 마지막 월급 알잖아 난 아직도 분명히 기억해 그 날이 내 인생에서 최악이자 최고의 날 중 하나였고 난 푸에르토리코에 있었지 아니었어 난 Xerox에서 일하고 있었는데 상사가 나에게 마지막 월급을 줬어 월급이 아니었어 보너스 수표였어 과세 대상이 30,000달러 정도였던 것 같은데 그게 유일한 문제야 그래서 이 수표를 받고 고등어를 탔지 그래 내 말은 그래서 신났지만 불안하기도 했고 그래서 이건다른 사람이 나한테 이름이 John이었는데 John이 나한테 네가 돌아올 거라고 했어 나는 왜 그가 실패할 것이기 때문에 그러는지 말했어 나는 그를 바라보며 몇 마디 욕설을 했다고 말했어 그 사람이 그랬기 때문이지 Xerox를 떠났고 실패하고 돌아왔다 나는 봐봐 너는 실패하고 너는 다시 돌아오지만 나는 실패할 것이고 나는 결코 돌아오지 않을 것이고 그게 내가 말하는 태도야, 네가 실패하면 엄마 아빠에게 돌아갈 거야 그럼 그게 네가 할 일이니까, 네가 실패하면 그게 되는 거야 내가 기업가가 되었을 때 돈이 없었기 때문에 몇 년 동안 돈이 없었습니다. 월급도 없었지만 부자 아버지가 저에게 하라고 권하신 것은 월급이 없을 때 더 배가 고파지고 성격 테스트를 이용하여 앉는 자세의 예술을 어떻게 배우느냐는 것입니다. 왜냐하면 그것은 부분적으로는 정치학이고 부분적으로는 저널리즘이기 때문입니다. 제가 시장이 되기 위해 출마했을 때 했던 인터뷰 중 일부가 틀린 말을 하려고 당신을 넘어뜨리려고 하는 것처럼 들립니다. 그거 하나 당신을 죽이는 것은 협상하는 방법을 배우기 때문에 많은 것이 경험이라는 것을 배우기 때문에 처음에는 실수한다는 것을 알고 있지만 운이 좋았습니다. 저를 잘 가르쳐 주신 아버지가 있었고 기본적으로 이러한 일에서 어떻게 처신하는지 가르쳐 주신 분이 계시다는 것을 알고 있습니다. 브라이언 아버지가 저에게 가르쳐 주신 가장 중요한 것은 평생 동안 저를 위해 일해 왔고 진지하게 들어갈 것입니다. 잘 듣는 사람이 되는 것입니다. 다른 사람이 실수를 하게 놔두세요. 열심히 준비하세요. 그리고 저는 법 집행 소령의 주요 표적이 되었습니다. 표적은 저를 테이프에 녹화하여 잘못된 일을 한 적이 한 번도 없었습니다. 저에 대한 비밀 작전은 한 번도 없었습니다. 저에 대한 녹음 테이프는 83개였습니다. Don King과 Al Sharpton의 경우에는 그 중 하나를 사용할 수 없었습니다. 저는 테이프에서 실수를 한 적이 없었습니다. 왜냐하면 저는 항상 듣고 있었기 때문에 저는 말하는 방식에 주의했고 아버지를 공로로 여기고 아버지의 말을 듣는 것은 알겠습니다. 알겠습니다. 이해합니다. 당신도 알다시피 누구에게 똑같은 말을 하는지 조심해야 해요 앉을 거예요 그 사람이 자기 자신을 발표하게 놔두세요 그 사람도 항상 이렇게 말해요 당신은 회의에 갈 거예요 가끔은 당신이 방에서 가장 똑똑한 사람이지만 다른 사람이 그걸 알기를 바라지 않을 거에요 당신이 바보라고 생각하게 해주세요 당신은 아무것도 모르고 당신이 일어나는 방식대로 일어나는 거죠 그게 바로 큰 장점이에요 다른 때는 당신이 방에서 가장 똑똑한 사람이 아닐 때도 있지만 만약 당신이 입 다물고 있어 아무도 모른다는 걸 모르니까 그냥 놔둬 그들이 당신이 아는 모든 것을 말해주었기 때문에 그 방에서 가장 똑똑한 사람이 될 수 있습니다. 미디어에 관한 모든 것, 엔터테인먼트에 관한 모든 것 내 말은 대부가 나왔을 때 거리에 있는 남자들이 다르게 행동했다는 것입니다. 거리에 있는 남자들의 페르소나를 크게 끌어올렸기 때문입니다. 내가 어린 아이들에게 말하는 이 모든 영화를 목격했고 봤다는 말씀이군요. 돈이 있었다 당신은 항상 당신에게 음식을 제공하는 사람들이 있었다고 말했어요. 그게 좋은 거 안다고 친구 그렇죠, 영화 후반부를 보셨나요? 살해당했고, 감옥에 간 모든 것을 잃었어요. 그들은 돈만 본다는 걸 보지 못했죠. 권력과 그것은 사람들에게 최음제였습니다. 브라이언이 처음 말하기 시작했을 때 감옥에서 나왔을 때 저는 뉴욕에서 꽤 잘 알려져 있었습니다. 아마도 플로리다 서해안에서 유명한 이름이 있었을 겁니다. 예, 그곳에서 제가 기소된 곳입니다. 중서부 텍사스에는 내가 누군지 아무도 몰랐습니다. 그들은 천막에 섰습니다. 마피아 놈들은 입석만 할 것입니다. 사람들은 라이프 스타일에만 관심이 있습니다. 그것은 모두 미디어입니다. 헐리우드 연예 뉴스 내 말은 존 고티, 이봐요, 존 고티가 되고 싶어한 사람이 얼마나 많은지 알죠. 얼마나 많은 사람이 존 고티가 되고 싶어했는지 알죠. 얼마나 많은 사람들이 마이클 꼴레오네 비토가 되고 싶었는지 알죠. 바보예요. 왜냐하면 그들은 좋은 점을 보지만 무슨 일이 일어나는지 보지 못하기 때문입니다. 그들은 거기에서 쏘지 않고 실제로 가지고 있던 것에 주의를 기울이지 않습니다. 많은 당신과 관련된 일이 있었어요 당신이 원하는 대리점과 관련된 일이 있었어요 이런 모든 다른 것들을 저는 당신이 mazdaway를 줄 수 없을 때 Mazda 에이전시를 샀습니다. 와이클 엔진이 폭발했기 때문에 당신은 하나도 줄 수 없었기 때문에 읽은 기억이 나고 그것을 Mazda에 관한 한 Long Island에서 가장 큰 에이전시로 세웠고 그것은 많은 일이었고 나는 이 일을 해야 했습니다다르게 생각하지만 저는 사업을 할 수 있었습니다. 사업에 대한 머리가 있는 것 같아요. 이제 행동에 나서야 합니다. 오해하지 마십시오. 저는 주변에서 가장 똑똑한 사업가는 아닙니다. 왜냐하면 사업에는 하기 싫은 일이 많기 때문입니다. 그러나 제가 가진 어떤 재능은 저에게 잘 맞았고, 저는 사업을 할 때 항상 사람들에게 이것을 말합니다. 저는 세세한 부분까지 관리하는 것은 좋은 일이 아니라고 생각합니다. 왜냐하면 누구도 모든 일을 잘 할 수 없기 때문입니다. 하지만 여기에 거래가 있습니다. 나머지는 위임하고 좋은 사람이 되세요 이 사람들을 관찰하는 사람은 당신이 그것을 최대한 활용하는지 확인하는 방법입니다. 당신은 엉뚱한 사람들과 어울릴 수 없고 잘못된 사람들에게 책임을 질 수 없습니다. 계속해서 잘못된 일을 하고 그것이 끝날 것이라고 생각합니다. 알다시피 그것은 광기의 정의입니다. 당신도 알고 있습니다. 계속 똑같은 잘못된 일을 하고 당신이 다른 결과를 낳을 것이라고 생각합니다. 그래서 당신도 알다시피 그리고 나는 이 인생에서 우리가 함께 어울리는 사람이 1순위라는 것을 알게 되었습니다. 우리 주변에 있는 사람들에 의해 평가되고 나는 거리에 있을 때 누구에게 책임이 있는지 나는 상사에게 맹세할 책임이 있었습니다 나는 거리에서 매일매일 범죄자였습니다 나는 하나님의 법과 인간의 법을 위반하고 있습니다. 그것이 바로 내가 책임져야 했던 사람이기 때문입니다. 이제 하나님의 은혜로 내 삶의 일부가 변화되었음을 알 수 있었습니다. 나는 하나님께 책임이 있습니다. 아내와 자녀, 나를 신뢰하는 사람들에게 책임이 있습니다. 그래서 나는 올바른 길을 가고 있습니다. 나는 계속해서 노력합니다. 하지만 너도 내가 이 사람들에게 하는 말을 눈치챘을 거라는 걸 기억해 브루클린에서 소년을 데려갈 수는 있지만 항상 브루클린을 그 소년에게서 데려갈 수는 없습니다. 나도 예전과 같은 본능을 가지고 있습니다. 사라지지 않습니다. 가끔은 일을 잘못된 방식으로 처리하고 싶지만 나는 당신이 할 수 있는 한 많이 알고 있다는 것을 깨닫습니다. 따라서 부를 쌓는 열쇠는 얼마나 일할 수 있느냐가 아니라 일해서 부를 얻을 수 없느냐에 달려 있습니다. 모든 부유한 사람들에게 투자해야 합니다. 흑인 백인 아시아계 중국인 그들은 부유하지 않은 사람들을 잔뜩 소유하고 있기 때문입니다. 아무것도 소유하지 마세요 돈만 현금에 보관하면 현실적으로 당신은 점점 더 가난해지고 있습니다 일부 사람들은 실제로 성공 성공이 많이 따르는 것을 두려워합니다 옳습니다 하지만 당신이 어떤 상황에 있든 당신이 살고 있는 평균적인 현실을 극복할 수 있을 때까지는 일단 편안해지면 누구나 평균적으로 살 수 있습니다 모든 사람이 평범하게 살 수 있습니다 바로 다음 단계로 나아가기 위해 지속적으로 자신을 밀어붙이는 이상치들이 있습니다 지식은 우리에게 인생에서 지렛대를 주는 것입니다. 그것은 당신이 얼마나 강한지에 관한 것이 아니라 당신이 얼마나 강한지에 관한 것이 아닙니다. 그게 무슨 얘기야? 더 많은 돈을 인쇄할수록 더 많은 돈의 가치가 떨어진다는 점을 어떻게 적극적으로 적용할 수 있습니까? 은행이 여러분의 돈을 거기에 두기를 원하는 이유는 그들이 돈을 가져가서 사용하고 그렇게 많이 투자하고 이봐요 조수 제가 거기에 가지고 있던 모든 것에 대해 50센트를 줄 테니 소유권에 대한 아이디어는 잘 알다시피 그것이 단지 주식이건 상관없이 우리가 모든 것을 소유하기 시작할 수 있다는 것입니다. 당신은 이제 모든 것을 소비합니다 일회성 거래를 평생 이익으로 바꾸는 것은 나에게 중요한 일이었습니다. 왜냐하면 내가 매장에 가서 Nike 신발을 한 켤레 사면 다시 뭔가를 얻기 위해 일회성 거래이기 때문입니다. 다시 돌아와서 Nike 신발을 한 켤레 더 사야 하기 때문에 Nike 주식을 소유하고 있는 한 Nike 주식을 소유하고 있다면 그것은 나에게 수익성 있는 수단입니다. 따라서 내가 그 사업을 소유한다면 일회성 거래는 평생 이익이 될 수 있습니다. 내가 Apple이라는 것을 알고 Apple을 사려고 한다면 사용자 내가 전화기를 갖고 있다는 걸 안다면 에어팟이 있고 MacBook이 있고 PC가 있는데 Apple이 무언가를 내놓으려고 할 때 신이 났어요 왜 내가 그것을 소유하지 않겠습니까? 그래서 두 사람 모두 돈을 위해 시간 거래를 중단하고 돈을 일하기 시작하고 가능한 한 많은 가치를 사람들에게 부여한다고 말합니다. 주의할 점은 우리가 사람들에게 그토록 많은 가치를 주는 이유는 당신이 그들에게 너무 많은 가치를 주면 그들은 결코 당신을 떠나지 않을 것이기 때문이라고 말한 것에 대해 조금 더 깊게 파고들었다는 것입니다. 거기에 당신이 환영받는 한 당신과 당신은 아무것도 필요하지 않을 것입니다. 부유한 사람들은 먼저 주식에 들어간 다음 사업을 시작한 다음 부동산을 얻습니다. 당신이 말한 것처럼 중요한 유일한 믿음은 당신이 할 수 있다고 믿는 것입니다. 나는 개인적으로 거기 있다고 믿습니다.내가 할 수 없는 일은 아무것도 아니며 돈은 내 초점이 아닌 다른 모든 것의 부산물인 것처럼 임팩트 목적 달성에 관한 것입니다. 내 초점은 한 사람의 삶이 아니라 인생을 바꿀 수 있는 지식과 정보가 있다는 것입니다. 따라서 인생을 바꾸는 방법은 해당 정보를 외부에 배치할 수 있는 새로운 방법을 지속적으로 배우는 것입니다. 사람들이 연결되어야 하기 때문에 취약해질 수 있습니다. 그래서 거리에 나오는 것처럼 가장 낮은 수준에서만 게임을 볼 수 있습니다. 다른 사람들을 보면 부분적으로는 감탄하고 부분적으로는 질투심으로 보는 거죠. 왜냐면 당신은 그걸 보고 젠장 난 절대로 제대로 갈 수 없을 거라 생각하기 때문에 그걸 얻을 수 있는 유일한 방법은 스포츠 허슬링을 통해서야 그게 유일한 랩이죠 그게 유일한 세 가지 옵션이고 그래서 당신이 어떤 방향으로 가고 싶은지 결정하고 그래서 당신은 젠장하고 그래서 나는 그때 남자처럼 난 랩을 할 수 없어요 젠장 스포츠를 할 수 없으니 허슬링에는 한계가 있어 당신 자신과 아무도 와서 당신에게 다른 것을 가르치지 않습니다. 사람들이 부유한 사람들이 돈이 있는 사람이거나 불길한 사람이라고 생각하는 이유는 그것이 당신이 허브에서 가르친 것이기 때문입니다. 마치 돈이 있는 사람들처럼 이야기하기 때문입니다. 돈을 얻기 위해 사악한 짓을 했고 그것을 얻기 위해 중상모략을 했고 당신은 결코 그것을 제대로 얻을 수 없을 것입니다. 그래서 같은 사고 방식이 이제 허슬과 마약 건물의 낮은 수준에서 발생하므로 이제 당신은 돈을 벌기 위해 문장을 해야 한다고 생각합니다. 그리고 마약 게임에서 성공한 사람들은 꼭대기에 있는 사람들을 존나 그렇게 되고 싶지만 밑바닥에 있는 사람들은 절대 그걸 맛보지 못할 테니 이제 우리는 그저 야망에 따라 살아가고 있고 그래서 이제 중간에 있는 사람들은 일하고 돈 있는 다른 사람들처럼 다들 사기꾼들이야 왜냐하면 밑바닥에 있는 것은 꼭대기에 있는 사람들을 부러워하도록 가르치기 때문이야 그건 그냥 거기에 뿌리를 둔 뭔가야 너와 비슷해 요리해요 모르겠어요 이전에 검보를 먹었지만 음식을 요리할 때 베이스가 바닥으로 내려가서 대부분의 사람들이 그 바닥에 살고 어떻게 거기까지 올라갈지 전혀 모르고 일단 그것을 계속 전달하면 더 낮은 레벨을 받아들이기 시작하고 우리 중 몇 명 또는 몇몇 사람들이 아니오라고 말한 것이 가능하다고 믿지 않습니다. 나는 거기에 있습니다. 나는 거기에 있고 무슨 일이 있어도 나는 부자와 함께 있고 시간을 낭비하지 않습니다. 그것은 그들의 가장 중요한 필수품입니다. 그들은 TV를 많이 보지 않습니다. 일하지 않으면 오락을 많이 하지 마세요. 그들은 자신의 기술을 공부하고 기술이 더 좋아지기 때문에 저는 오크우드에 다녔습니다 어 대학 그리고 어 제가 오크우드에 갔을 때 당신이 들어와서 배우라고 입력하고 떠날 때 봉사하라고 말했습니다. 그래서 나는 항상 당신이 아는 모든 사람에게 봉사해야 한다고 배웠습니다. 당신이 배운 것을 배우기 위해 입력한 만트라였습니다. 나의 전문적으로 일하면 대부분의 사람들은 게으른데 내가 무슨 말을 하는지 알기 전까지는 일하지 않을 테니 당신이 그들을 위해 뭔가를 해주기 전까지는 쇼핑몰에 가세요 내 친구 그 사람은 거기 접시와 함께 앉아 있는 거 아시죠 소년 그는 유일한 사람 다른 사람들은 볶음밥을 먹어 보세요 꼬마 꼬마는 데리야끼 치킨을 먹어 보세요 당신은 형제 같아요 난 괜찮아 배고프지 않은 것처럼 내 남자가 여전히 당신과 함께 있어요 안돼 안돼 안돼 안돼 오렌지 치킨 그럼 한번 먹어봐 오렌지 치킨 맞아요 쟤네는 그 집에서 누구보다 더 많은 일을 하고 있어요 배고파요 브로 걔들 대부분은 여기서 오지 않아서 여기 도착하면 가져가서 무슨 일이 일어났는지 알잖아요 우리 오 5.99 5.99 브로 넌 그렇게 먹으려고도 하지 않았어 브로 그렇게 배고프지도 않았어 맞아 그래서 그들이 내가 먼저 먹어보라고 말할 거라고 깨달았고 여기 너희가 얻을 수 있는 거래가 있어 느낌 하지만 당신은 자신만의 현실을 가질 수 없습니다. 현실은 현실입니다. 당신 중 일부는 물건을 주고 사람들은 가져가지 않습니다. 즉 그것은 가치가 없다는 의미이므로 이제 처음으로 돌아가서 다시 시도하면 됩니다. 여러분 중 일부는 개인적으로 받아들이고 있고 여러분 모두 물건을 무료로 제공합니다. 나처럼 무료로 제공하세요.사람들은 지지하고 식사할 때 가죠 아 기분 상하지 마세요 그냥 물어보세요 너무 짠지 오렌지 치킨에 오렌지가 너무 많았는지 제가 무슨 말인지 알잖아요. 무슨 일이 있었는지 말해주세요. 그래서 우리가 영상을 올리기 시작하면 사람들이 댓글에 댓글을 달곤 했죠. 어떤 사람들은 들었지만 안 그랬는데 어떤 사람들은 yo I'm Feeling Brother Slow Down low yo bro I'm Feel your passion bruh but can you? 말을 올려봐 한 걸음 두 걸음처럼 말해줄 수 있어? 3개는 yo처럼 약간 조정한 것 같았어 우리는 음악을 느끼고 있어 브로지만 우리는 이미 힙합을 듣고 있어 우리는 당신의 메시지를 듣고 싶어 음악을 낮추거나 음악을 전혀 사용하지 않고 우리는 20대 정도의 카메라를 가지고 있었습니다. E처럼 우리는 6개의 카메라 샷이 필요하지 않습니다. 한 번이면 충분합니다. 그래서 저는 당신이 누구인지 말해주듯이 개인적으로 받아들이지 않았습니다. 저는 그냥 조정을 하는 것 같았고 저는 제가 세상에서 100살이 될 줄 아무도 모르는 사람에게서 20인치에 이르렀습니다. 세계 10위는 세계 1위니까 내놓고 마음에 들지 않으면 연구실로 다시 가져가서 다시 연구실로 가져가서 수정하고 뭐라 하면 다시 무료로 주고 연구실로 다시 가져가서 모두가 뭐라 할 정도로 수정하세요 부자들은 일 안 한다고 가난한 사람들이 일한다고 생각해요 가난한 사람들은 출근해요 부자들이 한 시간 동안 이만큼 벌고 일하게 하고 이만큼 벌어요 한 시간 [음악] 무슨 일이 일어나는지 확인해 보세요 당신과 당신의 가족을 위해 일하고 있습니까? 그들은 동시에 40명이 일하므로 20명을 주고 15,000명 중 80명은 2,200만 달러를 벌기에 충분하므로 결정해야 할 것은 계속 99세로 남을 것인지 아니면 상위 1%의 일부가 될 준비가 되어 있는지입니다. 왜냐하면 고등학교 중퇴자 출신이든 GED 출신이든 차이가 없기 때문입니다. 버려진 건물에서 어디서 자든 상관없어요. 어디에서 자든 상관없어요. 17살짜리 엄마가 임신해서 왔어 시카고 남부에서 왔든 상관없어 어디 출신이 디트로이트에서 자랐든 상관없어 4년제 학위를 받는 데 12년이 걸렸어 아무 차이도 없어 넌 99세가 1퍼센트가 되었을 때 내가 1퍼센트처럼 생각하고 행동하기 시작하면 모든 것이 바뀌었다면 당신은 당신이 보는 것을 당신의 손에 나타내게 될 것입니다 머리 속에는 용기가 생길 거라는 자신감 매일 나가서 성공하겠다는 자신감과 자기 결단력 이 말을 수천 번 들어야 한다면 어떻게 허슬러가 챔피언의 심리학과 연결되어 있는지 이해하세요 그냥 계속 움직이세요 계속 허슬하세요 더 이상 외국에 자신을 소개할 필요가 없을 때까지 계속 그라인더 [음악] 웃음 [음악]
@@ -941,7 +941,7 @@ s Vuitton lvmh 세계에서 세 번째로 부유한 사람 Louis Vuitton olds Lo
 ---
 
 ## 155. Gary Vee: The Greatest Advice You'll Ever Receive
-**URL:** https://www.youtube.com/watch?v=mGu9tQMjaLA    (
+**** https://www.youtube.com/watch?v=mGu9tQMjaLA    (
 
 ## 📚 돈이 전부가 아니다: 진정한 성공을 위한 비즈니스 지혜
 
@@ -1105,7 +1105,7 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 ---
 
 ## 156. Beginner's Guide to Real Estate Investment (MUST WATCH)
-**URL:** https://www.youtube.com/watch?v=iliaqB0adn0    (
+**** https://www.youtube.com/watch?v=iliaqB0adn0    (
 
 ## 📚 로버트 기요사키의 지혜: 초보자를 위한 부동산 투자 성공 전략
 
@@ -1193,7 +1193,7 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 ---
 
 ## 157. WHAT'S HOLDING YOU BACK? - Powerful Motivational Speech (Cole The Wolf DaSilva)
-**URL:** https://www.youtube.com/watch?v=4_xjBMyDmC0    (
+**** https://www.youtube.com/watch?v=4_xjBMyDmC0    (
 
 # 성공을 위한 자기 혁명: 변명을 멈추고 행동하라
 
@@ -1298,7 +1298,7 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 ---
 
 ## 158. Ray Dalio's WARNING and How To Prepare for the Upcoming Recession
-**URL:** https://www.youtube.com/watch?v=gOFfZM8zjfc    (
+**** https://www.youtube.com/watch?v=gOFfZM8zjfc    (
 
 # 금융 위기 시대, 나의 자산을 지키는 현명한 전략
 
@@ -1403,7 +1403,7 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 ---
 
 ## 159. Zig Ziglar: How to Get Rich in 2023
-**URL:** https://www.youtube.com/watch?v=GLZo-AIsXPc    (
+**** https://www.youtube.com/watch?v=GLZo-AIsXPc    (
 
 ## 📚 성공을 위한 내면의 잠재력 발휘: 지그 지글러의 지혜
 
@@ -1526,7 +1526,7 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 ---
 
 ## 160. Warren Buffett: 10 Rules For Young People Who Want To Get Rich
-**URL:** https://www.youtube.com/watch?v=GYL-UqULyAg    (
+**** https://www.youtube.com/watch?v=GYL-UqULyAg    (
 
 ## 📚 워렌 버핏의 현명한 투자 10계명: 부의 지혜를 배우다
 
@@ -1683,7 +1683,7 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 ---
 
 ## 161. Robert Kiyosaki: How to Get Rich in 2023
-**URL:** https://www.youtube.com/watch?v=ZYn8o8JwezQ    (
+**** https://www.youtube.com/watch?v=ZYn8o8JwezQ    (
 
 ## 📚 로버트 기요사키의 부자 아빠 가르침: 경제적 자유를 위한 4가지 핵심 전략
 
@@ -1787,7 +1787,7 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 ---
 
 ## 162. BEST MOTIVATIONAL SPEECHES OF 2023 (SO FAR) - NO EXCUSES
-**URL:** https://www.youtube.com/watch?v=0LVswaEEiOg    (
+**** https://www.youtube.com/watch?v=0LVswaEEiOg    (
 
 ## 📚 내 안의 사자를 깨워라: 역경을 딛고 재정적 자유를 쟁취하는 법
 
@@ -2019,7 +2019,7 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 ---
 
 ## 163. 2023 GO HARD MENTALITY | Savage Advice from Billionaire Dan Pena
-**URL:** https://www.youtube.com/watch?v=AqjB3kPJ-ZY    (
+**** https://www.youtube.com/watch?v=AqjB3kPJ-ZY    (
 
 ## 📚 열정으로 일하고, 현명하게 투자하라: 성공을 위한 비즈니스 마인드셋
 
@@ -2112,7 +2112,7 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 ---
 
 ## 164. The Most Honest Advice About Getting Rich (EYE OPENING SPEECH)
-**URL:** https://www.youtube.com/watch?v=JpbPF3VyVrI    (
+**** https://www.youtube.com/watch?v=JpbPF3VyVrI    (
 
 # 내 삶의 주인이 되는 법: 자기 책임, 성장, 그리고 대담한 꿈
 
@@ -2191,7 +2191,7 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 ---
 
 ## 165. It's Actually Happening - Survive the Upcoming Recession - 5 Ways to Prepare
-**URL:** https://www.youtube.com/watch?v=w0gW8AHi0fM    (
+**** https://www.youtube.com/watch?v=w0gW8AHi0fM    (
 
 # 경기 침체에서 살아남기: 불황을 기회로 바꾸는 지혜
 
@@ -2287,7 +2287,7 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 ---
 
 ## 166. You'll Have an INSTANT Advantage Over Others | "I Did This and Got Rich!" - Jasmine Star
-**URL:** https://www.youtube.com/watch?v=WmhmzMux7-Y    (
+**** https://www.youtube.com/watch?v=WmhmzMux7-Y    (
 
 ## 📚 불확실성을 기회로: 당신의 잠재력을 깨우는 기업가 정신
 
@@ -2368,7 +2368,7 @@ AI 시대에는 인간만이 할 수 있는 `창의적 사고`, `복잡한 문�
 ---
 
 ## 167. 5 Lessons I Learned From Elon Musk | Best Motivational Advice 2023
-**URL:** https://www.youtube.com/watch?v=tBGBVj_eEEs    (
+**** https://www.youtube.com/watch?v=tBGBVj_eEEs    (
 
 ## 📚 일론 머스크에게 배우는 혁신과 리더십: 미래를 만드는 5가지 핵심 원칙
 
@@ -2525,7 +2525,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 168. Advice To Get RICH In Your 20's - Greatest Motivational Compilation 2023
-**URL:** https://www.youtube.com/watch?v=9m8MXt766hI    (
+**** https://www.youtube.com/watch?v=9m8MXt766hI    (
 
 ## 📚 내 안의 언더독을 깨워라: 성공을 위한 마인드셋과 실천 전략
 
@@ -2628,7 +2628,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 169. HOW TO THINK & GET RICH | Wallstreet Trapper & Jaspreet Singh
-**URL:** https://www.youtube.com/watch?v=R3rwRnrum98    (
+**** https://www.youtube.com/watch?v=R3rwRnrum98    (
 
 ## 📚 부의 게임: 생존 모드에서 공격 모드로 전환하는 법
 
@@ -2722,7 +2722,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 170. You've Been TRAINED TO BE BROKE | "I Did This and Got Rich!" Jaspreet Singh
-**URL:** https://www.youtube.com/watch?v=n3rgrHyArMw    (
+**** https://www.youtube.com/watch?v=n3rgrHyArMw    (
 
 ## 📚 금융 시스템 이해와 인플레이션 시대의 부의 축적 전략
 
@@ -2851,7 +2851,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 171. Neuroscientist: TRY IT FOR 3 DAYS! Habits of The Ultra Wealthy for 2023
-**URL:** https://www.youtube.com/watch?v=Tigs1QzcHfQ    (
+**** https://www.youtube.com/watch?v=Tigs1QzcHfQ    (
 
 ## 📚 도파민의 비밀: 욕망을 이해하고 동기를 조절하는 법
 
@@ -2944,7 +2944,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 172. How The System Keeps You POOR! (Watch this To Become RICH in 2023) | Jaspreet Singh
-**URL:** https://www.youtube.com/watch?v=kNynbjt8wLI    (
+**** https://www.youtube.com/watch?v=kNynbjt8wLI    (
 
 ## 📚 부의 시작: 돈이 아닌 '마인드셋'에 있다
 
@@ -3035,7 +3035,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 173. GET TO WORK - The Most Powerful Motivational Speech Compilation for Success, Students & Work
-**URL:** https://www.youtube.com/watch?v=y1XgzIOrsh0    (
+**** https://www.youtube.com/watch?v=y1XgzIOrsh0    (
 
 # 성공을 위한 마인드셋: 잠재력을 깨우고 목표를 달성하는 법
 
@@ -3183,7 +3183,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 174. You've Been TRAINED TO BE BROKE | "I Did This and Got Rich!" - Kim Kiyosaki
-**URL:** https://www.youtube.com/watch?v=H-SyXQviga4    (
+**** https://www.youtube.com/watch?v=H-SyXQviga4    (
 
 ## 📚 학교는 가르쳐주지 않는 진짜 돈 공부: 기업가 정신으로 인생을 변화시키는 법
 
@@ -3287,7 +3287,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 175. Getting Rich Is Super Easy | Jeff Bezos
-**URL:** https://www.youtube.com/watch?v=ZIUH3k2V1j4    (
+**** https://www.youtube.com/watch?v=ZIUH3k2V1j4    (
 
 # 제프 베이조스의 성공 비결: 후회 최소화부터 고객 집착까지
 
@@ -3380,7 +3380,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 176. UNDERDOG MENTALITY - Motivational Video 2023
-**URL:** https://www.youtube.com/watch?v=0WDtyICffHg    (
+**** https://www.youtube.com/watch?v=0WDtyICffHg    (
 
 ## 📚 언더독 정신: 당신 안의 굶주린 개를 깨워라
 
@@ -3485,7 +3485,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 177. This Secret Will Change Everything | Motivational Video for 2023 (Featuring Eric Thomas)
-**URL:** https://www.youtube.com/watch?v=3Ni_VQFuTCg    (
+**** https://www.youtube.com/watch?v=3Ni_VQFuTCg    (
 
 ## 📚 숨 쉬듯 간절히 원하라: 성공을 위한 절대적 헌신
 
@@ -3620,7 +3620,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 178. IT'S YOUR TIME - Powerful Motivation To Start 2023
-**URL:** https://www.youtube.com/watch?v=vjFHitDEUlg    (
+**** https://www.youtube.com/watch?v=vjFHitDEUlg    (
 
 ## 📚 포기하지 않는 마음: 성공을 위한 회복탄력적 사고방식
 
@@ -3713,7 +3713,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 179. BUSINESS MOTIVERSITY - BEST OF 2022 | Best Motivational Video Compilation
-**URL:** https://www.youtube.com/watch?v=2ENi6OQqKKI    (
+**** https://www.youtube.com/watch?v=2ENi6OQqKKI    (
 
 # 변명 없는 삶: 허슬러 정신으로 만드는 위대한 유산
 
@@ -3800,7 +3800,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 180. 
-**URL:** https://www.youtube.com/watch?v=2ENi6OQqKKI    (
+**** https://www.youtube.com/watch?v=2ENi6OQqKKI    (
 
 ```
 그게 내가 하는 일의 비결인 에고 기반 의식에 대한 언급이지만 침대에 누워 있을 때 또 다른 우연이었죠. 눈물이 흘러내렸기 때문에 팔을 들 수 없었죠. 맞죠. 교훈을 알았기 때문에 거의 더 어렵습니다. 제가 비난과 수치심에 빠져 있던 그 무지한 오만함 속에 있었던 것과는 달랐습니다. 나는 거기 누워 책임을 지고 있었고 그것은 어렵습니다. 그 당시 책임은 여전히 내가 이것을 나 자신에게 끌기 위해 무엇을 했는지에 묶여 있었습니다. 나는 추측했다 내가 그것에 참여하기 위해 무엇을 했는지, 그것에 대한 인식과 무엇을 배워야 하는지로 진화했지만, 내가 제일 좋아하는 영화 중 하나가 Rocky라는 재킷을 입은 것처럼 TV를 틀고 일어나려고 했던 기억이 난다. 그래서 나는 거기 완전히 짓눌려 누워 있었고, 전원을 켰고 거기에 Rocky가 있고 영화의 마지막 부분이 켜져 있고 그 장면에서 음악이 흘러나오고 있다. 나는 울고 있고 Paul Creed는 단지 Beauty rocking이고 그 장면이 걸려 있는 것을 기억하는지 모르겠다. 그리고 그 사람은 땅바닥에 있고 그 여자 이름이 뭔지 알지 uh 아드리안이 뒤에 있고 그는 거기 앉아 있는데 그는 여섯 번 일어날 수 없었고 그는 미키처럼 그대로 있었고 다른 사람들은 모두 일어나서 록키와 나는 거기 앉아 있다 나는 아래에 있고 그가 올려다보는 것을 보고 있다 그녀는 어떻게든 음악이 흘러가는 것을 올려다보고 그는 바로 다시 일어선 다음 그는 아폴로를 갈비뼈에 집어넣고 그 라운드는 두 번째에서 마지막 라운드까지 끝나고 영화는 8까지 계속됩니다 더 많은 영화나 내 생각대로 나 자신에게 만약 그가 일어나지 않았다면 어땠을까 그 영화가 끝났고 그가 완전히 망가졌다면 그는 모든 교훈을 배웠다는 것을 기억합니다. 그가 그를 사랑하기 때문에 우리를 무례하게 만든 영화에서 모든 다른 교훈을 겪었다는 것을 기억하세요. 하지만 파산의 순간에 그는 내가 찾아볼 수 있는지 결정해야 했습니다. 오 친구 다른 모든 사람들을 넘어 나는 일어날 것이고 그가 일어나니까 우리 모두는 다른 8개의 영화에 무슨 일이 일어났는지 알고 있습니다. 나는 나를 위한 나머지 8개의 임무에서 무슨 일이 일어날지 보고 싶었습니다. 응, 우선 찾아보세요. 그리고 나서 숨을 쉬십시오. 당신이 원하는 것이 무엇인지 생각하십시오. 당신이 어떻게 도울 수 있고 누가 당신을 도울 수 있는지 생각한 다음 어떻게 생각하기 시작하고 첫 번째 단계의 우선 순위를 정하십시오. 당신이 원하는 것에 대해 생각하기 시작하고 매일 계속하십시오. 지속적으로 당신의 잠재력을 추구하기 위해 지속적으로 즐기십시오. 또한 열린 마음을 가지십시오. 나는 미래에 내가 원하는 것에 대해 이야기합니다. 나는 배우고 마음을 바꾸는 데 열려 있습니다. 나는 빨리 배우는 사람을 사랑하고 나는 위선자를 사랑합니다. 그래서 그렇게 느끼면 위를 보고 원하는 것을 생각하십시오. 당신이 도울 수 있는 사람과 그 일을 가장 잘 할 수 있는 사람을 도울 수 있는 사람 매일이 더 쉬워질 것이라고 약속합니다. 그리고 곧 유튜브는 당신의 기회가 나타나기 전에 하룻밤 사이에 성공할 것입니다. 한 가지 도전에 직면할 것이고 내가 약속하기 전에 당신은 스스로에게 묻게 될 것입니다. 나는 정말로 그것을 할 수 있습니까? 당신이 하나님의 형상을 만들었기 때문에 내가 당신의 눈이 볼 수 있는 한 내가 당신을 축복할 것입니다. 그가 당신에게 말한 한 내가 당신을 축복할 것이라고 말했습니다. 너의 눈은 볼 수 있는 한 당신을 축복하겠다고 약속했어요 당신의 눈이 볼 수 있는 한 멀리 축복해 주겠다고 약속했어요 당신의 눈은 어떤 사람을 얼마나 멀리 볼 수 있습니까 나는 복지를 봅니다 어떤 사람의 눈은 심지와 식량 스탬프를 보지만 어떤 사람의 눈은 십만 명의 사람을 봅니다 나는 백만 명의 사람을 봅니다 나는 십억 명이 당신의 질문에 대답할 수 있습니다 당신의 눈은 무엇을 보는가 당신 큰 생각을 하려면 당신이 헌신해야 합니다. 계획을 세우고 따라야 합니다. 그게 전부입니다. 성공하려면 성공이 필요합니다. 성공하려면 일어서서 끝까지 따라가야 합니다. 당신이 따라갈 것은 야구 선수의 계획과 다르지 않습니다. 농구에서 슈터가 완벽한 형태를 갖추는 데 있어 약간의 비밀을 알려드리겠습니다. 성공하려면 완벽한 자세가 필요합니다. 책임을 진다면 한 가지 약속하겠습니다. 넌 스스로 책임을 져야 해, 그러면 될 거야 당신이 할 수 있는 최악의 일은 다른 사람들이 당신에게 책임을 물을 때까지 기다리는 것입니다 다른 사람들이 당신에게 동기를 부여할 때까지 기다리십시오 다른 사람들이 당신에게 영감을 줄 때까지 기다리십시오 자신에게 동기를 부여하는 것은 어떻습니까 다른 사람에게 동기를 부여하는 것에 대해 생각해 본 적이 있습니까?이 세상은 당신이 일어나기를 원합니다 이 세상은 당신의 꿈이 필요합니다 이 세상은 당신이 당신 내면에 있는 모든 것을 성취하기 위해 당신이 필요합니다 이 세상은 당신이 되기 위해 당신이 필요하지만 당신이 당신이 되기 위해서는 매일 아침 내가 깨어날 때 당신이 일어나야 합니다 나는 저 태양이 떠오르는 것을 봅니다 그리고 나는 당신이 매일 아침 태양처럼 일어나기를 원합니다 나는 당신이 일어나서 끝까지 해내길 원합니다 [음악] 외국 [음악] [음악] [음악]
@@ -3808,7 +3808,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 181. GET IT DONE IN 2023 - Greatest Business Motivation Compilation
-**URL:** https://www.youtube.com/watch?v=N3_8_TZwbZI    (
+**** https://www.youtube.com/watch?v=N3_8_TZwbZI    (
 
 ## 📚 책의 기본 구조
 
@@ -3931,7 +3931,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 182. WIN THE MORNING, WIN THE DAY - Positive Morning Motivation
-**URL:** https://www.youtube.com/watch?v=b08ly1rjgjc    (
+**** https://www.youtube.com/watch?v=b08ly1rjgjc    (
 
 ## 📚 위대한 성공을 위한 마인드셋: '그라인드' 정신으로 한계를 돌파하라
 
@@ -4011,7 +4011,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 183. Do what the 99% Are Not Doing! - GREATEST Business Motivation Compilation
-**URL:** https://www.youtube.com/watch?v=uON4DDXgm8E    (
+**** https://www.youtube.com/watch?v=uON4DDXgm8E    (
 
 ## 📚 잠재력을 깨우는 삶: 목표, 행동, 그리고 회복탄력성
 
@@ -4091,7 +4091,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 184. HOW THE SYSTEM KEEPS YOU POOR | Jaspreet Singh
-**URL:** https://www.youtube.com/watch?v=wclD0gcURFw    (
+**** https://www.youtube.com/watch?v=wclD0gcURFw    (
 
 ## 📚 화폐의 본질과 인플레이션: 부를 지키는 지혜
 
@@ -4191,7 +4191,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 185. "How I Went from Broke to BILLIONAIRE!" | Ray Dalio
-**URL:** https://www.youtube.com/watch?v=_0_d1h2ujdE    (
+**** https://www.youtube.com/watch?v=_0_d1h2ujdE    (
 
 ## 📚 성공의 역설: 불편함과 불확실성을 기회로 바꾸는 지혜
 
@@ -4285,7 +4285,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 186. REPROGRAM your mind to be rich in 10 minutes
-**URL:** https://www.youtube.com/watch?v=OEc76HDG56U    (
+**** https://www.youtube.com/watch?v=OEc76HDG56U    (
 
 ## 📚 성공을 위한 20시간의 법칙: 실행과 인내로 목표를 달성하는 법
 
@@ -4399,7 +4399,7 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 187. HOW THEY KEEP YOU POOR - Become a Billionaire by doing THIS! (Ft Tom and Lisa Bilyeu)
-**URL:** https://www.youtube.com/watch?v=toRimj9OIFg    (
+**** https://www.youtube.com/watch?v=toRimj9OIFg    (
 
 ## 📚 성공을 위한 내면의 힘: 감정 조절과 문제 해결의 기술
 
@@ -4489,4 +4489,4 @@ Donald Trump Neil deGrasse Tyson Jordan Peterson Bill Gates Arnold Schwarzenegge
 ---
 
 ## 188. EVERY SINGLE DAY MENTALITY, NO EXCUSES - Business Motivation
-**URL:** https://www.youtube.com/watch?v=_xRvb09E2u4    (
+**** https://www.youtube.com/watch?v=_xRvb09E2u4    (

@@ -43,7 +43,7 @@ Uray는 현대적인 웹 스택을 활용하여 제품을 개발합니다. 그�
 *   **주의사항:** 창업은 단거리 경주가 아닌 마라톤이며, 중도 포기하지 않는 끈기가 필수적입니다.
 
 # My Apps Make $4.5M/Year With $0 Marketing
-**URL:** https://www.youtube.com/watch?v=vLLBzUZr6-s
+**** https://www.youtube.com/watch?v=vLLBzUZr6-s
 
 플랫폼 기반 앱 비즈니스로 연 450만 달러 수익 달성 전략
 
@@ -219,7 +219,7 @@ monday.com에서 제공하는 시장 통계, 사용자 정보, 해결해야 할 
 *   **왜 중요한가:** AI 도구를 활용하여 방대한 데이터를 분석하고 창
 
 # I Spent 24 Hours With Roblox Millionaires
-**URL:** https://www.youtube.com/watch?v=8xgnm6SynH4
+**** https://www.youtube.com/watch?v=8xgnm6SynH4
 
 Roblox 백만장자들의 성공 전략과 기업가 정신
 
@@ -335,7 +335,7 @@ Jake는 콜드 아웃리치(cold outreach)나 콜드 콜(cold call) 없이 클�
 *   **실제 사례:** Peter Levelvels는 AI 코딩 도구만을 사용하여 비행기 시뮬레이터 게임을 개발했습니다. 이는 AI가 개발 프로세스에 얼마나 큰 영향을 미 미치는지 보여주는 사례입니다.
 
 # My Coding Game Makes $1M Per Month
-**URL:** https://www.youtube.com/watch?v=tMkpiFIW8Xg
+**** https://www.youtube.com/watch?v=tMkpiFIW8Xg
 
 포화 시장에서 8자리 수익을 달성한 온라인 학습 플랫폼의 비결
 
@@ -464,7 +464,7 @@ Jake는 콜드 아웃리치(cold outreach)나 콜드 콜(cold call) 없이 클�
 | 용어 (
 
 ## I Got Rejected From YC, Then Built a $200M Startup
-**URL:** https://www.youtube.com/watch?v=PSx0vcUY-sk
+**** https://www.youtube.com/watch?v=PSx0vcUY-sk
 
 # 좌절을 딛고 일어선 연쇄 창업가의 성공 스토리
 
@@ -599,7 +599,7 @@ Jake는 콜드 아웃리치(cold outreach)나 콜드 콜(cold call) 없이 클�
 *   **주의사항:** 제품 분석 도구는 단순히 데이터를 수집하는 것을 넘어, 실행 가능한 인사이트를 제공하고 의사결정을 지원해야 합니다.
 
 # From Zero to $42K/Month in 90 Days with AI
-**URL:** https://www.youtube.com/watch?v=0T55DRYqeeA
+**** https://www.youtube.com/watch?v=0T55DRYqeeA
 
 AI 시대의 성공적인 스타트업 빌딩 전략
 
@@ -734,7 +734,7 @@ AI 시대의 성공적인 스타트업 빌딩 전략
 *   **심화 설명:** 'AI 네이티브'는 AI 기술을 단순히 사용하는 것을 넘어, AI적 사고방식을 내재화
 
 # I used Cursor to build an app on the train, made $30K, and quit my job.
-**URL:** https://www.youtube.com/watch?v=jpSY4MlWX50
+**** https://www.youtube.com/watch?v=jpSY4MlWX50
 
 AI를 활용한 초고속 앱 개발 및 수익화 전략: Polus의 3만 달러 성공 사례 분석
 
@@ -855,7 +855,7 @@ Polus는 자신의 경험을 바탕으로 젊은 창업가들에게 다음과 �
 *   **주의사항:** AI는 도구일 뿐, 아이디어의 본질과 시장의 니즈를 파
 
 # I Make $250K/Month From 20 Apps
-**URL:** https://www.youtube.com/watch?v=En34iY-rQc0
+**** https://www.youtube.com/watch?v=En34iY-rQc0
 
 존 러쉬의 26개 앱 포트폴리오 구축 전략
 
@@ -1004,7 +1004,7 @@ Polus는 자신의 경험을 바탕으로 젊은 창업가들에게 다음과 �
 *   **주의사항:** 자신의 고통을 해결하는 것이 항상 시장성이 있는 것은 아닙니다. 자신의 고통이 다른 많은 사람들의 고통과 일
 
 # How to Use AI to Find a $1M Idea [Reddit, Claude]
-**URL:** https://www.youtube.com/watch?v=L_FY6aW9cJ4
+**** https://www.youtube.com/watch?v=L_FY6aW9cJ4
 
 AI 기반 사업 아이디어 발상 및 랜딩 페이지 제작: Gold Mining Framework 심층 분석
 
@@ -1070,7 +1070,7 @@ AI 기반 사업 아이디어 발상 및 랜딩 페이지 제작: Gold Mining Fr
 *   **주의사항**: 일시적인 유행(예: 특정 AI 도구의 급부상)에 기반한 시장은 빠르게 성장했다가 사라질 수 있습니다. 반면, 인간의 본질적인 니즈(건강, 관계, 재정)나 사회 구조적 변화에 기반한 시장은 장기적인 성장 잠재력을
 
 # I Built an App with Cursor and Made $100K in 15 Minutes
-**URL:** https://www.youtube.com/watch?v=4hMg_CZauJs
+**** https://www.youtube.com/watch?v=4hMg_CZauJs
 
 AI를 활용한 무코드(No-Code) 앱 개발 및 성공적인 런칭 전략: Alex Finn의 Creator Buddy 사례 분석
 
@@ -1194,7 +1194,7 @@ AI를 활용한 무코드(No-Code) 앱 개발 및 성공적인 런칭 전략: Al
 *   **주의사항:** 무작정 행동하는 것과 무계획적으로 행동하는 것은 다릅니다
 
 # How I Built It: $9,000 Per Month Micro SaaS
-**URL:** https://www.youtube.com/watch?v=npcL7oRZQlI
+**** https://www.youtube.com/watch?v=npcL7oRZQlI
 
 단일 기능 앱으로 월 9천 달러 수익 달성하기
 
@@ -1295,7 +1295,7 @@ AI를 활용한 무코드(No-Code) 앱 개발 및 성공적인 런칭 전략: Al
 *   **주의사항:** 사용자가 무료로 제품을 사용하는 것과 유료로 사용하는 것은 완전히 다른 의미입니다. 유료 고객은 제품의 핵심 가치를 인정하고 문제를 해결하기 위해 기꺼이 투자하는 고객입니다.
 
 # I built a $1M saas 100% with no code
-**URL:** https://www.youtube.com/watch?v=x9TUDb4sLE0
+**** https://www.youtube.com/watch?v=x9TUDb4sLE0
 
 노코드(No-Code)로 100만 달러 SaaS를 구축하는 법
 
@@ -1411,7 +1411,7 @@ AI를 활용한 무코드(No-Code) 앱 개발 및 성공적인 런칭 전략: Al
 *   **주의사항:** 자신의 강점과 열정을 파악하고, 이를 비즈니스 아이디어와 연결하는 것이 중요합니다.
 
 # I Make $100K/Year From 2 AI Side Projects
-**URL:** https://www.youtube.com/watch?v=CoqAxV6b6j4
+**** https://www.youtube.com/watch?v=CoqAxV6b6j4
 
 풀타임 직업과 병행하는 AI 사이드 프로젝트 성공 전략
 
@@ -1571,7 +1571,7 @@ AI를 활용한 무코드(No-Code) 앱 개발 및 성공적인 런칭 전략: Al
         이는 완벽함을 추구하기보다, 빠르게 시장에 내놓고 피드백을 통해 개선하는 '린 스타트업(Lean Startup)' 철학과 일맥상통합니다.
 
 # How I Built It: $15K/month Mobile App
-**URL:** https://www.youtube.com/watch?v=gpn1jEoWT4A
+**** https://www.youtube.com/watch?v=gpn1jEoWT4A
 
 Habit Kit 성공 사례 분석
 
@@ -1675,7 +1675,7 @@ Habit Kit 성공 사례 분석
 *   **주의사항:** 안
 
 # This App Makes $25,000/Month
-**URL:** https://www.youtube.com/watch?v=HBCwzfFbopE
+**** https://www.youtube.com/watch?v=HBCwzfFbopE
 
 단순한 아이디어로 월 2만 5천 달러 수익 달성하기
 
@@ -1839,7 +1839,7 @@ Stage Timer 아이디어는 우연한 관찰에서 시작되었습니다.
 *   **심화 설명:** 많은 사람들이 창업을 망설이는 이유 중 하나는 복잡한 법률, 세금, 규제에 대한 두려움입니다. 하지만 루카스는 이러한 두려움이 과장된 경우가 많으며, 일단 시작하면 해결
 
 # How I Built A $1M Business in 117 Days
-**URL:** https://www.youtube.com/watch?v=E_sPvPHwpuk
+**** https://www.youtube.com/watch?v=E_sPvPHwpuk
 
 Yasser의 Chatbase 성공 스토리 분석
 
@@ -1968,7 +1968,7 @@ Yasser의 Chatbase 성공 스토리는 현대 스타트업 생태계에서 주�
 *   **주의사항:** '크게 생각하라'는 무모한 도전을 의미하는 것이 아니라, 자신의 잠재력을 믿고 목표를 높게 설정하라는 의미입니다.
 
 # How I Used Reddit to Hit $17K MRR (With ZERO Audience)
-**URL:** https://www.youtube.com/watch?v=BaWUPamqWlA
+**** https://www.youtube.com/watch?v=BaWUPamqWlA
 
 Reddit 마케팅 플레이북으로 17K MRR SaaS 구축하기
 
@@ -2093,7 +2093,7 @@ Reddit은 Diego가 100명 미만의 X(구 트위터) 팔로워로 17K MRR을 달
 *   **주의사항:** "빠른 실행"은 "성급한 실행"과는 다릅니다. 충분한 시장 조사와 핵심 가치에
 
 # I make $40K/month with this one website
-**URL:** https://www.youtube.com/watch?v=EF3uyvHHBfM
+**** https://www.youtube.com/watch?v=EF3uyvHHBfM
 
 월 4만 달러를 버는 초간단 웹사이트, 솔로프러너의 성공 전략
 
@@ -2222,7 +2222,7 @@ Reddit은 Diego가 100명 미만의 X(구 트위터) 팔로워로 17K MRR을 달
 *   **주의
 
 ## I built a $15K/month app to quit my 9-5 (you can too)
-**URL:** https://www.youtube.com/watch?v=ZGwQoRw7mh8
+**** https://www.youtube.com/watch?v=ZGwQoRw7mh8
 
 # 사이드 프로젝트를 성공적인 풀타임 비즈니스로 전환하는 법
 
@@ -2389,7 +2389,7 @@ Tech Lockdown은 2년 만에 200만 명 이상의 유기적 방문자, 1,300명�
     *   **스마트한 전략:** "혁신적이거나 독창적인 것보다, 고객 획득 비용(CAC)이 충분히 낮아 지속 가능한 비즈니스로 성장시킬 수 있는 스마트한 전략이 중요하다."
 
 # I cloned 3 apps and now make $35K/month
-**URL:** https://www.youtube.com/watch?v=8BtHk-oNlN0
+**** https://www.youtube.com/watch?v=8BtHk-oNlN0
 
 억대 수익 앱 개발자의 성공 전략 – 1% 개선과 AI 활용
 
@@ -2515,7 +2515,7 @@ Samuel이 안경사였던 과거의 자신에게 줄 5가지 조언입니다.
 *   **심화 설명:** AI의 활용, 광고를 통한 빠른 시장 검증, SEO를 통한 장기적 성장, 자동화를 통한 효율성 극대화, 그리고 "먼저 성장, 나중에 완성"이라는 실용주의적 접근이 핵심입니다.
 
 # I dropped my PhD to build a $100K/month AI app
-**URL:** https://www.youtube.com/watch?v=miEUhwSR2-0
+**** https://www.youtube.com/watch?v=miEUhwSR2-0
 
 AI 시대, 커리어 전환과 성공적인 스타트업 빌딩 전략
 
@@ -2646,7 +2646,7 @@ AI 시대, 커리어 전환과 성공적인 스타트업 빌딩 전략
 *   **주의사항:** 기술 자체에 매
 
 # I copied a $100M SaaS, undercut their prices, and made $10K (beginner strategy)
-**URL:** https://www.youtube.com/watch?v=_KaFS4Dxs5k
+**** https://www.youtube.com/watch?v=_KaFS4Dxs5k
 
 마이크로 SaaS 아이디어 발굴 및 성공 전략: '틈새 찾기'
 
@@ -2810,7 +2810,7 @@ Abhishek은 Typeform의 모든 기능을 처음부터 구현하려 하지 않았
 *   **고객 중심 사고**: 항상 고객의 관점에서 제품과
 
 # How I used Reddit & Facebook to build a $25K/month business
-**URL:** https://www.youtube.com/watch?v=3X4VneEHvig
+**** https://www.youtube.com/watch?v=3X4VneEHvig
 
 초기 사용자 확보를 위한 Reddit 및 Facebook 그룹 활용 전략
 
@@ -2984,7 +2984,7 @@ Anish는 초기 사용자를 온라인에서 찾는 과정을 5단계 플레이�
 *   **결론:** 타겟 고객이 누구인지, 그들이 온라인 어디에서 시간을 보내는지 파
 
 # How I Built It: $23K/month micro-saas
-**URL:** https://www.youtube.com/watch?v=NvtsM8Nk72c
+**** https://www.youtube.com/watch?v=NvtsM8Nk72c
 
 앤디 클록의 월 2.3만 달러 마이크로 SaaS 성공 전략
 
@@ -3138,7 +3138,7 @@ Anish는 초기 사용자를 온라인에서 찾는 과정을 5단계 플레이�
 *   **주의사항:** 혼자 일하는 인디 해커에게는 집중력 유지가 특히 어렵습니다. AI를 활용하는 것은 효과적인 해결책이 될 수 있습니다. 사용자 테스트는 귀찮게 느껴질 수 있지만, 제품 개선과 성장을 위한 가장 직접적이고 강력한 방법입니다.
 
 # How We Built It: $900K Open Source SaaS
-**URL:** https://www.youtube.com/watch?v=F8i0kkrQ8_o
+**** https://www.youtube.com/watch?v=F8i0kkrQ8_o
 
 Papermark 성공 사례를 통해 배우는 오픈소스 비즈니스 모델의 이해와 성장 전략
 
@@ -3332,7 +3332,7 @@ AI 시대는 오픈소스 비즈니스에 새로운 기회를 제공하며, Pape
     단순히 오픈소스라는 이유만으로 성공이 보장되는 것은 아닙니다. 시장의 니즈를 정확히 파악하고, 기존 솔루션보다 더 나은 가치를 제공하며, 커뮤니티와 적극
 
 ## I built a $10K/month app after failing 30 projects
-**URL:** https://www.youtube.com/watch?v=rPguT9z6kRQ
+**** https://www.youtube.com/watch?v=rPguT9z6kRQ
 
 ## 1. 개요
 
@@ -3481,7 +3481,7 @@ AI 시대는 오픈소스 비즈니스에 새로운 기회를 제공하며, Pape
 *   **주의사항:** 자신의 성격과 생활 방식을 고려하여 지속 가능한 작업 방식을 찾아야 합니다. 건강과 개인 생활을 희생하면서까지 일하는 것은 장기적으로 비효율적입니다.
 
 # I built a $4M business with this ONE strategy
-**URL:** https://www.youtube.com/watch?v=MLAH5OZ5FO8
+**** https://www.youtube.com/watch?v=MLAH5OZ5FO8
 
 스타트업 성장을 위한 제품 포지셔닝 전략
 
@@ -3599,7 +3599,7 @@ Alia의 리포지셔닝은 한 번에 이루어진 것이 아니라, 점진적�
     *   **주의사항:** 작은 목표를 설정하되, 각 목표 달성 과정에서 얻은 학습을 다음 단계에 적용하는 것이 중요합니다.
 
 # This app made over $1M
-**URL:** https://www.youtube.com/watch?v=VfNRd5Rk0cM
+**** https://www.youtube.com/watch?v=VfNRd5Rk0cM
 
 개인적인 문제에서 시작된 100만 달러 앱, 'Rooted' 성공 스토리
 
@@ -3750,7 +3750,7 @@ Alia의 리포지셔닝은 한 번에 이루어진 것이 아니라, 점진적�
     *   창업은 마라톤과 같으므로, 단거리 경주처럼 모든 에너지를 소진하기보다 꾸준히 달릴 수 있는 페
 
 # Our simple app made $100K in 90 days
-**URL:** https://www.youtube.com/watch?v=1nfPvJKrYYQ
+**** https://www.youtube.com/watch?v=1nfPvJKrYYQ
 
 AI 앱으로 3개월 만에 10만 달러 수익 달성 전략
 
@@ -3897,7 +3897,7 @@ Nikita와 Yini는 3개월 전으로 돌아가 자신들에게 조언을 한다�
     *   **왜 중요한가:** 특히 초기 스타트업은 자원과 시간이 제한적입니다. 검증되지 않은 새로운 시도에 에너지를 낭비하기보다, 이미 시장에서 반응을 얻은 방식을 빠르게 적용하여 성과를 내는 것이 효율적입니다.
 
 # I made $65K in 3 days (with ZERO audience)
-**URL:** https://www.youtube.com/watch?v=BNr1JOQdSN0
+**** https://www.youtube.com/watch?v=BNr1JOQdSN0
 
 평생 이용권(LTD) 전략으로 초기 스타트업 성공하기
 

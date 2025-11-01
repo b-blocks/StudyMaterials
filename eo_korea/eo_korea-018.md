@@ -130,7 +130,7 @@
 ---
 
 ## 577. 지금 10대 20대가 가장 기회가 많은 세대인 이유
-**URL:** https://www.youtube.com/watch?v=XNX5I_fDpb4    (
+**** https://www.youtube.com/watch?v=XNX5I_fDpb4    (
 
 # 지금 10대 20대가 가장 기회가 많은 세대인 이유
 
@@ -236,7 +236,7 @@
 ---
 
 ## 578. 글로벌 테크 레전드를 방구석에서 만날 수 있는 기회
-**URL:** https://www.youtube.com/watch?v=pPYq-VCmwC4    (
+**** https://www.youtube.com/watch?v=pPYq-VCmwC4    (
 
 # 글로벌 테크 레전드를 방구석에서 만날 수 있는 기회
 
@@ -309,7 +309,7 @@
 ---
 
 ## 579. 매출 0원에서 다시 일어난 스타트업 이야기
-**URL:** https://www.youtube.com/watch?v=eP5PycHZE-k    (
+**** https://www.youtube.com/watch?v=eP5PycHZE-k    (
 
 # 매출 0원에서 다시 일어난 스타트업 이야기
 
@@ -411,7 +411,7 @@
 ---
 
 ## 580. 11월 최대 디자인 컨퍼런스 SPECTRUM CON 예고편
-**URL:** https://www.youtube.com/watch?v=UqmMc09C-pM    (
+**** https://www.youtube.com/watch?v=UqmMc09C-pM    (
 
 # 11월 최대 디자인 컨퍼런스 SPECTRUM CON 예고편
 
@@ -484,7 +484,7 @@
 ---
 
 ## 581. EO 압구정 스튜디오 열었습니다🥳
-**URL:** https://www.youtube.com/watch?v=B8a289unVgM    (
+**** https://www.youtube.com/watch?v=B8a289unVgM    (
 
 # EO 압구정 스튜디오 열었습니다🥳
 
@@ -570,7 +570,7 @@ CEO 김태용은 과거 `인플루언서`로서 스포트라이트를 받는 역
 ---
 
 ## 582. 삼성전자를 퇴사하고 만든 작은 모임의 나비효과 | 디자인스펙트럼 파운더 김지홍
-**URL:** https://www.youtube.com/watch?v=b6sQ-iKQGGs    (
+**** https://www.youtube.com/watch?v=b6sQ-iKQGGs    (
 
 # 삼성전자를 퇴사하고 만든 작은 모임의 나비효과 | 디자인스펙트럼 파운더 김지홍
 
@@ -647,7 +647,7 @@ CEO 김태용은 과거 `인플루언서`로서 스포트라이트를 받는 역
 ---
 
 ## 583. 학교에 대한 근본적인 질문을 던져보자
-**URL:** https://www.youtube.com/watch?v=n4bEalq70J4    (
+**** https://www.youtube.com/watch?v=n4bEalq70J4    (
 
 # 학교에 대한 근본적인 질문을 던져보자
 
@@ -748,7 +748,7 @@ CEO 김태용은 과거 `인플루언서`로서 스포트라이트를 받는 역
 ---
 
 ## 584. 삼성-LG를 혼자 상대하는 22년차의 생존 노하우
-**URL:** https://www.youtube.com/watch?v=eYWF8fupl88    (
+**** https://www.youtube.com/watch?v=eYWF8fupl88    (
 
 # 삼성-LG를 혼자 상대하는 22년차의 생존 노하우
 
@@ -848,7 +848,7 @@ IMF 외환 위기 당시 유학을 준비하던 연사는 계획이 좌절되자
 ---
 
 ## 585. 세계 각국 CEO들이 한국에 모여 준비하고 있는 '이것'
-**URL:** https://www.youtube.com/watch?v=lltGp7haw_8    (
+**** https://www.youtube.com/watch?v=lltGp7haw_8    (
 
 # 세계 각국 CEO들이 한국에 모여 준비하고 있는 '이것'
 
@@ -956,7 +956,7 @@ IMF 외환 위기 당시 유학을 준비하던 연사는 계획이 좌절되자
 ---
 
 ## 586. 사람들이 잘 모르는 자율주행 '필수 기술' 스타트업 l 경기자율주행센터 (3/3)
-**URL:** https://www.youtube.com/watch?v=PMkLiGBf1-I    (
+**** https://www.youtube.com/watch?v=PMkLiGBf1-I    (
 
 # 사람들이 잘 모르는 자율주행 '필수 기술' 스타트업 l 경기자율주행센터 (3/3)
 
@@ -1044,7 +1044,7 @@ IMF 외환 위기 당시 유학을 준비하던 연사는 계획이 좌절되자
 ---
 
 ## 587. 빅데이터센터 연구원이 말하는 데이터의 중요성
-**URL:** https://www.youtube.com/watch?v=LVEZNLxuD-4    (
+**** https://www.youtube.com/watch?v=LVEZNLxuD-4    (
 
 # 빅데이터센터 연구원이 말하는 데이터의 중요성
 
@@ -1160,7 +1160,7 @@ IMF 외환 위기 당시 유학을 준비하던 연사는 계획이 좌절되자
 ---
 
 ## 588. 실패한 대학생 창업자가 온라인 1위 명품 스타트업을 만들기까지
-**URL:** https://www.youtube.com/watch?v=51boqGNfH_8    (
+**** https://www.youtube.com/watch?v=51boqGNfH_8    (
 
 # 실패한 대학생 창업자가 온라인 1위 명품 스타트업을 만들기까지
 
@@ -1295,7 +1295,7 @@ IMF 외환 위기 당시 유학을 준비하던 연사는 계획이 좌절되자
 ---
 
 ## 589. 코로나가 가속시킨 교육 혁신, 과격한 시도가 필요하지 않을까?
-**URL:** https://www.youtube.com/watch?v=Zs4O0AezzOc    (
+**** https://www.youtube.com/watch?v=Zs4O0AezzOc    (
 
 # 코로나가 가속시킨 교육 혁신, 과격한 시도가 필요하지 않을까?
 
@@ -1393,7 +1393,7 @@ IMF 외환 위기 당시 유학을 준비하던 연사는 계획이 좌절되자
 ---
 
 ## 590. BMW가 한국 스타트업들을 탐내는 이유
-**URL:** https://www.youtube.com/watch?v=U20IqQb4wBM    (
+**** https://www.youtube.com/watch?v=U20IqQb4wBM    (
 
 # BMW가 한국 스타트업들을 탐내는 이유
 
@@ -1484,7 +1484,7 @@ BMW는 스타트업과의 협력에 있어 `비독점` 정책을 유지합니다
 ---
 
 ## 591. 시가총액 3조, 성장의 동력은 점점 거대해지고 있다
-**URL:** https://www.youtube.com/watch?v=qsnQPvACbG4    (
+**** https://www.youtube.com/watch?v=qsnQPvACbG4    (
 
 # 시가총액 3조, 성장의 동력은 점점 거대해지고 있다
 
@@ -1657,7 +1657,7 @@ IT 기술의 발전과 데이터 기반의 AI는 개인의 행동 패턴, 필요
 ---
 
 ## 592. S대 교수들이 말하는 포스트 코로나 시대의 리더상
-**URL:** https://www.youtube.com/watch?v=QDBuUG4bqak    (
+**** https://www.youtube.com/watch?v=QDBuUG4bqak    (
 
 # S대 교수들이 말하는 포스트 코로나 시대의 리더상
 
@@ -1758,7 +1758,7 @@ IT 기술의 발전과 데이터 기반의 AI는 개인의 행동 패턴, 필요
 ---
 
 ## 593. 수십억 이상 투자받은 국가대표 자율주행 스타트업들 l 경기자율주행센터 2부
-**URL:** https://www.youtube.com/watch?v=JXV3AycVGrw    (
+**** https://www.youtube.com/watch?v=JXV3AycVGrw    (
 
 # 수십억 이상 투자받은 국가대표 자율주행 스타트업들 l 경기자율주행센터 2부
 
@@ -1891,7 +1891,7 @@ SSL년은 라이다 센서가 단순한 부품을 넘어 미래 사회의 핵심
 ---
 
 ## 594. 실리콘밸리 금융시장이 앞다투어 투자한 한국 기술 스타트업
-**URL:** https://www.youtube.com/watch?v=D7cVGta6cJY    (
+**** https://www.youtube.com/watch?v=D7cVGta6cJY    (
 
 # 실리콘밸리 금융시장이 앞다투어 투자한 한국 기술 스타트업
 
@@ -1988,7 +1988,7 @@ AI 기술은 전 세계 모든 산업에 적용될 수 있는 보편성을 가�
 ---
 
 ## 595. PD가 감동받아 울면서 편집한 엄마의 재도전 창업기
-**URL:** https://www.youtube.com/watch?v=m2GolaNBd_c    (
+**** https://www.youtube.com/watch?v=m2GolaNBd_c    (
 
 # PD가 감동받아 울면서 편집한 엄마의 재도전 창업기
 
@@ -2090,7 +2090,7 @@ AI 기술은 전 세계 모든 산업에 적용될 수 있는 보편성을 가�
 ---
 
 ## 596. 네이버 카카오와의 경쟁을 꿈꾸는 극초기 스타트업 이야기
-**URL:** https://www.youtube.com/watch?v=fX25sDAbKVw    (
+**** https://www.youtube.com/watch?v=fX25sDAbKVw    (
 
 # 네이버 카카오와의 경쟁을 꿈꾸는 극초기 스타트업 이야기
 
@@ -2179,7 +2179,7 @@ AI 기술은 전 세계 모든 산업에 적용될 수 있는 보편성을 가�
 ---
 
 ## 597. 방구석 블로거에서 140억 투자 받은 CEO가 되기까지
-**URL:** https://www.youtube.com/watch?v=qvZxXyhm8wE    (
+**** https://www.youtube.com/watch?v=qvZxXyhm8wE    (
 
 # 방구석 블로거에서 140억 투자 받은 CEO가 되기까지
 
@@ -2298,7 +2298,7 @@ AI 기술은 전 세계 모든 산업에 적용될 수 있는 보편성을 가�
 ---
 
 ## 598. 평균 연령 60.4세, 쿠팡에서 급성장 중인 특이한 스타트업
-**URL:** https://www.youtube.com/watch?v=Udlz5yvSrqU    (
+**** https://www.youtube.com/watch?v=Udlz5yvSrqU    (
 
 # 평균 연령 60.4세, 쿠팡에서 급성장 중인 특이한 스타트업
 
@@ -2367,7 +2367,7 @@ AI 기술은 전 세계 모든 산업에 적용될 수 있는 보편성을 가�
 ---
 
 ## 599. [초대 AI 수석] 하정우 수석의 인공지능 이야기
-**URL:** https://www.youtube.com/watch?v=szWKcQpfj8s    (
+**** https://www.youtube.com/watch?v=szWKcQpfj8s    (
 
 # [초대 AI 수석] 하정우 수석의 인공지능 이야기
 
@@ -2453,7 +2453,7 @@ AI 기술은 전 세계 모든 산업에 적용될 수 있는 보편성을 가�
 ---
 
 ## 600. [SUB] 직접 만든 아이템 아마존 입점시켜 글로벌 연매출 200억 | 코니바이에린 임이랑
-**URL:** https://www.youtube.com/watch?v=0qfqjObM50o    (
+**** https://www.youtube.com/watch?v=0qfqjObM50o    (
 
 # [SUB] 직접 만든 아이템 아마존 입점시켜 글로벌 연매출 200억 | 코니바이에린 임이랑
 
@@ -2618,7 +2618,7 @@ AI 기술은 전 세계 모든 산업에 적용될 수 있는 보편성을 가�
 ---
 
 ## 601. 테크업계 최고의 연사들을 만날 수 있는 10월 마지막 이벤트
-**URL:** https://www.youtube.com/watch?v=II_C1nTaWRI    (
+**** https://www.youtube.com/watch?v=II_C1nTaWRI    (
 
 # 테크업계 최고의 연사들을 만날 수 있는 10월 마지막 이벤트
 
@@ -2710,7 +2710,7 @@ AI 기술은 전 세계 모든 산업에 적용될 수 있는 보편성을 가�
 ---
 
 ## 602. 초대형 정부 사업 '디지털 뉴딜'과 '데이터댐'이 등장한 이유
-**URL:** https://www.youtube.com/watch?v=GIwZ4NwTuRM    (
+**** https://www.youtube.com/watch?v=GIwZ4NwTuRM    (
 
 # 초대형 정부 사업 '디지털 뉴딜'과 '데이터댐'이 등장한 이유
 
@@ -2790,7 +2790,7 @@ AI 기술은 전 세계 모든 산업에 적용될 수 있는 보편성을 가�
 ---
 
 ## 603. 억대 연봉 대신 존버를 선택한 서울대 출신 변호사
-**URL:** https://www.youtube.com/watch?v=LzRWJQzB1Kw    (
+**** https://www.youtube.com/watch?v=LzRWJQzB1Kw    (
 
 # 억대 연봉 대신 존버를 선택한 서울대 출신 변호사
 
@@ -2898,7 +2898,7 @@ AI 기술은 전 세계 모든 산업에 적용될 수 있는 보편성을 가�
 ---
 
 ## 604. 뱅크샐러드 대표가 말하는 디지털 뉴딜이 꼭 필요한 이유
-**URL:** https://www.youtube.com/watch?v=J0PMdKmRVvw    (
+**** https://www.youtube.com/watch?v=J0PMdKmRVvw    (
 
 # 뱅크샐러드 대표가 말하는 디지털 뉴딜이 꼭 필요한 이유
 
@@ -2993,7 +2993,7 @@ AI 기술은 전 세계 모든 산업에 적용될 수 있는 보편성을 가�
 ---
 
 ## 605. 3번 실패 후 깨닫고 연 매출 20억을 만들기까지
-**URL:** https://www.youtube.com/watch?v=Xjwzs1btbKE    (
+**** https://www.youtube.com/watch?v=Xjwzs1btbKE    (
 
 # 3번 실패 후 깨닫고 연 매출 20억을 만들기까지
 
@@ -3097,7 +3097,7 @@ AI 기술은 전 세계 모든 산업에 적용될 수 있는 보편성을 가�
 ---
 
 ## 606. 한국 자율주행 산업을 대표하는 국가대표 선수촌 l 경기도자율주행센터 1편
-**URL:** https://www.youtube.com/watch?v=snKFv9-sq0Q    (
+**** https://www.youtube.com/watch?v=snKFv9-sq0Q    (
 
 # 한국 자율주행 산업을 대표하는 국가대표 선수촌 l 경기도자율주행센터 1편
 
@@ -3211,7 +3211,7 @@ AI 기술은 전 세계 모든 산업에 적용될 수 있는 보편성을 가�
 ---
 
 ## 607. 아내 몰래 직장까지 관두고 창업한 이유
-**URL:** https://www.youtube.com/watch?v=rz1S9N2JgEo    (
+**** https://www.youtube.com/watch?v=rz1S9N2JgEo    (
 
 # 아내 몰래 직장까지 관두고 창업한 이유
 
@@ -3310,7 +3310,7 @@ AI 기술은 전 세계 모든 산업에 적용될 수 있는 보편성을 가�
 ---
 
 ## 608. 저 OO인데요, 택배 1박스 문 앞(으)로 배송 완료했습니다
-**URL:** https://www.youtube.com/watch?v=IuyscQnXh2U    (
+**** https://www.youtube.com/watch?v=IuyscQnXh2U    (
 
 # 저 OO인데요, 택배 1박스 문 앞(으)로 배송 완료했습니다
 
@@ -3431,7 +3431,7 @@ AI 기술은 전 세계 모든 산업에 적용될 수 있는 보편성을 가�
 ---
 
 ## 609. 파산신청 후 지하실에서 만든 20억 매출 아이템
-**URL:** https://www.youtube.com/watch?v=5g8Rto9dMnY    (
+**** https://www.youtube.com/watch?v=5g8Rto9dMnY    (
 
 # 파산신청 후 지하실에서 만든 20억 매출 아이템
 
@@ -3556,7 +3556,7 @@ AI 기술은 전 세계 모든 산업에 적용될 수 있는 보편성을 가�
 ---
 
 ## 610. 세계 로봇 대회 우승자가 만든 인공지능 스타트업
-**URL:** https://www.youtube.com/watch?v=T8BtBuZzueI    (
+**** https://www.youtube.com/watch?v=T8BtBuZzueI    (
 
 # 세계 로봇 대회 우승자가 만든 인공지능 스타트업
 
@@ -3640,7 +3640,7 @@ AI 기술은 전 세계 모든 산업에 적용될 수 있는 보편성을 가�
 ---
 
 ## 611. 기업 상장, 누구나 할 수 있다고 봐요
-**URL:** https://www.youtube.com/watch?v=fxQAj0aSxzc    (
+**** https://www.youtube.com/watch?v=fxQAj0aSxzc    (
 
 # 기업 상장, 누구나 할 수 있다고 봐요
 
@@ -3754,7 +3754,7 @@ AI 기술은 전 세계 모든 산업에 적용될 수 있는 보편성을 가�
 ---
 
 ## 612. 이 영상을 찍고 4년 뒤 이 회사는 시총 8조를 넘어 국내 최고가 되었다 | 에이피알 김병훈
-**URL:** https://www.youtube.com/watch?v=uk3oj2zOchQ    (
+**** https://www.youtube.com/watch?v=uk3oj2zOchQ    (
 
 # 이 영상을 찍고 4년 뒤 이 회사는 시총 8조를 넘어 국내 최고가 되었다 | 에이피알 김병훈
 
@@ -3862,4 +3862,4 @@ APR은 `밀레니얼 세대`에 대한 깊은 이해를 바탕으로 글로벌 �
 ---
 
 ## 613. 만신' 김성모 25년 근성 일대기
-**URL:** https://www.youtube.com/watch?v=RuTLbz4ZDMM    (
+**** https://www.youtube.com/watch?v=RuTLbz4ZDMM    (

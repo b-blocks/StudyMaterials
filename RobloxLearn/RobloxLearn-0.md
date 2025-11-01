@@ -3,7 +3,7 @@
 # Roblox 애셋 저장소(Asset Repository) 구축 가이드
 
 ## How to make an Asset Repository on Roblox
-**URL:** https://www.youtube.com/watch?v=T8XuL1CPEQI
+**** https://www.youtube.com/watch?v=T8XuL1CPEQI
 
 ## 1. 개요
 이 학습 자료는 Roblox Studio에서 효율적인 애셋 저장소(Asset Repository)를 구축하는 방법을 상세히 설명합니다. 영상의 주요 목적은 월드 빌딩(World Building)을 시작하기 전에 애셋 저장소를 설정하는 것의 중요성을 이해하고, 실제 구축 과정을 단계별로 안내하는 것입니다. 우리는 애셋 목록 작성부터 Roblox 내 저장소 생성 및 체계적인 정리 방법, 그리고 이 저장소가 프로젝트에 가져다주는 이점까지 다룰 것입니다. 이 자료는 Roblox 개발 초보자부터 중급 사용자까지, 특히 대규모 프로젝트나 팀 작업을 계획하는 개발자들에게 유용하며, 기본적인 Roblox Studio 사용 경험이 있는 독자를 대상으로 합니다.
@@ -143,7 +143,7 @@ Roblox의 패키지 기능은 애셋 저장소의 가치를 극대화하는 핵�
 # Roblox 카메라 조작 심화 학습 가이드
 
 ## How to manipulate the camera on Roblox
-**URL:** https://www.youtube.com/watch?v=Iht0ddcLWFU
+**** https://www.youtube.com/watch?v=Iht0ddcLWFU
 
 ## 1. 개요
 
@@ -283,7 +283,7 @@ Roblox에서 카메라는 플레이어의 시점을 결정하는 핵심 요소�
 # Roblox 헤어 제작 심화 학습 자료: Blender에서 Studio까지
 
 ## How to make hair on Roblox
-**URL:** https://www.youtube.com/watch?v=TTfPdC6IkNY
+**** https://www.youtube.com/watch?v=TTfPdC6IkNY
 
 ## 1. 개요
 
@@ -532,7 +532,7 @@ Roblox 헤어 제작을 시작하기 전에 다음 준비물과 기본적인 지
 
 # Minimize client memory usage on Roblox
 
-**URL:** https://www.youtube.com/watch?v=OCUZKJJR-TE
+**** https://www.youtube.com/watch?v=OCUZKJJR-TE
 
 ## 1. 개요
 
@@ -648,7 +648,7 @@ Roblox 헤어 제작을 시작하기 전에 다음 준비물과 기본적인 지
 
 ## Code organization on Roblox
 
-**URL:** https://www.youtube.com/watch?v=jLNgutvbALY
+**** https://www.youtube.com/watch?v=jLNgutvbALY
 
 The user wants to create a detailed learning material based on the provided YouTube transcript.
 I need to follow a specific document structure and adhere to given writing guidelines.
@@ -772,7 +772,7 @@ I will go through each section of the required document structure and populate i
 # Roblox Studio 댓글 기능 활용 가이드
 
 ## How to use Comments on Roblox
-**URL:** https://www.youtube.com/watch?v=OMoqgASUcwo
+**** https://www.youtube.com/watch?v=OMoqgASUcwo
 
 ## 1. 개요
 
@@ -865,7 +865,7 @@ Roblox Studio 댓글 기능은 단순한 메모를 넘어, 개발 프로세스 �
 # Roblox 스크립팅 아키텍처: 싱글 스크립트 vs. 멀티 스크립트
 
 ## Single vs Multi script architecture on Roblox
-**URL:** https://www.youtube.com/watch?v=Yxh8IsUIsZk
+**** https://www.youtube.com/watch?v=Yxh8IsUIsZk
 
 ## 1. 개요
 이 문서는 Roblox 개발에서 스크립팅 코드를 구성하는 두 가지 주요 접근 방식인 싱글 스크립트 아키텍처와 멀티 스크립트 아키텍처를 심층적으로 탐구합니다. 각 아키텍처의 정의, 장단점, 그리고 Roblox 환경에 가장 적합한 방식에 대해 논의하며, 개발자가 프로젝트 초기 단계에서 올바른 아키텍처를 선택하는 데 필요한 통찰력을 제공하는 것을 목표로 합니다. 이 자료는 Roblox 스크립팅에 대한 기본적인 이해를 가진 개발자, 특히 코드 구조화 및 확장성에 대해 고민하는 중급 개발자를 대상으로 합니다.
@@ -965,7 +965,7 @@ Roblox 환경의 특성과 강점을 이해하고, 다른 생태계의 패턴을
 *   **잘 설계된 코드베이스**: 잘 설계된 코드베이스는 사용자 정의 실행 순서에 대한 실제적인 필요성이
 
 ## How to turn ANY model into a Roblox avatar in minutes (Avatar auto setup)
-**URL:** https://www.youtube.com/watch?v=Hp9pr2FpZa8
+**** https://www.youtube.com/watch?v=Hp9pr2FpZa8
 
 # Roblox Avatar Auto Setup: 3D 모델을 Roblox 아바타로 변환하는 심층 가이드
 
@@ -1111,7 +1111,7 @@ Auto Setup이 완료된 후에도 모델을 Roblox 마켓플레이스에 게시�
 # 보상형 비디오 광고: Roblox 크리에이터를 위한 심층 가이드
 
 ## Learn more about rewarded video ads
-**URL:** https://www.youtube.com/watch?v=7AtvvUxvCaU
+**** https://www.youtube.com/watch?v=7AtvvUxvCaU
 
 ## 1. 개요
 
@@ -1364,7 +1364,7 @@ Roblox는 크리에이터의 광고 수익을 지속적으로 증대시키기 �
 
 # 보상형 비디오 광고를 통한 수익화 전략 심층 분석
 
-**URL:** https://www.youtube.com/watch?v=7AtvvUxvCaU
+**** https://www.youtube.com/watch?v=7AtvvUxvCaU
 
 ## 1. 개요
 
@@ -1529,7 +1529,7 @@ EPM을 높이는 것은 각 광고 노출에서 얻는 수익을 증가시키는
 
 ## How to version control on Roblox
 
-**URL:** https://www.youtube.com/watch?v=sU9nTX0JFyY
+**** https://www.youtube.com/watch?v=sU9nTX0JFyY
 
 ## 1. 개요
 
@@ -1668,7 +1668,7 @@ Roblox Studio는 스크립트가 저장될 때마다 해당 스크립트의 새�
 
 ## What is Assistant?
 
-**URL:** https://www.youtube.com/watch?v=PqB6DC_kxHM
+**** https://www.youtube.com/watch?v=PqB6DC_kxHM
 
 ## 1. 개요
 
@@ -1731,7 +1731,7 @@ Assistant는 개발자가 제공하는 프롬프트의 내용을 기반으로 �
 
 ## So you wanna do UGC as a business? (feat. Rush Bogin)
 
-**URL:** https://www.youtube.com/watch?v=KSez8Ecq50A
+**** https://www.youtube.com/watch?v=KSez8Ecq50A
 
 ## 1. 개요
 이 문서는 Roblox 플랫폼에서 사용자 생성 콘텐츠(UGC)를 비즈니스로 성공적으로 전환하는 방법에 대한 심층적인 학습 자료입니다. Roblox UGC 크리에이터 러쉬(Rush)와의 인터뷰를 바탕으로, UGC 아이템 제작부터 품질 관리, 트렌드 분석, 가격 책정, 마케팅 및 커뮤니티 구축, 그리고 데이터 분석을 통한 성장 전략까지 전반적인 과정을 다룹니다. 이 자료는 단순히 UGC를 만드는 것을 넘어, 지속 가능한 비즈니스 모델을 구축하고자 하는 크리에이터와 개발자들에게 실질적인 가이드라인을 제공하는 것을 목적으로 합니다.
@@ -1858,7 +1858,7 @@ Assistant는 개발자가 제공하는 프롬프트의 내용을 기반으로 �
 
 ## How to polish your environment on Roblox
 
-**URL:** https://www.youtube.com/watch?v=4kasDMSDvcQ
+**** https://www.youtube.com/watch?v=4kasDMSDvcQ
 
 ## 1. 개요
 
@@ -2130,7 +2130,7 @@ Roblox Studio의 AI 어시스턴트는 월드 빌딩 과정에서 반복적인 �
 # Roblox UGC 레이어드 의류 제작 심화 학습 자료: 전문가 멘토링을 통한 문제 해결 및 고급 텍스처링 기법
 
 ## UGC Expert Feedback 3: feat. Reverse_Polarity and Madison_Hatter2
-**URL:** https://www.youtube.com/watch?v=xU3ikvnA5OM
+**** https://www.youtube.com/watch?v=xU3ikvnA5OM
 
 ## 1. 개요
 
@@ -2329,7 +2329,7 @@ Blender에서 Normal Map과 Metallic Map을 생성했다면, 이제 Roblox Studi
 # Roblox UGC 레이어드 의류 제작 심화 학습 자료: 초보자의 Blender 도전기
 
 ## Making a UGC catalogue: making layered clothing
-**URL:** https://www.youtube.com/watch?v=0c6czWEP1UY
+**** https://www.youtube.com/watch?v=0c6czWEP1UY
 
 ## 1. 개요
 
@@ -2476,7 +2476,7 @@ UGC 제작은 지속적인 학습과 커뮤니티와의 교류를 통해 더욱 
 # Roblox Luau 환경에서의 메모리 누수 진단 및 방지 가이드
 
 ## How to find and fix memory leaks on Roblox
-**URL:** https://www.youtube.com/watch?v=x1JgsC8c8VQ
+**** https://www.youtube.com/watch?v=x1JgsC8c8VQ
 
 ## 1. 개요
 
@@ -2694,7 +2694,7 @@ Roblox 경험에서 메모리 누수가 반복적으로 발생하는 두 가지 
 
 # How to use SmoothDamp for smooth UX on Roblox
 
-**URL:** https://www.youtube.com/watch?v=RYzj4TjiMyE
+**** https://www.youtube.com/watch?v=RYzj4TjiMyE
 
 ## 1. 개요
 
@@ -2910,7 +2910,7 @@ new_current_value, new_velocity = smooth_damp(
 # Roblox 월드 빌딩: 몰입감 있는 조명과 지형 디테일링 심화 학습 가이드
 
 ## How to customize lighting and edit terrain on Roblox
-**URL:** https://www.youtube.com/watch?v=XgkmKxyRuWE
+**** https://www.youtube.com/watch?v=XgkmKxyRuWE
 
 ## 1. 개요
 
@@ -3328,7 +3328,7 @@ new_current_value, new_velocity = smooth_damp(
 *   **자신만의 스토리텔링 지형 만들기:** 위에서 배운 "자연스러운 스토리텔링" 기법을 활용하여 지형에 자신만의 이야기를 담아낼 수 있는 요소를 2가지 이상 추가해 보세요 (예: 오래된 유적의 흔적, 침식된 다리, 바람에 의해 형성된 독특한 바위 등).
 
 # UGC Expert Feedback 2: feat. Reverse_Polarity and Madison_Hatter2
-**URL:** https://www.youtube.com/watch?v=D64IOXAb6SM
+**** https://www.youtube.com/watch?v=D64IOXAb6SM
 
 ## 1. 개요
 
@@ -3506,7 +3506,7 @@ Roblox에서 모델의 시각적 품질을 결정하는 중요한 단계입니�
 
 # 3D 모델 텍스처링 및 Roblox 에셋 통합 가이드
 
-**URL:** https://www.youtube.com/watch?v=D64IOXAb6SM
+**** https://www.youtube.com/watch?v=D64IOXAb6SM
 
 ## 1. 개요
 
@@ -3741,7 +3741,7 @@ UV 매핑은 3D 모델의 표면을 2D 평면으로 펼치는 과정으로, 텍�
 # 블렌더로 Roblox UGC 진주 목걸이 만들기
 
 ## Making a UGC catalogue: making a necklace
-**URL:** https://www.youtube.com/watch?v=LRV85HyN2Z4
+**** https://www.youtube.com/watch?v=LRV85HyN2Z4
 
 ## 1. 개요
 이 학습 자료는 3D 모델링 소프트웨어인 블렌더(Blender)를 활용하여 Roblox 플랫폼에 업로드할 사용자 제작 콘텐츠(UGC, User Generated Content)인 진주 목걸이를 만드는 과정을 다룹니다. 특히, 초보자가 겪을 수 있는 다양한 시행착오와 그 해결 과정을 통해 블렌더의 핵심 기능과 3D 모델링의 실질적인 어려움을 이해하고 극복하는 데 목적이 있습니다. 블렌더의 모디파이어(Modifier) 적용 순서, 오브젝트 원점(Origin) 관리, 텍스처링(Texturing) 및 UV 언래핑(UV Unwrapping)의 중요성, 그리고 Roblox 플랫폼의 기술적 제한 사항(삼각형 개수 제한) 등 실제 작업에서 마주하는 문제들을 중심으로 설명합니다. 이 자료는 3D 모델링 초보자, Roblox UGC 제작에 관심 있는 사용자, 그리고 블렌더의 기본 기능을 실전 프로젝트에 적용하고자 하는 학습자를 대상으로 하며, 기본적인 3D 소프트웨어 사용 경험이 있다면 더욱 효과적으로 내용을 습득할 수 있습니다.
@@ -3832,7 +3832,7 @@ UV 매핑은 3D 모델의 표면을 2D 평면으로 펼치는 과정으로, 텍�
 # Roblox 네트워크 통신: Remote Event와 Unreliable Remote Event 심층 분석
 
 ## Reliable vs Unreliable RemoteEvents on Roblox
-**URL:** https://www.youtube.com/watch?v=n5uOVlCIUjI
+**** https://www.youtube.com/watch?v=n5uOVlCIUjI
 
 ## 1. 개요
 이 문서는 Roblox 환경에서 서버와 클라이언트 간의 효율적인 네트워크 통신을 구축하는 데 필수적인 `Remote Event`와 `Unreliable Remote Event`의 개념과 활용법을 심층적으로 다룹니다. 영상의 핵심 목적은 두 통신 메커니즘의 차이점을 명확히 이해하고, 각 상황에 맞는 최적의 선택을 할 수 있도록 돕는 것입니다. 우리는 이 자료를 통해 "언제 `Remote Event`를 사용하고, 언제 `Unreliable Remote Event`를 사용해야 하는가?"라는 핵심 질문에 대한 답을 찾을 것입니다. 이 자료는 Roblox 스크립팅에 대한 기본적인 이해를 가진 개발자를 대상으로 하며, 게임 성능 최적화와 사용자 경험 향상에 관심 있는 분들에게 특히 유용합니다.

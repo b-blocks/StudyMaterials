@@ -88,7 +88,7 @@
 ---
 
 ## 143. 회계사 1년 합격한 메타인지 공부법과 성공에 대한 생각 | 최성운의 사고실험 [이재용] 2부
-**URL:** https://www.youtube.com/watch?v=Q5Z-ovinDd0    (
+**** https://www.youtube.com/watch?v=Q5Z-ovinDd0    (
 
 # 회계사 1년 합격한 메타인지 공부법과 성공에 대한 생각 | 최성운의 사고실험 [이재용] 2부
 
@@ -195,7 +195,7 @@
 ---
 
 ## 144. 회계를 조금이라도 이해하면 인생이 달라지는 이유 | 최성운의 사고실험 [이재용] 1부
-**URL:** https://www.youtube.com/watch?v=a2l1uZfsRi0    (
+**** https://www.youtube.com/watch?v=a2l1uZfsRi0    (
 
 # 회계를 조금이라도 이해하면 인생이 달라지는 이유 | 최성운의 사고실험 [이재용] 1부
 
@@ -309,7 +309,7 @@
 ---
 
 ## 145. 실리콘밸리를 따라해도 우리 회사가 안 바뀌는 이유 | 휴먼스케이프 장재환
-**URL:** https://www.youtube.com/watch?v=txZw-Yk54qc    (
+**** https://www.youtube.com/watch?v=txZw-Yk54qc    (
 
 # 실리콘밸리를 따라해도 우리 회사가 안 바뀌는 이유 | 휴먼스케이프 장재환
 
@@ -434,7 +434,7 @@
 ---
 
 ## 146. 내가 만든 AI 이미지는 왜 똥손일까? (feat. 1,500명이 수강한 이미지 생성 AI 강의 리뷰)
-**URL:** https://www.youtube.com/watch?v=n_CVRQzIF2w    (
+**** https://www.youtube.com/watch?v=n_CVRQzIF2w    (
 
 # 내가 만든 AI 이미지는 왜 똥손일까? (feat. 1,500명이 수강한 이미지 생성 AI 강의 리뷰)
 
@@ -533,7 +533,7 @@ AI 기술의 등장을 일자리의 위협으로 보는 시각이 많지만, 이
 ---
 
 ## 147. 올해엔 커리어를 발전시키고 싶다면 기억할 3가지 조언 | 구글 디자이너 한승헌
-**URL:** https://www.youtube.com/watch?v=T-t2fsC6Wgw    (
+**** https://www.youtube.com/watch?v=T-t2fsC6Wgw    (
 
 # 올해엔 커리어를 발전시키고 싶다면 기억할 3가지 조언 | 구글 디자이너 한승헌
 
@@ -662,7 +662,7 @@ AI 기술의 등장을 일자리의 위협으로 보는 시각이 많지만, 이
 ---
 
 ## 148. 200조 원 시장에서 글로벌 기업과 맞붙는 한국의 산업AI 스타트업 | 원프레딕트 윤병동
-**URL:** https://www.youtube.com/watch?v=laczMSmHhhA    (
+**** https://www.youtube.com/watch?v=laczMSmHhhA    (
 
 # 200조 원 시장에서 글로벌 기업과 맞붙는 한국의 산업AI 스타트업 | 원프레딕트 윤병동
 
@@ -777,7 +777,7 @@ AI 기술의 등장을 일자리의 위협으로 보는 시각이 많지만, 이
 ---
 
 ## 149. 동양인? 워킹맘? 내가 실리콘밸리에서 일잘러로 살아남은 비결 | 돌싱글즈4 이소라
-**URL:** https://www.youtube.com/watch?v=xAxllziXPSo    (
+**** https://www.youtube.com/watch?v=xAxllziXPSo    (
 
 # 동양인? 워킹맘? 내가 실리콘밸리에서 일잘러로 살아남은 비결 | 돌싱글즈4 이소라
 
@@ -891,7 +891,7 @@ AI 기술의 등장을 일자리의 위협으로 보는 시각이 많지만, 이
 ---
 
 ## 150. 10년차 투자자가 2024년에 더 기대하는 산업
-**URL:** https://www.youtube.com/watch?v=6ag7R80_YF8    (
+**** https://www.youtube.com/watch?v=6ag7R80_YF8    (
 
 # 10년차 투자자가 2024년에 더 기대하는 산업
 
@@ -987,7 +987,7 @@ AI 기술의 등장을 일자리의 위협으로 보는 시각이 많지만, 이
 ---
 
 ## 151. 원래 그런 거야'에 의심을 던지고 행동하는 사람들을 위한 무대
-**URL:** https://www.youtube.com/watch?v=9PfpZGvKcEE    (
+**** https://www.youtube.com/watch?v=9PfpZGvKcEE    (
 
 # '원래 그런 거야'에 의심을 던지고 행동하는 사람들을 위한 무대
 
@@ -1083,7 +1083,7 @@ AI 기술의 등장을 일자리의 위협으로 보는 시각이 많지만, 이
 ---
 
 ## 152. 인도가 낳고 삼성이 키운 엔지니어가 고국으로 돌아가 벌인 일 | 태그하이브 판카즈
-**URL:** https://www.youtube.com/watch?v=j6BVjqzgqls    (
+**** https://www.youtube.com/watch?v=j6BVjqzgqls    (
 
 # 인도가 낳고 삼성이 키운 엔지니어가 고국으로 돌아가 벌인 일 | 태그하이브 판카즈
 
@@ -1197,7 +1197,7 @@ AI 기술의 등장을 일자리의 위협으로 보는 시각이 많지만, 이
 ---
 
 ## 153. 공간 비즈니스 CEO들의 불황기 생존 전략은? | 아키스케치 컨퍼런스 요약
-**URL:** https://www.youtube.com/watch?v=EGMOwqlb1X8    (
+**** https://www.youtube.com/watch?v=EGMOwqlb1X8    (
 
 # 공간 비즈니스 CEO들의 불황기 생존 전략은? | 아키스케치 컨퍼런스 요약
 
@@ -1302,7 +1302,7 @@ AI는 디자인의 평균 품질을 상향 평준화시킵니다. 모두가 일�
 ---
 
 ## 154. 미국 시장 진출하면서 뼈저리게 느낀 점들 | 미국 법인 설립 vlog Part.2
-**URL:** https://www.youtube.com/watch?v=DEg-LWXILvI    (
+**** https://www.youtube.com/watch?v=DEg-LWXILvI    (
 
 # 미국 시장 진출하면서 뼈저리게 느낀 점들 | 미국 법인 설립 vlog Part.2
 
@@ -1410,7 +1410,7 @@ AI는 디자인의 평균 품질을 상향 평준화시킵니다. 모두가 일�
 ---
 
 ## 155. 지금 몽골 의대에서 가장 반기는 한국 회사 | 뉴베이스 박선영
-**URL:** https://www.youtube.com/watch?v=uN96nm232lI    (
+**** https://www.youtube.com/watch?v=uN96nm232lI    (
 
 # 지금 몽골 의대에서 가장 반기는 한국 회사 | 뉴베이스 박선영
 
@@ -1537,7 +1537,7 @@ AI는 디자인의 평균 품질을 상향 평준화시킵니다. 모두가 일�
 ---
 
 ## 156. 각자 다른 이유로 창업에 뛰어든 세 남자의 이야기 #스타트업 #자영업 #기우쌤
-**URL:** https://www.youtube.com/watch?v=bLGglh-j6AE    (
+**** https://www.youtube.com/watch?v=bLGglh-j6AE    (
 
 # 각자 다른 이유로 창업에 뛰어든 세 남자의 이야기 #스타트업 #자영업 #기우쌤
 
@@ -1655,7 +1655,7 @@ AI는 디자인의 평균 품질을 상향 평준화시킵니다. 모두가 일�
 ---
 
 ## 157. 꿈이었던 가수 활동을 접고, 인공지능 연구를 시작했어요 | 싱어송라이터 박새별
-**URL:** https://www.youtube.com/watch?v=pOvX7TyAkF4    (
+**** https://www.youtube.com/watch?v=pOvX7TyAkF4    (
 
 # 꿈이었던 가수 활동을 접고, 인공지능 연구를 시작했어요 | 싱어송라이터 박새별
 
@@ -1766,7 +1766,7 @@ AI는 디자인의 평균 품질을 상향 평준화시킵니다. 모두가 일�
 ---
 
 ## 158. 퇴사 후 나만의 세계 밖으로 나아갈 때 도움이 될 이야기들 | 페블러스 이주행
-**URL:** https://www.youtube.com/watch?v=VyH-g3RgJpI    (
+**** https://www.youtube.com/watch?v=VyH-g3RgJpI    (
 
 # 퇴사 후 나만의 세계 밖으로 나아갈 때 도움이 될 이야기들 | 페블러스 이주행
 
@@ -1913,7 +1913,7 @@ AI 모델이 상향 평준화되면서, 이제는 **데이터의 질이 AI의 �
 ---
 
 ## 159. 생성형 AI의 도래, 네이버에게 위기일까 기회일까 | 네이버 Cue: 기술 총괄 김용범
-**URL:** https://www.youtube.com/watch?v=kbsULLoGBO8    (
+**** https://www.youtube.com/watch?v=kbsULLoGBO8    (
 
 # 생성형 AI의 도래, 네이버에게 위기일까 기회일까 | 네이버 Cue: 기술 총괄 김용범
 
@@ -2026,7 +2026,7 @@ AI 모델이 상향 평준화되면서, 이제는 **데이터의 질이 AI의 �
 ---
 
 ## 160. 세상에서 가장 창의적인 조직 만드는 법 | 최성운의 사고실험 [미스치프] 2부
-**URL:** https://www.youtube.com/watch?v=MZi1CGExoA0    (
+**** https://www.youtube.com/watch?v=MZi1CGExoA0    (
 
 # 세상에서 가장 창의적인 조직 만드는 법 | 최성운의 사고실험 [미스치프] 2부
 
@@ -2124,7 +2124,7 @@ AI 모델이 상향 평준화되면서, 이제는 **데이터의 질이 AI의 �
 ---
 
 ## 161. ChatGPT 디자이너가 되기까지 우연한 기회를 실력으로 바꾼 방법 | OpenAI Chester
-**URL:** https://www.youtube.com/watch?v=FFoNTdupO8M    (
+**** https://www.youtube.com/watch?v=FFoNTdupO8M    (
 
 # ChatGPT 디자이너가 되기까지 우연한 기회를 실력으로 바꾼 방법 | OpenAI Chester
 
@@ -2246,7 +2246,7 @@ AI 기술의 발전은 디자인의 '실행(execution)' 단계를 자동화하�
 ---
 
 ## 162. 나이키와 넷플릭스에게 소송당한 악동들의 뇌를 훔쳐보다 | 최성운의 사고실험 [미스치프] 1부
-**URL:** https://www.youtube.com/watch?v=y3SWOcbQazc    (
+**** https://www.youtube.com/watch?v=y3SWOcbQazc    (
 
 # 나이키와 넷플릭스에게 소송당한 악동들의 뇌를 훔쳐보다 | 최성운의 사고실험 [미스치프] 1부
 
@@ -2360,7 +2360,7 @@ AI 기술의 발전은 디자인의 '실행(execution)' 단계를 자동화하�
 ---
 
 ## 163. 우버 인사총괄로 5년간 일하며 느낀 ‘뽑힐 수밖에 없는 사람’ | Fynd Andrew
-**URL:** https://www.youtube.com/watch?v=M-ZREjfmqe8    (
+**** https://www.youtube.com/watch?v=M-ZREjfmqe8    (
 
 # 우버 인사총괄로 5년간 일하며 느낀 ‘뽑힐 수밖에 없는 사람’ | Fynd Andrew
 
@@ -2470,7 +2470,7 @@ AI 기술의 발전은 디자인의 '실행(execution)' 단계를 자동화하�
 ---
 
 ## 164. 코로나 이후 도약기를 맞은 이 산업에서 떠오르는 아이템은?
-**URL:** https://www.youtube.com/watch?v=Q0s_G7ZT2sY    (
+**** https://www.youtube.com/watch?v=Q0s_G7ZT2sY    (
 
 # 코로나 이후 도약기를 맞은 이 산업에서 떠오르는 아이템은?
 
@@ -2586,7 +2586,7 @@ AI 기술의 발전은 디자인의 '실행(execution)' 단계를 자동화하�
 ---
 
 ## 165. 미국 사업, 잘할 수 있겠죠 …? | 미국 법인설립 Vlog part.1
-**URL:** https://www.youtube.com/watch?v=_NySaIFRHtU    (
+**** https://www.youtube.com/watch?v=_NySaIFRHtU    (
 
 물론입니다. 제공해주신 자막의 내용을 바탕으로, 요청하신 구조와 가이드라인에 맞춰 깊이 있는 학습 자료를 작성해 드리겠습니다.
 
@@ -2687,7 +2687,7 @@ AI 기술의 발전은 디자인의 '실행(execution)' 단계를 자동화하�
 ---
 
 ## 166. 2030 청년들이 창업을 커리어로 선택한 이유 | 임팩트 커넥터 우수 기업 토크
-**URL:** https://www.youtube.com/watch?v=pCB2lrC9bMM    (
+**** https://www.youtube.com/watch?v=pCB2lrC9bMM    (
 
 # 2030 청년들이 창업을 커리어로 선택한 이유 | 임팩트 커넥터 우수 기업 토크
 
@@ -2792,7 +2792,7 @@ AI 기술의 발전은 디자인의 '실행(execution)' 단계를 자동화하�
 ---
 
 ## 167. 10년 뒤에 보면 부끄러워질 생각을 해보세요 | 최성운의 사고실험 [송길영] 2부
-**URL:** https://www.youtube.com/watch?v=Ke0IGF9DZVg    (
+**** https://www.youtube.com/watch?v=Ke0IGF9DZVg    (
 
 # 10년 뒤에 보면 부끄러워질 생각을 해보세요 | 최성운의 사고실험 [송길영] 2부
 
@@ -2898,7 +2898,7 @@ AI 기술의 발전은 디자인의 '실행(execution)' 단계를 자동화하�
 ---
 
 ## 168. 미국 진출 1년 만에 15만 구독자. 이렇게 시작됐습니다 | EO Vlog ep1. 리뉴얼
-**URL:** https://www.youtube.com/watch?v=a2SAnmaMMfc    (
+**** https://www.youtube.com/watch?v=a2SAnmaMMfc    (
 
 물론입니다. 제공해주신 유튜브 영상 자막을 바탕으로, 요청하신 구조와 가이드라인에 맞춰 깊이 있는 학습 자료를 작성해 드리겠습니다.
 
@@ -3027,7 +3027,7 @@ AI 기술의 발전은 디자인의 '실행(execution)' 단계를 자동화하�
 ---
 
 ## 169. 1인분만 하고 평균 이상을 바라면 안 되죠 | 스타트업 직장인 토크
-**URL:** https://www.youtube.com/watch?v=5BoMbO0yEIQ    (
+**** https://www.youtube.com/watch?v=5BoMbO0yEIQ    (
 
 # 1인분만 하고 평균 이상을 바라면 안 되죠 | 스타트업 직장인 토크
 
@@ -3176,7 +3176,7 @@ AI가 단순 반복적인 작업을 대체함에 따라, 인간은 더 창의적
 ---
 
 ## 170. 당신보다 당신의 직업이 먼저 죽습니다 | 최성운의 사고실험 [송길영] 1부
-**URL:** https://www.youtube.com/watch?v=P_dfFU8ePYA    (
+**** https://www.youtube.com/watch?v=P_dfFU8ePYA    (
 
 # 당신보다 당신의 직업이 먼저 죽습니다 | 최성운의 사고실험 [송길영] 1부
 
@@ -3264,7 +3264,7 @@ AI가 단순 반복적인 작업을 대체함에 따라, 인간은 더 창의적
 ---
 
 ## 171. 호불호 갈려도 나만의 팬덤을 만드는 멘탈의 비결 | 최성운의 사고실험 [지올팍] 2부
-**URL:** https://www.youtube.com/watch?v=15v9ZCD3hbw    (
+**** https://www.youtube.com/watch?v=15v9ZCD3hbw    (
 
 # 호불호 갈려도 나만의 팬덤을 만드는 멘탈의 비결 | 최성운의 사고실험 [지올팍] 2부
 
@@ -3391,7 +3391,7 @@ AI가 단순 반복적인 작업을 대체함에 따라, 인간은 더 창의적
 ---
 
 ## 172. 모든 게 빠르게 변화하는데 가만히 앉아만 있기 싫었어요 | TakeApp 김도훈
-**URL:** https://www.youtube.com/watch?v=jqv7fBFeAXk    (
+**** https://www.youtube.com/watch?v=jqv7fBFeAXk    (
 
 # 모든 게 빠르게 변화하는데 가만히 앉아만 있기 싫었어요 | TakeApp 김도훈
 
@@ -3483,7 +3483,7 @@ AI가 단순 반복적인 작업을 대체함에 따라, 인간은 더 창의적
 ---
 
 ## 173. 만나보니 생각보다 더 괴상하고 똑똑한 사람이었습니다 | 최성운의 사고실험 [지올팍] 1부
-**URL:** https://www.youtube.com/watch?v=ioZinvE03HE    (
+**** https://www.youtube.com/watch?v=ioZinvE03HE    (
 
 # 만나보니 생각보다 더 괴상하고 똑똑한 사람이었습니다 | 최성운의 사고실험 [지올팍] 1부
 
@@ -3560,7 +3560,7 @@ AI가 단순 반복적인 작업을 대체함에 따라, 인간은 더 창의적
 ---
 
 ## 174. 20년 경력 인사총괄이 전하는 현실 조언 | Aspire 이재윤
-**URL:** https://www.youtube.com/watch?v=Je6GkNP88zc    (
+**** https://www.youtube.com/watch?v=Je6GkNP88zc    (
 
 # 20년 경력 인사총괄이 전하는 현실 조언 | Aspire 이재윤
 
@@ -3700,7 +3700,7 @@ AI가 단순 반복적인 작업을 대체함에 따라, 인간은 더 창의적
 ---
 
 ## 175. GPT 있는데 왜 또 만들어요? 손쉽게 이해하는 AI 개발 트렌드와 비하인드
-**URL:** https://www.youtube.com/watch?v=clhDOUk3yjU    (
+**** https://www.youtube.com/watch?v=clhDOUk3yjU    (
 
 # GPT 있는데 왜 또 만들어요? 손쉽게 이해하는 AI 개발 트렌드와 비하인드
 
@@ -3832,4 +3832,4 @@ AI 제공이 되면서 과거에는 할 수 없었던 일들을 훨씬 적은 �
 ---
 
 ## 176. 한국 개발자 최고 1타강사 김영한의 인생 [2부]
-**URL:** https://www.youtube.com/watch?v=MNyNRraMU8Y    (
+**** https://www.youtube.com/watch?v=MNyNRraMU8Y    (

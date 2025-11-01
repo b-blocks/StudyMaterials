@@ -1,7 +1,7 @@
 # 오리 어깨 친구 만들기 (Blender 초보자 가이드)
 
 ## Intro to modeling for UGC (feat. Reverse_Polarity)
-**URL:** https://www.youtube.com/watch?v=b0ugFLxrPIU
+**** https://www.youtube.com/watch?v=b0ugFLxrPIU
 
 ## 1. 개요
 이 학습 자료는 Blender를 처음 접하는 초보자가 Roblox UGC(User Generated Content) 아이템, 특히 "오리 어깨 친구"를 처음부터 모델링하는 과정을 상세하게 안내합니다. 영상의 주제는 Blender의 기본적인 모델링 도구와 워크플로우를 익혀 유기적인 형태를 만드는 것이며, 이 과정에서 발생하는 흔한 문제점과 해결책을 제시합니다. 이 자료는 Blender의 기본 인터페이스와 조작법을 익히고, Subdivision Surface 및 Mirror Modifier와 같은 핵심 기능을 활용하여 복잡한 모델을 효율적으로 만드는 방법을 배우고자 하는 예비 UGC 크리에이터를 대상으로 합니다. 특별한 사전 지식은 요구되지 않으며, 각 단계는 초보자의 눈높이에 맞춰 설명됩니다.
@@ -215,7 +215,7 @@ Roblox Studio에서 더미를 내보낼 때, 특정 월드 좌표에 고정하�
 
 # 3D 모델링 후처리: 스무딩, UV 언래핑 및 게임 엔진 최적화 가이드
 
-**URL:** https://www.youtube.com/watch?v=b0ugFLxrPIU
+**** https://www.youtube.com/watch?v=b0ugFLxrPIU
 
 ## 1. 개요
 이 문서는 3D 모델링 소프트웨어인 Blender를 사용하여 생성된 모델을 시각적으로 개선하고, 텍스처를 효율적으로 적용하며, Roblox와 같은 게임 엔진에 최적화하는 과정을 상세히 다룹니다. 모델의 외형을 부드럽게 만들고, 텍스처 매핑을 위한 2D 평면으로 펼치는 UV 언래핑 기법, 그리고 게임 엔진의 성능 요구사항을 충족시키기 위한 모델 최적화 방법을 학습하는 것이 주된 목적입니다.
@@ -305,7 +305,7 @@ Roblox Studio에서 더미를 내보낼 때, 특정 월드 좌표에 고정하�
 
 # Roblox UGC 크리에이터 성공 전략: 영감부터 비즈니스까지
 ## UGC Insights (feat. Reverse_Polarity and Madison_Hatter2)
-**URL:** https://www.youtube.com/watch?v=Zb1BJow0NV4
+**** https://www.youtube.com/watch?v=Zb1BJow0NV4
 
 ## 1. 개요
 이 문서는 Roblox 플랫폼에서 UGC(User-Generated Content) 크리에이터로 활동하며 성공적인 비즈니스를 구축한 Reverse Polarity와 Madison Hatter 2의 경험과 통찰을 심층적으로 분석합니다. 영상의 핵심 주제는 UGC 제작의 시작, 비즈니스 모델 이해, 아이템 홍보, 그리고 마켓플레이스 분석을 통한 아이디어 발상 및 판매 전략입니다. 이 자료는 Roblox UGC 크리에이터를 꿈꾸는 초보자부터 기존 크리에이터까지, UGC 생태계에 대한 깊이 있는 이해와 실질적인 성공 전략을 얻고자 하는 모든 이들을 대상으로 합니다. 특히, 기술적인 제작 방법론보다는 비즈니스 및 마켓플레이스 전략에 중점을 둡니다.
@@ -390,7 +390,7 @@ Roblox Studio에서 더미를 내보낼 때, 특정 월드 좌표에 고정하�
 
 # Roblox 매치메이킹 시스템 심층 분석: 가중치 합계 알고리즘과 커스터마이징
 ## Learn how matchmaking works on Roblox
-**URL:** https://www.youtube.com/watch?v=fUMlnldI53A
+**** https://www.youtube.com/watch?v=fUMlnldI53A
 
 ## 1. 개요
 이 문서는 Roblox의 수석 소프트웨어 엔지니어인 Superpat 77의 강연을 바탕으로, Roblox 플랫폼에서 플레이어를 서버에 매칭시키는 매치메이킹 시스템의 작동 원리를 심층적으로 탐구합니다. 특히, 플레이어를 적절한 서버에 연결하기 위해 사용되는 다양한 시그널과 `가중치 합계(Weighted Sum)` 알고리즘에 초점을 맞춥니다. 이 자료는 매치메이킹 알고리즘의 내부 동작을 이해하고, `커스텀 매치메이킹` 기능을 활용하여 각 게임의 고유한 요구사항에 맞춰 시스템을 최적화하는 방법을 제시하는 것을 목적으로 합니다.
@@ -517,7 +517,7 @@ Roblox Studio에서 더미를 내보낼 때, 특정 월드 좌표에 고정하�
 
 # Roblox 광원(Light Sources) 마스터 가이드
 ## How to use light sources on Roblox
-**URL:** https://www.youtube.com/watch?v=ARlkfuisU1w
+**** https://www.youtube.com/watch?v=ARlkfuisU1w
 
 ## 1. 개요
 이 문서는 Roblox 환경에서 광원(Light Sources)이 무엇이며, 크리에이터들이 이를 활용하여 자신의 Roblox 경험을 어떻게 생동감 있게 만들 수 있는지에 대해 심층적으로 다룹니다. 영상의 핵심 목적은 Roblox 스튜디오 내에서 제공되는 다양한 조명 옵션과 그 활용법을 이해하고, 이를 통해 더욱 몰입감 있고 시각적으로 매력적인 장면을 연출하는 방법을 학습하는 것입니다. 특히, 전역 조명(Global Lighting)과 지역 조명(Local Lighting)의 차이점을 이해하고, 각 광원 유형(Point Light, Spotlight, Surface Light)의 특성 및 공통 속성(색상, 밝기, 그림자)을 숙지하여 실제 프로젝트에 적용하는 데 중점을 둡니다. 이 문서는 Roblox 개발 경험이 있는 중급 사용자부터, 조명 디자인에 대한 이해를 높이고자 하는 초급 사용자까지 폭넓은 독자를 대상으로 합니다.
@@ -659,7 +659,7 @@ Roblox에서 사용할 수 있는 세 가지 주요 광원 유형은 각각 고�
 
 # Roblox 실시간 천 시뮬레이션 및 재단 프로토타입: Taylor Swiftly
 ## Tailor Swiftly - Dynamic Cloth in Roblox
-**URL:** https://www.youtube.com/watch?v=pc9KZbkYv4E
+**** https://www.youtube.com/watch?v=pc9KZbkYv4E
 
 ## 1. 개요
 이 문서는 Roblox 환경에서 실시간 천 시뮬레이션 및 재단 기능을 구현한 실험적인 프로젝트인 "Taylor Swiftly"에 대해 상세히 설명합니다. 영상은 Prince Tibble이 개발한 이 프로토타입의 핵심 기술, 작동 방식, 그리고 다양한 시연 사례를 통해 천 기반 객체를 생성하고 조작하는 과정을 보여줍니다. 이 자료는 Roblox 스튜디오 내에서 물리 기반 천 시뮬레이션이 어떻게 작동하며, 이를 통해 어떤 창의적인 가능성을 열 수 있는지 탐구하는 것을 목적으로 합니다.
@@ -797,7 +797,7 @@ Taylor Swiftly는 실제 재봉 과정에서 영감을 받은 다양한 조작 �
 
 # Roblox 스크립트 실행 환경 이해: 심층 가이드
 ## How to get your code to run on Roblox
-**URL:** https://www.youtube.com/watch?v=Mdgk49Evink
+**** https://www.youtube.com/watch?v=Mdgk49Evink
 
 ## 1. 개요
 이 문서는 Roblox 스튜디오에서 스크립트가 어디서, 어떻게 실행되는지에 대한 근본적인 이해를 돕기 위해 작성되었습니다. Roblox 경험은 기본적으로 멀티플레이어 환경이므로, 코드가 서버, 클라이언트 또는 양쪽 모두에서 실행될 수 있는 능력이 필수적입니다. 본 자료는 스크립트의 위치(Script Locations)와 실행 컨텍스트(Run Context)라는 Roblox의 핵심 개념을 통해 이러한 요구사항을 어떻게 충족하는지 상세히 설명합니다. 이 가이드는 Roblox 스크립팅을 처음 시작하는 프로그래머를 대상으로 하며, 기본적인 프로그래밍 개념에 대한 이해를 전제로 합니다.
@@ -992,7 +992,7 @@ Roblox Studio의 Laser Tag 템플릿은 스크립트 위치와 `RunContext`를 �
 
 # Roblox Studio: 플레이어에서 개발자로 전환하기
 ## Enyu opens Studio for the first time (feat. Enyu)
-**URL:** https://www.youtube.com/watch?v=lAKBYXLkNGU
+**** https://www.youtube.com/watch?v=lAKBYXLkNGU
 
 ## 1. 개요
 이 문서는 인기 게임 플랫폼 Roblox에서 단순히 게임을 플레이하는 것을 넘어, 직접 게임을 개발하는 과정의 기초적인 개념들을 소개합니다. 특히, Roblox Studio를 처음 접하는 플레이어가 게임 개발의 핵심 원리를 이해하고, 복잡한 게임 메커니즘이 어떻게 구현되는지 엿볼 수 있도록 돕는 데 목적이 있습니다. 이 자료는 Roblox 게임 개발에 관심 있는 초보자 및 기존 플레이어를 대상으로 하며, 프로그래밍이나 게임 개발에 대한 사전 지식이 없어도 이해할 수 있도록 구성되었습니다.
@@ -1105,7 +1105,7 @@ Roblox Studio의 모든 Instance는 계층적인 '부모-자식 관계'를 통�
 
 # Roblox 3D 의류 케이징 심화 학습 가이드
 ## Learn how to cage Roblox 3D clothing
-**URL:** https://www.youtube.com/watch?v=QwZaA9Gc-WQ
+**** https://www.youtube.com/watch?v=QwZaA9Gc-WQ
 
 ## 1. 개요
 이 문서는 Roblox 플랫폼에서 레이어드 의류 아이템을 제작하는 3D 모델러를 위한 심화 학습 가이드입니다. Roblox의 선임 3D 아티스트가 직접 시연하는 다양한 유형의 의류 아이템(기본 티셔츠, 드레스/스커트, 부분 노출 의류, 전신 바디수트) 케이징 과정을 통해, 올바른 케이징 기법과 모범 사례를 상세하게 다룹니다. 이 가이드의 목적은 의류 에셋이 Roblox의 레이어드 의류 시스템에서 최상의 모습과 기능을 발휘하도록 정확하게 케이징하는 방법을 이해하고 숙달하는 데 있습니다. 특히, 케이징 과정에서 발생할 수 있는 일반적인 문제점(예: 겨드랑이 부분 처리, 메시 엉킴) 해결 전략과 효율적인 작업 흐름을 제시하여, 모델러들이 실질적인 어려움을 극복하고 고품질의 UGC(User Generated Content)를 제작할 수 있도록 돕습니다. 대상 독자는 3D 모델링 기본 지식과 Roblox UGC 제작 경험이 있는 모델러이며, 케이징 초보자부터 숙련자까지 모두에게 유용한 정보를 제공합니다.
@@ -1238,7 +1238,7 @@ Roblox Studio의 모든 Instance는 계층적인 '부모-자식 관계'를 통�
 
 # 3D 모델링: 의상 케이징(Caging) 심화 학습 가이드
 
-**URL:** https://www.youtube.com/watch?v=QwZaA9Gc-WQ
+**** https://www.youtube.com/watch?v=QwZaA9Gc-WQ
 
 ## 1. 개요
 이 문서는 3D 모델링 과정에서 의상 아이템의 '케이징(Caging)' 프로세스를 심층적으로 다룹니다. 케이징은 캐릭터 의상이 몸에 자연스럽게 피팅되고 움직임에 따라 현실적으로 변형되도록 돕는 핵심적인 기술입니다. 본 가이드는 케이징의 기본 개념부터 주요 도구 활용법, 흔히 발생하는 문제점 및 해결책, 그리고 작업의 중요성에 이르기까지 전반적인 내용을 상세하게 설명합니다. 이 자료는 3D 모델링 초보자부터 캐릭터 아티스트, 게임 개발자 등 의상 모델링의 품질을 향상시키고자 하는 모든 이들을 대상으로 하며, 기본적인 3D 모델링 소프트웨어 사용 경험이 있다면 더욱 효과적으로 학습할 수 있습니다.
@@ -1311,7 +1311,7 @@ Roblox Studio의 모든 Instance는 계층적인 '부모-자식 관계'를 통�
 # Roblox 2D 클래식 의류 제작 가이드: 초보자를 위한 심층 학습 자료
 
 ## How to create and sell your first classic clothing item on Roblox
-**URL:** https://www.youtube.com/watch?v=r_unfGZT5Ps
+**** https://www.youtube.com/watch?v=r_unfGZT5Ps
 
 ## 1. 개요
 
@@ -1450,7 +1450,7 @@ Roblox에서 2D 클래식 의류를 제작하고 판매하는 과정은 다음�
 # Roblox 마이크로 프로파일러 고급 활용 가이드
 
 ## How to use the Roblox MicroProfiler on mobile
-**URL:** https://www.youtube.com/watch?v=eWf-6Sh-9Os
+**** https://www.youtube.com/watch?v=eWf-6Sh-9Os
 
 ## 1. 개요
 이 문서는 Roblox 개발자를 위한 마이크로 프로파일러의 고급 활용법을 다룹니다. 특히 모바일 기기 프로파일링, 웹 기반 UI 사용법, 다양한 프레임 색상(주황, 파랑, 빨강)의 의미 해석, 그리고 CPU 플레임 그래프 및 X-레이 모드를 통한 메모리 분석 방법을 상세히 설명합니다. 이 가이드는 개발자가 Roblox 경험의 성능 병목 현상을 정확히 진단하고 최적화하여 모든 플랫폼에서 원활한 사용자 경험을 제공하는 것을 목표로 합니다.
@@ -1577,7 +1577,7 @@ Roblox 마이크로 프로파일러는 개발 머신뿐만 아니라 실제 모�
 # 효과적인 추천 시스템 구현 가이드
 
 ## What's Roblox's Referral System?
-**URL:** https://www.youtube.com/watch?v=qfWKYgO63OI
+**** https://www.youtube.com/watch?v=qfWKYgO63OI
 
 ## 1. 개요
 
@@ -1723,7 +1723,7 @@ Roblox 마이크로 프로파일러는 개발 머신뿐만 아니라 실제 모�
 # Roblox UGC 스토어 커스터마이징 심화 학습 가이드: Danny의 '홈 스토어' 사례 분석
 
 ## Touring PolarCub's Homestore (feat. Temprist)
-**URL:** https://www.youtube.com/watch?v=0k4o_fGNOYQ
+**** https://www.youtube.com/watch?v=0k4o_fGNOYQ
 
 ## 1. 개요
 이 문서는 Roblox UGC(User Generated Content) 스토어 템플릿을 활용하여 자신만의 독창적이고 매력적인 상점을 구축하는 방법을 심층적으로 탐구합니다. 특히, Danny라는 크리에이터가 Roblox UGC 스토어 템플릿을 어떻게 개인화하고, 외부 3D 모델링 도구(Blender)와 Roblox Studio의 기능을 결합하여 단순한 판매 공간을 넘어선 '홈 스토어'를 구현했는지 상세히 분석합니다.
@@ -1790,7 +1790,7 @@ Roblox 마이크로 프로파일러는 개발 머신뿐만 아니라 실제 모�
 *   **주의사항:** Roblox Studio의 사용법을 숙지하는 것은 Roblox 개발의 필수 요소입니다. Lua 스크립팅에 대한 이해는 스토어의 상
 
 # Thumbnail Personalization on Roblox
-**URL:** https://www.youtube.com/watch?v=I65eJ_uUsY8
+**** https://www.youtube.com/watch?v=I65eJ_uUsY8
 
 ## 1. 개요
 
@@ -1857,7 +1857,7 @@ Roblox 썸네일 개인화 기능은 두 가지 핵심적인 동기에서 출발
 
 # Roblox UGC 홈 스토어 템플릿 활용 가이드
 ## Touring the Roblox UGC Homestore Template with Minty and SCHLEEMPH
-**URL:** https://www.youtube.com/watch?v=6MPWLQmIKLk
+**** https://www.youtube.com/watch?v=6MPWLQmIKLk
 
 ## 1. 개요
 이 문서는 Roblox UGC(User Generated Content) 홈 스토어 템플릿의 기능과 활용 방법을 상세하게 설명합니다. 영상은 이 템플릿을 사용하여 자신만의 가상 상점을 구축하고, UGC 아이템을 효과적으로 전시 및 판매하는 과정을 다룹니다. 주요 목적은 UGC 크리에이터들이 코딩 지식 없이도 매력적인 상점을 쉽게 만들고 커스터마이징할 수 있도록 돕는 것입니다.
@@ -1928,7 +1928,7 @@ Roblox 썸네일 개인화 기능은 두 가지 핵심적인 동기에서 출발
 *   **주의사항:** 테마 변경 시, 상점의 가독성과 사용자 경험을 해치지 않도록 균형을 맞추는 것이
 
 # How to create and sell your first 3D clothing item on Roblox
-**URL:** https://www.youtube.com/watch?v=C-DwGRBHvmE
+**** https://www.youtube.com/watch?v=C-DwGRBHvmE
 
 The user wants me to act as a CLI agent. I need to respond to their request.
 The user has provided a YouTube transcript and wants me to restructure it into a detailed learning resource following a specific Markdown structure and guidelines.
@@ -2037,7 +2037,7 @@ Here is the detailed learning resource based on the provided YouTube transcript:
 # Roblox 마이크로 프로파일러를 활용한 성능 최적화 가이드
 
 ## How to use the MicroProfiler on Roblox
-**URL:** https://www.youtube.com/watch?v=XLCZfGEm9tU
+**** https://www.youtube.com/watch?v=XLCZfGEm9tU
 
 ## 1. 개요
 이 문서는 Roblox 경험(게임)의 성능을 최적화하고 문제를 해결하는 데 필수적인 도구인 마이크로 프로파일러(Micro Profiler)에 대해 상세히 다룹니다. 영상의 핵심 목적은 마이크로 프로파일러가 무엇인지, 왜 강력한 도구인지, 그리고 이를 활용하여 실제 성능 문제를 진단하고 해결하는 방법을 이해하는 것입니다. 특히, 높은 수준의 평균 프레임률(FPS)만으로는 파악하기 어려운 미세한 성능 저하의 원인을 찾아내고 개선하는 데 중점을 둡니다. 이 문서는 Roblox 개발자 및 게임 성능 최적화에 관심 있는 모든 독자를 대상으로 하며, 기본적인 Roblox Studio 사용 경험이 있다면 내용을 더 쉽게 이해할 수 있습니다.
@@ -2117,7 +2117,7 @@ Here is the detailed learning resource based on the provided YouTube transcript:
 # Roblox 3D 아이템 제작 및 판매 심화 학습 가이드: 보물 상자 백팩 만들기
 
 ## How to create and sell a Rigid Accessory on Roblox in 12 minutes
-**URL:** https://www.youtube.com/watch?v=Eed29gV0hLA
+**** https://www.youtube.com/watch?v=Eed29gV0hLA
 
 ## 1. 개요
 이 학습 자료는 3D 모델링 초보자도 Roblox 플랫폼에서 자신만의 3D 아이템(특히 간단한 아바타 액세서리)을 제작하고 판매하는 전 과정을 상세하게 안내합니다. 영상의 주제는 누구나 무료 소프트웨어를 활용하여 Roblox용 3D 아이템을 만들 수 있다는 것을 보여주는 것이며, 그 목적은 3D 아트 및 사용자 생성 콘텐츠(UGC)에 대한 진입 장벽을 낮추는 데 있습니다.
@@ -2309,7 +2309,7 @@ Here is the detailed learning resource based on the provided YouTube transcript:
 # Brave Turtles의 Roblox 게임 개발 여정 – Rift Hunters 사례를 중심으로
 
 ## (English) What We Wish We Knew When Developing Rift Hunters by Brave Turtles | Inspire 2024
-**URL:** https://www.youtube.com/watch?v=2t_zhxyLOJ8
+**** https://www.youtube.com/watch?v=2t_zhxyLOJ8
 
 ## 1. 개요
 이 학습 자료는 Brave Turtles의 창립자 Kevin Kim이 Roblox 플랫폼에서 슈팅 게임 'Rift Hunters'를 개발하며 겪었던 경험과 핵심 교훈을 상세히 다룹니다. 영상은 Roblox의 폭발적인 성장세와 개발 과정에서의 전략적 의사결정, 그리고 출시 후 얻은 실질적인 통찰력을 공유하며, 특히 커뮤니티 구축, UGC(User Generated Content) 이벤트의 양면성, 타겟 유저 플레이 테스트의 중요성, 그리고 Roblox 플랫폼에 최적화된 수익화 전략에 대해 깊이 있게 탐구합니다. 이 자료는 Roblox를 포함한 게임 개발에 관심 있는 개발자, 기획자, 그리고 게임 산업 종사자들이 실제 사례를 통해 실질적인 지식과 영감을 얻을 수 있도록 구성되었습니다.
@@ -2423,7 +2423,7 @@ Here is the detailed learning resource based on the provided YouTube transcript:
 # 인플루언서를 활용한 Roblox 경험 홍보 전략
 
 ## (Polish) How to Promote Your Roblox Experience with Influencers by mendire | Inspire 2024
-**URL:** https://www.youtube.com/watch?v=4W4agyvMFZY
+**** https://www.youtube.com/watch?v=4W4agyvMFZY
 
 ## 1. 개요
 이 문서는 Roblox 플랫폼에서 자신의 게임 또는 '경험(Experience)'을 효과적으로 홍보하기 위해 인플루언서 마케팅을 활용하는 전략을 심층적으로 다룹니다. 영상은 인플루언서 선정, 협업 방식, 플랫폼별 특성, 성과 측정 등 전반적인 과정을 안내하며, 특히 Roblox 환경에 최적화된 접근 방식을 제시합니다. 이 자료는 Roblox 개발자, 마케터, 또는 자신의 창작물을 더 많은 사용자에게 알리고자 하는 모든 이들을 대상으로 하며, 인플루언서 마케팅에 대한 기본적인 이해가 있다면 더욱 효과적으로 학습할 수 있습니다.
@@ -2594,7 +2594,7 @@ Here is the detailed learning resource based on the provided YouTube transcript:
 
 # YouTube 크리에이터 협업을 통한 Roblox 경험 홍보 및 성과 측정 가이드
 
-**URL:** https://www.youtube.com/watch?v=4W4agyvMFZY
+**** https://www.youtube.com/watch?v=4W4agyvMFZY
 
 ## 1. 개요
 이 문서는 YouTube 크리에이터와의 협업을 통해 Roblox 경험(게임)을 효과적으로 홍보하고, 그 성과를 측정하는 방법에 대한 심층적인 가이드입니다. 크리에이터 마케팅의 중요성을 이해하고, 협업 과정에서 발생할 수 있는 주요 질문과 문제 해결 방안을 제시합니다. 특히, 프로모션의 성공 여부를 판단하기 위한 구체적인 지표와 커뮤니케이션 전략에 초점을 맞춥니다.
@@ -2649,7 +2649,7 @@ Here is the detailed learning resource based on the provided YouTube transcript:
 # Roblox Creator Analytics: 경제 및 퍼널 이벤트 심층 분석
 
 ## Tracking funnel and economy events on Roblox
-**URL:** https://www.youtube.com/watch?v=NFLP-FVv834
+**** https://www.youtube.com/watch?v=NFLP-FVv834
 
 ## 1. 개요
 이 문서는 Roblox Creator Analytics 팀에서 최근 출시한 **경제(Economy) 이벤트** 및 **퍼널(Funnel) 이벤트** 추적 기능에 대해 상세히 설명합니다. 이 기능들은 Roblox 게임 개발자들이 사용자 행동을 면밀히 분석하고, 게임 내 경제 시스템을 최적화하며, 사용자 이탈률을 줄여 궁극적으로 게임의 성장과 발견 가능성을 가속화할 수 있도록 돕기 위해 설계되었습니다.
@@ -2825,7 +2825,7 @@ Roblox Analytics Service는 `AnalyticsService:LogEconomyEvent`와 `AnalyticsServ
 *   **아이템 SKU (Item SKUs) 제한:** 현재 고유한 아이템 SKU는 100개까지만 개별적으로 추적됩니다. 100개를 초과하는 SKU는 'Other'라는 카테고리로 그룹화됩니다. 이는 전체 게임 경제의 균형 분석에는 영향을 미치지 않지만, 100개 이상의 개별 아이템에 대한 상세한 판매/소비 분석에는 제한이 있을 수 있습니다.
 
 # Advanced Roblox Packages Techniques on Roblox
-**URL:** https://www.youtube.com/watch?v=B2hJlre1sOk
+**** https://www.youtube.com/watch?v=B2hJlre1sOk
 
 ## Roblox 패키지 시스템 고급 활용: 속성(Attributes)과 스크립트를 통한 에셋 변형
 
@@ -2915,7 +2915,7 @@ Roblox 개발 과정에서 동일한 에셋의 다양한 변형이 필요한 경
 
 # Roblox 패키지 시스템 워크플로우 심층 학습 가이드
 ## Understanding the Roblox Packages Workflow on Roblox
-**URL:** https://www.youtube.com/watch?v=oDQQ5IYZ5Y0
+**** https://www.youtube.com/watch?v=oDQQ5IYZ5Y0
 
 ## 1. 개요
 이 문서는 Roblox Studio의 패키지 시스템 워크플로우에 대한 심층적인 학습 자료입니다. Roblox의 Principal Environment Artist인 K-Monkey의 강의를 기반으로, 다양한 에셋 유형을 활용한 패키지 생성 방법, 우클릭 메뉴 옵션의 기능, 그리고 패키지가 팀 협업 및 에셋 버전 관리에서 어떻게 중요한 역할을 하는지 상세히 다룹니다. 이 가이드는 Roblox Studio에서 효율적인 에셋 관리 및 협업을 목표로 하는 빌더 및 환경 아티스트를 대상으로 하며, 기본적인 Roblox Studio 사용 경험이 있는 독자에게 가장 유용할 것입니다.
@@ -3047,7 +3047,7 @@ Roblox 패키지 시스템은 에셋의 이전 버전으로 되돌릴 수 있는
 # Roblox 패키지 시스템 완벽 가이드: 효율적인 에셋 관리 및 협업 전략
 
 ## How to use Roblox Packages for Beginners on Roblox
-**URL:** https://www.youtube.com/watch?v=AzKZy2BqIh8
+**** https://www.youtube.com/watch?v=AzKZy2BqIh8
 
 ## 1. 개요
 
@@ -3183,7 +3183,7 @@ Roblox 패키지 시스템은 에셋 관리 및 개발 워크플로우를 혁신
 
 # Luau 네이티브 코드 생성(NCG)을 활용한 성능 최적화 가이드
 ## Increasing Performance with Native Code Generation on Roblox
-**URL:** https://www.youtube.com/watch?v=llR_pNlJDQw
+**** https://www.youtube.com/watch?v=llR_pNlJDQw
 
 ## 1. 개요
 이 문서는 Roblox의 수석 소프트웨어 엔지니어인 Lambda Easy가 설명하는 Luau 네이티브 코드 생성(NCG) 기술을 통해 연산 집약적인 Luau 스크립트의 성능을 향상시키는 방법을 상세히 다룹니다. NCG의 기본 개념부터 실제 적용, 성능 분석 도구 활용법, 그리고 발생 가능한 문제 해결까지 포괄적으로 제시하여 개발자들이 Luau 코드의 잠재력을 최대한 발휘할 수 있도록 돕는 것을 목적으로 합니다.
@@ -3342,7 +3342,7 @@ NCG를 효과적으로 활용하기 위한 몇 가지 중요한 권장 사항은
 
 # Roblox UGC 아이템 제작 심층 가이드: Polar Cub (Danny)의 여정
 ## Getting Started with UGC (feat. PolarCub)
-**URL:** https://www.youtube.com/watch?v=QAJ2Qg5RmiU
+**** https://www.youtube.com/watch?v=QAJ2Qg5RmiU
 
 ## 1. 개요
 이 학습 자료는 Roblox 플랫폼에서 UGC(User Generated Content) 아이템을 제작하는 과정과 그 안에 담긴 창작자의 경험을 심층적으로 탐구합니다. 특히, 유명 UGC 크리에이터인 Polar Cub (Danny)의 인터뷰를 통해 3D 모델링의 기초 개념부터 실제 제작 과정, 그리고 창작자로서 겪는 도전과 성공에 이르기까지 전반적인 내용을 다룹니다. 이 문서는 UGC 아이템 제작에 관심 있는 초보자부터 숙련된 크리에이터까지, Roblox 생태계에서 자신만의 콘텐츠를 만들고 성장하고자 하는 모든 이들에게 실질적인 통찰과 영감을 제공하는 것을 목적으로 합니다.
@@ -3424,7 +3424,7 @@ NCG를 효과적으로 활용하기 위한 몇 가지 중요한 권장 사항은
 *   **주의사항:** 성공은 단번에 이루어지지 않습니다. 꾸준한 노력, 실패를 통한 학습, 그리고 자신의 성
 
 # How to get started creating on Roblox
-**URL:** https://www.youtube.com/watch?v=vIiVbFiDbBE
+**** https://www.youtube.com/watch?v=vIiVbFiDbBE
 
 ## Roblox 창작 시작 가이드: 깊이 있는 학습 자료
 
@@ -3553,7 +3553,7 @@ Roblox는 창작자들이 비전을 현실로 만들 수 있도록 다양한 리
 
 # Roblox 물리 엔진 101: 시뮬레이션 우선 원리 및 활용 가이드
 ## How Physics work on Roblox
-**URL:** https://www.youtube.com/watch?v=9mXvhYSv7fc
+**** https://www.youtube.com/watch?v=9mXvhYSv7fc
 
 ## 1. 개요
 이 문서는 Roblox 스튜디오의 핵심 기능인 물리 엔진의 '시뮬레이션 우선(Simulation-First)' 원리를 심층적으로 탐구하고, 이를 활용하여 역동적이고 현실적인 경험을 구축하는 방법을 안내합니다. 영상은 Roblox 물리 팀의 프로덕트 매니저인 Mobster Lobster와의 대화를 통해 기본적인 중력, 충돌부터 재질 속성, 그리고 현재 베타 기능인 공기역학까지 다양한 물리 개념을 실제 예시와 함께 설명합니다.
@@ -3673,7 +3673,7 @@ Roblox의 모든 파트는 재질(Material)을 가집니다. 이 재질은 파�
 
 # 물리 엔진의 에어로다이내믹스와 제약 조건
 
-**URL:** https://www.youtube.com/watch?v=9mXvhYSv7fc
+**** https://www.youtube.com/watch?v=9mXvhYSv7fc
 
 ## 1. 개요
 이 학습 자료는 물리 엔진 내에서 `에어로다이내믹스(Aerodynamics)` 및 `유체 역학(Fluid Dynamics)`의 개념과 `제약 조건(Constraints)`의 활용법을 심층적으로 다룹니다. 특히, 공기 저항이 물체에 미치는 영향과 물체 간의 상호작용을 제어하는 경첩 제약 조건(Hinge Constraint)의 작동 원리 및 다양한 액추에이터 유형을 상세히 설명합니다. 이 자료의 목적은 물리 시뮬레이션의 현실감을 높이고 복잡한 객체 동작을 정교하게 구현하는 데 필요한 핵심 지식을 제공하는 것입니다.
@@ -3823,7 +3823,7 @@ Roblox의 모든 파트는 재질(Material)을 가집니다. 이 재질은 파�
 
 # Roblox 물리 시스템 심층 분석: 제약, 질량, 상호작용 이해
 
-**URL:** https://www.youtube.com/watch?v=9mXvhYSv7fc
+**** https://www.youtube.com/watch?v=9mXvhYSv7fc
 
 ## 1. 개요
 이 문서는 Roblox Studio의 강력하고 직관적인 물리 시스템을 활용하여 복잡한 게임 내 상호작용을 코딩 없이 구현하는 방법을 심층적으로 탐구합니다. 영상은 힌지 제약(Hinge Constraint)을 중심으로 객체의 질량, 밀도, 토크가 물리적 동작에 미치는 영향을 실제 예시를 통해 설명하며, `CanCollide` 및 `Transparency`와 같은 속성을 사용하여 물리적 존재와 시각적 존재를 분리하는 창의적인 기법을 소개합니다.

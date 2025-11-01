@@ -42,7 +42,7 @@
 ---
 
 ## 247. 버크셔헤서웨이 2023 주주총회 | 2023년에 남기는 삶의 조언들
-**URL:** https://www.youtube.com/watch?v=gSSzeMPpU3c    (
+**** https://www.youtube.com/watch?v=gSSzeMPpU3c    (
 
 ## 1. 핵심 요약
 
@@ -250,7 +250,7 @@
 ---
 
 ## 248. 찰리 멍거 | 인생을 살아가는 데 도움이 되는 몇 가지 조언들
-**URL:** https://www.youtube.com/watch?v=efgIt8MxZ4c    (
+**** https://www.youtube.com/watch?v=efgIt8MxZ4c    (
 
 ## 1. 핵심 요약
 
@@ -402,7 +402,7 @@
 ---
 
 ## 249. 테슬라 CEO 일론머스크와 엔비디아 CEO 젠슨황의 대화 | 거인들의 통찰 | Tesla CEO Elon Musk with NVIDIA CEO Jen Hsun Huang
-**URL:** https://www.youtube.com/watch?v=FdkTL-fJ65k    (
+**** https://www.youtube.com/watch?v=FdkTL-fJ65k    (
 
 ## 1. 핵심 요약
 

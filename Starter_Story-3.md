@@ -71,7 +71,7 @@
 *   **주의사항:** '혁신'이라는 이름 아래 무작정 새로운 것을 시도하기보다, 시장의 니즈를 정확히 파악하고 기존 솔루션의 불편함을 해소하는 데 집중하는 것이 현실적인 성공 전략이 될 수 있다.
 
 # My app makes $41K/month
-**URL:** https://www.youtube.com/watch?v=a1EXyJlSx9g
+**** https://www.youtube.com/watch?v=a1EXyJlSx9g
 
 평범한 문제에서 월 4만 달러 수익 앱으로: Weightley 성공 사례 분석
 
@@ -225,7 +225,7 @@
 | 용어 (영문 원
 
 ## I Quit YouTube & Built a $1M App (Without My Audience)
-**URL:** https://www.youtube.com/watch?v=laRliIVNZgU
+**** https://www.youtube.com/watch?v=laRliIVNZgU
 
 # 인플루언서에서 성공적인 SaaS 창업가로 – 세바스찬 조르주의 여정
 
@@ -345,7 +345,7 @@
 | 구분             | 개인 브랜드 기반
 
 ## How to make money with mobile apps (just copy me)
-**URL:** https://www.youtube.com/watch?v=hKqLceTPLWM
+**** https://www.youtube.com/watch?v=hKqLceTPLWM
 
 # 모바일 앱 성공을 위한 마케팅 플레이북: 0에서 Exit까지
 
@@ -402,7 +402,7 @@
 *   **핵심 개념:** `스프레드시트`를 활용한 `데이터 기반 시장 조사`.
 *   **왜 중요한가:** 분석된 바이럴 콘텐츠의 핵심 요소를 체계적으로 기록하고 관리함으로써, 향후 콘텐츠 제작의 명확한 가이드라인을 확보할 수 있습니다.
 *   **심화 설명:**
-    *   **URL:** 바이럴 영상의 URL을 기록합니다.
+    *   **** 바이럴 영상의 URL을 기록합니다.
     *   **Hook:** 영상의 시작 부분에서 시청자의 주의를 끈 요소를 구체적으로 작성합니다. (예: "카메라를 들고 걷다가 6개의 물컵 앞에 앉음")
     *   **Storyline:** 영상의 핵심 서사, 문제점, 감정적 요소를 기록합니다. (예: "7년간 베이핑 경험, 금연의 고통, 짜증, 무기력함")
     *   **Call to Action:** 영상이 시청자에게 유도하는 행동을 기록합니다. (예: "앨런 카의 금연 오디오북 추천, 껌/민트 섭취")
@@ -515,7 +515,7 @@
 *   **주의사항:** 단순히 데이터를 수집하는 것을 넘어, 데이터를 분석하여 인사이트를 도출하고 실제 마케팅 전략에 반영하는 것이 중요합니다.
 
 # This app replaced my 9-5 ($150K/year)
-**URL:** https://www.youtube.com/watch?v=w3zxMrwWrt0
+**** https://www.youtube.com/watch?v=w3zxMrwWrt0
 
 사이드 프로젝트로 연 15만 달러 수익 달성하기
 
@@ -643,7 +643,7 @@
     *   **주의사항:** 단순
 
 # We built $10K/mo saas. Watch this before starting yours
-**URL:** https://www.youtube.com/watch?v=3eY71OS4MFw
+**** https://www.youtube.com/watch?v=3eY71OS4MFw
 
 빌드 전 검증의 기술 – Cedari AI 사례 연구
 
@@ -793,7 +793,7 @@
 *   **주의사항:** 높은 가격 정책은 제품이 그만한 가치를 제공할 수 있을 때 효과적입니다. 고객의 문제를 명확히 해결하고, 그들이 기꺼이 지불할 만한 가치를 제공하는 것이 선행되어야 합니다.
 
 # I cloned 2 apps and made $30M
-**URL:** https://www.youtube.com/watch?v=w8oUlfgvcTI
+**** https://www.youtube.com/watch?v=w8oUlfgvcTI
 
 성공적인 사업 아이디어 발굴 및 성장 전략: 모방과 차별화
 
@@ -915,7 +915,7 @@
 *   **주의사항:** 목표는 커야 하지만, 현실적인 계획과 단계별 실행이 동반되어야 합니다.
 
 # I Built a $1M SaaS Using YouTube
-**URL:** https://www.youtube.com/watch?v=VZ1XspToV1E
+**** https://www.youtube.com/watch?v=VZ1XspToV1E
 
 YouTube를 활용한 SaaS 비즈니스 성장 전략: Vasco의 0에서 월 7만 달러 달성기
 
@@ -1037,7 +1037,7 @@ YouTube를 활용한 SaaS 비즈니스 성장 전략: Vasco의 0에서 월 7만 
 *   **주의사항:** 단순히 열심히 하는 것을 넘어, 스마트
 
 # My app made $80K in 6 months
-**URL:** https://www.youtube.com/watch?v=hYW9YDwHE20
+**** https://www.youtube.com/watch?v=hYW9YDwHE20
 
 실패를 딛고 8만 달러를 번 부트스트랩 창업가의 가격 전략과 성장 비결
 
@@ -1137,7 +1137,7 @@ YouTube를 활용한 SaaS 비즈니스 성장 전략: Vasco의 0에서 월 7만 
 *   **주의사항:** PMF는 한 번 찾았다고 끝나는 것이 아니라, 시장과 사용자 요구가 변화함에 따라 지속적으로 재평가하고 조정해야 하는 과정입니다.
 
 # I built a $99K/month AI app
-**URL:** https://www.youtube.com/watch?v=DV7bBCAABg4
+**** https://www.youtube.com/watch?v=DV7bBCAABg4
 
 ## 1. 개요
 

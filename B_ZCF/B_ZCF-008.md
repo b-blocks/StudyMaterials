@@ -127,7 +127,7 @@ AI 기술의 급격한 발전과 그에 따른 기회 및 위험을 고려할 �
 ---
 
 ## 194. 정해진 대로 사세요 (피터틸)
-**URL:** https://www.youtube.com/watch?v=3VVA47ymfJc    (
+**** https://www.youtube.com/watch?v=3VVA47ymfJc    (
 
 ## 1. 핵심 요약
 
@@ -247,7 +247,7 @@ AI 기술의 급격한 발전과 그에 따른 기회 및 위험을 고려할 �
 ---
 
 ## 195. 삶은 유한하니까.. (랜디 포시 교수)
-**URL:** https://www.youtube.com/watch?v=y2a3lLjjTGI    (
+**** https://www.youtube.com/watch?v=y2a3lLjjTGI    (
 
 ## 시간 관리: 삶의 가장 소중한 자원을 지키는 지혜
 
@@ -468,7 +468,7 @@ AI 기술의 급격한 발전과 그에 따른 기회 및 위험을 고려할 �
 ---
 
 ## 196. 머스크의 인공지능 회사 (xAI)
-**URL:** https://www.youtube.com/watch?v=j6kVvvJN6TY    (
+**** https://www.youtube.com/watch?v=j6kVvvJN6TY    (
 
 ## 1. 핵심 요약
 
@@ -569,7 +569,7 @@ AI 기술의 급격한 발전과 그에 따른 기회 및 위험을 고려할 �
 ---
 
 ## 197. 찰리멍거 : 현대차는 ...
-**URL:** https://www.youtube.com/watch?v=RVIVimZYh1s    (
+**** https://www.youtube.com/watch?v=RVIVimZYh1s    (
 
 ## 1. 핵심 요약
 
@@ -747,7 +747,7 @@ I am confident with this output.## 1. 핵심 요약
 ---
 
 ## 198. 사업하는 법 (샘 알트먼)
-**URL:** https://www.youtube.com/watch?v=TmUhCIMUy20    (
+**** https://www.youtube.com/watch?v=TmUhCIMUy20    (
 
 ## 1. 핵심 요약
 
@@ -842,7 +842,7 @@ I am confident with this output.## 1. 핵심 요약
 ---
 
 ## 199. 뉴럴링크 최신발표 (일론머스크)
-**URL:** https://www.youtube.com/watch?v=wTNqVuecpy0    (
+**** https://www.youtube.com/watch?v=wTNqVuecpy0    (
 
 ## 1. 핵심 요약
 
@@ -936,7 +936,7 @@ Neuralink Up Live Update에 오신 것을 환영합니다. 우리는 Neural Link
 ---
 
 ## 200. 인공지능, 버블인가? (Coatue)
-**URL:** https://www.youtube.com/watch?v=b0NzgO1zCSU    (
+**** https://www.youtube.com/watch?v=b0NzgO1zCSU    (
 
 ## 1. 핵심 요약
 
@@ -1033,7 +1033,7 @@ Neuralink Up Live Update에 오신 것을 환영합니다. 우리는 Neural Link
 ---
 
 ## 201. 로저 페더러 다트머스 졸업연설
-**URL:** https://www.youtube.com/watch?v=t8v0cHn_LRc    (
+**** https://www.youtube.com/watch?v=t8v0cHn_LRc    (
 
 ## 1. 핵심 요약
 
@@ -1120,7 +1120,7 @@ Neuralink Up Live Update에 오신 것을 환영합니다. 우리는 Neural Link
 ---
 
 ## 202. 젠슨황 칼텍 졸업연설
-**URL:** https://www.youtube.com/watch?v=O5vFGHRbiFE    (
+**** https://www.youtube.com/watch?v=O5vFGHRbiFE    (
 
 ## 1. 핵심 요약
 
@@ -1327,7 +1327,7 @@ NVIDIA의 여정은 기술 혁신뿐만 아니라, 개인의 삶과 경력에 �
 ---
 
 ## 203. 뿌린대로 거둔다
-**URL:** https://www.youtube.com/watch?v=yIGq-SrnGZ8    (
+**** https://www.youtube.com/watch?v=yIGq-SrnGZ8    (
 
 ## 1. 핵심 요약
 
@@ -1449,7 +1449,7 @@ NVIDIA의 여정은 기술 혁신뿐만 아니라, 개인의 삶과 경력에 �
 ---
 
 ## 204. 일론 머스크 전설의 인터뷰 (2009)
-**URL:** https://www.youtube.com/watch?v=MZsp0L5ITGU    (
+**** https://www.youtube.com/watch?v=MZsp0L5ITGU    (
 
 ## 1. 핵심 요약
 
@@ -1538,7 +1538,7 @@ NVIDIA의 여정은 기술 혁신뿐만 아니라, 개인의 삶과 경력에 �
 ---
 
 ## 205. 수준이 정말 높다
-**URL:** https://www.youtube.com/watch?v=gvNTPi2ibDQ    (
+**** https://www.youtube.com/watch?v=gvNTPi2ibDQ    (
 
 ## 1. 핵심 요약
 
@@ -1649,7 +1649,7 @@ NVIDIA의 여정은 기술 혁신뿐만 아니라, 개인의 삶과 경력에 �
 ---
 
 ## 206. 실리콘밸리 이야기들
-**URL:** https://www.youtube.com/watch?v=oiVUiqaqTrw    (
+**** https://www.youtube.com/watch?v=oiVUiqaqTrw    (
 
 ## 젊은 창업가의 역설: 대기업 경험은 독인가, 약인가?
 
@@ -1873,7 +1873,7 @@ The draft seems to meet all the requirements. I will now output the generated le
 ---
 
 ## 207. JP모건체이스 제이미다이먼 단독 인터뷰
-**URL:** https://www.youtube.com/watch?v=w8OT1nbuhMI    (
+**** https://www.youtube.com/watch?v=w8OT1nbuhMI    (
 
 ## JP Morgan Chase CEO 제이미 다이먼의 통찰: 거대 은행의 역할, 미래 금융, 그리고 리더십
 
@@ -1973,7 +1973,7 @@ JP Morgan Chase는 시가 총액으로 세계에서 가장 큰 은행이며 2023
 ---
 
 ## 208. 인공지능 발전의 진짜 병목 (마크 저커버그)
-**URL:** https://www.youtube.com/watch?v=rJKSY4UJCn4    (
+**** https://www.youtube.com/watch?v=rJKSY4UJCn4    (
 
 ## 1. 핵심 요약
 
@@ -2192,7 +2192,7 @@ AI 스케일링의 에너지 병목은 동시에 새로운 비즈니스 기회�
 ---
 
 ## 209. 찰리멍거 촌철살인 모음 (버크셔해서웨이 주주총회)
-**URL:** https://www.youtube.com/watch?v=jfzlQOzn0wY    (
+**** https://www.youtube.com/watch?v=jfzlQOzn0wY    (
 
 ## 1. 핵심 요약
 
@@ -2462,7 +2462,7 @@ AI 스케일링의 에너지 병목은 동시에 새로운 비즈니스 기회�
 ---
 
 ## 210. 사람들이 더 똑똑해질 수 있게 (노션 창업자 인터뷰)
-**URL:** https://www.youtube.com/watch?v=QtM9UDyf6cQ    (
+**** https://www.youtube.com/watch?v=QtM9UDyf6cQ    (
 
 ## 1. 핵심 요약
 
@@ -2577,7 +2577,7 @@ Notion의 유연성, AI 통합, 그리고 독특한 경영 철학은 다양한 �
 ---
 
 ## 211. 일론 머스크와 일한 반도체 전설 (짐 켈러)
-**URL:** https://www.youtube.com/watch?v=fMpHU6saK3I    (
+**** https://www.youtube.com/watch?v=fMpHU6saK3I    (
 
 ## 1. 핵심 요약
 
@@ -2646,7 +2646,7 @@ Autopilot Chip Design과 Hardware Design을 사용하여 Intel AMD Apple에서 �
 ---
 
 ## 212. 찰리 멍거 편하게 이야기하는 10분 인터뷰
-**URL:** https://www.youtube.com/watch?v=ptAX2BYSa8w    (
+**** https://www.youtube.com/watch?v=ptAX2BYSa8w    (
 
 ## 1. 핵심 요약
 
@@ -2872,7 +2872,7 @@ The content seems to meet all the requirements. I'm ready to output the response
 ---
 
 ## 213. 일론머스크 2주전 최신 인터뷰 (인공지능, 자율주행, 전력, 에너지)
-**URL:** https://www.youtube.com/watch?v=Sidh1GV1uG4    (
+**** https://www.youtube.com/watch?v=Sidh1GV1uG4    (
 
 ## 1. 핵심 요약
 
@@ -3139,7 +3139,7 @@ The current output looks good and meets all the requirements.## 1. 핵심 요약
 ---
 
 ## 214. 일류와 이류의 차이 (반도체 전설 짐켈러)
-**URL:** https://www.youtube.com/watch?v=iwXr1IRaqWA    (
+**** https://www.youtube.com/watch?v=iwXr1IRaqWA    (
 
 ## 1. 핵심 요약
 
@@ -3254,7 +3254,7 @@ The current output looks good and meets all the requirements.## 1. 핵심 요약
 ---
 
 ## 215. 14살 중학생에게 주는 조언 (엔비디아 창업자 젠슨 황)
-**URL:** https://www.youtube.com/watch?v=2fbqtTTWc9o    (
+**** https://www.youtube.com/watch?v=2fbqtTTWc9o    (
 
 ## 1. 핵심 요약
 
@@ -3357,7 +3357,7 @@ The current output looks good and meets all the requirements.## 1. 핵심 요약
 ---
 
 ## 216. 실수를 인정할 수 있는 사람 (손정의)
-**URL:** https://www.youtube.com/watch?v=z8ctmja0AlQ    (
+**** https://www.youtube.com/watch?v=z8ctmja0AlQ    (
 
 ## 1. 핵심 요약
 
@@ -3465,7 +3465,7 @@ Masayoshi Son은 기업가 정신이 타고나는 것이 아니라 `학습될 �
 ---
 
 ## 217. 일론 머스크의 채용 방식 (트위터 대량 해고)
-**URL:** https://www.youtube.com/watch?v=Z-aj2AYIJWY    (
+**** https://www.youtube.com/watch?v=Z-aj2AYIJWY    (
 
 ## 1. 핵심 요약
 
@@ -3559,7 +3559,7 @@ Masayoshi Son은 기업가 정신이 타고나는 것이 아니라 `학습될 �
 ---
 
 ## 218. 실리콘밸리는 이렇게 일합니다
-**URL:** https://www.youtube.com/watch?v=D6S5gIdRYQs    (
+**** https://www.youtube.com/watch?v=D6S5gIdRYQs    (
 
 ## 1. 핵심 요약
 
@@ -3692,7 +3692,7 @@ Kevin은 내 이름이 Adora라고 말한 것처럼 Hello는 YC의 파트너 중
 ---
 
 ## 219. 엔비디아 창업자 젠슨황이 생각하는 인공지능
-**URL:** https://www.youtube.com/watch?v=i9UjPBAxn0M    (
+**** https://www.youtube.com/watch?v=i9UjPBAxn0M    (
 
 ## 1. 핵심 요약
 

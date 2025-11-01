@@ -1,5 +1,5 @@
 ## 220. 일론머스크 샘알트먼 두 천재의 대화
-**URL:** https://www.youtube.com/watch?v=oCEqp0b-WXM    (
+**** https://www.youtube.com/watch?v=oCEqp0b-WXM    (
 
 ## 1. 핵심 요약
 
@@ -120,7 +120,7 @@ Tesla를 태양 시티에서 가져 갔다면 SpaceX를 빼앗아 내일 새 회
 ---
 
 ## 221. 세상에는 창업을 해야만 하는 사람들이 있다
-**URL:** https://www.youtube.com/watch?v=YzIBVXwxnMc    (
+**** https://www.youtube.com/watch?v=YzIBVXwxnMc    (
 
 ## 1. 핵심 요약
 
@@ -231,7 +231,7 @@ Tesla를 태양 시티에서 가져 갔다면 SpaceX를 빼앗아 내일 새 회
 ---
 
 ## 222. 억만장자의 하루 그리고 아마존의 미팅 방법
-**URL:** https://www.youtube.com/watch?v=7FzZhPguB-o    (
+**** https://www.youtube.com/watch?v=7FzZhPguB-o    (
 
 ## 1. 핵심 요약
 
@@ -444,7 +444,7 @@ Jeff Bezos의 삶에서 완벽하게 생산적인 날은 세상에서 가장 생
 ---
 
 ## 223. 5000만 뷰 대명작 강의 - 미루는 사람들의 뇌구조 (팀 어번)
-**URL:** https://www.youtube.com/watch?v=gYpiT0dXhvA    (
+**** https://www.youtube.com/watch?v=gYpiT0dXhvA    (
 
 ## 1. 핵심 요약
 
@@ -546,7 +546,7 @@ Jeff Bezos의 삶에서 완벽하게 생산적인 날은 세상에서 가장 생
 ---
 
 ## 224. 아마존 초창기 그리고 데이원 정신
-**URL:** https://www.youtube.com/watch?v=AsNHYBefFfA    (
+**** https://www.youtube.com/watch?v=AsNHYBefFfA    (
 
 ## 1. 핵심 요약
 
@@ -664,7 +664,7 @@ uh uh sexy pictures on instagram uh Amazon Um의 초기부터 당신의 비디�
 ---
 
 ## 225. 16년 전에도 똑같았습니다 (일론 머스크)
-**URL:** https://www.youtube.com/watch?v=NIDICT3K_Ug    (
+**** https://www.youtube.com/watch?v=NIDICT3K_Ug    (
 
 ## 1. 핵심 요약
 
@@ -742,7 +742,7 @@ UH는 스탠포드 대학교에서 물리학 프로그램에 2 일을 조금만 
 ---
 
 ## 226. 1800만 뷰 대명작 강의 - 왜 해야하는가? (개정번역) (사이먼 시넥)
-**URL:** https://www.youtube.com/watch?v=mP5SYrK4fMQ    (
+**** https://www.youtube.com/watch?v=mP5SYrK4fMQ    (
 
 ## 1. 핵심 요약
 
@@ -905,7 +905,7 @@ UH는 스탠포드 대학교에서 물리학 프로그램에 2 일을 조금만 
 ---
 
 ## 227. 찰리멍거 마지막 인터뷰
-**URL:** https://www.youtube.com/watch?v=KQK7G8EiSqM    (
+**** https://www.youtube.com/watch?v=KQK7G8EiSqM    (
 
 ## 1. 핵심 요약
 
@@ -1144,7 +1144,7 @@ Becky Quick은 우리와 함께 Becky와 함께이 네트워크에서 누구보�
 ---
 
 ## 228. 스티브잡스 옆에서 일하며 배운 10가지
-**URL:** https://www.youtube.com/watch?v=LUnDs988vEc    (
+**** https://www.youtube.com/watch?v=LUnDs988vEc    (
 
 ## 스티브 잡스에게 배운 12가지 혁신과 비전의 지혜
 
@@ -1315,7 +1315,7 @@ Becky Quick은 우리와 함께 Becky와 함께이 네트워크에서 누구보�
 ---
 
 ## 229. MZ세대의 4가지 문제점 (사이먼 시넥)
-**URL:** https://www.youtube.com/watch?v=5qWkACrxjfQ    (
+**** https://www.youtube.com/watch?v=5qWkACrxjfQ    (
 
 ## 밀레니얼 세대: 이해와 성장을 위한 심층 분석
 
@@ -1433,7 +1433,7 @@ um 밀레 니얼 세대의 질문은 밀레 니얼 세대가 거의 1984 년에 
 ---
 
 ## 230. 그리고 살아남는 법 (짐 도노반)
-**URL:** https://www.youtube.com/watch?v=iKiFrIUDVcA    (
+**** https://www.youtube.com/watch?v=iKiFrIUDVcA    (
 
 ## 1. 핵심 요약
 
@@ -1576,7 +1576,7 @@ um 밀레 니얼 세대의 질문은 밀레 니얼 세대가 거의 1984 년에 
 ---
 
 ## 231. 버크셔 부회장 찰리멍거의 사고모델
-**URL:** https://www.youtube.com/watch?v=vZSzdDOKq4o    (
+**** https://www.youtube.com/watch?v=vZSzdDOKq4o    (
 
 ## 1. 핵심 요약
 
@@ -1690,7 +1690,7 @@ um 밀레 니얼 세대의 질문은 밀레 니얼 세대가 거의 1984 년에 
 ---
 
 ## 232. 일론 머스크와 샘 알트먼 1:1 단독 인터뷰 (2016년)
-**URL:** https://www.youtube.com/watch?v=yQDO_cCEDsQ    (
+**** https://www.youtube.com/watch?v=yQDO_cCEDsQ    (
 
 ## 1. 핵심 요약
 
@@ -1795,7 +1795,7 @@ um 밀레 니얼 세대의 질문은 밀레 니얼 세대가 거의 1984 년에 
 ---
 
 ## 233. 그러니까 이것저것 다 시도해보세요 (인생강의)
-**URL:** https://www.youtube.com/watch?v=nSQudySPmW4    (
+**** https://www.youtube.com/watch?v=nSQudySPmW4    (
 
 ## 1. 핵심 요약
 
@@ -1886,7 +1886,7 @@ um 밀레 니얼 세대의 질문은 밀레 니얼 세대가 거의 1984 년에 
 ---
 
 ## 234. 뉴욕타임즈 30년 경력기자가 말해주는 글 잘 쓰는 법
-**URL:** https://www.youtube.com/watch?v=2swkdCdkfz0    (
+**** https://www.youtube.com/watch?v=2swkdCdkfz0    (
 
 ## 1. 핵심 요약
 
@@ -2025,7 +2025,7 @@ Sandy Ernest Hemingway는 잘 작성하기위한 4 가지 팁을 사용했습니
 ---
 
 ## 235. 위대한 성과를 만든 사람들의 공통점 (원제 : You and Your Research)
-**URL:** https://www.youtube.com/watch?v=73asqjYC8WY    (
+**** https://www.youtube.com/watch?v=73asqjYC8WY    (
 
 ## 1. 핵심 요약
 
@@ -2183,7 +2183,7 @@ Sandy Ernest Hemingway는 잘 작성하기위한 4 가지 팁을 사용했습니
 ---
 
 ## 236. 바쁘게 산다고 성공하는 것 아닙니다 (샘 알트먼)
-**URL:** https://www.youtube.com/watch?v=Si7WfBeX5OY    (
+**** https://www.youtube.com/watch?v=Si7WfBeX5OY    (
 
 ## 1. 핵심 요약
 
@@ -2311,7 +2311,7 @@ Sandy Ernest Hemingway는 잘 작성하기위한 4 가지 팁을 사용했습니
 ---
 
 ## 237. 1조에 회사를 매각한 사업가, 더 행복해졌을까?
-**URL:** https://www.youtube.com/watch?v=CmAAaMiNfjE    (
+**** https://www.youtube.com/watch?v=CmAAaMiNfjE    (
 
 ## 1. 핵심 요약
 
@@ -2570,7 +2570,7 @@ The content seems comprehensive and adheres to all instructions. I will now outp
 ---
 
 ## 238. 골드만삭스 짐 도노반 부회장 | 성과를 만드는 10계명 (Feat. 250만뷰 인생강의)
-**URL:** https://www.youtube.com/watch?v=VzLlT3HXf5M    (
+**** https://www.youtube.com/watch?v=VzLlT3HXf5M    (
 
 ## 1. 핵심 요약
 
@@ -2713,7 +2713,7 @@ The content seems comprehensive and adheres to all instructions. I will now outp
 ---
 
 ## 239. 일론머스크가 생각하는 방법 | 1원칙 사고법
-**URL:** https://www.youtube.com/watch?v=Nt0lCENkiK0    (
+**** https://www.youtube.com/watch?v=Nt0lCENkiK0    (
 
 ## YouTube 영상 분석: 일론 머스크의 문제 해결 및 혁신적 사고 방식
 
@@ -2825,7 +2825,7 @@ The content seems comprehensive and adheres to all instructions. I will now outp
 ---
 
 ## 240. 롤렉스가 왜 필요합니까?
-**URL:** https://www.youtube.com/watch?v=DWlPgRy0G90    (
+**** https://www.youtube.com/watch?v=DWlPgRy0G90    (
 
 ## 1. 핵심 요약
 
@@ -2922,7 +2922,7 @@ The content seems comprehensive and adheres to all instructions. I will now outp
 ---
 
 ## 241. 일론 머스크 최신 인터뷰 | 생각의 수준이 다르다 (Part 2)
-**URL:** https://www.youtube.com/watch?v=xw7dKmIoFvo    (
+**** https://www.youtube.com/watch?v=xw7dKmIoFvo    (
 
 ## 1. 핵심 요약
 
@@ -3079,7 +3079,7 @@ The content seems comprehensive and adheres to all instructions. I will now outp
 ---
 
 ## 242. 20년 동안 100배 성장한 사모펀드 | 성공하고 싶은 20대에게 주는 4가지 조언 | Alpine Investors 창업자 그래햄 위버
-**URL:** https://www.youtube.com/watch?v=NG8UPFr2FEo    (
+**** https://www.youtube.com/watch?v=NG8UPFr2FEo    (
 
 ## 1. 핵심 요약
 
@@ -3182,7 +3182,7 @@ The content seems comprehensive and adheres to all instructions. I will now outp
 ---
 
 ## 243. 일론 머스크 최신 인터뷰 | 테슬라가 전기차 회사가 아니라 에너지 회사인 이유
-**URL:** https://www.youtube.com/watch?v=KN2iuH6zElU    (
+**** https://www.youtube.com/watch?v=KN2iuH6zElU    (
 
 ## 1. 핵심 요약
 
@@ -3320,7 +3320,7 @@ AI 기반의 `스마트 그리드(Smart Grid)` 기술을 연구하여 전력 수
 ---
 
 ## 244. KKR | 세계 최고 사모펀드의 아시아계 CEO 조셉 배
-**URL:** https://www.youtube.com/watch?v=iZ578Py8WLo    (
+**** https://www.youtube.com/watch?v=iZ578Py8WLo    (
 
 ## 1. 핵심 요약
 
@@ -3441,7 +3441,7 @@ KKR은 20년 전부터 ESG(환경, 사회, 지배구조)에 대한 약속을 해
 ---
 
 ## 245. 찰리멍거 | 훌륭한 삶을 살기 위한 현명한 투자자의 조언
-**URL:** https://www.youtube.com/watch?v=ARm46hlRtCA    (
+**** https://www.youtube.com/watch?v=ARm46hlRtCA    (
 
 ## 1. 핵심 요약
 
@@ -3570,7 +3570,7 @@ KKR은 20년 전부터 ESG(환경, 사회, 지배구조)에 대한 약속을 해
 ---
 
 ## 246. 워렌버핏 | 아무리 많은 사람이 떠들어도, 결국 본질은 하나
-**URL:** https://www.youtube.com/watch?v=zAcl1fVKkoU    (
+**** https://www.youtube.com/watch?v=zAcl1fVKkoU    (
 
 ## 1. 핵심 요약
 

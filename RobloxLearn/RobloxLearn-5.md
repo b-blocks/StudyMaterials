@@ -1,6 +1,6 @@
 # Roblox 교육용 게임 개발 및 활용 심층 분석
 ## Designing Educational Experiences Q&A with Boatbomber, CollyPark, & Sigm_nd
-**URL:** https://www.youtube.com/watch?v=97MahOa0tns
+**** https://www.youtube.com/watch?v=97MahOa0tns
 
 ## 1. 개요
 이 문서는 Roblox 플랫폼에서 교육용 게임을 개발하고 활용하는 데 대한 심층적인 통찰을 제공합니다. Roblox 교육용 게임 개발자 및 전문가들의 라운드테이블 논의를 바탕으로, 지속 가능한 수익 모델, 교실에서의 적용, 개발 툴링, 마케팅 전략, 접근성, 그리고 미래의 교육적 기회 등 다양한 핵심 주제를 다룹니다.
@@ -240,7 +240,7 @@ Roblox 플랫폼은 교육용 게임 분야에서 이미 많은 발전을 이루
 
 # YouTube 교육용 게임 라운드테이블: 깊이 있는 학습 자료
 ## Designing Educational Experiences with Boatbomber, CollyPark, & Sigm_nd
-**URL:** https://www.youtube.com/watch?v=hCT9zCJ1M5c
+**** https://www.youtube.com/watch?v=hCT9zCJ1M5c
 
 ## 1. 개요
 이 학습 자료는 Roblox 플랫폼에서 교육용 게임을 개발하는 선구자들의 경험과 통찰력을 탐구합니다. 영상은 교육용 게임의 정의, 개발 동기, 학습 개념을 게임 메커니즘으로 전환하는 방법, 그리고 개발 과정에서 겪는 어려움과 모범 사례에 대한 심도 깊은 논의를 제공합니다. 본 자료의 목적은 교육용 게임 개발에 관심 있는 개발자, 교육자, 그리고 Roblox 커뮤니티 구성원들에게 실질적인 지식과 영감을 제공하는 것입니다.
@@ -396,7 +396,7 @@ Roblox의 많은 게임이 어느 정도 교육적이지만, 교육용으로 설
 
 # 교육용 게임 디자인, 플레이어 지원 및 데이터 분석 활용 전략
 
-**URL:** https://www.youtube.com/watch?v=hCT9zCJ1M5c
+**** https://www.youtube.com/watch?v=hCT9zCJ1M5c
 
 ## 1. 개요
 이 문서는 교육용 게임 개발자들이 플레이어의 학습 경험을 최적화하고 게임의 효과를 극대화하기 위해 사용하는 다양한 전략과 도구들을 심층적으로 탐구합니다. 특히, 플레이어 지원 메커니즘, 게임 내 데이터 분석(Analytics)의 중요성, 그리고 성능 최적화를 통한 접근성 향상에 초점을 맞춥니다. 이 자료는 교육용 게임 개발자, 교육 기술 연구자, 그리고 게임을 통한 학습에 관심 있는 모든 이들을 대상으로 하며, 게임 디자인 및 개발에 대한 기본적인 이해를 전제로 합니다.
@@ -539,7 +539,7 @@ Roblox의 많은 게임이 어느 정도 교육적이지만, 교육용으로 설
 
 # 라이브 서비스 게임의 플레이어 참여 전략
 ## Clip! The Value of Roblox Events with ruddev_ethan and x_o
-**URL:** https://www.youtube.com/watch?v=G08BEZWLj90
+**** https://www.youtube.com/watch?v=G08BEZWLj90
 
 ## 1. 개요
 이 문서는 라이브 서비스 게임 운영에 있어 플레이어 유치 및 재참여의 중요성을 다룹니다. 특히, 크로스 프로모션 이벤트가 신규 플레이어를 유입하고 이탈 플레이어를 재참여시키는 데 얼마나 효과적인지 분석합니다. 게임 개발 및 운영 전문가들이 직면하는 주요 도전 과제인 플레이어의 '첫인상' 극복 방안에 대한 심층적인 이해를 돕는 것을 목적으로 합니다. 이 자료는 게임 개발자, 라이브 운영(Live Ops) 관리자, 게임 마케터 등 게임 산업 종사자 및 관련 분야에 관심 있는 학습자를 대상으로 하며, 라이브 서비스 게임의 지속적인 성장을 위한 전략적 통찰력을 제공합니다.
@@ -586,7 +586,7 @@ Roblox의 많은 게임이 어느 정도 교육적이지만, 교육용으로 설
 
 # 게임 업데이트 전략: 주기와 규모의 균형점 찾기
 ## Clip! How to Plan LiveOps Updates with AbstractAlex, Usering & ImprobableAI
-**URL:** https://www.youtube.com/watch?v=AkJP8tR0w9Q
+**** https://www.youtube.com/watch?v=AkJP8tR0w9Q
 
 ## 1. 개요
 이 학습 자료는 게임 개발 및 운영에 있어 콘텐츠 업데이트의 주기와 규모를 어떻게 설정해야 하는지에 대한 심층적인 분석을 제공합니다. 특히, 잦은 소규모 업데이트와 드문 대규모 업데이트 사이에서 최적의 균형점을 찾는 것이 왜 중요한지, 그리고 각 전략이 플레이어 참여도와 게임의 장기적인 성공에 미치는 영향을 탐구합니다. 이 자료는 게임 개발자, 프로덕트 매니저, 커뮤니티 매니저 등 게임 운영 전략에 관심 있는 모든 이들을 대상으로 하며, 기본적인 게임 개발 및 서비스 운영에 대한 이해를 전제로 합니다.
@@ -667,7 +667,7 @@ Roblox의 많은 게임이 어느 정도 교육적이지만, 교육용으로 설
 
 # 게임 개발자를 위한 소셜 미디어 활용 전략
 ## Clip! Community Engagement with BlockfaceSteve and BlockfaceBob
-**URL:** https://www.youtube.com/watch?v=e9II73see-8
+**** https://www.youtube.com/watch?v=e9II73see-8
 
 ## 1. 개요
 이 학습 자료는 게임 개발자가 소셜 미디어를 활용하여 게임을 홍보하고 사용자들과 소통하는 전략에 대해 다룹니다. 특히, 소셜 미디어가 단순한 마케팅 도구를 넘어 게임 디자인 및 개발 과정에 귀중한 사용자 피드백을 제공하는 채널로서의 중요성을 강조합니다. 게임 개발과 소셜 미디어 활동의 균형을 맞추는 현실적인 고민과 해결책을 제시하며, 효과적인 소셜 미디어 운영 방안을 모색합니다.
@@ -758,7 +758,7 @@ Roblox의 많은 게임이 어느 정도 교육적이지만, 교육용으로 설
 
 # Roblox 게임 마케팅 전략: 유료 광고 vs. 유기적 하이프 사이클 구축
 ## Clip! Social Media Marketing with KreekCraft, WonderWorksZach & JoshWWS1
-**URL:** https://www.youtube.com/watch?v=HxqWoF_wfMQ
+**** https://www.youtube.com/watch?v=HxqWoF_wfMQ
 
 ## 1. 개요
 이 학습 자료는 Roblox 플랫폼에서 게임을 성공적으로 홍보하기 위한 마케팅 전략을 심층적으로 분석합니다. 특히, 전통적인 Roblox 광고 시스템(스폰서 타일)의 현재 효과를 평가하고, 소셜 미디어를 활용한 유기적인 하이프 사이클 구축 전략의 중요성과 구체적인 실행 방안을 제시합니다. 이 자료는 Roblox 개발자, 게임 마케터, 그리고 인디 게임 스튜디오 관계자들이 변화하는 게임 홍보 환경에 효과적으로 대응하고 지속 가능한 커뮤니티를 구축하는 데 필요한 통찰력을 제공하는 것을 목적으로 합니다.
@@ -834,7 +834,7 @@ Roblox 플랫폼 내에서 제공되는 '스폰서 타일(Sponsored Tiles)'은 �
 
 # Roblox 게임 개발에서의 브랜드 파트너십 전략
 ## Brand Partnerships and IP Games Roundtable
-**URL:** https://www.youtube.com/watch?v=14RMDByrG1U
+**** https://www.youtube.com/watch?v=14RMDByrG1U
 
 ## 1. 개요
 이 학습 자료는 Roblox 플랫폼에서 게임 개발 스튜디오가 브랜드와 파트너십을 맺는 과정과 전략에 대해 심층적으로 다룹니다. 영상은 Toya, Metaverse Team, The Gang 등 Roblox 개발팀의 전문가들이 참여하여 브랜드 파트너십의 정의, 이점, 도전 과제, 그리고 성공적인 협업을 위한 실질적인 조언을 공유합니다. 이 자료는 브랜드 파트너십을 통해 Roblox 게임의 성공을 모색하는 개발자, 스튜디오 리더, 그리고 관련 비즈니스 관계자들을 대상으로 하며, 기본적인 게임 개발 및 비즈니스 개념에 대한 이해를 전제로 합니다.
@@ -958,7 +958,7 @@ Roblox 플랫폼 내에서 제공되는 '스폰서 타일(Sponsored Tiles)'은 �
 
 # 브랜드 파트너십 및 IP 게임 원탁 회의
 
-**URL:** https://www.youtube.com/watch?v=14RMDByrG1U
+**** https://www.youtube.com/watch?v=14RMDByrG1U
 
 ## 1. 개요
 이 학습 자료는 Roblox 플랫폼에서 브랜드(IP) 파트너십을 통해 게임을 개발하고 운영하는 과정에 대한 심층적인 분석을 제공합니다. 영상은 자체 IP 개발과 브랜디드 IP 활용의 차이점, 성공적인 파트너십을 위한 핵심 요소, 그리고 개발 및 라이브 운영 과정에서 발생할 수 있는 도전 과제와 해결책을 다룹니다.
@@ -1051,7 +1051,7 @@ Roblox 플랫폼 내에서 제공되는 '스폰서 타일(Sponsored Tiles)'은 �
 
 # YouTube 참여를 위한 게임 디자인: 스트리머와 개발자의 통찰
 ## Designing For Youtube Engagement with KreekCraft, WonderWorksZach & JoshWWS1
-**URL:** https://www.youtube.com/watch?v=xBlHz30PMKo
+**** https://www.youtube.com/watch?v=xBlHz30PMKo
 
 ## 1. 개요
 이 문서는 Roblox 플랫폼에서 YouTube 및 소셜 미디어 참여를 유도하기 위한 게임 디자인 전략에 대해 다룹니다. 인기 Roblox 스트리머 CreeCraft와 WonderWorks Studios의 개발자 Zach 및 Josh의 경험과 통찰을 통해, 게임 개발자와 콘텐츠 크리에이터가 서로 협력하여 성공적인 게임과 콘텐츠를 만들 수 있는 방법을 탐구합니다.
@@ -1260,7 +1260,7 @@ Roblox 플랫폼 내에서 제공되는 '스폰서 타일(Sponsored Tiles)'은 �
     *   **PVP (Player vs Player):** 직접적인 전투가 아니더라도, 플레이어 간의 경쟁 요소는 긴장감과
 
 # 게임 개발자와 인플루언서 협업 전략
-**URL:** https://www.youtube.com/watch?v=xBlHz30PMKo
+**** https://www.youtube.com/watch?v=xBlHz30PMKo
 
 ## 1. 개요
 이 학습 자료는 게임 개발자와 YouTube 인플루언서(유튜버) 간의 효과적인 협업 전략에 대해 다룹니다. 특히 Roblox 플랫폼을 중심으로, 게임 홍보, 커뮤니티 참여 유도, 그리고 지속적인 게임 성장을 위한 다양한 접근 방식을 심층적으로 분석합니다. 핵심 질문은 "어떻게 개발자와 인플루언서가 상호 이익을 얻으며 게임의 성공을 극대화할 수 있는가?"이며, 이를 통해 효과적인 마케팅 및 커뮤니티 관리 방안을 제시합니다. 이 자료는 게임 개발자, 게임 마케터, 그리고 게임 콘텐츠를 다루는 인플루언서를 대상으로 하며, 게임 개발 및 소셜 미디어 마케팅에 대한 기본적인 이해를 갖춘 독자에게 가장 유용합니다.
@@ -1424,7 +1424,7 @@ Roblox 플랫폼 내에서 제공되는 '스폰서 타일(Sponsored Tiles)'은 �
 *   **주의사항:** 하이프를 너무 과도
 
 # YouTube 콘텐츠 전략 및 플랫폼 변화 대응 학습 자료
-**URL:** https://www.youtube.com/watch?v=xBlHz30PMKo
+**** https://www.youtube.com/watch?v=xBlHz30PMKo
 
 ## 1. 개요
 이 학습 자료는 빠르게 변화하는 **Roblox(로블록스)** 플랫폼 환경 속에서 **YouTube(유튜브)** 채널 운영자와 콘텐츠 개발자들이 어떻게 효과적인 전략을 수립하고 변화에 대응해야 하는지에 대한 심층적인 통찰을 제공합니다. 특히 Roblox 사용자층의 변화와 YouTube를 활용한 마케팅 기법에 초점을 맞춥니다.
@@ -1481,7 +1481,7 @@ YouTube는 전 세계 수십억 명의 사용자를 보유한 거대 동영상 �
 
 # 라이브 옵스(Live Operations) 성공 측정 지표: 심층 분석
 ## Clip! Key Performance Indicators with ruddev_ethan and x_o
-**URL:** https://www.youtube.com/watch?v=QYOaK1hXN1Y
+**** https://www.youtube.com/watch?v=QYOaK1hXN1Y
 
 ## 1. 개요
 이 문서는 게임 산업에서 **라이브 옵스(Live Operations)**의 성공을 측정하는 핵심 지표들을 심층적으로 탐구합니다. 라이브 옵스는 게임 출시 후 지속적인 업데이트, 이벤트, 커뮤니티 관리 등을 통해 사용자 경험을 향상시키고 게임의 수명을 연장하는 일련의 활동을 의미합니다. 본 자료는 라이브 옵스가 성공적으로 운영되고 있는지 판단하기 위한 주요 데이터 포인트와 그 해석 방법을 제시하며, 특히 수익 데이터와 사용자 참여도 지표에 초점을 맞춥니다.
@@ -1583,7 +1583,7 @@ YouTube는 전 세계 수십억 명의 사용자를 보유한 거대 동영상 �
 
 # 게임 기능 A/B 테스트를 통한 성공 평가
 ## Clip! Smart Iteration with A/B Testing with BlockfaceSteve and BlockfaceBob
-**URL:** https://www.youtube.com/watch?v=5N84f1ZuwRc
+**** https://www.youtube.com/watch?v=5N84f1ZuwRc
 
 ## 1. 개요
 본 학습 자료는 YouTube 영상 자막을 바탕으로, 게임 개발 과정에서 새로운 소셜 기능의 성공 여부를 평가하는 핵심 방법론인 A/B 테스트에 대해 심층적으로 다룹니다. 영상의 주요 내용은 A/B 테스트의 실제 적용 사례와 그 중요성을 강조하며, 특히 직관과 다른 결과가 나올 수 있음을 보여주는 흥미로운 사례를 제시합니다. 이 자료의 목적은 게임 개발자, 프로덕트 매니저, 데이터 분석가 등 게임 기능 평가 및 사용자 경험 최적화에 관심 있는 독자들이 A/B 테스트의 원리, 설계, 지표 분석, 그리고 실제 적용 시 고려사항을 명확히 이해하도록 돕는 것입니다. 독자는 기본적인 게임 개발 및 데이터 분석 개념에 대한 이해가 있다면 더욱 효과적으로 학습할 수 있습니다.
@@ -1648,7 +1648,7 @@ A/B 테스트의 가장 큰 가치 중 하나는 개발자의 직관이나 상�
 
 # YouTube Level Up 라운드테이블: 레벨 디자인 심층 학습 자료
 ## Level Design  ft. MiniToon, Erythia, Cullen & Tohb
-**URL:** https://www.youtube.com/watch?v=czVxazdl0kg
+**** https://www.youtube.com/watch?v=czVxazdl0kg
 
 ## 1. 개요
 본 학습 자료는 Roblox 플랫폼에서 활동하는 숙련된 게임 개발자들이 참여한 "Level Up" 라운드테이블의 내용을 바탕으로, 레벨 디자인의 다양한 측면을 심층적으로 탐구합니다. 이 자료의 목적은 레벨 디자인의 정의, 책임, 협업 방식, 그리고 실제 개발 프로세스에 대한 포괄적인 이해를 제공하는 것입니다. 특히, 1인칭 슈팅(FPS), 오픈 월드/소셜 경험, 스토리텔링 기반 게임 등 각기 다른 장르에서 레벨 디자인이 어떻게 구현되고 해석되는지를 비교 분석합니다. 이 자료는 게임 개발자, 특히 레벨 디자이너를 꿈꾸는 이들이나 게임 디자인에 대한 이해를 높이고자 하는 모든 이들을 대상으로 하며, 기본적인 게임 개발 지식을 갖춘 독자에게 가장 유용할 것입니다.
@@ -1791,7 +1791,7 @@ A/B 테스트의 가장 큰 가치 중 하나는 개발자의 직관이나 상�
 *   **맵 다양성 vs. 역할 전문화:** `Riot Fall`은 높은 맵 다양성과 낮은 역할 전문화를 추구하여, 플레이어가 맵에 따라 다양한 방식으로 플레이할 수 있도록 합니다.
 
 # 효과적인 레벨 디자인 전략
-**URL:** https://www.youtube.com/watch?v=czVxazdl0kg
+**** https://www.youtube.com/watch?v=czVxazdl0kg
 
 ## 1. 개요
 이 학습 자료는 게임 개발 과정에서 레벨 디자인의 핵심 원칙과 실제 적용 사례를 심층적으로 다룹니다. 특히, 프로토타이핑부터 플레이테스트, 피드백 반영, 그리고 다양한 장르별 레벨 디자인 전략에 이르기까지 전반적인 과정을 탐구합니다. 이 자료의 목적은 게임 개발자들이 플레이어에게 몰입감 있고 즐거운 경험을 제공하는 레벨을 설계하고 구현하는 데 필요한 지식과 통찰력을 제공하는 것입니다.
@@ -2023,7 +2023,7 @@ A/B 테스트의 가장 큰 가치 중 하나는 개발자의 직관이나 상�
 (자막 내용이 이 부분에서 끊겨 있어, 효율적인 QA 및 버그 진단 방법에 대한 상세한 내용은 제공하기 어렵습니다.)
 
 # 레벨 디자인의 핵심: 사용자 중심 테스트와 QA 전략
-**URL:** https://www.youtube.com/watch?v=czVxazdl0kg
+**** https://www.youtube.com/watch?v=czVxazdl0kg
 
 ## 1. 개요
 이 문서는 YouTube 영상에서 다룬 레벨 디자인(Level Design)의 핵심 원칙, 특히 사용자 관찰과 품질 보증(QA)의 중요성에 초점을 맞춰 상세하게 재구성한 학습 자료입니다. 영상은 초기 단계의 MVP(Minimum Viable Product) 알파 테스트를 통해 실제 사용자 행동을 관찰하고, 이를 바탕으로 레벨 디자인을 개선하는 구체적인 방법론을 제시합니다. 또한, 다양한 플레이어 관점에서 게임을 테스트하고 '망가뜨리려는' 시도의 중요성을 강조하며, 모든 유형의 사용자에게 최적화된 경험을 제공하기 위한 QA 전략을 탐구합니다.
@@ -2085,7 +2085,7 @@ A/B 테스트의 가장 큰 가치 중 하나는 개발자의 직관이나 상�
 
 # 게임 애널리틱스 핵심 지표 (KPI) 심층 분석
 ## Analytics Essentials
-**URL:** https://www.youtube.com/watch?v=RfpMZZFy8Zw
+**** https://www.youtube.com/watch?v=RfpMZZFy8Zw
 
 ## 1. 개요
 이 학습 자료는 게임 개발 및 운영에 있어 애널리틱스(Analytics)의 중요성과 핵심 성과 지표(KPI: Key Performance Indicators)를 활용하여 게임의 성능을 측정하고 개선하는 방법을 다룹니다. 특히, 게임의 건강 상태를 진단하고, 개선 영역을 식별하며, 최적화를 수행하는 데 필수적인 세 가지 주요 KPI 범주(참여, 잔존, 수익화)와 그 하위 지표들을 상세히 설명합니다. 이 자료는 게임의 성공적인 운영을 위해 데이터 기반 의사결정을 내리고자 하는 게임 개발자, 디자이너, 프로덕트 매니저를 대상으로 하며, 기본적인 게임 개발 및 운영 개념에 대한 이해가 있다면 더욱 효과적으로 학습할 수 있습니다.
@@ -2208,7 +2208,7 @@ KPI는 게임의 성공을 측정하고 목표 달성 여부를 평가하는 데
 
 # Roblox 소셜 기능 심층 학습 자료
 ## Social Features ft. Block Evolution
-**URL:** https://www.youtube.com/watch?v=BkQL2_DY9Mc
+**** https://www.youtube.com/watch?v=BkQL2_DY9Mc
 
 ## 1. 개요
 이 문서는 Roblox 플랫폼에서 성공적인 게임을 개발하기 위한 핵심 요소인 '소셜 기능'에 대해 심층적으로 탐구합니다. Block Evolution 팀(Blockface Steve, Blockface Bob)과 Roblox 게임 인사이트 팀의 Dan이 나눈 대화를 기반으로, 소셜 기능의 중요성, 구현 전략, 그리고 개발자들이 흔히 놓치는 기회들을 분석합니다. 이 자료는 게임 개발자, 기획자, 그리고 Roblox 플랫폼의 소셜 역학에 관심 있는 모든 독자를 대상으로 하며, 게임 내 사용자 상호작용을 극대화하고 플레이어 유지율을 높이는 실질적인 방안을 제시합니다.
@@ -2329,7 +2329,7 @@ Club Roblox는 파티 시스템과 같은 소셜 기능을 구현하기 위해 R
 *   **주의사항:** 진행
 
 # Roblox 소셜 게임 디자인 전략: 몰입감 있는 상호작용을 위한 심층 분석
-**URL:** https://www.youtube.com/watch?v=BkQL2_DY9Mc
+**** https://www.youtube.com/watch?v=BkQL2_DY9Mc
 
 ## 1. 개요
 이 문서는 Roblox 플랫폼에서 플레이어 간의 소셜 상호작용과 역할극(Role-Playing)을 효과적으로 촉진하는 게임 디자인 전략에 대해 심층적으로 탐구합니다. 영상은 게임 내 몰입감을 높이고, 유기적인 커뮤니티 활동을 장려하며, 플레이어의 참여도를 지속시키는 다양한 디자인 기법과 실제 사례를 제시합니다.
@@ -2471,7 +2471,7 @@ Roblox 게임 개발자, 게임 디자이너, 커뮤니티 매니저, 그리고 
 
 # 프로토타이핑: 게임 개발 성공을 위한 필수 전략
 ## Prototyping Essentials
-**URL:** https://www.youtube.com/watch?v=iI2t7Yd7Byc
+**** https://www.youtube.com/watch?v=iI2t7Yd7Byc
 
 ## 1. 개요
 이 문서는 게임 개발 과정에서 프로토타이핑이 왜 필수적인지, 효과적인 프로토타이핑 방법론은 무엇인지, 그리고 무엇을 어떻게 프로토타이핑해야 하는지에 대한 심층적인 가이드를 제공합니다. 개발자들이 흔히 프로토타이핑을 시간 낭비로 여기는 오해를 불식시키고, 초기 단계에서 디자인 결함과 기술적 한계를 발견하여 궁극적으로 개발 시간과 비용을 절감하는 방법을 제시합니다. 본 자료는 게임 개발자, 디자이너, 기획자 등 게임 제작에 관심 있는 모든 이들을 대상으로 하며, 기본적인 게임 개발 프로세스에 대한 이해가 있다면 더욱 효과적으로 학습할 수 있습니다.
@@ -2597,7 +2597,7 @@ Roblox 게임 개발자, 게임 디자이너, 커뮤니티 매니저, 그리고 
 
 # Core Loop Essentials: 게임의 심장을 만드는 법
 ## Core Loop Essentials
-**URL:** https://www.youtube.com/watch?v=bROouMt1b3g
+**** https://www.youtube.com/watch?v=bROouMt1b3g
 
 ## 1. 핵심 요약
 
@@ -2704,7 +2704,7 @@ Roblox 게임 개발자, 게임 디자이너, 커뮤니티 매니저, 그리고 
 
 # LiveOps on Roblox with Ruddev_Ethan and x_o
 ## LiveOps on Roblox with Ruddev_Ethan and x_o
-**URL:** https://www.youtube.com/watch?v=oV8DKuAjQQs
+**** https://www.youtube.com/watch?v=oV8DKuAjQQs
 
 ## 1. 핵심 요약
 
@@ -2867,8 +2867,8 @@ Bad Business의 성공은 체계적인 콘텐츠 전략에 기반합니다. 이�
 
 ## Designing Player Progression
 
-- **URL:** https://www.youtube.com/watch?v=oV8DKuAjQQs
-- **URL:** https://www.youtube.com/watch?v=XTZxQvh1qkc
+- **** https://www.youtube.com/watch?v=oV8DKuAjQQs
+- **** https://www.youtube.com/watch?v=XTZxQvh1qkc
 
 ## 1. 핵심 요약
 
@@ -3031,7 +3031,7 @@ RPG의 코어 루프가 `몬스터 사냥 → 전리품/재화 획득 → 무기
 # Designing Player Goals
 
 ## Designing Player Goals
-**URL:** https://www.youtube.com/watch?v=hD2Ive5RqtE
+**** https://www.youtube.com/watch?v=hD2Ive5RqtE
 
 ## 1. 핵심 요약
 
@@ -3231,7 +3231,7 @@ RPG의 코어 루프가 `몬스터 사냥 → 전리품/재화 획득 → 무기
 # The Fundamentals Of User Experience | RDC 2021
 
 ## The Fundamentals Of User Experience | RDC 2021
-**URL:** https://www.youtube.com/watch?v=cY1B5_x4RoU
+**** https://www.youtube.com/watch?v=cY1B5_x4RoU
 
 ## 1. 핵심 요약
 
@@ -3350,7 +3350,7 @@ RPG의 코어 루프가 `몬스터 사냥 → 전리품/재화 획득 → 무기
 - `User Flow`, `Wireframing vs. Mockup`, `Visual Hierarchy in UI`, `UI Design Consistency`, `Micro-interactions examples`, `UX Laws`
 
 # The Future of Avatars | RDC 2021
-**URL:** https://www.youtube.com/watch?v=uiha3tzL-oc
+**** https://www.youtube.com/watch?v=uiha3tzL-oc
 
 ## 1. 핵심 요약
 
@@ -3495,7 +3495,7 @@ Roblox의 다음 목표는 이 과정을 더욱 단순화하는 것입니다. �
 - `Skinned Mesh Animation`
 
 # Creating Stunning Visual Effects with Simple Tools | RDC 2021
-**URL:** https://www.youtube.com/watch?v=fmVKt8d_ivw
+**** https://www.youtube.com/watch?v=fmVKt8d_ivw
 
 ## 1. 핵심 요약
 
@@ -3668,7 +3668,7 @@ Roblox에서 VFX를 구현하기 위해 사용할 수 있는 기본적인 도구
     - `Roblox Particle Emitter tutorial`, `Roblox TweenService animation`, `Roblox Vertex Painting`, `Game VFX optimization`, `Real-time VFX breakdown`, `Animation principles for VFX`
 
 # Visual Fidelity & Immersion in Roblox | RDC 2021
-**URL:** https://www.youtube.com/watch?v=NusvNCLjbgg
+**** https://www.youtube.com/watch?v=NusvNCLjbgg
 
 ## 1. 핵심 요약
 

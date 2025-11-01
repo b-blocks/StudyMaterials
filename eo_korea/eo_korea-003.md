@@ -135,7 +135,7 @@
 ---
 
 ## 65. 자본금 10만원으로 190개국 30만 유저를 모은 비결 | NomadHer 김효정
-**URL:** https://www.youtube.com/watch?v=48Ap7FHcIx0    (
+**** https://www.youtube.com/watch?v=48Ap7FHcIx0    (
 
 ## 1. 핵심 요약
 
@@ -272,7 +272,7 @@
 ---
 
 ## 66. 미국 VC들을 감동시킨 한국 창업자의 발표 영상ㅣ엔도헬스 윤희상
-**URL:** https://www.youtube.com/watch?v=L3Wp-uj4ojg    (
+**** https://www.youtube.com/watch?v=L3Wp-uj4ojg    (
 
 다음은 제공된 YouTube 영상 자막을 바탕으로 작성한 심층 학습 자료입니다.
 
@@ -396,7 +396,7 @@ Endo Health의 사례는 건강과 기술을 결합한 새로운 사업 기회�
 ---
 
 ## 67. 신한캐피탈 투자금이 연복리 15% 빚으로 돌아왔습니다ㅣ어반베이스 하진우 대표 1부
-**URL:** https://www.youtube.com/watch?v=Rr1e0JUmXiI    (
+**** https://www.youtube.com/watch?v=Rr1e0JUmXiI    (
 
 ## 1. 핵심 요약
 
@@ -518,7 +518,7 @@ Endo Health의 사례는 건강과 기술을 결합한 새로운 사업 기회�
 ---
 
 ## 68. 17년 차 40대 직장인이 집까지 팔고 뛰어든 창업 아이템 | 혜움 옥형석 대표
-**URL:** https://www.youtube.com/watch?v=oo509Jlj1f0    (
+**** https://www.youtube.com/watch?v=oo509Jlj1f0    (
 
 ## 1. 핵심 요약
 
@@ -656,7 +656,7 @@ Endo Health의 사례는 건강과 기술을 결합한 새로운 사업 기회�
 ---
 
 ## 69. 20분 써서 미국 세일즈 배울 수 있는 영상ㅣ피터 안 실리콘밸리 전설의 기술영업 전문가
-**URL:** https://www.youtube.com/watch?v=2T7DJLvvhcU    (
+**** https://www.youtube.com/watch?v=2T7DJLvvhcU    (
 
 다음은 제공된 YouTube 영상 자막을 바탕으로 작성된, 출판을 목적으로 한 상세 학습 자료입니다.
 
@@ -772,7 +772,7 @@ Endo Health의 사례는 건강과 기술을 결합한 새로운 사업 기회�
 ---
 
 ## 70. 글로벌에서 활약하는 한국인들이 한자리에 모입니다 | 리얼밸리 파크
-**URL:** https://www.youtube.com/watch?v=FneXbla8fsY    (
+**** https://www.youtube.com/watch?v=FneXbla8fsY    (
 
 ## 한국 스타트업의 대항해시대: 글로벌 시장 진출을 위한 완벽 가이드
 
@@ -897,7 +897,7 @@ Endo Health의 사례는 건강과 기술을 결합한 새로운 사업 기회�
 ---
 
 ## 71. 독일 이민자가 20억 달러 AI 스타트업을 만들기까지 | 딥엘(DeepL) 야렉 쿠틸로브스키
-**URL:** https://www.youtube.com/watch?v=U6nIgqFdpns    (
+**** https://www.youtube.com/watch?v=U6nIgqFdpns    (
 
 ## 딥엘(DeepL) 성공 스토리: AI 시대의 비즈니스와 성장을 위한 학습 자료
 
@@ -992,7 +992,7 @@ Endo Health의 사례는 건강과 기술을 결합한 새로운 사업 기회�
 ---
 
 ## 72. 6억 인구의 동남아 시장을 사로잡고 싶다면 알아야 할 것들
-**URL:** https://www.youtube.com/watch?v=ZNBSPWxU8UA    (
+**** https://www.youtube.com/watch?v=ZNBSPWxU8UA    (
 
 ## 1. 핵심 요약
 
@@ -1151,7 +1151,7 @@ Endo Health의 사례는 건강과 기술을 결합한 새로운 사업 기회�
 ---
 
 ## 73. 연매출 720억을 만든 아마존 글로벌 셀링 전략
-**URL:** https://www.youtube.com/watch?v=Qv2YQMjiprc    (
+**** https://www.youtube.com/watch?v=Qv2YQMjiprc    (
 
 ## 1. 핵심 요약
 *   **고객 행동 변화에 대한 선제적 대응**: 아마존 프라임 서비스 확산 등 고객의 구매 행동 변화를 감지하고, 전통적인 무역 방식 대신 직접 아마존에 진출하여 `플레이어`가 되는 전략을 선택했습니다.
@@ -1268,7 +1268,7 @@ Endo Health의 사례는 건강과 기술을 결합한 새로운 사업 기회�
 ---
 
 ## 74. 국내 유망 스타트업들과 함께한 2박3일 싱가포르 구글 본사 탐방기✈️
-**URL:** https://www.youtube.com/watch?v=JZd4D2c4d8o    (
+**** https://www.youtube.com/watch?v=JZd4D2c4d8o    (
 
 ## 1. 핵심 요약
 
@@ -1429,7 +1429,7 @@ AI 기술은 동남아시아의 여러 산업 분야에서 빠른 성장을 이�
 ---
 
 ## 75. 실리콘밸리에서 빨리 승진하는 사람들의 특징  |  글로스지니어스 김영교 디자인 디렉터
-**URL:** https://www.youtube.com/watch?v=gP1TfikLzwE    (
+**** https://www.youtube.com/watch?v=gP1TfikLzwE    (
 
 ## 김용규 디자이너의 실리콘밸리 성공 전략: '정해진 선'을 넘어 주인의식으로 임팩트 만들기
 
@@ -1540,7 +1540,7 @@ AI 기술은 동남아시아의 여러 산업 분야에서 빠른 성장을 이�
 ---
 
 ## 76. 현재 한국에서 AI 기술로 3년째 영업이익을 내고 있는 회사
-**URL:** https://www.youtube.com/watch?v=E_u1zIMorlU    (
+**** https://www.youtube.com/watch?v=E_u1zIMorlU    (
 
 ## 1. 핵심 요약
 
@@ -1637,7 +1637,7 @@ AI 기술은 동남아시아의 여러 산업 분야에서 빠른 성장을 이�
 ---
 
 ## 77. 미국 투자자들의 요즘 관심사 #AI #로봇 #스타트업
-**URL:** https://www.youtube.com/watch?v=cHvM7diRTV4    (
+**** https://www.youtube.com/watch?v=cHvM7diRTV4    (
 
 ## 1. 핵심 요약
 
@@ -1767,7 +1767,7 @@ AI 로봇 공학. 애플은 하드웨어로 인해 불공평 한 이점을 가�
 ---
 
 ## 78. 반려인 1000만 시대 반려동물 장례식은 어떤 모습일까 | 포포즈 오태환 대표
-**URL:** https://www.youtube.com/watch?v=4o-n_v1mKSw    (
+**** https://www.youtube.com/watch?v=4o-n_v1mKSw    (
 
 ## 1. 핵심 요약
 
@@ -1956,7 +1956,7 @@ The content seems to adhere to all the guidelines. The flow is logical, and the 
 ---
 
 ## 79. 하버드 MBA에서 가장 먼저 가르치는 '이 방법' | 디커플링
-**URL:** https://www.youtube.com/watch?v=WH1psHHF4MQ    (
+**** https://www.youtube.com/watch?v=WH1psHHF4MQ    (
 
 ## 1. 핵심 요약
 
@@ -2154,7 +2154,7 @@ The content seems to adhere to all the guidelines. The flow is logical, and the 
 ---
 
 ## 80. 실리콘밸리에서 일하기 위해 5천 명에게 연락한 전문대생의 도전기  | ASANA 디자이너 정주영
-**URL:** https://www.youtube.com/watch?v=bGPNA_aJLF4    (
+**** https://www.youtube.com/watch?v=bGPNA_aJLF4    (
 
 ## 1. 핵심 요약
 
@@ -2263,7 +2263,7 @@ The content seems to adhere to all the guidelines. The flow is logical, and the 
 ---
 
 ## 81. 글로벌과 AI 시대, 한국 시장만 목표로 하는 것은 경쟁력이 없다?!
-**URL:** https://www.youtube.com/watch?v=7PvVn-pa1gU    (
+**** https://www.youtube.com/watch?v=7PvVn-pa1gU    (
 
 ## 1. 핵심 요약
 
@@ -2370,7 +2370,7 @@ AI 시대의 격변 속에서 한국 스타트업이 지속 가능한 성장을 
 ---
 
 ## 82. 포브스 선정 1위 투자자 크리스 딕슨의 블록체인 이야기
-**URL:** https://www.youtube.com/watch?v=7GzofOpA4B8    (
+**** https://www.youtube.com/watch?v=7GzofOpA4B8    (
 
 ## 1. 핵심 요약
 
@@ -2447,7 +2447,7 @@ AI 시대의 격변 속에서 한국 스타트업이 지속 가능한 성장을 
 ---
 
 ## 83. 히트작이 나오는 업계에는 이런 '성공 공식'이 있다 | 김지홍의 아하!모먼트
-**URL:** https://www.youtube.com/watch?v=Lz1JRyJs13U    (
+**** https://www.youtube.com/watch?v=Lz1JRyJs13U    (
 
 ## 1. 핵심 요약
 
@@ -2537,7 +2537,7 @@ AI 시대의 격변 속에서 한국 스타트업이 지속 가능한 성장을 
 ---
 
 ## 84. 서울대 대학원생들이 전 세계에서 쓰는 AI 분석 기술을 1년 만에 만들었다 | 콕스웨이브 김기정
-**URL:** https://www.youtube.com/watch?v=z1Af6JnMM9g    (
+**** https://www.youtube.com/watch?v=z1Af6JnMM9g    (
 
 ## 1. 핵심 요약
 
@@ -2633,7 +2633,7 @@ AI 시대의 격변 속에서 한국 스타트업이 지속 가능한 성장을 
 ---
 
 ## 85. 15년차 웹툰 작가가 말하는 웹툰 산업이 잘될 수밖에 없는 이유 | 김지홍의 아하!모먼트
-**URL:** https://www.youtube.com/watch?v=1xLauW7yhLg    (
+**** https://www.youtube.com/watch?v=1xLauW7yhLg    (
 
 ## 1. 핵심 요약
 
@@ -2749,7 +2749,7 @@ AI 시대의 격변 속에서 한국 스타트업이 지속 가능한 성장을 
 ---
 
 ## 86. 30대 초반에 시총 56조 기업의 디렉터가 된 한국인의 성장비결 | 아틀라시안 이근배
-**URL:** https://www.youtube.com/watch?v=SeEXj8tbZ9c    (
+**** https://www.youtube.com/watch?v=SeEXj8tbZ9c    (
 
 ## 1. 핵심 요약
 
@@ -2861,7 +2861,7 @@ AI 시대의 격변 속에서 한국 스타트업이 지속 가능한 성장을 
 ---
 
 ## 87. 집, 직장 환경에 따라 바뀌는 인간의 행동들 | 김지홍의 아하!모먼트
-**URL:** https://www.youtube.com/watch?v=rUWMXY9uFyc    (
+**** https://www.youtube.com/watch?v=rUWMXY9uFyc    (
 
 ## 1. 핵심 요약
 
@@ -2975,7 +2975,7 @@ AI는 디자이너가 `수많은 데이터`를 기반으로 `다양한 결과물
 ---
 
 ## 88. 연매출 1조 달성한 더현대서울에 숨겨진 세 가지 원칙 | 김지홍의 아하!모먼트
-**URL:** https://www.youtube.com/watch?v=C6uMwOyhMIw    (
+**** https://www.youtube.com/watch?v=C6uMwOyhMIw    (
 
 ## 1. 핵심 요약
 
@@ -3057,7 +3057,7 @@ AI는 디자이너가 `수많은 데이터`를 기반으로 `다양한 결과물
 ---
 
 ## 89. 한국 대기업 직장인은 외국에서도 잘할까? | IBM UX디자이너 이재희
-**URL:** https://www.youtube.com/watch?v=OJGpISBItX0    (
+**** https://www.youtube.com/watch?v=OJGpISBItX0    (
 
 ## 1. 핵심 요약
 
@@ -3150,7 +3150,7 @@ AI는 디자이너가 `수많은 데이터`를 기반으로 `다양한 결과물
 ---
 
 ## 90. "우기지 마세요" 선택 받는 브랜드를 만드는 비밀 w. 시몬스 부사장 김성준  | 김지홍의 아하!모먼트
-**URL:** https://www.youtube.com/watch?v=7l2bCtK_fZo    (
+**** https://www.youtube.com/watch?v=7l2bCtK_fZo    (
 
 ## 1. 핵심 요약
 
@@ -3263,7 +3263,7 @@ AI는 디자이너가 `수많은 데이터`를 기반으로 `다양한 결과물
 ---
 
 ## 91. 초기 스타트업들이 투자 혹한기에 살아남는 법 | 시드팁스 최우수 선정 기업 토크
-**URL:** https://www.youtube.com/watch?v=AVvpES4WcSk    (
+**** https://www.youtube.com/watch?v=AVvpES4WcSk    (
 
 ## 1. 핵심 요약
 
@@ -3388,7 +3388,7 @@ AI는 디자이너가 `수많은 데이터`를 기반으로 `다양한 결과물
 ---
 
 ## 92. 실리콘밸리에서 사용하는 진짜 영어표현을 공개합니다
-**URL:** https://www.youtube.com/watch?v=XZSvfWFKvrQ    (
+**** https://www.youtube.com/watch?v=XZSvfWFKvrQ    (
 
 ## 1. 핵심 요약
 
@@ -3470,7 +3470,7 @@ AI는 디자이너가 `수많은 데이터`를 기반으로 `다양한 결과물
 ---
 
 ## 93. 23살 서울대생이 불투명한 기부 시장을 혁신한 방법 | 나눔비타민 대표 김하연
-**URL:** https://www.youtube.com/watch?v=uevkMM5aD7w    (
+**** https://www.youtube.com/watch?v=uevkMM5aD7w    (
 
 ## 1. 핵심 요약
 
@@ -3586,7 +3586,7 @@ AI는 디자이너가 `수많은 데이터`를 기반으로 `다양한 결과물
 ---
 
 ## 94. 누적 조회수 600만 인터뷰 시리즈를 만들면서 배운 것 | [최성운의 사고실험] Q&A
-**URL:** https://www.youtube.com/watch?v=IjsR496f4Go    (
+**** https://www.youtube.com/watch?v=IjsR496f4Go    (
 
 ## 1. 핵심 요약
 
@@ -3701,7 +3701,7 @@ AI는 디자이너가 `수많은 데이터`를 기반으로 `다양한 결과물
 ---
 
 ## 95. 토스 디자인 총괄이 말하는 금융앱 설계법 w. 토스 CDO 정희연 | 김지홍의 아하!모먼트
-**URL:** https://www.youtube.com/watch?v=qgt_pJhJZ5w    (
+**** https://www.youtube.com/watch?v=qgt_pJhJZ5w    (
 
 ## 1. 핵심 요약
 
@@ -3781,7 +3781,7 @@ AI는 디자이너가 `수많은 데이터`를 기반으로 `다양한 결과물
 ---
 
 ## 96. 스포티파이 스웨덴 본사에서 한국 개발자가 느낀 차이점 | Spotify 시니어 데이터 엔지니어 김나헌
-**URL:** https://www.youtube.com/watch?v=CJAXnFgbHww    (
+**** https://www.youtube.com/watch?v=CJAXnFgbHww    (
 
 ## 1. 핵심 요약
 
@@ -3881,7 +3881,7 @@ AI는 디자이너가 `수많은 데이터`를 기반으로 `다양한 결과물
 ---
 
 ## 97. 힘들어도 한번 더 쥐어짜야 하는 이유 l 씨엔티테크 전화성 대표 재창업 지원 사업 스피치
-**URL:** https://www.youtube.com/watch?v=K6u8sHC3LXA    (
+**** https://www.youtube.com/watch?v=K6u8sHC3LXA    (
 
 ## 1. 핵심 요약
 
@@ -4068,7 +4068,7 @@ AI는 디자이너가 `수많은 데이터`를 기반으로 `다양한 결과물
 ---
 
 ## 98. 8,000억 매출에 안주하면 멈추는 게 아니라 죽는 겁니다ㅣ퍼시스 미국진출 다큐멘터리
-**URL:** https://www.youtube.com/watch?v=yZr3xSx_Qjo    (
+**** https://www.youtube.com/watch?v=yZr3xSx_Qjo    (
 
 ## 1. 핵심 요약
 
@@ -4180,7 +4180,7 @@ AI는 디자이너가 `수많은 데이터`를 기반으로 `다양한 결과물
 ---
 
 ## 99. 시력을 잃은 그가 누구보다 많은 도전을 할 수 있는 이유 | 최성운의 사고실험 [원샷한솔] 2부
-**URL:** https://www.youtube.com/watch?v=OvrnEzJJ-Oo    (
+**** https://www.youtube.com/watch?v=OvrnEzJJ-Oo    (
 
 ## 1. 핵심 요약
 
@@ -4274,7 +4274,7 @@ AI는 디자이너가 `수많은 데이터`를 기반으로 `다양한 결과물
 ---
 
 ## 100. 게임 중독이었던 소년이 실리콘밸리 수석 엔지니어가 되기까지 | 인스타그램 수석 개발자 알렉스
-**URL:** https://www.youtube.com/watch?v=dFesH3lCO1k    (
+**** https://www.youtube.com/watch?v=dFesH3lCO1k    (
 
 ## 1. 핵심 요약
 
@@ -4368,7 +4368,7 @@ AI는 디자이너가 `수많은 데이터`를 기반으로 `다양한 결과물
 ---
 
 ## 101. 레벨업하고 싶은 콘텐츠 스타트업이 반드시 알아야 할 지원사업 I 경기콘텐츠진흥원
-**URL:** https://www.youtube.com/watch?v=tVsN1PG2O1Q    (
+**** https://www.youtube.com/watch?v=tVsN1PG2O1Q    (
 
 ## 1. 핵심 요약
 
@@ -4492,7 +4492,7 @@ AI는 디자이너가 `수많은 데이터`를 기반으로 `다양한 결과물
 ---
 
 ## 102. 전 세계 디자이너들 난리난 피그마 컨퍼런스 요약 | Config2024
-**URL:** https://www.youtube.com/watch?v=aduVMrS-v4o    (
+**** https://www.youtube.com/watch?v=aduVMrS-v4o    (
 
 ## 1. 핵심 요약
 
@@ -4639,7 +4639,7 @@ AI에 대해 이야기해 봅시다. 모두가 항상 쉬운 것을 찾고 있�
 ---
 
 ## 103. 18살에 시력을 잃은 고등학생이 87만 유튜버로 성장한 과정 | 최성운의 사고실험 [원샷한솔] 1부
-**URL:** https://www.youtube.com/watch?v=3QZ9MCo53RY    (
+**** https://www.youtube.com/watch?v=3QZ9MCo53RY    (
 
 ## 1. 핵심 요약
 
@@ -4722,7 +4722,7 @@ AI에 대해 이야기해 봅시다. 모두가 항상 쉬운 것을 찾고 있�
 ---
 
 ## 104. 스탠포드 MBA에서 가르치는 실리콘밸리의 의사결정 원칙 | 벤처마인드셋 일리야 스트레불라예프
-**URL:** https://www.youtube.com/watch?v=YMMERpNmVJQ    (
+**** https://www.youtube.com/watch?v=YMMERpNmVJQ    (
 
 ## 1. 핵심 요약
 
@@ -4946,7 +4946,7 @@ VC에게 콜드 이메일을 보내는 것은 창업가에게 중요한 기회�
 ---
 
 ## 105. AI 시대 변화가 두려운 모든 분들에게 | 인스타그램 수석 개발자 알렉스
-**URL:** https://www.youtube.com/watch?v=_drFaRrJxlQ    (
+**** https://www.youtube.com/watch?v=_drFaRrJxlQ    (
 
 ## 1. 핵심 요약
 
@@ -5023,7 +5023,7 @@ VC에게 콜드 이메일을 보내는 것은 창업가에게 중요한 기회�
 ---
 
 ## 106. 미국에서 10년 이상 근무한 한국인들의 요즘 근황과 생각
-**URL:** https://www.youtube.com/watch?v=440KSHFYBdI    (
+**** https://www.youtube.com/watch?v=440KSHFYBdI    (
 
 ## 1. 핵심 요약
 
@@ -5236,7 +5236,7 @@ VC에게 콜드 이메일을 보내는 것은 창업가에게 중요한 기회�
 ---
 
 ## 107. 교양은 쌓고 싶지만 고전은 읽기 싫을 때 추천하는 독서법 | 최성운의 사고실험 [이명현] 2부
-**URL:** https://www.youtube.com/watch?v=70xAGr9EyVM    (
+**** https://www.youtube.com/watch?v=70xAGr9EyVM    (
 
 네, 제공해주신 유튜브 영상 자막을 바탕으로, 전문 작가의 관점에서 깊이 있는 학습과 이해를 돕기 위한 완벽한 교육 자료를 작성해 드리겠습니다. 출판을 목적으로 한 체계적이고 상세한 문서입니다.
 

@@ -91,7 +91,7 @@ DDF의 궁극적인 비전은 `핸드폰`으로 `저화질 영상`을 시청하�
 ---
 
 ## 345. 매년 15조가 버려지는 시장의 문제를 해결하는 스타트업
-**URL:** https://www.youtube.com/watch?v=wW3BXXbfgCI    (
+**** https://www.youtube.com/watch?v=wW3BXXbfgCI    (
 
 # 매년 15조가 버려지는 시장의 문제를 해결하는 스타트업
 
@@ -172,7 +172,7 @@ DDF의 궁극적인 비전은 `핸드폰`으로 `저화질 영상`을 시청하�
 ---
 
 ## 346. 전문가가 2주 고생하던 문제를 2시간이면 해결하죠
-**URL:** https://www.youtube.com/watch?v=Mf30_HVttiM    (
+**** https://www.youtube.com/watch?v=Mf30_HVttiM    (
 
 # 전문가가 2주 고생하던 문제를 2시간이면 해결하죠
 
@@ -267,7 +267,7 @@ AI의 도입은 때때로 조직 내 기존 전문가들에게 위협으로 받�
 ---
 
 ## 347. 27년차 실리콘밸리 개발자의 인생 이야기 [한기용] 1부
-**URL:** https://www.youtube.com/watch?v=nLL409se8sM    (
+**** https://www.youtube.com/watch?v=nLL409se8sM    (
 
 # 27년차 실리콘밸리 개발자의 인생 이야기 [한기용] 1부
 
@@ -357,7 +357,7 @@ AI의 도입은 때때로 조직 내 기존 전문가들에게 위협으로 받�
 ---
 
 ## 348. [무삭제] 기후 문제를 해결할 효율적인 소프트웨어 | 나인와트 IR 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=UF5r5IT072k    (
+**** https://www.youtube.com/watch?v=UF5r5IT072k    (
 
 # [무삭제] 기후 문제를 해결할 효율적인 소프트웨어 | 나인와트 IR 피칭, Q&A
 
@@ -480,7 +480,7 @@ sr 안녕하세요 나인하트 때 필요 김영록 입니다 화면을 보시�
 ---
 
 ## 349. 한국 쌀이 뉴욕에서 더 잘 팔리는 이유ㅣ김씨마켓 CEO 라이언킴
-**URL:** https://www.youtube.com/watch?v=QCIp5zUNDio    (
+**** https://www.youtube.com/watch?v=QCIp5zUNDio    (
 
 # 한국 쌀이 뉴욕에서 더 잘 팔리는 이유ㅣ김씨마켓 CEO 라이언킴
 
@@ -593,7 +593,7 @@ sr 안녕하세요 나인하트 때 필요 김영록 입니다 화면을 보시�
 ---
 
 ## 350. 토스=원양어선..? 토스 직원들이 말하는 진정한 워라밸이란? | 워키토키 x 토스증권 ep3
-**URL:** https://www.youtube.com/watch?v=Io37AlAQP5g    (
+**** https://www.youtube.com/watch?v=Io37AlAQP5g    (
 
 # 토스=원양어선..? 토스 직원들이 말하는 진정한 워라밸이란? | 워키토키 x 토스증권 ep3
 
@@ -683,7 +683,7 @@ sr 안녕하세요 나인하트 때 필요 김영록 입니다 화면을 보시�
 ---
 
 ## 351. 저의 이야기를 통해 용기를 얻으셨으면 좋겠습니다
-**URL:** https://www.youtube.com/watch?v=hXZ2rDscCmY    (
+**** https://www.youtube.com/watch?v=hXZ2rDscCmY    (
 
 # 저의 이야기를 통해 용기를 얻으셨으면 좋겠습니다: 김우진 대표의 창업과 성장에 대한 통찰
 
@@ -791,7 +791,7 @@ sr 안녕하세요 나인하트 때 필요 김영록 입니다 화면을 보시�
 ---
 
 ## 352. 의사가 만든 380만 명의 인생을 바꾼 서비스 | 숏다큐멘터리
-**URL:** https://www.youtube.com/watch?v=_Txq0DYnSQc    (
+**** https://www.youtube.com/watch?v=_Txq0DYnSQc    (
 
 # 의사가 만든 380만 명의 인생을 바꾼 서비스 | 숏다큐멘터리
 
@@ -935,7 +935,7 @@ sr 안녕하세요 나인하트 때 필요 김영록 입니다 화면을 보시�
 ---
 
 ## 353. 스타트업 직원들이 말하는 요즘 직원 복지가 놀라운 이유 | 워키토키 x 토스증권 ep2
-**URL:** https://www.youtube.com/watch?v=M0S4EInBbEs    (
+**** https://www.youtube.com/watch?v=M0S4EInBbEs    (
 
 # 스타트업 직원들이 말하는 요즘 직원 복지가 놀라운 이유 | 워키토키 x 토스증권 ep2
 
@@ -1029,7 +1029,7 @@ sr 안녕하세요 나인하트 때 필요 김영록 입니다 화면을 보시�
 ---
 
 ## 354. 보여주기 전에 아무도 믿지 않았던 스타트업 아이템ㅣ해녀의부엌 CEO 김하원
-**URL:** https://www.youtube.com/watch?v=5QQ9P1itxRM    (
+**** https://www.youtube.com/watch?v=5QQ9P1itxRM    (
 
 # 보여주기 전에 아무도 믿지 않았던 스타트업 아이템ㅣ해녀의부엌 CEO 김하원
 
@@ -1128,7 +1128,7 @@ sr 안녕하세요 나인하트 때 필요 김영록 입니다 화면을 보시�
 ---
 
 ## 355. 단 1년 만에 증권 시장 뒤집어놓은 토스증권 다 털었습니다 | 워키토키 x 토스증권 ep1
-**URL:** https://www.youtube.com/watch?v=Xr82quV_PZ0    (
+**** https://www.youtube.com/watch?v=Xr82quV_PZ0    (
 
 # 단 1년 만에 증권 시장 뒤집어놓은 토스증권 다 털었습니다 | 워키토키 x 토스증권 ep1
 
@@ -1257,7 +1257,7 @@ sr 안녕하세요 나인하트 때 필요 김영록 입니다 화면을 보시�
 ---
 
 ## 356. 스타트업 200개 투자하고 얻은 B2B 비즈니스 노하우
-**URL:** https://www.youtube.com/watch?v=xkpp_ghaAds    (
+**** https://www.youtube.com/watch?v=xkpp_ghaAds    (
 
 # 스타트업 200개 투자하고 얻은 B2B 비즈니스 노하우
 
@@ -1361,7 +1361,7 @@ b2b 스타터 b b2 c s 턱과 스타트업과 비교했을 때 성공하기가 �
 ---
 
 ## 357. 이 무대가 끝나고 일주일 뒤, 이 스타트업은 26억을 투자 받았다
-**URL:** https://www.youtube.com/watch?v=sjQDaUtrVtU    (
+**** https://www.youtube.com/watch?v=sjQDaUtrVtU    (
 
 # 이 무대가 끝나고 일주일 뒤, 이 스타트업은 26억을 투자 받았다
 
@@ -1490,7 +1490,7 @@ b2b 스타터 b b2 c s 턱과 스타트업과 비교했을 때 성공하기가 �
 ---
 
 ## 358. [무삭제] 요즘 배달앱 들어가면 보이는 서비스 | 잇그린 IR 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=oIpoYVfInAU    (
+**** https://www.youtube.com/watch?v=oIpoYVfInAU    (
 
 # [무삭제] 요즘 배달앱 들어가면 보이는 서비스 | 잇그린 IR 피칭, Q&A
 
@@ -1613,7 +1613,7 @@ sr 예 안녕하세요 이끌린 의 신형 입니다 우리는 매일 20 이렇
 ---
 
 ## 359. 인턴으로 시작해 구독자 180만 문명특급을 만들기까지! 🚀 | 신일류06 홍민지PD
-**URL:** https://www.youtube.com/watch?v=BQypdvXlPig    (
+**** https://www.youtube.com/watch?v=BQypdvXlPig    (
 
 # 인턴으로 시작해 구독자 180만 문명특급을 만들기까지! 🚀 | 신일류06 홍민지PD
 
@@ -1718,7 +1718,7 @@ sr 예 안녕하세요 이끌린 의 신형 입니다 우리는 매일 20 이렇
 ---
 
 ## 360. 아나운서 퇴사하고 스타트업 꿈나무로 돌아온 김소영의 스타트업 출장을 시작합니다! | 출장! 워키토키 Ep0
-**URL:** https://www.youtube.com/watch?v=CYZoL3H5KN8    (
+**** https://www.youtube.com/watch?v=CYZoL3H5KN8    (
 
 # 아나운서 퇴사하고 스타트업 꿈나무로 돌아온 김소영의 스타트업 출장을 시작합니다! | 출장! 워키토키 Ep0
 
@@ -1841,7 +1841,7 @@ sr 예 안녕하세요 이끌린 의 신형 입니다 우리는 매일 20 이렇
 ---
 
 ## 361. [무삭제] 산불 피해를 본 대학원생이 떠올린 기발한 아이디어 | 코드오브네이처 IR 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=JtOqvsC1xMQ    (
+**** https://www.youtube.com/watch?v=JtOqvsC1xMQ    (
 
 # [무삭제] 산불 피해를 본 대학원생이 떠올린 기발한 아이디어 | 코드오브네이처 IR 피칭, Q&A
 
@@ -1938,7 +1938,7 @@ sr 예 안녕하세요 이끌린 의 신형 입니다 우리는 매일 20 이렇
 ---
 
 ## 362. 손정의가 처음으로 투자한 메타버스, '더 샌드박스' 성장의 비결
-**URL:** https://www.youtube.com/watch?v=qiP8pWGXCag    (
+**** https://www.youtube.com/watch?v=qiP8pWGXCag    (
 
 # 손정의가 처음으로 투자한 메타버스, '더 샌드박스' 성장의 비결
 
@@ -2028,7 +2028,7 @@ ID가 있으면 이전에 아무도 가본 적이 없는 곳으로 갈 것이라
 ---
 
 ## 363. 성장하는 스타트업의 CTO들이 일하는 법
-**URL:** https://www.youtube.com/watch?v=0EyWBxq8z2g    (
+**** https://www.youtube.com/watch?v=0EyWBxq8z2g    (
 
 # 성장하는 스타트업의 CTO들이 일하는 법
 
@@ -2156,7 +2156,7 @@ CTO 직함에 얽매이지 않고, 회사의 성장에 필요한 기술적 리�
 ---
 
 ## 364. [SUB] 전세계 디자이너들의 일하는 방식을 바꿔놓은 한국 회사
-**URL:** https://www.youtube.com/watch?v=RG8LFEKg1D8    (
+**** https://www.youtube.com/watch?v=RG8LFEKg1D8    (
 
 # 전세계 디자이너들의 일하는 방식을 바꿔놓은 한국 회사
 
@@ -2263,7 +2263,7 @@ CLO Virtual Fashion은 메타버스와 디지털 패션이라는 거대한 흐�
 ---
 
 ## 365. 성공에 가까워졌다면 그 사실을 모를 수 없는 이유
-**URL:** https://www.youtube.com/watch?v=aIanP0KQmCQ    (
+**** https://www.youtube.com/watch?v=aIanP0KQmCQ    (
 
 # 성공에 가까워졌다면 그 사실을 모를 수 없는 이유
 
@@ -2397,7 +2397,7 @@ CLO Virtual Fashion은 메타버스와 디지털 패션이라는 거대한 흐�
 ---
 
 ## 366. 토종 문과생이 실리콘밸리 최고 회사로 이직할 수 있었던 이유
-**URL:** https://www.youtube.com/watch?v=zprGXHtL7xY    (
+**** https://www.youtube.com/watch?v=zprGXHtL7xY    (
 
 # 토종 문과생이 실리콘밸리 최고 회사로 이직할 수 있었던 이유
 
@@ -2515,7 +2515,7 @@ CLO Virtual Fashion은 메타버스와 디지털 패션이라는 거대한 흐�
 ---
 
 ## 367. 열정이 있다면 끌릴만한 15가지 '큰 돈' 되는 기회
-**URL:** https://www.youtube.com/watch?v=6IZJPETv_w0    (
+**** https://www.youtube.com/watch?v=6IZJPETv_w0    (
 
 # 열정이 있다면 끌릴만한 15가지 '큰 돈' 되는 기회
 
@@ -2660,7 +2660,7 @@ CLO Virtual Fashion은 메타버스와 디지털 패션이라는 거대한 흐�
 ---
 
 ## 368. 지방 소멸을 막을 획기적인 기회 | 킹덤플랜트 IR 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=jV2LMXsHFxc    (
+**** https://www.youtube.com/watch?v=jV2LMXsHFxc    (
 
 # 지방 소멸을 막을 획기적인 기회 | 킹덤플랜트 IR 피칭, Q&A
 
@@ -2770,7 +2770,7 @@ CLO Virtual Fashion은 메타버스와 디지털 패션이라는 거대한 흐�
 ---
 
 ## 369. 창업을 망설이고 있나요? 🤔 | 정주영창업경진대회 출신 CEO 토크
-**URL:** https://www.youtube.com/watch?v=3kPlb-TWmKw    (
+**** https://www.youtube.com/watch?v=3kPlb-TWmKw    (
 
 # 창업을 망설이고 있나요? 🤔 | 정주영창업경진대회 출신 CEO 토크
 
@@ -2950,7 +2950,7 @@ CLO Virtual Fashion은 메타버스와 디지털 패션이라는 거대한 흐�
 ---
 
 ## 370. 서울에서 부산까지 맨땅에 헤딩으로 대박난 대학생 이야기
-**URL:** https://www.youtube.com/watch?v=GCOse6jBYoo    (
+**** https://www.youtube.com/watch?v=GCOse6jBYoo    (
 
 # 서울에서 부산까지 맨땅에 헤딩으로 대박난 대학생 이야기
 
@@ -3063,7 +3063,7 @@ CLO Virtual Fashion은 메타버스와 디지털 패션이라는 거대한 흐�
 ---
 
 ## 371. 버려진 공간이 돈이 되는 방법 | 더몽 IR 피칭, Q&A
-**URL:** https://www.youtube.com/watch?v=YoRtQydl1vU    (
+**** https://www.youtube.com/watch?v=YoRtQydl1vU    (
 
 # 버려진 공간이 돈이 되는 방법 | 더몽 IR 피칭, Q&A
 
@@ -3167,7 +3167,7 @@ CLO Virtual Fashion은 메타버스와 디지털 패션이라는 거대한 흐�
 ---
 
 ## 372. 재미없는 일은 배움도 없고 다음도 없어요
-**URL:** https://www.youtube.com/watch?v=BEmAZwhdpjc    (
+**** https://www.youtube.com/watch?v=BEmAZwhdpjc    (
 
 # 재미없는 일은 배움도 없고 다음도 없어요
 
@@ -3281,7 +3281,7 @@ CLO Virtual Fashion은 메타버스와 디지털 패션이라는 거대한 흐�
 ---
 
 ## 373. 원하는 일 하면서 돈도 더 벌고 싶다면 이 영상을 보세요 | 신일류05 무직타이거
-**URL:** https://www.youtube.com/watch?v=04TOQv8SMgQ    (
+**** https://www.youtube.com/watch?v=04TOQv8SMgQ    (
 
 # 원하는 일 하면서 돈도 더 벌고 싶다면 이 영상을 보세요 | 신일류05 무직타이거
 
@@ -3387,7 +3387,7 @@ CLO Virtual Fashion은 메타버스와 디지털 패션이라는 거대한 흐�
 ---
 
 ## 374. 본 적 없는 로봇, 본 적 없는 실행력으로 세상을 바꿉니다ｌH-온드림 우수사례
-**URL:** https://www.youtube.com/watch?v=hRr8IlgIfZc    (
+**** https://www.youtube.com/watch?v=hRr8IlgIfZc    (
 
 # 본 적 없는 로봇, 본 적 없는 실행력으로 세상을 바꿉니다ｌH-온드림 우수사례
 
@@ -3472,7 +3472,7 @@ CLO Virtual Fashion은 메타버스와 디지털 패션이라는 거대한 흐�
 ---
 
 ## 375. 눈앞의 코인 말고, 멀리 보면 보이는 10년의 기회ｌ82 STARTUP 아이디어톤
-**URL:** https://www.youtube.com/watch?v=m3mBLXwr6lE    (
+**** https://www.youtube.com/watch?v=m3mBLXwr6lE    (
 
 # 눈앞의 코인 말고, 멀리 보면 보이는 10년의 기회ｌ82 STARTUP 아이디어톤
 
@@ -3576,7 +3576,7 @@ CLO Virtual Fashion은 메타버스와 디지털 패션이라는 거대한 흐�
 ---
 
 ## 376. 2022년 한국에서 가장 빨리 크고 있는 이커머스 회사 | 올웨이즈 강재윤
-**URL:** https://www.youtube.com/watch?v=L2sNAQYLNbA    (
+**** https://www.youtube.com/watch?v=L2sNAQYLNbA    (
 
 # 2022년 한국에서 가장 빨리 크고 있는 이커머스 회사 | 올웨이즈 강재윤
 
@@ -3695,7 +3695,7 @@ CLO Virtual Fashion은 메타버스와 디지털 패션이라는 거대한 흐�
 ---
 
 ## 377. 무신사 개발자들은 이렇게 일합니다
-**URL:** https://www.youtube.com/watch?v=9KTc3h-mjuU    (
+**** https://www.youtube.com/watch?v=9KTc3h-mjuU    (
 
 # 무신사 개발자들은 이렇게 일합니다
 
@@ -3806,4 +3806,4 @@ CLO Virtual Fashion은 메타버스와 디지털 패션이라는 거대한 흐�
 ---
 
 ## 378. 유럽을 사로잡은 '크레이지 코리안'이 만들어낸 축구의 미래
-**URL:** https://www.youtube.com/watch?v=dIFYZN-Ugvw    (
+**** https://www.youtube.com/watch?v=dIFYZN-Ugvw    (
