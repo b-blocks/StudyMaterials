@@ -37,8 +37,10 @@ find ../ -type f -name "*.md" | while read -r file; do
   sed -i '' 's/상세 내용 (Storyline)/상세 내용/g' "$file"
   sed -i '' 's/참고 자료 (References & Further Reading)/참고 자료/g' "$file"
   sed -i '' 's/상세 내용 (Storyline)/상세 내용/g' "$file"
-  sed -i '' 's/YouTube 영상.*자료: //g' "$file"
+  sed -i '' 's/개요 (Overview)/개요/g' "$file"
+  sed -i '' 's/YouTube 영상.*j자료: //g' "$file"
   sed -i '' 's/다음은 YouTube 영상의 자막 내용을.*학습 자료입니다.//g' "$file"
+  sed -i '' 's/다음은 YouTube 영상의 자막 내용을.*자료로 재구성한 문서입니다.//g' "$file"
   # 2. 3줄 이상의 연속된 빈 줄을 하나의 빈 줄로 압축
   sed -i '' '/^$/N;/^\n$/N;/^\n\n$/d' "$file"
 done
