@@ -1,5 +1,3 @@
-# RobloxLearn
-
 # Roblox 애셋 저장소(Asset Repository) 구축 가이드
 
 ## How to make an Asset Repository on Roblox
@@ -662,7 +660,7 @@ I need to follow a specific document structure and adhere to given writing guide
     *   중요 수치, 데이터, 통계 강조
     *   인용 형식 사용 (>)
     *   각 섹션에 포함: 핵심 개념, 왜 중요한가, 심화 설명, 예시/사례, 주의사항
-4.  **용어 해설 (Glossary)**
+4.  **용어 해설**
 5.  **핵심 학습 포인트 (Key Takeaways)**
 6.  **실용적 적용 (Practical Applications)**
 7.  **참고 자료**
@@ -1659,10 +1657,6 @@ Roblox Studio는 스크립트가 저장될 때마다 해당 스크립트의 새�
 #### 주의사항
 *   `Read-Only` 모드는 이전 버전을 실수로 수정하는 것을 방지하지만, 이전 버전 전체로 되돌리는 직접적인 기능은 제공하지 않습니다. 필요한 부분을 수동으로 복사하여 현재 스크립트에 적용해야 합니다.
 *   스크립트 기록은 개별 스크립트에 한정되므로, 여러 스크립트가 관련된 복잡한 변경 사항은 `Place Versions`와 함께 고려해야 합니다.
-
-## 4. 용어 해설 (Glossary)
-
-| 용어 (영문 원
 
 # Roblox AI Assistant 활용 가이드: 개발 생산성 극대화
 
@@ -3223,7 +3217,7 @@ new_current_value, new_velocity = smooth_damp(
 
 **주의사항:** 스토리텔링 요소는 지형의 기능성을 방해하지 않으면서도 미묘하고 자연스럽게 통합되어야 합니다. 너무 과장되거나 명확한 메시지보다는, 플레이어가 스스로 발견하고 상상할 수 있는 여지를 남기는 것이 좋습니다.
 
-## 4. 용어 해설 (Glossary)
+## 4. 용어 해설
 
 | 용어 (영문) | 용어 (한글) | 설명 |
 |:---|:---|:---|

@@ -167,7 +167,7 @@
 
 # YouTube UGC 카탈로그 제작을 위한 Blender 심화 가이드: 꽃 모델링 및 효율적인 워크플로우
 
-## UGC Expert Feedback 1: feat. Reverse_Polarity and Madison_Hatter2
+UGC Expert Feedback 1: feat. Reverse_Polarity and Madison_Hatter2
 **** https://www.youtube.com/watch?v=dlMWNO5iiGU
 
 ## 1. 개요
@@ -2954,7 +2954,7 @@ Roblox는 오브젝트를 가져오고 에셋으로 관리하기 위한 다양�
 # What are experiences?
 **** https://www.youtube.com/watch?v=_RxK6l2y7Ac
 
-# Roblox Studio를 활용한 경험(Experience) 개발 심층 가이드
+Roblox Studio를 활용한 경험(Experience) 개발 심층 가이드
 
 ## 1. 개요
 이 문서는 Roblox Studio를 활용하여 사용자 생성 경험(User-Generated Experiences, UGX)을 개발하는 방법에 대한 심층적인 학습 자료입니다. Roblox 플랫폼의 기본 개념부터 Studio의 핵심 기능, 협업 도구, 테스트 및 배포 과정에 이르기까지 전반적인 개발 생태계를 이해하는 것을 목표로 합니다. 이 자료는 Roblox 플랫폼에서 자신만의 3D 몰입형 환경을 만들고자 하는 초보 개발자, 게임 디자이너, 교육자 및 기존 개발자들에게 유용한 정보를 제공하며, Roblox Studio의 강력한 기능들을 효과적으로 활용하기 위한 필수적인 지식을 다룹니다.
@@ -3105,8 +3105,6 @@ Roblox 개발은 게임 디자인, 프로그래밍, 3D 모델링, 프로젝트 �
 
 #### 예시/사례: 포트폴리오 구축
 Roblox Studio로 개발한 경험은 개인 포트폴리오에 추가하여 게임 개발사, IT 기업 등 다양한 분야의 취업 기회를 모색하는 데 활용될 수 있습니다. 또한, Roblox 플랫폼 자체에서 성공적인 경험을 만들어 수익을 창출하는 것도 가능합니다.
-
-#### 주의사항: 지속적인 학습
 
 # Roblox 데이터 모델 심층 분석: 경험의 작동 원리 이해
 
@@ -3535,8 +3533,6 @@ Roblox에는 다양한 용도의 많은 객체 유형이 있지만, 개발자는
     *   코드는 실행하는 데 시간이 걸리는 것이 당연합니다. 프레임 속도 저하나 플레이어의 불만이 발생할 때만 성능 진단에 깊이 파고들어야 합니다.
     *   개발 초기 단계에서는 각 함수의 밀리초 단위 실행 시간에 너무 집착하여 마이크로 최적화에 시간을 낭비하지 않도록 주의해야 합니다. 게임의 재미와 큰 그림에 집중하는 것이 더 중요합니다.
     *   시간이 지남에 따라 작은 마이크로 최적화들이 쌓여 오히려 코드의 복잡성을 증가시키고 유지보수를 어렵게 만들 수 있습니다.
-
-## 4. 용어 해설 (Glossary)
 
 # Roblox 친구 초대 보상 시스템 배너 생성 및 게시
 ## Learn how to create a custom experience banner

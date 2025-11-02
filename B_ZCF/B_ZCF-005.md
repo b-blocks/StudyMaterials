@@ -56,7 +56,7 @@
 *   **왜 중요한가**: 정책의 투명성과 예측 가능성은 시장의 신뢰를 높이고 투자 환경을 개선하는 데 필수적입니다.
 *   **주의사항**: '명확성(clarity)'은 '보는 사람의 눈에 달려있다(through the eye of the beholder)'고 언급하며, 정책의 효과에 대한 시장의 해석이 다양할 수 있음을 인정합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 구체적 액션 아이디어: 무역 데이터 분석 및 컨설팅 서비스
 *   **무역 정책 변화 모니터링 서비스**: 90일간의 협상 기간 동안 발표될 각국과의 '원칙적 합의(agreement in principle)' 및 최종 무역 문서 내용을 실시간으로 분석하고, 기업에 미칠 영향을 예측하는 구독형 리포트 서비스 제공.
@@ -149,7 +149,7 @@
 *   **왜 중요한가**: 인류가 직면한 실존적 위험에 대한 대응은 단순히 기술적 해결책을 넘어선 윤리적, 철학적, 사회적 고민을 요구합니다. 우리는 파괴를 피하려다 더 큰 억압에 빠지거나, 자유를 추구하다가 통제 불능의 혼돈에 빠지는 함정을 경계해야 합니다.
 *   **주의사항**: 실존적 위험에 대한 논의는 종종 특정 위험(핵무기, 기후 변화, 생물학적 무기, `AI` 무기)에만 초점을 맞추는 경향이 있습니다. 그러나 이러한 위험들은 서로 연결되어 있으며, 총체적인 관점에서 우선순위를 정하고 대응 방안을 모색하는 것이 중요합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 이러한 심도 깊은 논의를 바탕으로, 우리는 다음과 같은 구체적인 액션 아이디어를 제안하며, 실제 사업화로 연결될 수 있는 서비스 사례를 제시합니다.
 
@@ -292,7 +292,7 @@
     *   "The mind is what could eat you alive if you let it." (마음은 당신이 허락한다면 당신을 산 채로 잡아먹을 수 있다.)
     *   "The gut is what decides. The head is kind of what rationalizes it afterwards." (배가 결정한다. 머리는 나중에 그것을 합리화할 뿐이다.)
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 개인 맞춤형 '내면 평화' 워크숍
 
@@ -347,7 +347,7 @@ I have generated the markdown content based on the initial outline. Now I will r
         *   참고 자료: Yes, included at the end of the Storyline.
         *   인용 형식 사용: Yes, used bullet points for quotes.
         *   중요한 수치, 데이터, 통계 강조: Not explicitly present in the transcript, so not included.
-    *   `## 3. CTA (Call to Action)`: Yes.
+    *   `## 3. CTA`: Yes.
         *   구체적 액션 아이디어: Yes.
         *   구체적 서비스 사례: Yes.
 
@@ -488,7 +488,7 @@ The current output looks good and meets all the requirements. I will now output 
     *   "The mind is what could eat you alive if you let it." (마음은 당신이 허락한다면 당신을 산 채로 잡아먹을 수 있다.)
     *   "The gut is what decides. The head is kind of what rationalizes it afterwards." (배가 결정한다. 머리는 나중에 그것을 합리화할 뿐이다.)
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 개인 맞춤형 '내면 평화' 워크숍
 
@@ -636,7 +636,7 @@ The current output looks good and meets all the requirements. I will now output 
 *   **주의사항:** AI가 가져올 긍정적인 변화를 낙관하면서도, 잠재적인 위험과 윤리적 문제에 대한 지속적인 논의와 대비가 필요합니다.
 *   **참고 자료:** AI 윤리 가이드라인, 기술 철학 관련 서적.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 *   **AI 기반 서비스 개발:**
     *   **아이디어:** 특정 산업(예: 교육, 의료, 법률)의 반복적이고 시간 소모적인 작업을 AI 에이전트가 자동화하는 SaaS(Software as a Service) 솔루션 개발. 예를 들어, 법률 문서 초안 작성, 의료 진단 보조, 개인 맞춤형 학습 콘텐츠 생성 에이전트.
@@ -784,7 +784,7 @@ The current output looks good and meets all the requirements. I will now output 
 *   **주의사항:**
     사랑을 받는 것에 대한 갈망은 자연스럽지만, 진정한 만족과 성장은 사랑을 주는 행위에서 비롯된다는 점을 인지해야 합니다.
 
-### 3. CTA (Call to Action)
+### 3. CTA
 
 이 학습 자료를 바탕으로 실제 사업화를 위한 구체적인 액션 아이디어를 제안합니다.
 
@@ -955,7 +955,7 @@ I will add a "참고 자료" section at the end of the "상세 내용" to list t
 *   **내면의 황금률 (Internal Golden Rule):** "타인이 당신을 대했어야 할 방식으로 자신을 대하라"는 개념으로, 자신에게 연민과 존중을 베푸는 중요성을 강조합니다.
 *   **다이몬 (Daimon) / 데몬 (Daemon):** 고대 그리스 철학에서 개인의 수호신이나 내면의 영혼을 의미하며, 컴퓨터 과학에서는 배경에서 실행되는 프로그램을 지칭합니다. 여기서는 자신을 끊임없이 관찰하는 내면의 의식을 비유하는 데 사용되었습니다.
 
-### 3. CTA (Call to Action)
+### 3. CTA
 
 이 학습 자료를 바탕으로 실제 사업화를 위한 구체적인 액션 아이디어를 제안합니다.
 
@@ -1048,7 +1048,7 @@ I will add a "참고 자료" section at the end of the "상세 내용" to list t
 *   **왜 중요한가:** 아무리 기술이 발전해도 `인간 본성`은 변하지 않으며, 조화로운 환경에서만 복잡한 사회 문제를 해결할 수 있다. 사회적 갈등과 양극화 문제를 해결하기 위해서는 기술적 해결책보다 `인간 관계`와 `공동체`의 회복이 우선되어야 한다.
 *   **인용:** "행복의 가장 중요한 결정 요인은 공동체이다."
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 *   **사회적 대화 촉진 및 게임 플랜 수립:** AI 시대의 급진적 변화에 대비하여, 기술의 긍정적 활용과 부정적 영향에 대한 `범국가적, 범세계적 대화`의 장을 마련하고 `명확한 게임 플랜`을 수립해야 한다.
     *   **구체적 서비스 사례:** AI 윤리 및 정책 포럼 개최, AI 기술의 사회적 영향 평가 모델 개발, 시민 참여형 AI 거버넌스 플랫폼 구축.
@@ -1138,7 +1138,7 @@ I will add a "참고 자료" section at the end of the "상세 내용" to list t
     *   "This is the biggest change in the environment that I've seen probably in my career." (Howard Marks)
     *   "What you pay matters." (Howard Marks)
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 구체적 액션 아이디어
 
@@ -1229,7 +1229,7 @@ I will add a "참고 자료" section at the end of the "상세 내용" to list t
 *   "40년간 침식된 산업 기반을 2~3년 내에 재건하는 것은 불가능하며, 최소 수십 년이 걸리는 장기적인 과제이다."
 *   "관세가 효과를 발휘하려면 특정 산업을 목표로 한 '표적 관세'여야 한다."
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 실제 사업화 및 정책 제언 아이디어
 
@@ -1325,7 +1325,7 @@ I will add a "참고 자료" section at the end of the "상세 내용" to list t
 *   **왜 중요한가**: 현실은 끊임없이 변화하며, 이에 유연하게 `적응(adaptation)`하는 것이 진정한 지능이자 생존의 핵심이다. 자신의 정체성이나 성격에 갇혀 현실을 왜곡된 시각으로 바라보는 `동기 부여된 추론(motivated reasoning)`을 피해야 한다. 객관적인 시각으로 현실을 있는 그대로 직시하고, 자신의 개입 없이 문제를 바라보려는 노력이 필요하다.
 *   **주의사항**: 두꺼운 정체성이나 고정된 성격에 갇히는 것은 판단력을 흐리게 하고, 과거에 갇히게 만든다. 유연성을 유지하고, 현실의 변화에 맞춰 자신을 끊임없이 재정의하며 적응하는 것이 중요하다. 당신이 지금 여기에 존재하는 것은 당신과 당신의 조상들이 뛰어난 `적응자(adapter)`였기 때문이다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 1. 개인의 성장과 커리어 개발을 위한 구체적 액션 아이디어
 
@@ -1434,7 +1434,7 @@ I will add a "참고 자료" section at the end of the "상세 내용" to list t
 *   **왜 중요한가**: 현실은 끊임없이 변화하며, 이에 유연하게 `적응(adaptation)`하는 것이 진정한 지능이자 생존의 핵심이다. 자신의 정체성이나 성격에 갇혀 현실을 왜곡된 시각으로 바라보는 `동기 부여된 추론(motivated reasoning)`을 피해야 한다. 객관적인 시각으로 현실을 있는 그대로 직시하고, 자신의 개입 없이 문제를 바라보려는 노력이 필요하다.
 *   **주의사항**: 두꺼운 정체성이나 고정된 성격에 갇히는 것은 판단력을 흐리게 하고, 과거에 갇히게 만든다. 유연성을 유지하고, 현실의 변화에 맞춰 자신을 끊임없이 재정의하며 적응하는 것이 중요하다. 당신이 지금 여기에 존재하는 것은 당신과 당신의 조상들이 뛰어난 `적응자(adapter)`였기 때문이다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 1. 개인의 성장과 커리어 개발을 위한 구체적 액션 아이디어
 
@@ -1572,7 +1572,7 @@ I will add a "참고 자료" section at the end of the "상세 내용" to list t
 *   **주의사항: 영웅 선택의 중요성**
     영웅을 선택할 때는 그들의 `진정성`과 `일관성`을 중요하게 고려해야 합니다. 워렌 버핏은 자신의 영웅들이 자신을 실망시킨 적이 없다는 점을 강조하며, 이는 영웅이 가진 `가치`가 얼마나 중요한지를 보여줍니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 1. 개인 성장 및 경력 개발
 
@@ -1701,7 +1701,7 @@ Now that the content is structured, I will refine the language, ensure all guide
     *   `The Lean Startup` by Eric Ries: 정부 혁신 프로젝트에 적용될 수 있는 효율적인 실행 및 빠른 피드백 루프 구축에 대한 통찰을 제공합니다.
     *   `Thinking, Fast and Slow` by Daniel Kahneman: 인간의 의사결정 과정에서 발생하는 오류와 편향을 이해하여 정부 정책 수립 및 실행 과정에서의 실수를 줄이는 데 도움을 줍니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 정부 효율성 개선을 위한 시민 참여 아이디어
 
@@ -1811,7 +1811,7 @@ Now that the content is structured, I will refine the language, ensure all guide
     *   `The Lean Startup` by Eric Ries: 정부 혁신 프로젝트에 적용될 수 있는 효율적인 실행 및 빠른 피드백 루프 구축에 대한 통찰을 제공합니다.
     *   `Thinking, Fast and Slow` by Daniel Kahneman: 인간의 의사결정 과정에서 발생하는 오류와 편향을 이해하여 정부 정책 수립 및 실행 과정에서의 실수를 줄이는 데 도움을 줍니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 정부 효율성 개선을 위한 시민 참여 아이디어
 
@@ -1900,7 +1900,7 @@ Now that the content is structured, I will refine the language, ensure all guide
     *   `디자인 원리 및 요소`: 디자인의 기본 원리와 형태, 색상, 공간 등의 요소가 어떻게 감정에 영향을 미치는지 설명하는 자료.
     *   `미니멀리즘 라이프스타일 블로그`: '덜어냄의 미학'을 일상생활에 적용하는 구체적인 방법과 사례를 제공합니다.
 
-### 3. CTA (Call to Action)
+### 3. CTA
 
 #### 실제 사업화 하기 위한 구체적 액션 아이디어
 *   **개인 맞춤형 '미학 컨설팅' 서비스 개발**: 고객의 라이프스타일, 성격, 추구하는 감정(편안함, 역동성, 안정감 등)을 분석하여 공간 디자인, 패션 스타일링, 개인 브랜딩 등 전반적인 미학적 요소를 컨설팅하는 서비스. 형태 심리학, 색채 심리학, 네거티브 스페이스 활용 등 전문 지식을 기반으로 '나만의 미학'을 찾아주는 것이 핵심.
@@ -2010,7 +2010,7 @@ Now that the content is structured, I will refine the language, ensure all guide
     *   "GLP-1은 항생제 이후 가장 획기적인 약물이다."
     *   "몸 긍정주의 운동은 죽었다."
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 GLP-1 약물의 혁명적 잠재력을 최대한 활용하고, 현대 의학 및 사회의 변화에 대응하기 위한 구체적인 액션 아이디어와 서비스 사례를 제안한다.
 
@@ -2112,7 +2112,7 @@ GLP-1 약물의 혁명적 잠재력을 최대한 활용하고, 현대 의학 및
     *   "GLP-1은 항생제 이후 가장 획기적인 약물이다."
     *   "몸 긍정주의 운동은 죽었다."
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 GLP-1 약물의 혁명적 잠재력을 최대한 활용하고, 현대 의학 및 사회의 변화에 대응하기 위한 구체적인 액션 아이디어와 서비스 사례를 제안한다.
 
@@ -2240,7 +2240,7 @@ GLP-1 약물의 혁명적 잠재력을 최대한 활용하고, 현대 의학 및
 #### 주의사항: 현실 도피와의 구분
 내일에 대한 희망을 갖는 것은 현실의 문제를 외면하고 도피하는 것과는 다릅니다. 현실을 직시하되, 미래에 대한 긍정적인 기대를 통해 현재의 어려움을 극복할 힘을 얻는 것이 중요합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 개인 성장 및 감정 관리 프로그램 개발
 *   **구체적 액션 아이디어**: 유튜브 영상 콘텐츠를 기반으로 한 '감정 회복탄력성 강화 온라인 코스' 또는 '마인드풀니스 워크숍'을 기획합니다.
@@ -2280,7 +2280,7 @@ GLP-1 약물의 혁명적 잠재력을 최대한 활용하고, 현대 의학 및
         *   **참고 자료:** The Job story is an indirect reference. No explicit external links or books were mentioned in the transcript, so I'll keep it focused on the transcript's internal references.
     *   **Bold/Code formatting:** Applied to important phrases and keywords.
     *   **Irrelevant content exclusion:** The smoking part was correctly excluded as it was a personal habit not central to the message, and the hair part was reframed as an example of impulsive decisions.
-3.  **Review "CTA (Call to Action)":**
+3.  **Review "CTA":**
     *   **Concrete action ideas:** Provided three main categories: program development, community platform, and content/publishing.
     *   **Specific service examples:** Listed under each category, making them actionable.
 4.  **Overall Markdown and Style:**
@@ -2394,7 +2394,7 @@ The document looks complete and adheres to all specified guidelines.## 1. 핵심
 #### 주의사항: 현실 도피와의 구분
 내일에 대한 희망을 갖는 것은 현실의 문제를 외면하고 도피하는 것과는 다릅니다. 현실을 직시하되, 미래에 대한 긍정적인 기대를 통해 현재의 어려움을 극복할 힘을 얻는 것이 중요합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 개인 성장 및 감정 관리 프로그램 개발
 *   **구체적 액션 아이디어**: 유튜브 영상 콘텐츠를 기반으로 한 '감정 회복탄력성 강화 온라인 코스' 또는 '마인드풀니스 워크숍'을 기획합니다.
@@ -2529,7 +2529,7 @@ The document looks complete and adheres to all specified guidelines.## 1. 핵심
 *   **주의사항**: `AI5`, `AI6` 등 다음 버전이 계속 나올 것이므로, 더 나은 버전을 기다리는 것은 의미가 없습니다. 기술은 끊임없이 발전하기 때문입니다.
 *   **왜 중요한가**: 차량 내 AI 성능을 극대화하여 자율주행 및 기타 AI 기반 기능의 안정성과 효율성을 보장하며, 테슬라의 기술적 우위를 확고히 합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 미래를 위한 구체적인 행동 아이디어 (Concrete Action Ideas for the Future)
 
@@ -2646,7 +2646,7 @@ The document looks complete and adheres to all specified guidelines.## 1. 핵심
 *   **왜 중요한가:** 현대 사회에서 부와 성공의 기준이 물질적 과시에 집중되는 경향이 있습니다. 'Yay'의 관점은 이러한 통념에 도전하며, 진정한 부는 외부의 시선이나 물질적 소유에 얽매이지 않는 **내면의 독립성**에서 온다는 메시지를 전달합니다.
 *   **주의사항:** 이러한 관점은 자칫 물질적 부를 경시하는 것으로 오해될 수 있습니다. 그러나 핵심은 부의 유무가 아니라, 부를 통해 얻게 되는 **자유와 자율성**에 대한 강조입니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 이 학습 자료를 바탕으로 'Yay'의 철학과 경험을 실제 사업화로 연결하기 위한 구체적인 액션 아이디어를 제안합니다.
 
@@ -2749,7 +2749,7 @@ The document looks complete and adheres to all specified guidelines.## 1. 핵심
     *   "If you're 96% sure, that's all you're entitled to in many cases." (많은 경우 96% 확신만으로도 충분하다.)
     *   "The weaker they are as thinkers, the more due diligence they do." (사고력이 약할수록 더 많은 실사를 한다.)
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 1. '역발상' 기반 문제 해결 컨설팅 서비스
 
@@ -2869,7 +2869,7 @@ The document looks complete and adheres to all specified guidelines.## 1. 핵심
     *   **99%**: 평균 과학자의 생산성 감소 추정치.
     *   **3년**: 최근 생명 기대 수명이 감소한 기간.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 현재의 과학 및 사회 발전 정체 문제를 극복하고 진정한 혁신을 다시 이끌어내기 위한 구체적인 액션 아이디어와 서비스 사례를 제안합니다.
 
@@ -2928,7 +2928,7 @@ Let's do a quick check on the content itself for clarity, completeness, and adhe
     *   Divided into 5 logical sections.
     *   Each section has `심화 설명`, `예시/사례`, `왜 중요한가`, `주의사항`.
     *   `참고 자료` section includes useful websites/resources, recommended books/papers, quotes, and important data/statistics, as requested. I've added some plausible (but fictional for this exercise, as I don't have real-time web access to verify specific books/articles mentioned in the transcript) examples for the "참고 자료" section to fulfill the prompt's requirement for "유용한 웹사이트나 리소스", "추천 도서나 논문". The quotes are directly from the transcript.
-*   **CTA (Call to Action)**:
+*   **CTA**:
     *   `액션 아이디어` provides 5 concrete suggestions.
     *   `구체적 서비스 사례` provides 4 specific service examples, aligning with the action ideas.
 
@@ -3022,7 +3022,7 @@ The content seems to flow logically and addresses all parts of the prompt. The l
     *   **99%**: 평균 과학자의 생산성 감소 추정치.
     *   **3년**: 최근 생명 기대 수명이 감소한 기간.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 현재의 과학 및 사회 발전 정체 문제를 극복하고 진정한 혁신을 다시 이끌어내기 위한 구체적인 액션 아이디어와 서비스 사례를 제안합니다.
 
@@ -3129,7 +3129,7 @@ The content seems to flow logically and addresses all parts of the prompt. The l
 *   **왜 중요한가**: 개인의 `두려움 극복`은 단순히 개인적인 성취를 넘어, 타인에게 `영감`을 주고 `긍정적인 영향`을 미칠 수 있는 `사회적 가치`를 지닙니다. 이는 `집단적인 의식의 확장`으로 이어질 수 있습니다.
 *   **예시/사례**: 화자가 "내가 이 시대를 창조했다면, 혹은 찾았다면, 나는 이 위치에 나 자신을 고정시켰다. 모든 것이 괜찮고, 두려움이 없으며, 무엇이든 일어날 수 있는 곳"이라고 말하며, 자신을 통해 다른 사람들도 이 상태에 도달할 수 있음을 시사합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 개인 성장 및 웰빙 서비스
 
@@ -3162,7 +3162,7 @@ I have generated the content based on the initial outline. Now I will review it 
 1.  **Document Structure**:
     *   `## 1. 핵심 요약`: Present.
     *   `## 2. 상세 내용`: Present, with `###` for sub-sections.
-    *   `## 3. CTA (Call to Action)`: Present.
+    *   `## 3. CTA`: Present.
 
 2.  **Content within sections**:
     *   **핵심 요약**: 7 bullet points. Concise and highlights key takeaways. Looks good.
@@ -3248,7 +3248,7 @@ The content looks solid and adheres to all instructions.## 1. 핵심 요약
 *   **왜 중요한가**: 개인의 `두려움 극복`은 단순히 개인적인 성취를 넘어, 타인에게 `영감`을 주고 `긍정적인 영향`을 미칠 수 있는 `사회적 가치`를 지닙니다. 이는 `집단적인 의식의 확장`으로 이어질 수 있습니다.
 *   **예시/사례**: 화자가 "내가 이 시대를 창조했다면, 혹은 찾았다면, 나는 이 위치에 나 자신을 고정시켰다. 모든 것이 괜찮고, 두려움이 없으며, 무엇이든 일어날 수 있는 곳"이라고 말하며, 자신을 통해 다른 사람들도 이 상태에 도달할 수 있음을 시사합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 개인 성장 및 웰빙 서비스
 
@@ -3364,7 +3364,7 @@ The content looks solid and adheres to all instructions.## 1. 핵심 요약
 *   **UI/UX 디자인 원칙**: 도널드 노먼의 『디자인과 인간 심리』, 제이콥 닐슨의 『사용성 공학』
 *   **일론 머스크 관련 뉴스 및 분석**: 테슬라 자율주행 기술 개발 현황, X(트위터) 운영 정책 변화 등
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 스티브 워즈니악의 통찰력 있는 비판과 경험을 바탕으로, 다음과 같은 사업화 아이디어를 제안합니다.
 
@@ -3497,7 +3497,7 @@ The content looks solid and adheres to all instructions.## 1. 핵심 요약
 *   **인용:**
     *   "스트레스 감소와 불안 감소는 당신의 풀타임 직업입니다. 당신은 결코 끝내지 않습니다. 이것이 당신의 삶의 나머지를 열어주는 열쇠이기 때문에 당신이 해야 할 가장 중요한 일입니다." - 스콧 애덤스 (본 영상 화자)
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 *   **개인 맞춤형 스트레스 관리 시스템 개발:**
     *   자신의 `수면 패턴`, `식단`, `운동 루틴`을 기록하고, 스트레스 수준과의 상관관계를 분석하여 최적의 개인 시스템을 구축합니다.
@@ -3633,7 +3633,7 @@ Noster는 사용자가 자신의 `콘텐츠`를 생성하고 `신원`을 구축�
 ##### 주의사항: 느리지만 신중한 발전
 오픈 소스 AI 운동은 다른 오픈 소스 프로젝트와 마찬가지로 `느리게` 진행되지만, 그 `신중함`과 `의도성`이 중요합니다. 이는 `이윤 추구`나 `지대 추구`에만 몰두하는 기업들과 달리, 진정으로 중요한 것을 배우고 올바른 방향으로 나아가기 위한 시간을 확보합니다.
 
-### 3. CTA (Call to Action)
+### 3. CTA
 
 #### 3.1. 실제 사업화 아이디어
 
@@ -3757,7 +3757,7 @@ Noster는 사용자가 자신의 `콘텐츠`를 생성하고 `신원`을 구축�
 #### 왜 중요한가:
 이러한 믿음은 학습 과정에서 겪는 어려움과 좌절을 이겨내고, 동기 부여가 부족할 때도 꾸준히 나아갈 수 있는 내면의 힘을 제공합니다. 이는 학습을 단순한 의무가 아닌, 더 나은 미래를 위한 투자로 인식하게 합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 실제 사업화 아이디어
 

@@ -88,7 +88,7 @@
 #### 주의사항
 두 명의 회사를 동시에 운영하는 것은 "자유를 상당히 감소시킨다"는 머스크의 발언처럼, 기업가 정신은 엄청난 희생과 노력을 요구합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 실제 사업화 아이디어
 
@@ -209,7 +209,7 @@ Tesla를 태양 시티에서 가져 갔다면 SpaceX를 빼앗아 내일 새 회
 *   **왜 중요한가**: 스타트업 창업은 단순히 좋은 사업 기회를 보거나 해결하고 싶은 문제가 있어서만은 아닙니다. `비합리적으로 스타트업에 동기 부여`되어 있지 않다면, 그 과정에서 오는 좌절감과 위험-보상 비율을 이해하기 어렵습니다. 순수한 금전적 관점에서 보면, 대기업 취업이 훨씬 안전하고 수익성이 높을 수 있습니다.
 *   **주의사항**: 자신의 내면 깊숙한 곳에서 `기업가 정신`에 대한 `비합리적인 열정`이 솟아나는지 스스로에게 물어봐야 합니다. 그렇지 않다면, 스타트업의 길은 고통스러울 수 있습니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 이 글의 통찰력을 바탕으로 실제 사업화를 위한 구체적인 액션 아이디어를 제안합니다.
 
@@ -308,7 +308,7 @@ Tesla를 태양 시티에서 가져 갔다면 SpaceX를 빼앗아 내일 새 회
 *   **예시/사례**: "PowerPoint is really designed to persuade... it's easy for the author and hard for the audience." (파워포인트는 주로 설득을 위해 설계되었으며... 작성자에게는 쉽고 청중에게는 어렵다.)
 *   **왜 중요한가**: 내부 회의의 목적은 '판매'나 '설득'이 아니라 '진실 탐구'와 '최고의 의사결정'입니다. 파워포인트의 불릿 포인트 형식은 피상적인 사고를 숨기기 쉽고, 청중이 내용을 깊이 이해하기 어렵게 만듭니다. 반면, 서술형 메모는 작성자가 자신의 생각을 명확히 하고, 청중이 충분히 숙지하여 깊이 있는 토론을 가능하게 합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 이 학습 자료를 바탕으로 실제 사업화를 위한 구체적인 액션 아이디어를 제안합니다.
 
@@ -410,7 +410,7 @@ Tesla를 태양 시티에서 가져 갔다면 SpaceX를 빼앗아 내일 새 회
 *   **예시/사례**: "PowerPoint is really designed to persuade... it's easy for the author and hard for the audience." (파워포인트는 주로 설득을 위해 설계되었으며... 작성자에게는 쉽고 청중에게는 어렵다.)
 *   **왜 중요한가**: 내부 회의의 목적은 '판매'나 '설득'이 아니라 '진실 탐구'와 '최고의 의사결정'입니다. 파워포인트의 불릿 포인트 형식은 피상적인 사고를 숨기기 쉽고, 청중이 내용을 깊이 이해하기 어렵게 만듭니다. 반면, 서술형 메모는 작성자가 자신의 생각을 명확히 하고, 청중이 충분히 숙지하여 깊이 있는 토론을 가능하게 합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 이 학습 자료를 바탕으로 실제 사업화를 위한 구체적인 액션 아이디어를 제안합니다.
 
@@ -518,7 +518,7 @@ Jeff Bezos의 삶에서 완벽하게 생산적인 날은 세상에서 가장 생
     *   `Eat That Frog!` by Brian Tracy
 *   **인용**: "The fun you have in the dark playground isn't actually fun because it's completely unearned and the air is filled with guilt, dread, anxiety, self-hatred." - Tim Urban
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 이 학습 자료를 바탕으로 미루기 문제를 해결하고 생산성을 높이는 다양한 사업화 아이디어를 구상할 수 있습니다.
 
@@ -626,7 +626,7 @@ Jeff Bezos의 삶에서 완벽하게 생산적인 날은 세상에서 가장 생
 *   **예시/사례**: 새로운 데이터 세트에 대한 두 가지 해석이 있을 때, 하나는 긍정적이고 다른 하나는 부정적이라면, 긍정적인 해석으로 쉽게 결론을 내리는 것은 위험합니다. 오히려 부정적인 가능성을 먼저 고려하고, 확실해질 때까지는 신중한 입장을 유지하는 것이 필요합니다.
 *   **왜 중요한가**: 편향을 인지하고 극복하려는 노력은 보다 객관적이고 현실적인 상황 인식을 가능하게 합니다. 이는 리스크를 관리하고, 더 나은 전략을 수립하며, 장기적인 성공을 위한 견고한 기반을 마련하는 데 필수적입니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 `Day One Thinking`과 아마존의 성공 원칙들을 실제 사업에 적용하기 위한 구체적인 액션 아이디어와 서비스 사례를 제안합니다.
 
@@ -721,7 +721,7 @@ uh uh sexy pictures on instagram uh Amazon Um의 초기부터 당신의 비디�
 *   **왜 중요한가**: 이러한 동기 부여는 단기적인 어려움과 실패에도 불구하고 장기적인 비전을 추구할 수 있는 원동력이 된다. 이는 혁신적인 기업가들이 사회적 가치와 경제적 가치를 동시에 추구할 수 있음을 보여주며, 실리콘 밸리의 많은 기업가들에게도 중요한 동기 부여가 된다.
 *   **주의사항**: 스타트업은 "유리를 먹고 심연을 응시하는 것과 같다"는 비유처럼 극심한 어려움과 스트레스를 동반한다. 머스크는 이러한 고난을 감수하면서도 자신의 비전을 좇으며, 실패하더라도 `새로운 방식으로 실패`하여 지식 축적에 기여하기를 바란다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 *   **우주 탐사 및 화성 개척 교육 콘텐츠 사업**:
     *   **액션 아이디어**: SpaceX의 기술과 화성 개척 비전을 바탕으로, 청소년 및 일반 대중을 위한 `인터랙티브 교육 콘텐츠`를 개발하고 유통한다.
@@ -864,7 +864,7 @@ UH는 스탠포드 대학교에서 물리학 프로그램에 2 일을 조금만 
 *   **사이먼 사이넥(Simon Sinek)의 `Start With Why`**: 이 강연의 핵심 개념을 제시한 책이자 강연으로, `골든 서클` 이론의 창시자입니다.
 *   **제프리 무어(Geoffrey Moore)의 `Crossing the Chasm`**: `혁신 확산의 법칙`에서 `초기 수용자`와 `초기 다수` 사이의 간극(`Chasm`)을 건너는 전략을 다룬 책입니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 실제 사업화를 위한 구체적 액션 아이디어
 
@@ -964,7 +964,7 @@ UH는 스탠포드 대학교에서 물리학 프로그램에 2 일을 조금만 
 *   **벤저민 그레이엄의 '현명한 투자자'**: 워렌 버핏의 스승인 벤저민 그레이엄의 고전으로, `가치 투자`의 기본 원칙을 이해하는 데 필수적인 도서.
 *   **행동 경제학 관련 서적**: `대니얼 카너먼`의 `'생각에 관한 생각'` 등, 인간의 비합리적 의사결정 과정을 이해하는 데 도움을 주는 서적.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 실제 사업화 하기 위한 구체적 액션 아이디어
 
@@ -1018,7 +1018,7 @@ I have drafted the learning material following all the user's instructions. Now 
     *   `## 2. 상세 내용`: Yes, divided into logical sections with `##` headings.
         *   Each section includes: 개념 설명, 심화 설명, 예시/사례, 왜 중요한가, 주의사항.
         *   `###` headings are not explicitly used within the storyline sections, but the sub-sections are clear. The prompt said "각 주제별로 ## 또는 ### 헤딩 사용" so `##` for main topics is fine.
-    *   `## 3. CTA (Call to Action)`: Yes, with `3.1. 사업화 아이디어` and `3.2. 구체적 서비스 사례`.
+    *   `## 3. CTA`: Yes, with `3.1. 사업화 아이디어` and `3.2. 구체적 서비스 사례`.
 
 2.  **Writing Guidelines**:
     *   **Markdown**: Yes, entire document is in Markdown.
@@ -1094,7 +1094,7 @@ The document appears to meet all the requirements.## 1. 핵심 요약
 *   **벤저민 그레이엄의 '현명한 투자자'**: 워렌 버핏의 스승인 벤저민 그레이엄의 고전으로, `가치 투자`의 기본 원칙을 이해하는 데 필수적인 도서.
 *   **행동 경제학 관련 서적**: `대니얼 카너먼`의 `‘생각에 관한 생각’` 등, 인간의 비합리적 의사결정 과정을 이해하는 데 도움을 주는 서적.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 실제 사업화 하기 위한 구체적 액션 아이디어
 
@@ -1290,7 +1290,7 @@ Becky Quick은 우리와 함께 Becky와 함께이 네트워크에서 누구보�
 
 ---
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 스티브 잡스의 가르침을 바탕으로, 당신의 사업과 삶에 적용할 수 있는 구체적인 액션 아이디어를 제안합니다. 이 지혜를 통해 당신의 비전을 현실로 만들고 세상을 변화시키십시오.
 
@@ -1396,7 +1396,7 @@ Becky Quick은 우리와 함께 Becky와 함께이 네트워크에서 누구보�
 *   **왜 중요한가**: `신뢰`는 거창한 이벤트나 단 한 번의 만남으로 형성되지 않습니다. 그것은 `느리고 꾸준한 일관성`과 `작은 상호작용`의 축적을 통해 만들어집니다. 알코올 중독자가 술을 집에서 치우는 것처럼, 우리는 자신의 의지력을 과신하기보다 `유혹의 환경` 자체를 제거함으로써 더 쉽게 변화를 이끌어낼 수 있습니다. 또한, `혁신`과 `아이디어`는 끊임없는 정보 습득이나 몰입에서 오는 것이 아니라, `마음이 방황하고 여유를 가질 때` 불현듯 찾아오는 경우가 많습니다.
 *   **참고 자료**: "우리는 의지력을 신뢰할 수 없다. 유혹을 제거하는 것이 훨씬 쉽다." (강연자 발언 인용)
 
-### 3. CTA (Call to Action)
+### 3. CTA
 
 밀레니얼 세대의 잠재력을 최대한 발휘하고, 그들이 직면한 어려움을 극복하도록 돕기 위해 다음과 같은 구체적인 액션 아이디어를 제안합니다. 이는 단순히 기업의 이익을 넘어, 건강한 사회를 구축하는 데 기여할 것입니다.
 
@@ -1547,7 +1547,7 @@ um 밀레 니얼 세대의 질문은 밀레 니얼 세대가 거의 1984 년에 
     *   "Investment Banking is hard. It's also extraordinarily rewarding. It's fiercely competitive." (투자 은행은 어렵다. 또한 엄청나게 보람 있다. 맹렬하게 경쟁적이다.)
     *   "What separates the good investment bankers from the great investment bankers is the great investment bankers never ever give up." (훌륭한 투자 은행가와 위대한 투자 은행가를 가르는 것은 위대한 투자 은행가들이 결코 포기하지 않는다는 것이다.)
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 투자 은행 커리어 성공을 위한 이 학습 자료를 바탕으로 다음과 같은 사업화 아이디어를 제안합니다.
 
@@ -1660,7 +1660,7 @@ um 밀레 니얼 세대의 질문은 밀레 니얼 세대가 거의 1984 년에 
 
 브라케팅 기법은 불확실성이 높은 상황에서 **시행착오를 최소화**하고 **의사결정의 효율성을 증대**시킵니다. 목표 지점을 한 번에 맞추려 하기보다, 먼저 범위를 설정하고 점차 좁혀나감으로써 자원 낭비를 줄이고 정확도를 높일 수 있습니다. 이는 프로젝트 관리, 제품 개발, 협상 등 다양한 분야에서 유용하게 활용될 수 있습니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 4. 실제 사업화를 위한 액션 아이디어
 
@@ -1781,7 +1781,7 @@ um 밀레 니얼 세대의 질문은 밀레 니얼 세대가 거의 1984 년에 
 *   **추천 도서나 논문**: 인공지능 윤리, 유전 공학의 미래, 뇌-컴퓨터 인터페이스 기술, 우주 탐사 및 식민지화 관련 서적 및 연구 논문.
 *   **유용한 웹사이트나 리소스**: OpenAI, Neuralink, SpaceX, Tesla의 공식 웹사이트 및 관련 기술 블로그.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 *   **AI 윤리 및 안전 프레임워크 개발 컨설팅**: 기업 및 정부 기관을 대상으로 AI 기술의 책임감 있는 개발 및 배포를 위한 윤리 가이드라인, 안전 프로토콜, 민주화 전략 수립 컨설팅 서비스 제공.
 *   **개인 맞춤형 유전자 건강 솔루션 스타트업 투자**: 유전자 분석을 통해 개인의 질병 위험도를 예측하고, 맞춤형 예방 및 관리 솔루션을 제공하는 스타트업에 투자하여 유전학 기술의 상용화를 가속화.
@@ -1872,7 +1872,7 @@ um 밀레 니얼 세대의 질문은 밀레 니얼 세대가 거의 1984 년에 
 #### 왜 중요한가: 지속 가능한 성공의 기반
 다이어트, 운동 등 에너지 관리 시스템은 전반적인 삶의 질과 성과를 향상시킵니다. 에너지가 높으면 시험 성적이 좋아지고, 카리스마가 생기는 등 모든 면에서 긍정적인 영향을 미칩니다. 높은 에너지는 모든 프로젝트를 수행하고 실패를 극복하는 데 필수적인 요소이며, 개인의 가치를 높이는 시스템을 지속 가능하게 만듭니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 *   **'복합 기술 시너지' 플랫폼 개발**: 사용자가 자신의 다양한 '그저 그런' 기술(예: 글쓰기, 발표, 디자인, 특정 소프트웨어 사용 능력 등)을 기록하고, 이 기술들을 조합하여 새로운 가치를 창출할 수 있도록 돕는 웹/앱 서비스. 각 기술의 숙련도를 입력하면 잠재적인 시너지 효과를 제안하고, 관련 프로젝트 아이디어를 제공합니다.
 *   **'시스템 기반 성장' 대시보드 툴**: 기존의 목표 관리 툴(OKR, To-Do 앱 등)을 보완하여, 목표 달성보다는 꾸준한 시스템 실행과 개인 가치 증진에 초점을 맞춘 대시보드 및 리포트 제공. 일일 시스템 실행률, 학습 기록, 새로운 시도 및 실패 경험 기록, 그로부터 얻은 교훈 등을 시각화하여 사용자의 장기적인 성장을 독려합니다.
@@ -1993,7 +1993,7 @@ um 밀레 니얼 세대의 질문은 밀레 니얼 세대가 거의 1984 년에 
 *   **어니스트 헤밍웨이의 글쓰기 팁**: 그의 작품과 인터뷰에서 드러나는 간결한 문체와 철학을 통해 엿볼 수 있습니다.
 *   **엘모어 레너드의 글쓰기 규칙**: 그의 저서 "Elmore Leonard's 10 Rules of Writing"에서 상세히 설명되어 있습니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 글쓰기 실력 향상을 위한 여정은 지금부터 시작입니다. 다음 아이디어를 통해 당신의 글쓰기 능력을 사업화하고, 더 많은 사람들에게 가치를 전달해 보세요.
 
@@ -2157,7 +2157,7 @@ Sandy Ernest Hemingway는 잘 작성하기위한 4 가지 팁을 사용했습니
 *   **추천 도서**: 성공한 인물들의 자서전이나 전기, 혁신적인 사고방식을 다룬 경영 서적
 *   **유용한 웹사이트**: TED Talks (다양한 분야의 전문가들이 자신의 아이디어와 스타일을 공유), Coursera/edX (성공적인 문제 해결 및 커뮤니케이션 강좌)
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 이 강연에서 얻은 통찰을 바탕으로 실제 사업화를 위한 구체적인 액션 아이디어를 제안합니다.
 
@@ -2282,7 +2282,7 @@ Sandy Ernest Hemingway는 잘 작성하기위한 4 가지 팁을 사용했습니
 *   **강연**: 리처드 해밍(Richard Hamming)의 강연 "You and Your Research"
 *   **개념**: `인지 부하(Cognitive Load)`, `기회비용(Opportunity Cost)`, `장기적 관점(Long-term Perspective)`, `진정성(Authenticity)`, `세렌디피티(Serendipity)`
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 *   **개인 브랜딩 및 콘텐츠 사업**:
     *   **서비스 아이디어**: "인생 방향성 재설정 워크숍" 또는 "핵심 집중 컨설팅 프로그램" 개발.
@@ -2395,7 +2395,7 @@ Sandy Ernest Hemingway는 잘 작성하기위한 4 가지 팁을 사용했습니
     *   `Headspace` 또는 `Calm` 앱: 명상 및 마음 챙김 가이드
     *   `TED Talks`: 행복, 성공, 삶의 의미에 대한 다양한 강연
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 실제 사업화 하기 위한 구체적 액션 아이디어
 
@@ -2443,7 +2443,7 @@ The generated content largely follows the requested structure and guidelines. I 
         *   "왜 중요한가"는 실질적인 이점을 잘 설명했습니다.
         *   "주의사항"에서 꾸준함과 인내의 중요성을 강조했습니다.
     *   **참고 자료**: 서적, 온라인 리소스, TED Talks 등 구체적인 예시를 들어 학습 자료로서의 가치를 높였습니다.
-3.  **CTA (Call to Action)**:
+3.  **CTA**:
     *   **사업화 아이디어**: 개인/기업 코칭, 앱 개발, 콘텐츠 커뮤니티 등 다양하고 구체적인 아이디어를 제시했습니다.
     *   **구체적 서비스 사례**: 각 아이디어에 대한 실제 서비스 모델을 제시하여 이해도를 높였습니다.
 
@@ -2536,7 +2536,7 @@ The content seems comprehensive and adheres to all instructions. I will now outp
     *   `Headspace` 또는 `Calm` 앱: 명상 및 마음 챙김 가이드
     *   `TED Talks`: 행복, 성공, 삶의 의미에 대한 다양한 강연
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 실제 사업화 하기 위한 구체적 액션 아이디어
 
@@ -2675,7 +2675,7 @@ The content seems comprehensive and adheres to all instructions. I will now outp
 *   **추천 도서/논문:** (특정 도서 언급은 없으나, 비즈니스 전략, 협상 기술, 리더십 관련 서적을 추천할 수 있음)
 *   **인용:** "I won't do that to you. You're too important to me for me to do that to you and your company because if I do meet that deadline it will be bad for you." (불합리한 고객 요구 거절 시)
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 실제 사업화 하기 위한 구체적 액션 아이디어
 
@@ -2791,7 +2791,7 @@ The content seems comprehensive and adheres to all instructions. I will now outp
     *   "물리학은 법칙이고 나머지는 권고 사항이다." (Physics is a law and everything else is a recommendation.)
     *   "만약 당신이 제조에 정말 능숙하다면, 대량 생산 시 원자재 가치와 필요한 지적 재산권 라이선스 비용에 점근적으로 수렴하는 비용으로 기본적으로 무엇이든 만들 수 있다." (If you are really good at manufacturing, you can basically make at high volume you can basically make anything for a cost that asymptotically approaches the raw material value of the constituents plus any intellectual property that you need to license.)
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 본 문서에서 다룬 일론 머스크의 사고방식은 단순한 이론을 넘어 실제 사업화에 적용될 수 있는 강력한 도구입니다. 다음은 이를 활용한 구체적인 액션 아이디어와 서비스 사례입니다.
 
@@ -2884,7 +2884,7 @@ The content seems comprehensive and adheres to all instructions. I will now outp
 *   **왜 중요한가**: 질투는 개인의 정신 건강을 해치고, 사회 전체의 `연대감`과 `협력`을 저해할 수 있습니다. 따라서 질투를 극복하는 것은 개인의 행복뿐만 아니라 건강한 사회를 만드는 데 필수적입니다.
 *   **주의사항**: 질투를 이용해 이득을 취하려는 사람들에 대한 경계를 늦추지 말아야 합니다. 연사는 "질투에 반대했던 사람들"을 옹호하며, 질투를 통해 이득을 얻으려는 사람들을 비판합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 실제 사업화를 위한 구체적 액션 아이디어
 
@@ -3015,7 +3015,7 @@ The content seems comprehensive and adheres to all instructions. I will now outp
 *   **인용**:
     *   "지옥으로 가는 길은 선의로 포장되어 있다." (The road to hell is paved with good intentions.) - 이 속담은 좋은 의도가 항상 좋은 결과를 낳는 것은 아님을 경고합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 구체적 액션 아이디어
 
@@ -3161,7 +3161,7 @@ The content seems comprehensive and adheres to all instructions. I will now outp
     *   **두카(Duka)**: 불교 용어로, 삶은 고통의 연속이라는 의미. 고통을 감수할 가치가 있는 것을 선택하라는 교훈과 연결됨.
 *   **관련 리소스**: Graham Weaver의 강연 및 Alpine Investors 관련 자료.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 이 비대칭적 삶의 원칙들을 실제 사업과 개인의 성장에 적용하기 위한 구체적인 아이디어는 다음과 같습니다.
 
@@ -3268,7 +3268,7 @@ The content seems comprehensive and adheres to all instructions. I will now outp
 *   **심화 설명**: 배터리는 특정 최대 속도 이상으로 충전될 경우 과열되거나 수명이 단축될 수 있습니다. 따라서 무조건적인 충전 속도 경쟁보다는 배터리 기술의 한계와 안전성을 고려한 적정 충전 속도를 유지하는 것이 중요합니다.
 *   **왜 중요한가**: 충전 속도 경쟁은 중요하지만, 배터리 수명, 안전성, 그리고 장기적인 사용자 경험을 해치지 않는 범위 내에서 이루어져야 합니다. 이는 충전 인프라 개발 및 배터리 기술 연구의 중요한 고려 사항입니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1 사업화 아이디어
 
@@ -3411,7 +3411,7 @@ KKR은 20년 전부터 ESG(환경, 사회, 지배구조)에 대한 약속을 해
 *   **예시/사례**: 이커머스(e-commerce)의 확산, 자동차나 보험 구매 방식의 변화 등은 소비자들이 5년, 10년, 20년 전과는 매우 다르게 행동하고 있음을 보여줍니다. KKR은 이러한 소비자 행동 트렌드를 이해하고, 이에 맞춰 기술(Technology), 헬스케어(Healthcare), 임팩트(Impact) 분야에 성장 펀드를 출시했습니다.
 *   **왜 중요한가**: 젊은 세대의 가치관과 소비 패턴은 장기적인 시장 트렌드를 형성합니다. 이들이 어디에 돈을 쓰고 싶어 하고, 어디에 투자하고 싶어 하는지는 미래의 성장 산업을 예측하는 중요한 지표가 됩니다. 또한, 개인 투자자 차원에서도 대체 투자(Alternatives) 및 사모펀드에 대한 관심이 증가할 것으로 예상됩니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 실제 사업화를 위한 구체적 액션 아이디어
 
@@ -3519,7 +3519,7 @@ KKR은 20년 전부터 ESG(환경, 사회, 지배구조)에 대한 약속을 해
     *   "Getting it done is when it's done, not when it's in somebody else's inbox." - 찰리 멍거 (Charlie Munger)
     *   "The chief advantage that Berkshire has had in accumulating a good record is that we have avoided the pompous bureaucratic systems." - 찰리 멍거 (Charlie Munger)
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 실제 사업화를 위한 구체적 액션 아이디어
 
@@ -3686,7 +3686,7 @@ KKR은 20년 전부터 ESG(환경, 사회, 지배구조)에 대한 약속을 해
 *   **왜 중요한가**: 깊이 있는 비즈니스 저널리즘은 복잡한 경제 현상을 대중에게 명확하게 전달하고, 기업의 투명성을 높이며, 건전한 시장을 형성하는 데 필수적인 역할을 합니다.
 *   **참고 자료**: "You've got to learn about accounting, you've got to learn about how business works."
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 사업화를 위한 구체적 액션 아이디어
 
@@ -3733,7 +3733,7 @@ I have generated the content based on the first round of reasoning. Now I will r
     *   `## 1. 핵심 요약`: Yes, 7 bullet points.
     *   `## 2. 상세 내용`: Yes, divided into logical sections with `##` and `###` headings.
         *   Each sub-section includes: 심화 설명, 예시/사례, 왜 중요한가, 주의사항, 참고 자료 (where applicable).
-    *   `## 3. CTA (Call to Action)`: Yes, 4 specific action ideas with service examples.
+    *   `## 3. CTA`: Yes, 4 specific action ideas with service examples.
 *   **Writing Guidelines**:
     *   **Markdown**: Yes, all in Markdown.
     *   **Heading Hierarchy**: Yes, `##` for main sections, `###` for sub-sections.

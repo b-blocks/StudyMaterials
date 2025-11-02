@@ -97,7 +97,7 @@ AI 분야에서 미국과 중국은 경쟁과 동시에 협력의 필요성을 �
     *   AI 기술의 주요 변화가 현실화될 예상 시점: 5년 이내
     *   중국 AI 기술 발전의 서구 대비 격차: 약 2년
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 AI 기술의 급격한 발전과 그에 따른 기회 및 위험을 고려할 때, 다음과 같은 구체적인 사업화 아이디어를 제안합니다.
 
@@ -210,7 +210,7 @@ AI 기술의 급격한 발전과 그에 따른 기회 및 위험을 고려할 �
 *   **예시/사례**: "today's commencement is not not just not the beginning of one more thing that will end it is the beginning of forever."
 *   **왜 중요한가**: 모든 끝은 새로운 시작이며, 삶은 단절된 사건들의 연속이 아니라 유기적으로 연결된 영원한 과정임을 깨닫는 것이 중요합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 실제 사업화 하기 위한 구체적 액션 아이디어
 
@@ -432,7 +432,7 @@ AI 기술의 급격한 발전과 그에 따른 기회 및 위험을 고려할 �
 
 ---
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 이 강연에서 얻은 통찰을 바탕으로, 당신의 삶과 비즈니스에 적용할 수 있는 구체적인 액션 아이디어를 제안합니다.
 
@@ -539,7 +539,7 @@ AI 기술의 급격한 발전과 그에 따른 기회 및 위험을 고려할 �
 *   **왜 중요한가**: AGI는 인류에게 막대한 영향력을 행사할 것이므로, 그 핵심 가치와 윤리적 기반이 매우 중요합니다. 진실을 추구하는 AI는 신뢰할 수 있는 정보와 판단을 제공하여 인류의 발전에 기여할 수 있습니다. 반대로, 거짓말을 하도록 프로그래밍된 AI는 사회에 혼란과 해악을 끼칠 수 있습니다.
 *   **책임감**: XAI가 AGI를 구축한다면, 그 책임감을 깊이 느끼고 있으며, 다른 경쟁자들도 뒤처지지 않을 것이라고 언급합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### AI 및 로봇 공학 사업화를 위한 구체적 액션 아이디어
 
@@ -620,7 +620,7 @@ AI 기술의 급격한 발전과 그에 따른 기회 및 위험을 고려할 �
 
 *   **주의사항**: 능력주의는 효율성과 혁신을 촉진할 수 있지만, 자칫 사회적 불평등을 심화시키거나, 특정 집단에 대한 편견을 정당화하는 도구로 오용될 수 있다는 비판적 시각도 함께 고려해야 합니다. 사회적 약자에 대한 배려와 기회 균등의 원칙이 능력주의와 조화를 이루어야 합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 아시아의 부상이라는 거대한 흐름 속에서 지속적인 성장과 경쟁력 확보를 위한 구체적인 액션 아이디어와 서비스 사례는 다음과 같습니다.
 
@@ -651,7 +651,7 @@ I have generated the content based on the initial outline. Now I will review it 
     *   `## 1. 핵심 요약`: Yes, 6 bullet points.
     *   `## 2. 상세 내용`: Yes, divided into 3 main sections with `###` headings.
         *   Each section has: 심화 설명, 예시/사례, 왜 중요한가, 주의사항.
-    *   `## 3. CTA (Call to Action)`: Yes, with action ideas and specific service examples.
+    *   `## 3. CTA`: Yes, with action ideas and specific service examples.
 
 2.  **Formatting Guidelines**:
     *   Markdown: Yes.
@@ -719,7 +719,7 @@ I am confident with this output.## 1. 핵심 요약
 
 *   **주의사항**: 능력주의는 효율성과 혁신을 촉진할 수 있지만, 자칫 사회적 불평등을 심화시키거나, 특정 집단에 대한 편견을 정당화하는 도구로 오용될 수 있다는 비판적 시각도 함께 고려해야 합니다. 사회적 약자에 대한 배려와 기회 균등의 원칙이 능력주의와 조화를 이루어야 합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 아시아의 부상이라는 거대한 흐름 속에서 지속적인 성장과 경쟁력 확보를 위한 구체적인 액션 아이디어와 서비스 사례는 다음과 같습니다.
 
@@ -825,7 +825,7 @@ I am confident with this output.## 1. 핵심 요약
     *   "All startups are deeply broken on the inside." (모든 스타트업은 내부적으로 깊이 고장 나 있다.)
     *   "The best ideas are counterintuitive." (최고의 아이디어는 역설적이다.)
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 *   **제품 개발 집중**: 당신의 제품이 소수의 사용자에게 '없어서는 안 될' 존재가 되도록 초기부터 깊은 사용자 경험에 집중하세요. MVP(Minimum Viable Product)를 넘어 `MLP(Minimum Lovable Product)`를 목표로 하여, 사용자들이 제품이 사라지면 '정말 실망할' 정도로 몰입하게 만드십시오.
 *   **성장 전략 재정의**: 유료 광고나 마케팅 캠페인에 앞서, 제품의 핵심 가치를 지속적으로 강화하여 사용자들이 자발적으로 제품을 추천하게 만드세요. `입소문(Word-of-Mouth)`을 최우선 성장 동력으로 삼고, 이를 측정하고 증폭시킬 방법을 모색하십시오.
@@ -906,7 +906,7 @@ I am confident with this output.## 1. 핵심 요약
 *   **유용한 웹사이트**: Neuralink 공식 웹사이트 (www.neuralink.com) - 최신 연구 결과 및 제품 정보 확인
 *   **추천 도서**: "인간은 왜 뇌를 쓰는가" (뇌 과학의 기초 이해), "AI 시대의 인간" (인간-AI 공생에 대한 철학적 고찰)
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 Neuralink 기술의 상업화 및 사회적 확산을 위한 구체적인 액션 아이디어와 서비스 사례는 다음과 같습니다.
 
@@ -1019,7 +1019,7 @@ Neuralink Up Live Update에 오신 것을 환영합니다. 우리는 Neural Link
 *   **추천 도서나 논문**: 기술 혁신과 투자에 관한 고전적인 서적, 지정학적 리스크 분석 관련 논문 등을 통해 심층적인 이해를 도모할 수 있습니다.
 *   **인용**: 본 자료에 인용된 `스탠리 드러켄밀러`와 같은 유명 투자자들의 발언은 투자 철학을 이해하는 데 중요한 통찰을 제공합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 *   **AI 기반 산업 분석 플랫폼 개발**: AI 기술의 `빌딩 블록`(데이터 센터, 전력 인프라 등)에 대한 투자 기회를 분석하고 시각화하는 플랫폼을 개발합니다. 특정 산업의 AI 의존도 및 관련 인프라 투자 동향을 실시간으로 제공하여 투자자들에게 심층적인 인사이트를 제공할 수 있습니다.
 *   **글로벌 기술 인재 및 스타트업 발굴 컨설팅**: 유럽과 같이 인재 유출 및 자금 조달이 어려운 지역의 유망 스타트업을 발굴하여 `미국 시장 진출`을 돕거나, 투자 유치를 연결하는 컨설팅 서비스를 제공합니다. 이는 글로벌 기술 생태계의 균형 발전에 기여할 수 있습니다.
@@ -1089,7 +1089,7 @@ Neuralink Up Live Update에 오신 것을 환영합니다. 우리는 Neural Link
 #### 주의사항: 새로운 세계를 두려워하지 마라
 졸업은 익숙한 세계를 뒤로하고 새로운 세계를 찾아 나서는 과정입니다. 이는 두렵고 불확실할 수 있지만, 동시에 `놀랍도록 흥미진진한` 일입니다. 여러분은 과거의 무엇이 아니라, 미래의 `기록 경신자`, `세계 여행가`, `자원봉사자`, `자선사업가`, `승리자`, 그리고 `리더`입니다. 어떤 게임을 선택하든 최선을 다하고, 기회를 잡고, 자유롭게 플레이하며, 무엇보다 서로에게 친절하고 즐겁게 임해야 합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 이 학습 자료에서 얻은 통찰력을 바탕으로, 실제 사업화 및 개인 성장을 위한 구체적인 액션 아이디어를 제안합니다.
 
@@ -1271,7 +1271,7 @@ NVIDIA의 여정은 기술 혁신뿐만 아니라, 개인의 삶과 경력에 �
     *   "If we don't build it, they can't come." - Jensen Huang (NVIDIA의 딥러닝 투자 결정에 대해)
     *   "Your pain and suffering will strengthen your character, your resilience and agility, and they are the ultimate superpowers." - Jensen Huang
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 이 강연에서 얻은 통찰을 바탕으로 실제 사업화 및 개인 성장을 위한 구체적인 액션 아이디어를 제안합니다.
 
@@ -1415,7 +1415,7 @@ NVIDIA의 여정은 기술 혁신뿐만 아니라, 개인의 삶과 경력에 �
 > "I'm focusing on those things that I think make Amazon unusual... genuine customer Obsession... invention... willingness to think long term... operational excellence reducing defects at their root."
 > "think about the fundamentals of the business and not the daily fluctuations in the stock price."
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 이 학습 자료에서 다룬 원칙들은 개인의 삶의 방향 설정부터 기업의 경영 전략에 이르기까지 광범위하게 적용될 수 있습니다. 다음은 이러한 통찰을 실제 사업화로 연결하기 위한 구체적인 액션 아이디어와 서비스 사례입니다.
 
@@ -1524,7 +1524,7 @@ NVIDIA의 여정은 기술 혁신뿐만 아니라, 개인의 삶과 경력에 �
 *   **추천 도서나 논문**: 앨런 머스크의 전기(傳記)나 그가 언급한 기술 분야(전기차, 로켓 공학, 지속 가능한 에너지)에 대한 전문 서적을 통해 심층적인 지식을 습득할 수 있습니다.
 *   **중요한 수치, 데이터, 통계**: 본문에서 언급된 0-60mph 가속 시간, 에너지 효율, 생산 목표치 등은 해당 기술의 성능과 시장 잠재력을 이해하는 데 중요한 지표입니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 *   **전기차 충전 인프라 및 서비스 사업 확장**: 테슬라의 성공은 전기차 보급의 가속화를 의미합니다. 전기차 충전소 설치 및 운영 사업, 특히 고속 충전 네트워크 구축에 투자하여 미래 모빌리티 시장의 핵심 인프라를 선점할 수 있습니다. 또한, 전기차 유지보수 및 배터리 관리 서비스 등 부가 가치 서비스를 개발하여 수익 모델을 다각화합니다.
 *   **지속 가능한 에너지 통합 솔루션 제공**: SolarCity의 사례처럼, 주택 및 상업용 태양광 설치 컨설팅 및 시공 서비스를 제공하여 에너지 자립을 돕고 탄소 배출량 감소에 기여할 수 있습니다. 여기에 에너지 저장 장치(ESS) 연동, 스마트 그리드 솔루션 등을 통합하여 고객에게 포괄적인 지속 가능한 에너지 솔루션을 제공합니다.
@@ -1609,7 +1609,7 @@ NVIDIA의 여정은 기술 혁신뿐만 아니라, 개인의 삶과 경력에 �
     *   **실행과 유용성**: 회사를 만드는 것은 실행이 중요하며, "다른 사람들에게 유용한 일을 하고 있는가?"라는 질문을 끊임없이 던지며 제품이나 서비스를 개선해야 합니다. 회사는 고객에게 진정으로 유용한 제품이나 서비스를 생산하기 위해 모인 사람들의 집단입니다.
 *   **궁극적인 삶의 목표**: 자신의 행동이 세상에 좋은 영향을 미치고 유용하게 쓰이는 삶을 살고 싶다고 말합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 실제 사업화 하기 위한 구체적 액션 아이디어
 
@@ -1706,7 +1706,7 @@ NVIDIA의 여정은 기술 혁신뿐만 아니라, 개인의 삶과 경력에 �
 *   **왜 중요한가:** AI는 `기존 산업을 재편`하고 `새로운 시장을 창출`하고 있습니다. 젊은 창업가들은 `기존의 관습`에 얽매이지 않고 `새로운 기술`을 빠르게 습득하고 적용할 수 있어, 이 `황금기`를 가장 잘 활용할 수 있습니다.
 *   **주의사항:** 많은 스타트업이 실패하지만, AI 시대에는 `제로에서 원(0 to 1)`으로 가는 결정적인 순간이 더 많아질 수 있습니다.
 
-### 3. CTA (Call to Action)
+### 3. CTA
 
 이 학습 자료를 통해 얻은 통찰을 바탕으로, 젊은 창업가들이 실제 사업화를 위한 구체적인 액션을 취할 수 있도록 다음 아이디어를 제안합니다.
 
@@ -1755,7 +1755,7 @@ Here's a quick self-correction/review:
 1.  **Structure:**
     *   `## 1. 핵심 요약`: Yes, 7 bullet points.
     *   `## 2. 상세 내용`: Yes, divided into sub-sections with `###` headings. Each sub-section includes `심화 설명`, `예시/사례`, `왜 중요한가`, `주의사항`.
-    *   `## 3. CTA (Call to Action)`: Yes, 4 action ideas with `구체적 서비스 사례`.
+    *   `## 3. CTA`: Yes, 4 action ideas with `구체적 서비스 사례`.
     *   `참고 자료` and `인용` sections are also included as requested.
 
 2.  **Formatting:**
@@ -1822,7 +1822,7 @@ The draft seems to meet all the requirements. I will now output the generated le
 *   **왜 중요한가:** AI는 `기존 산업을 재편`하고 `새로운 시장을 창출`하고 있습니다. 젊은 창업가들은 `기존의 관습`에 얽매이지 않고 `새로운 기술`을 빠르게 습득하고 적용할 수 있어, 이 `황금기`를 가장 잘 활용할 수 있습니다.
 *   **주의사항:** 많은 스타트업이 실패하지만, AI 시대에는 `제로에서 원(0 to 1)`으로 가는 결정적인 순간이 더 많아질 수 있습니다.
 
-### 3. CTA (Call to Action)
+### 3. CTA
 
 이 학습 자료를 통해 얻은 통찰을 바탕으로, 젊은 창업가들이 실제 사업화를 위한 구체적인 액션을 취할 수 있도록 다음 아이디어를 제안합니다.
 
@@ -1942,7 +1942,7 @@ The draft seems to meet all the requirements. I will now output the generated le
 *   **왜 중요한가:** 리더의 개인적인 가치관과 삶의 철학은 조직 문화와 구성원들에게 큰 영향을 미칩니다. 다이먼의 조언은 성공적인 경력과 만족스러운 삶을 동시에 추구하는 데 필요한 지혜를 제공합니다.
 *   **주의사항:** "모든 것을 가질 수 있지만, 동시에 모든 것을 가질 수는 없다"는 여성의 연설을 인용하며, 삶의 우선순위와 균형의 중요성을 다시 한번 강조합니다. 그의 궁극적인 목표는 가족과 국가에 대한 헌신, 그리고 JP Morgan을 떠난 후에도 '세상을 더 나은 곳으로 만들고 기회를 창출한 사람'으로 기억되는 것입니다.
 
-### 3. CTA (Call to Action)
+### 3. CTA
 
 JP Morgan Chase CEO 제이미 다이먼의 통찰은 급변하는 금융 환경 속에서 기업과 개인이 나아가야 할 방향에 대한 중요한 시사점을 제공합니다. 이를 바탕으로 다음과 같은 사업화 아이디어를 제안합니다.
 
@@ -2031,7 +2031,7 @@ JP Morgan Chase는 시가 총액으로 세계에서 가장 큰 은행이며 2023
 *   **인용:** "I don't think anyone in the industry can really tell you that it will continue scaling at that rate for sure." (업계 누구도 이러한 속도로 스케일링이 확실히 계속될 것이라고 말할 수 없을 것입니다.)
 *   **왜 중요한가:** AI 산업의 지속 가능한 성장을 위해서는 기술 혁신뿐만 아니라, 에너지 효율성, 인프라 구축, 그리고 정책적 지원이 통합적으로 고려되어야 합니다. 이는 단순히 자본을 투입하는 것만으로는 해결되지 않는 복합적인 문제입니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### AI 시대의 새로운 비즈니스 기회
 
@@ -2136,7 +2136,7 @@ AI 스케일링의 에너지 병목은 동시에 새로운 비즈니스 기회�
 *   **인용:** "I don't think anyone in the industry can really tell you that it will continue scaling at that rate for sure." (업계 누구도 이러한 속도로 스케일링이 확실히 계속될 것이라고 말할 수 없을 것입니다.)
 *   **왜 중요한가:** AI 산업의 지속 가능한 성장을 위해서는 기술 혁신뿐만 아니라, 에너지 효율성, 인프라 구축, 그리고 정책적 지원이 통합적으로 고려되어야 합니다. 이는 단순히 자본을 투입하는 것만으로는 해결되지 않는 복합적인 문제입니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### AI 시대의 새로운 비즈니스 기회
 
@@ -2296,7 +2296,7 @@ AI 스케일링의 에너지 병목은 동시에 새로운 비즈니스 기회�
 *   **중요한 수치, 데이터, 통계**:
     *   (본 자막에서는 구체적인 수치나 데이터가 언급되지 않았으므로, 이 섹션은 비워둡니다. 실제 자료 작성 시에는 관련 데이터를 추가할 수 있습니다.)
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 찰리 멍거의 지혜를 바탕으로 실제 사업화를 위한 구체적인 액션 아이디어를 제안합니다.
 
@@ -2426,7 +2426,7 @@ AI 스케일링의 에너지 병목은 동시에 새로운 비즈니스 기회�
 *   **중요한 수치, 데이터, 통계**:
     *   (본 자막에서는 구체적인 수치나 데이터가 언급되지 않았으므로, 이 섹션은 비워둡니다. 실제 자료 작성 시에는 관련 데이터를 추가할 수 있습니다.)
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 찰리 멍거의 지혜를 바탕으로 실제 사업화를 위한 구체적인 액션 아이디어를 제안합니다.
 
@@ -2531,7 +2531,7 @@ Notion의 디자인 철학은 단순히 미학적인 것을 넘어, 깊은 가�
 *   **Forbes AI 50 리스트**: Notion이 AI 분야에서 인정받고 있음을 보여주는 자료.
 *   **알토(Aalto) 디자인**: 시대를 초월하는 디자인 철학에 대한 이해를 돕는 참고 자료.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 Notion의 유연성, AI 통합, 그리고 독특한 경영 철학은 다양한 사업화 기회를 제공합니다. 다음은 구체적인 액션 아이디어와 서비스 사례입니다.
 
@@ -2633,7 +2633,7 @@ Notion의 유연성, AI 통합, 그리고 독특한 경영 철학은 다양한 �
 #### 주의사항:
 기술 발전의 속도는 빠르지만, 여전히 해결해야 할 `복잡한 문제`들이 많습니다. 예를 들어, `탄도학`, `지형 이해` 등 다양한 물리적, 환경적 변수를 정확하게 처리하는 것은 지속적인 연구와 개발을 필요로 합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 *   **`첫 번째 원칙 사고` 워크숍 개발**: 기업의 리더 및 혁신 팀을 대상으로 `첫 번째 원칙 사고` 방법론을 교육하고 실제 문제에 적용하는 심층 워크숍 프로그램을 개발합니다. 특히 기존 산업의 `지역 최적점`에 갇힌 기업들에게 새로운 관점을 제시합니다.
 *   **자율 주행 하드웨어/소프트웨어 통합 설계 컨설팅**: `알고리즘 변동성`과 `비용 제약`이라는 이중 과제를 해결하기 위한 `오토파일럿 칩` 및 `시스템 설계`에 대한 전문 컨설팅 서비스를 제공합니다. `특수화`와 `일반화` 사이의 최적 균형점을 찾는 데 중점을 둡니다.
@@ -2725,7 +2725,7 @@ Autopilot Chip Design과 Hardware Design을 사용하여 Intel AMD Apple에서 �
     *   화자의 `75년간의 투자 경험`은 장기적인 시장 변화를 이해하는 데 중요한 통찰을 제공합니다.
     *   `13년간의 법률 업무` 후 투자 자산이 본업 수입을 초과했다는 개인적 경험은 `재정적 독립`의 가능성을 시사합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 실제 사업화 하기 위한 구체적 액션 아이디어
 
@@ -2754,7 +2754,7 @@ I have generated the content based on the initial plan. Now I will review it aga
     *   `## 1. 핵심 요약`: Yes, 7 bullet points.
     *   `## 2. 상세 내용`: Yes, divided into 5 main sections with `###` headings. Each section includes 심화 설명, 예시/사례, 왜 중요한가, 주의사항.
     *   `### 2.6. 참고 자료`: Yes, includes 웹사이트, 도서, 인용, 데이터.
-    *   `## 3. CTA (Call to Action)`: Yes, includes 액션 아이디어와 서비스 사례.
+    *   `## 3. CTA`: Yes, includes 액션 아이디어와 서비스 사례.
 
 2.  **Formatting Guidelines**:
     *   Markdown: Yes.
@@ -2846,7 +2846,7 @@ The content seems to meet all the requirements. I'm ready to output the response
     *   화자의 `75년간의 투자 경험`은 장기적인 시장 변화를 이해하는 데 중요한 통찰을 제공합니다.
     *   `13년간의 법률 업무` 후 투자 자산이 본업 수입을 초과했다는 개인적 경험은 `재정적 독립`의 가능성을 시사합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 실제 사업화 하기 위한 구체적 액션 아이디어
 
@@ -2961,7 +2961,7 @@ The content seems to meet all the requirements. I'm ready to output the response
     *   "트랜스포머를 돌리기 위해 트랜스포머가 필요하다." - 엘론 머스크 (AI 전력 수요에 대한 농담)
     *   "우리는 역사상 가장 흥미로운 시대에 살고 있다." - 엘론 머스크
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 실제 사업화를 위한 구체적 액션 아이디어
 
@@ -3005,7 +3005,7 @@ I have generated the content based on the initial reasoning. Now I need to revie
 3.  **Content Relevance:** Checked. All content is derived from the transcript. No irrelevant information.
 4.  **Depth and Detail:** The "상세 내용" section provides explanations, deeper insights, examples, importance, and caveats for each topic, fulfilling the "깊이 있는 학습과 이해를 위한 완전한 교육 자료" requirement.
 5.  **"핵심 요약" (5-7 bullet points):** Currently, I have 7 bullet points. This is good.
-6.  **"CTA (Call to Action)":** I have provided 5 distinct ideas with specific service examples, which aligns with "실제 사업화 하기 위한 구체적 액션 아이디어" and "구체적 서비스 사례".
+6.  **"CTA":** I have provided 5 distinct ideas with specific service examples, which aligns with "실제 사업화 하기 위한 구체적 액션 아이디어" and "구체적 서비스 사례".
 7.  **Language:** Korean is used throughout.
 8.  **Clarity and Conciseness:** The language is clear and direct.
 9.  **Reference Materials:** Added "참고 자료" section with websites, books, and quotes.
@@ -3099,7 +3099,7 @@ The current output looks good and meets all the requirements.## 1. 핵심 요약
     *   "트랜스포머를 돌리기 위해 트랜스포머가 필요하다." - 엘론 머스크 (AI 전력 수요에 대한 농담)
     *   "우리는 역사상 가장 흥미로운 시대에 살고 있다." - 엘론 머스크
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 실제 사업화를 위한 구체적 액션 아이디어
 
@@ -3215,7 +3215,7 @@ The current output looks good and meets all the requirements.## 1. 핵심 요약
 *   **스티브 잡스 (Steve Jobs)**: 애플의 공동 창업자로, 혁신적인 제품과 과감한 의사결정으로 유명합니다. 그의 경영 철학은 `제로베이스` 사고와 `재설계`의 중요성을 강조합니다.
 *   **애자일 개발 (Agile Development)**: 변화에 유연하게 대응하고 지속적인 개선을 추구하는 소프트웨어 개발 방법론. 재설계와 리팩토링을 자연스러운 과정으로 받아들입니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 구체적 액션 아이디어
 
@@ -3325,7 +3325,7 @@ The current output looks good and meets all the requirements.## 1. 핵심 요약
 *   **왜 중요한가**: 실패에 대한 두려움을 줄이고, 꾸준히 노력하며, 후회 없는 삶을 살 수 있도록 돕습니다. 이는 장기적인 성장과 행복에 기여합니다.
 *   **주의사항**: 목표 설정의 중요성을 간과해서는 안 되지만, 목표 달성 여부보다 과정에서의 성장과 노력을 더 중요하게 여기는 균형 잡힌 시각이 필요합니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 실제 사업화 하기 위한 구체적 액션 아이디어
 
@@ -3421,7 +3421,7 @@ Masayoshi Son은 기업가 정신이 타고나는 것이 아니라 `학습될 �
 *   **데이터**:
     *   SoftBank Vision Fund의 투자 규모 및 포트폴리오 기업 현황 (SoftBank Group 연간 보고서 참조)
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 실제 사업화 하기 위한 구체적 액션 아이디어
 
@@ -3524,7 +3524,7 @@ Masayoshi Son은 기업가 정신이 타고나는 것이 아니라 `학습될 �
     *   `A-player` 이론: 조직에서 상위 10%의 성과를 내는 핵심 인재를 의미.
     *   `Skip-level feedback`: 중간 관리자를 건너뛰고 상위 관리자가 하위 직원과 직접 소통하는 방식.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 실제 사업화를 위한 구체적 액션 아이디어
 
@@ -3657,7 +3657,7 @@ Masayoshi Son은 기업가 정신이 타고나는 것이 아니라 `학습될 �
     *   Y Combinator Startup School: 스타트업 창업자를 위한 무료 온라인 강좌 및 자료.
     *   First Round Review: 스타트업 운영 및 성장에 대한 심층 기사.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 실제 사업화를 위한 구체적 액션 아이디어
 
@@ -3766,7 +3766,7 @@ AI 기술이 발전하면서, 기업들은 범용적인 `off-the-shelf AI` 솔�
     *   "나는 매일 아침 걱정하며 일어납니다." - 젠슨 황
     *   "기업가들의 무지는 완전히 도움이 되지만, 완전히 틀렸습니다. 생각보다 훨씬 어렵습니다." - 젠슨 황
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 실제 사업화를 위한 구체적 액션 아이디어
 

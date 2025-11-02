@@ -1,6 +1,4 @@
-# EBS_다큐프라임_자본주의_5부작
-
-## EBS 다큐프라임_자본주의 1부_돈은 빚이다
+# EBS 다큐프라임_자본주의 1부_돈은 빚이다
 **** https://www.youtube.com/watch?v=FUXT_m6nzhg
 
 ## 1. 핵심 요약
@@ -111,10 +109,8 @@
     *   `FRB`
     *   `빚 보존 법칙`
 
-## EBS 다큐프라임 자본주의 제2부 소비는 감정이다
+# EBS 다큐프라임 자본주의 제2부 소비는 감정이다
 **** https://www.youtube.com/watch?v=JswklI5vrBk
-
-# EBS 다큐프라임 자본주의 제2부 - 소비는 감정이다
 
 ## 1. 핵심 요약
 
@@ -230,10 +226,8 @@
 - `경험 소비 (Experiential Consumption)`
 - `감정 마케팅 (Emotional Marketing)`
 
-## 자본주의 제3부 금융지능은 있는가
-**** https://www.youtube.com/watch?v=Iu-w6STAz64
-
 # 자본주의 제3부 금융지능은 있는가
+**** https://www.youtube.com/watch?v=Iu-w6STAz64
 
 ## 1. 핵심 요약
 
@@ -362,10 +356,8 @@
 - `서브프라임 모기지`
 - `금융소비자보호법`
 
-## 자본주의 제4부 세상을 바꾼 위대한 철학들
-**** https://www.youtube.com/watch?v=LaGYPiGXynU
-
 # 자본주의 제4부 세상을 바꾼 위대한 철학들
+**** https://www.youtube.com/watch?v=LaGYPiGXynU
 
 ## 1. 핵심 요약
 
@@ -460,10 +452,8 @@
 #### 검색 키워드 제안
 - `고전 경제학`, `중상주의와 중농주의`, `노동가치론`, `보이지 않는 손 오해`, `변증법적 유물론`, `소외`, `잉여가치 계산`, `자본주의 공황`
 
-## EBS 다큐프라임 자본주의 제5부 국가는 무엇을 해야하는가
+# EBS 다큐프라임 자본주의 제5부 국가는 무엇을 해야하는가
 **** https://www.youtube.com/watch?v=-E9nCQbHRPM
-
-# EBS 다큐프라임 자본주의 제5부 - 국가는 무엇을 해야 하는가
 
 ## 1. 핵심 요약
 

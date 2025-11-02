@@ -1,4 +1,4 @@
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 사업화를 위한 구체적 액션 아이디어
 
@@ -218,7 +218,7 @@
     *   "A great lesson of life is get the hell out of your life and do it fast." (찰리 멍거, 유해한 사람들에 대해)
     *   "You don't want to be a no emotion person in all of your life but you you definitely want to be a no more no emotion person making in investment or business decision." (워렌 버핏)
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 실제 사업화 하기 위한 구체적 액션 아이디어
 
@@ -368,7 +368,7 @@
     *   워렌 버핏(Warren Buffett) (평생 학습과 투자 성공)
     *   모차르트(Mozart) (자기중심적 편향과 재정 관리)
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 ### 3.1. 실제 사업화를 위한 구체적 액션 아이디어
 
@@ -465,7 +465,7 @@ Elon Musk는 인공지능의 잠재적 위험성을 핵무기에 비유하며 �
     *   **인용**: "Tesla will also sort of be the leader of autonomous cars at least cars that people can buy." - Elon Musk (테슬라가 구매 가능한 자율주행차 시장의 리더가 될 것이라는 비전)
     *   **데이터**: 전 세계 자동차 산업의 연간 생산량은 약 1억 대이며, 이는 기술 전환의 속도를 가늠하는 중요한 지표입니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 자율주행차 시대는 단순한 기술 변화를 넘어 사회 전반의 패러다임을 전환할 거대한 기회입니다. 이 변화의 물결 속에서 다음과 같은 구체적인 액션 아이디어를 통해 새로운 사업 기회를 모색할 수 있습니다.
 
@@ -539,7 +539,7 @@ Elon Musk는 인공지능의 잠재적 위험성을 핵무기에 비유하며 �
     *   **인용**: "Tesla will also sort of be the leader of autonomous cars at least cars that people can buy." - Elon Musk (테슬라가 구매 가능한 자율주행차 시장의 리더가 될 것이라는 비전)
     *   **데이터**: 전 세계 자동차 산업의 연간 생산량은 약 1억 대이며, 이는 기술 전환의 속도를 가늠하는 중요한 지표입니다.
 
-## 3. CTA (Call to Action)
+## 3. CTA
 
 자율주행차 시대는 단순한 기술 변화를 넘어 사회 전반의 패러다임을 전환할 거대한 기회입니다. 이 변화의 물결 속에서 다음과 같은 구체적인 액션 아이디어를 통해 새로운 사업 기회를 모색할 수 있습니다.
 

@@ -516,7 +516,7 @@ Roblox Studio에서 더미를 내보낼 때, 특정 월드 좌표에 고정하�
 *   **주의사항:** 커스텀 매치메이킹은 강력한 기능이지만, 잘못된 설정은 플레이어 이탈로 이어질 수 있습니다. 지속적인 테스트와 플레이
 
 # Roblox 광원(Light Sources) 마스터 가이드
-## How to use light sources on Roblox
+How to use light sources on Roblox
 **** https://www.youtube.com/watch?v=ARlkfuisU1w
 
 ## 1. 개요
@@ -658,7 +658,7 @@ Roblox에서 사용할 수 있는 세 가지 주요 광원 유형은 각각 고�
     *   **주의사항:** 그림자를 활성화하면 렌더링 비용이 증가하므로, 저사양 기기를 대상으로 하는 경우 신
 
 # Roblox 실시간 천 시뮬레이션 및 재단 프로토타입: Taylor Swiftly
-## Tailor Swiftly - Dynamic Cloth in Roblox
+Tailor Swiftly - Dynamic Cloth in Roblox
 **** https://www.youtube.com/watch?v=pc9KZbkYv4E
 
 ## 1. 개요
@@ -1942,7 +1942,7 @@ Here's a breakdown of the task and my plan:
     1.  개요
     2.  핵심 요약
     3.  상세 내용 - with logical sections,/### headings, concept -> example -> application flow, emphasized data, quotes. Each section must include: 핵심 개념, 왜 중요한가, 심화 설명, 예시/사례, 주의사항.
-    4.  용어 해설 (Glossary) - table format, Korean explanation, English original.
+    4.  용어 해설 - table format, Korean explanation, English original.
     5.  핵심 학습 포인트 (Key Takeaways) - 3-5 points, detailed explanation, practical/exam emphasis.
     6.  실용적 적용 (Practical Applications) - 실무 적용, 학습 방법, 연관 주제.
     7.  참고 자료 - books, papers, websites, tutorials, keywords.
