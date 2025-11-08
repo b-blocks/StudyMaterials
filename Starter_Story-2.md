@@ -549,7 +549,7 @@ Jake는 콜드 아웃리치(cold outreach)나 콜드 콜(cold call) 없이 클�
 *   **예시/사례:**
     *   "Those VCs then kicked us out of their office."
     *   "The interns that we hired both quit on the same day."
-    *   "We tried to get funding and we got rejected like many many many times."
+    *   "We tried to get funding and we got rejected like many times."
     *   "We apply and... we get in to this interview round... I looked at this email and it was like, sorry... unfortunately this batch you haven't been selected."
     *   "We don't understand why you haven't charged your users... Bang on. 9:00 a.m. Monday morning, we sent them an email like, 'Hey guys, thank you so much for your feedback. We implemented it. We got 20 paid users. Would you reconsider?'"
 *   **주의사항:** 거절은 개인적인 실패가 아니라, 개선의 기회로 삼을 수 있는 피드백으로 받아들이는 태도가 중요합니다.

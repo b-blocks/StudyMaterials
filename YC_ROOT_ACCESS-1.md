@@ -2771,7 +2771,7 @@ Volley가 '제품-시장 적합성(product market fit)'을 찾기 위해 '오랜
     *   **반복(Iterating):** 제품 개발 과정에서 아이디어를 빠르게 구현하고, 사용자 피드백을 받아 개선하는 과정을 반복하는 애자일(Agile) 개발 방법론의 핵심 요소입니다.
 *   **예시/사례:**
     > "we were like a two-person company for a long time um and that was because like we were just kind of iterating that we kind of really found product Market fit"
-    > "the first person we actually hired was this like person like you know he was like 19... never talked to a customer before but just kind of like like building things and and right now he kind of um obviously a little older but but but sort of um you know very much is like um uh you know every day uh the first thing he does uh on our daily kind of slack is like here's what like uh here's like the crazy insights I learned from like customers"
+    > "the first person we actually hired was this like person like you know he was like 19... never talked to a customer before but just kind of like like building things and and right now he kind of um obviously a little older but sort of um you know very much is like um uh you know every day uh the first thing he does uh on our daily kind of slack is like here's what like uh here's like the crazy insights I learned from like customers"
     > "that kind of shift that mentality from like not knowing how to like and this person was not like a first uh first language like uh English speaker either and so it was like kind of like for him it was like a combination of all of those things to come in and and um you know uh get himself up to speed then also like make sure uh he brought everybody along for that same customer Journey"
 *   **주의사항:** 고객 인사이트는 단순히 수집하는 것을 넘어, 이를 분석하고 제품 개발에 효과적으로 반영하는 과정이 중요합니다. 또한, 모든 고객의 의견을 맹목적으로 따르기보다는 핵심적인 니즈를 파악하는 통찰력이 필요합니다.
 
