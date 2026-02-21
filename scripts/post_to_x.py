@@ -7,6 +7,8 @@ import argparse
 import base64
 import hashlib
 import json
+import os
+import re
 import secrets
 import sys
 import time
@@ -31,12 +33,12 @@ def load_env_file(path: Path) -> None:
         key, value = line.split("=", 1)
         key = key.strip()
         value = value.strip().strip("'").strip('"')
-        if key and key not in __import__("os").environ:
-            __import__("os").environ[key] = value
+        if key and key not in os.environ:
+            os.environ[key] = value
 
 
 def env(name: str, required: bool = False, default: str | None = None) -> str | None:
-    value = __import__("os").environ.get(name, default)
+    value = os.environ.get(name, default)
     if required and not value:
         raise ValueError(f"Missing required environment variable: {name}")
     return value
@@ -187,13 +189,117 @@ def run_auth_flow(
     )
 
 
-def post_tweet(api_base: str, access_token: str, text: str) -> dict:
+def post_tweet(
+    api_base: str,
+    access_token: str,
+    text: str,
+    reply_to_tweet_id: str | None = None,
+) -> dict:
+    body: dict[str, dict | str] = {"text": text}
+    if reply_to_tweet_id:
+        body["reply"] = {"in_reply_to_tweet_id": reply_to_tweet_id}
+
     return request_json(
         url=f"{api_base}/2/tweets",
         method="POST",
         headers={"Authorization": f"Bearer {access_token}"},
-        json_body={"text": text},
+        json_body=body,
     )
+
+
+def detect_char_limit(text: str) -> int:
+    if re.search(r"[가-힣ㄱ-ㅎㅏ-ㅣ]", text):
+        return 140
+    return 280
+
+
+def split_long_fragment(fragment: str, limit: int) -> list[str]:
+    if len(fragment) <= limit:
+        return [fragment]
+
+    words = fragment.split()
+    if len(words) <= 1:
+        return [fragment[i : i + limit] for i in range(0, len(fragment), limit)]
+
+    chunks: list[str] = []
+    current = ""
+    for word in words:
+        if len(word) > limit:
+            if current:
+                chunks.append(current)
+                current = ""
+            chunks.extend([word[i : i + limit] for i in range(0, len(word), limit)])
+            continue
+        candidate = word if not current else f"{current} {word}"
+        if len(candidate) <= limit:
+            current = candidate
+        else:
+            chunks.append(current)
+            current = word
+    if current:
+        chunks.append(current)
+    return chunks
+
+
+def split_text_for_thread(text: str, limit: int) -> list[str]:
+    normalized = " ".join(text.strip().split())
+    if not normalized:
+        return []
+    if len(normalized) <= limit:
+        return [normalized]
+
+    sentence_like = [
+        part.strip()
+        for part in re.split(r"(?<=[.!?。！？])\s+", normalized)
+        if part.strip()
+    ]
+    if not sentence_like:
+        sentence_like = [normalized]
+
+    chunks: list[str] = []
+    current = ""
+    for sentence in sentence_like:
+        if len(sentence) > limit:
+            if current:
+                chunks.append(current)
+                current = ""
+            chunks.extend(split_long_fragment(sentence, limit))
+            continue
+
+        candidate = sentence if not current else f"{current} {sentence}"
+        if len(candidate) <= limit:
+            current = candidate
+        else:
+            chunks.append(current)
+            current = sentence
+    if current:
+        chunks.append(current)
+    return chunks
+
+
+def post_thread(api_base: str, access_token: str, text: str) -> list[str]:
+    limit = detect_char_limit(text)
+    chunks = split_text_for_thread(text, limit)
+    if not chunks:
+        raise RuntimeError("Text is empty after normalization.")
+
+    posted_ids: list[str] = []
+    parent_id: str | None = None
+    for idx, chunk in enumerate(chunks, start=1):
+        result = post_tweet(
+            api_base=api_base,
+            access_token=access_token,
+            text=chunk,
+            reply_to_tweet_id=parent_id,
+        )
+        tweet_id = (result.get("data") or {}).get("id")
+        if not tweet_id:
+            raise RuntimeError(f"Tweet id missing for chunk {idx}: {result}")
+        posted_ids.append(tweet_id)
+        parent_id = tweet_id
+        print(f"Posted {idx}/{len(chunks)} (limit={limit}, len={len(chunk)}): tweet_id={tweet_id}")
+
+    return posted_ids
 
 
 def main() -> int:
@@ -251,12 +357,14 @@ def main() -> int:
             save_token_cache(token)
             access_token = token["access_token"]
 
-    result = post_tweet(api_base=api_base, access_token=access_token, text=text)
-    tweet_id = (result.get("data") or {}).get("id")
-    if tweet_id:
-        print(f"Posted successfully. tweet_id={tweet_id}")
+    tweet_ids = post_thread(api_base=api_base, access_token=access_token, text=text)
+    if len(tweet_ids) == 1:
+        print(f"Posted successfully. tweet_id={tweet_ids[0]}")
     else:
-        print(f"Posted, but no tweet id returned: {result}")
+        print(
+            "Thread posted successfully. "
+            f"count={len(tweet_ids)}, root_tweet_id={tweet_ids[0]}, last_tweet_id={tweet_ids[-1]}"
+        )
     return 0
 
 
